@@ -42,7 +42,7 @@ def get_leaderboard_embed(client: Bot, guild: discord.Guild, deck_name: str,
                           taisho: bool = False) -> discord.Embed:
     embed_title = f':medal:  Leaderboard for quiz {deck_name}'
     if deck_name == 'all':
-        embed_title = ':medal:  Server leaderboard'
+        embed_title = ':medal:  ' + '御山の大将' if taisho else 'Server leaderboard'
     embed = discord.Embed(title=embed_title, color=YELLOW)
     if guild is None:
         embed.description = 'Leaderboards are only available inside servers.'
@@ -54,7 +54,6 @@ def get_leaderboard_embed(client: Bot, guild: discord.Guild, deck_name: str,
     with open(TS_PATH, 'r') as f:
         participant_guilds = json.load(f)
     if guild_id not in leaderboard:
-        embed.description = 'No scorers in this server yet!'
         return embed
     sorted_relevant_leaderboard = sorted(
         [(k, leaderboard[guild_id][deck_name][k]) for k in leaderboard[guild_id][deck_name]

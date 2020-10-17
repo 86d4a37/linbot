@@ -7,7 +7,8 @@ from discord.ext.commands import CommandNotFound, Context
 from lin_utils.auth import token
 from lin_utils.clientwide import GREEN, SAD, client
 from lin_utils.help import help_embed
-from lin_utils.quiz.leaderboard import join_taisho, leave_taisho, update_taisho_scorers
+from lin_utils.quiz.leaderboard import (get_leaderboard_embed, join_taisho, leave_taisho,
+                                        update_taisho_scorers)
 from lin_utils.quiz.run import run_quiz
 
 client.remove_command('help')
@@ -78,5 +79,11 @@ async def optout(ctx: Context, *, txt: Union[str, None]) -> None:
         leave_taisho(ctx.guild, ctx.message.author)
         await update_taisho_scorers(ctx.guild, leaving_member=ctx.message.author)
         await ctx.message.add_reaction('\u2705')
+
+
+@client.command(aliases=['lbt', 'lbr'])
+async def lb(ctx: Context, *, txt: str = 'all') -> None:
+    taisho = ctx.message.content[1:4] in {'lbr', 'lbt'}
+    await ctx.send(embed=get_leaderboard_embed(client, ctx.guild, txt, taisho))
 
 client.run(token)
