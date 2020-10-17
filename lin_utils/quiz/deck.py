@@ -35,7 +35,7 @@ class Deck:
 
         if 'type' not in self.quiz_data:
             self.type = 'image'
-        elif self.quiz_data['type'] in ('image', 'url', 'text'):
+        elif self.quiz_data['type'] in {'image', 'url', 'text'}:
             self.type = self.quiz_data['type']
         else:
             raise ValueError(f'Type {self.quiz_data["type"]} not supported')
