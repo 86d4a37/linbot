@@ -1,0 +1,311 @@
+{
+    "description": "Type the names of provinces and regions in China! You may type the full name, its one-character abbreviation, or its provincial capital. Simplified and traditional are both accepted. This map includes Taiwan Province, which is *de facto* ROC territory, as well as other disputed areas (indicated using dashed lines and hatched shading).",
+    "type": "url",
+    "deck": [
+        {
+            "question": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Anhui_in_China_%28%2Ball_claims_hatched%29.svg/2000px-Anhui_in_China_%28%2Ball_claims_hatched%29.svg.png",
+            "answers": [
+                "安徽省",
+                "皖",
+                "合肥市"
+            ],
+            "comment": "Anhui Province"
+        },
+        {
+            "question": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Beijing_in_China_%28%2Ball_claims_hatched%29.svg/2000px-Beijing_in_China_%28%2Ball_claims_hatched%29.svg.png",
+            "answers": [
+                "北京市",
+                "京"
+            ],
+            "comment": "Beijing Municipality"
+        },
+        {
+            "question": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Chongqing_in_China_%28%2Ball_claims_hatched%29.svg/2000px-Chongqing_in_China_%28%2Ball_claims_hatched%29.svg.png",
+            "answers": [
+                "重慶市",
+                "渝"
+            ],
+            "comment": "Chongqing Municipality"
+        },
+        {
+            "question": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Fujian_in_China_%28%2Ball_claims_hatched%29.svg/2000px-Fujian_in_China_%28%2Ball_claims_hatched%29.svg.png",
+            "answers": [
+                "福建省",
+                "閩",
+                "福州市"
+            ],
+            "comment": "Fujian Province (Kinmen and Matsu as *de facto* ROC territory)"
+        },
+        {
+            "question": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Gansu_in_China_%28%2Ball_claims_hatched%29.svg/2000px-Gansu_in_China_%28%2Ball_claims_hatched%29.svg.png",
+            "answers": [
+                "甘肅省",
+                "甘",
+                "隴",
+                "蘭州市"
+            ],
+            "comment": "Gansu Province"
+        },
+        {
+            "question": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Guangdong_in_China_%28%2Ball_claims_hatched%29.svg/2000px-Guangdong_in_China_%28%2Ball_claims_hatched%29.svg.png",
+            "answers": [
+                "廣東省",
+                "粵",
+                "廣州市"
+            ],
+            "comment": "Guangdong Province"
+        },
+        {
+            "question": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Guangxi_in_China_%28%2Ball_claims_hatched%29.svg/2000px-Guangxi_in_China_%28%2Ball_claims_hatched%29.svg.png",
+            "answers": [
+                "廣西壯族自治區",
+                "桂",
+                "南寧市"
+            ],
+            "comment": "Guangxi Zhuang Autonomous Region"
+        },
+        {
+            "question": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Guizhou_in_China_%28%2Ball_claims_hatched%29.svg/2000px-Guizhou_in_China_%28%2Ball_claims_hatched%29.svg.png",
+            "answers": [
+                "貴州省",
+                "黔",
+                "貴",
+                "貴陽市"
+            ],
+            "comment": "Guizhou Province"
+        },
+        {
+            "question": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Hainan_in_China_%28%2Ball_claims_hatched%29.svg/2000px-Hainan_in_China_%28%2Ball_claims_hatched%29.svg.png",
+            "answers": [
+                "海南省",
+                "瓊",
+                "海口市"
+            ],
+            "comment": "Hainan Province"
+        },
+        {
+            "question": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Hebei_in_China_%28%2Ball_claims_hatched%29.svg/2000px-Hebei_in_China_%28%2Ball_claims_hatched%29.svg.png",
+            "answers": [
+                "河北省",
+                "冀",
+                "石家莊市"
+            ],
+            "comment": "Hebei Province"
+        },
+        {
+            "question": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Heilongjiang_in_China_%28%2Ball_claims_hatched%29.svg/2000px-Heilongjiang_in_China_%28%2Ball_claims_hatched%29.svg.png",
+            "answers": [
+                "黑龍江省",
+                "黑",
+                "哈爾濱市"
+            ],
+            "comment": "Heilongjiang Province"
+        },
+        {
+            "question": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Henan_in_China_%28%2Ball_claims_hatched%29.svg/2000px-Henan_in_China_%28%2Ball_claims_hatched%29.svg.png",
+            "answers": [
+                "河南省",
+                "豫",
+                "鄭州市"
+            ],
+            "comment": "Henan Province"
+        },
+        {
+            "question": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Hong_Kong_in_China_%28zoomed%29_%28%2Ball_claims_hatched%29.svg/2000px-Hong_Kong_in_China_%28zoomed%29_%28%2Ball_claims_hatched%29.svg.png",
+            "answers": [
+                "香港特別行政區",
+                "港"
+            ],
+            "comment": "Hong Kong Special Administrative Region"
+        },
+        {
+            "question": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Hubei_in_China_%28%2Ball_claims_hatched%29.svg/2000px-Hubei_in_China_%28%2Ball_claims_hatched%29.svg.png",
+            "answers": [
+                "湖北省",
+                "鄂",
+                "武漢市"
+            ],
+            "comment": "Hubei Province"
+        },
+        {
+            "question": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Hunan_in_China_%28%2Ball_claims_hatched%29.svg/2000px-Hunan_in_China_%28%2Ball_claims_hatched%29.svg.png",
+            "answers": [
+                "湖南省",
+                "湘",
+                "長沙市"
+            ],
+            "comment": "Hunan Province"
+        },
+        {
+            "question": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Inner_Mongolia_in_China_%28%2Ball_claims_hatched%29.svg/2000px-Inner_Mongolia_in_China_%28%2Ball_claims_hatched%29.svg.png",
+            "answers": [
+                "內蒙古自治區",
+                "內蒙古",
+                "呼和浩特市"
+            ],
+            "comment": "Inner Mongolia Autonomous Region"
+        },
+        {
+            "question": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Jiangsu_in_China_%28%2Ball_claims_hatched%29.svg/2000px-Jiangsu_in_China_%28%2Ball_claims_hatched%29.svg.png",
+            "answers": [
+                "江蘇省",
+                "蘇",
+                "南京市"
+            ],
+            "comment": "Jiangsu Province"
+        },
+        {
+            "question": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Jiangxi_in_China_%28%2Ball_claims_hatched%29.svg/2000px-Jiangxi_in_China_%28%2Ball_claims_hatched%29.svg.png",
+            "answers": [
+                "江西省",
+                "贛",
+                "南昌市"
+            ],
+            "comment": "Jiangxi Province"
+        },
+        {
+            "question": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Jilin_in_China_%28%2Ball_claims_hatched%29.svg/2000px-Jilin_in_China_%28%2Ball_claims_hatched%29.svg.png",
+            "answers": [
+                "吉林省",
+                "吉",
+                "長春市"
+            ],
+            "comment": "Jilin Province"
+        },
+        {
+            "question": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Liaoning_in_China_%28%2Ball_claims_hatched%29.svg/2000px-Liaoning_in_China_%28%2Ball_claims_hatched%29.svg.png",
+            "answers": [
+                "遼寧省",
+                "遼",
+                "瀋陽市"
+            ],
+            "comment": "Liaoning Province"
+        },
+        {
+            "question": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Macau_in_China_%28zoomed%29_%28extra_close%29_%28special_marker%29_%28%2Ball_claims_hatched%29.svg/2000px-Macau_in_China_%28zoomed%29_%28extra_close%29_%28special_marker%29_%28%2Ball_claims_hatched%29.svg.png",
+            "answers": [
+                "澳門特別行政區",
+                "澳"
+            ],
+            "comment": "Macau Special Administrative Region"
+        },
+        {
+            "question": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Ningxia_in_China_%28%2Ball_claims_hatched%29.svg/2000px-Ningxia_in_China_%28%2Ball_claims_hatched%29.svg.png",
+            "answers": [
+                "寧夏回族自治區",
+                "寧",
+                "銀川市"
+            ],
+            "comment": "Ningxia Hui Autonomous Region"
+        },
+        {
+            "question": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Qinghai_in_China_%28%2Ball_claims_hatched%29.svg/2000px-Qinghai_in_China_%28%2Ball_claims_hatched%29.svg.png",
+            "answers": [
+                "青海省",
+                "青",
+                "西寧市"
+            ],
+            "comment": "Qinghai Province"
+        },
+        {
+            "question": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Shaanxi_in_China_%28%2Ball_claims_hatched%29.svg/2000px-Shaanxi_in_China_%28%2Ball_claims_hatched%29.svg.png",
+            "answers": [
+                "陝西省",
+                "陝",
+                "秦",
+                "西安市"
+            ],
+            "comment": "Shaanxi Province"
+        },
+        {
+            "question": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Shandong_in_China_%28%2Ball_claims_hatched%29.svg/2000px-Shandong_in_China_%28%2Ball_claims_hatched%29.svg.png",
+            "answers": [
+                "山東省",
+                "魯",
+                "濟南市"
+            ],
+            "comment": "Shandong Province"
+        },
+        {
+            "question": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Shanghai_in_China_%28special_marker%29_%28%2Ball_claims_hatched%29.svg/2000px-Shanghai_in_China_%28special_marker%29_%28%2Ball_claims_hatched%29.svg.png",
+            "answers": [
+                "上海市",
+                "滬"
+            ],
+            "comment": "Shanghai Municipality"
+        },
+        {
+            "question": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Shanxi_in_China_%28%2Ball_claims_hatched%29.svg/2000px-Shanxi_in_China_%28%2Ball_claims_hatched%29.svg.png",
+            "answers": [
+                "山西省",
+                "晉",
+                "太原市"
+            ],
+            "comment": "Shanxi Province"
+        },
+        {
+            "question": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Sichuan_in_China_%28%2Ball_claims_hatched%29.svg/2000px-Sichuan_in_China_%28%2Ball_claims_hatched%29.svg.png",
+            "answers": [
+                "四川省",
+                "川",
+                "蜀",
+                "成都市"
+            ],
+            "comment": "Sichuan Province"
+        },
+        {
+            "question": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/People%27s_Republic_of_China_-_Taiwan.svg/2000px-People%27s_Republic_of_China_-_Taiwan.svg.png",
+            "answers": [
+                "台灣省",
+                "台",
+                "台北市"
+            ],
+            "comment": "Taiwan Province (*de facto* ROC territory)"
+        },
+        {
+            "question": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Tianjin_in_China_%28special_marker%29_%28%2Ball_claims_hatched%29.svg/2000px-Tianjin_in_China_%28special_marker%29_%28%2Ball_claims_hatched%29.svg.png",
+            "answers": [
+                "天津市",
+                "津"
+            ],
+            "comment": "Tianjin Municipality"
+        },
+        {
+            "question": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Tibet_in_China_%28all_claimed%29_%28%2Ball_claims_hatched%29.svg/2000px-Tibet_in_China_%28all_claimed%29_%28%2Ball_claims_hatched%29.svg.png",
+            "answers": [
+                "西藏自治區",
+                "藏",
+                "拉薩市"
+            ],
+            "comment": "Tibet Autonomous Region (includes disputed territories)"
+        },
+        {
+            "question": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Xinjiang_in_China_%28de-facto%29_%28%2Ball_claims_hatched%29.svg/2000px-Xinjiang_in_China_%28de-facto%29_%28%2Ball_claims_hatched%29.svg.png",
+            "answers": [
+                "新疆維吾爾自治區",
+                "新",
+                "烏魯木齊市"
+            ],
+            "comment": "Xinjiang Uyghur Autonomous Region (includes disputed territories)"
+        },
+        {
+            "question": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Yunnan_in_China_%28%2Ball_claims_hatched%29.svg/2000px-Yunnan_in_China_%28%2Ball_claims_hatched%29.svg.png",
+            "answers": [
+                "雲南省",
+                "滇",
+                "雲",
+                "昆明市"
+            ],
+            "comment": "Yunnan Province"
+        },
+        {
+            "question": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Zhejiang_in_China_%28%2Ball_claims_hatched%29.svg/2000px-Zhejiang_in_China_%28%2Ball_claims_hatched%29.svg.png",
+            "answers": [
+                "浙江省",
+                "浙",
+                "杭州市"
+            ],
+            "comment": "Zhejiang Province"
+        }
+    ]
+}

@@ -1,0 +1,184 @@
+{
+    "description": "Identify the administrative divisions of the Republic of China (Taiwan)! Location (city or district) of the municipal or county government is also allowed.",
+    "type": "url",
+    "deck": [
+        {
+            "question": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Taipei_City_in_Taiwan.svg/2000px-Taipei_City_in_Taiwan.svg.png",
+            "answers": [
+                "臺北市",
+                "信義區"
+            ],
+            "comment": "Taipei City"
+        },
+        {
+            "question": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Changhua_County_in_Taiwan.svg/2000px-Changhua_County_in_Taiwan.svg.png",
+            "answers": [
+                "彰化縣",
+                "彰化市"
+            ],
+            "comment": "Changhua County"
+        },
+        {
+            "question": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Chiayi_City_in_Taiwan.svg/2000px-Chiayi_City_in_Taiwan.svg.png",
+            "answers": [
+                "嘉義市",
+                "東區"
+            ],
+            "comment": "Chiayi City"
+        },
+        {
+            "question": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Chiayi_County_in_Taiwan.svg/2000px-Chiayi_County_in_Taiwan.svg.png",
+            "answers": [
+                "嘉義縣",
+                "太保市"
+            ],
+            "comment": "Chiayi County"
+        },
+        {
+            "question": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Hsinchu_City_in_Taiwan.svg/2000px-Hsinchu_City_in_Taiwan.svg.png",
+            "answers": [
+                "新竹市",
+                "北區"
+            ],
+            "comment": "Hsinchu City"
+        },
+        {
+            "question": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Hsinchu_County_in_Taiwan.svg/2000px-Hsinchu_County_in_Taiwan.svg.png",
+            "answers": [
+                "新竹縣",
+                "竹北市"
+            ],
+            "comment": "Hsinchu County"
+        },
+        {
+            "question": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Hualien_County_in_Taiwan.svg/2000px-Hualien_County_in_Taiwan.svg.png",
+            "answers": [
+                "花蓮縣",
+                "花蓮市"
+            ],
+            "comment": "Hualien County"
+        },
+        {
+            "question": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Kaohsiung_City_in_Taiwan.svg/2000px-Kaohsiung_City_in_Taiwan.svg.png",
+            "answers": [
+                "高雄市",
+                "苓雅區",
+                "鳳山區"
+            ],
+            "comment": "Kaohsiung City"
+        },
+        {
+            "question": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Keelung_City_in_Taiwan.svg/2000px-Keelung_City_in_Taiwan.svg.png",
+            "answers": [
+                "基隆市",
+                "中正區"
+            ],
+            "comment": "Keelung City"
+        },
+        {
+            "question": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Kinmen_County_in_Taiwan_%28special_marker%29.svg/2000px-Kinmen_County_in_Taiwan_%28special_marker%29.svg.png",
+            "answers": [
+                "金門縣",
+                "金城鎮"
+            ],
+            "comment": "Kinmen County"
+        },
+        {
+            "question": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Lienchiang_County_in_Taiwan_%28special_marker%29.svg/2000px-Lienchiang_County_in_Taiwan_%28special_marker%29.svg.png",
+            "answers": [
+                "連江縣",
+                "南竿鄉"
+            ],
+            "comment": "Lienchiang County"
+        },
+        {
+            "question": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Miaoli_County_in_Taiwan.svg/2000px-Miaoli_County_in_Taiwan.svg.png",
+            "answers": [
+                "苗栗縣",
+                "苗栗市"
+            ],
+            "comment": "Miaoli County"
+        },
+        {
+            "question": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Nantou_County_in_Taiwan.svg/2000px-Nantou_County_in_Taiwan.svg.png",
+            "answers": [
+                "南投縣",
+                "南投市"
+            ],
+            "comment": "Nantou County"
+        },
+        {
+            "question": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/New_Taipei_City_in_Taiwan.svg/2000px-New_Taipei_City_in_Taiwan.svg.png",
+            "answers": [
+                "新北市",
+                "板橋區"
+            ],
+            "comment": "New Taipei City"
+        },
+        {
+            "question": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Penghu_County_in_Taiwan_%28special_marker%29.svg/2000px-Penghu_County_in_Taiwan_%28special_marker%29.svg.png",
+            "answers": [
+                "澎湖縣",
+                "馬公市"
+            ],
+            "comment": "Penghu County"
+        },
+        {
+            "question": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Pingtung_County_in_Taiwan.svg/2000px-Pingtung_County_in_Taiwan.svg.png",
+            "answers": [
+                "屏東縣",
+                "屏東市"
+            ],
+            "comment": "Pingtung County"
+        },
+        {
+            "question": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Taichung_City_in_Taiwan.svg/2000px-Taichung_City_in_Taiwan.svg.png",
+            "answers": [
+                "臺中市",
+                "西屯區"
+            ],
+            "comment": "Taichung City"
+        },
+        {
+            "question": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Tainan_City_in_Taiwan.svg/2000px-Tainan_City_in_Taiwan.svg.png",
+            "answers": [
+                "臺南市",
+                "安平區",
+                "新營區"
+            ],
+            "comment": "Tainan City"
+        },
+        {
+            "question": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Taitung_County_in_Taiwan.svg/2000px-Taitung_County_in_Taiwan.svg.png",
+            "answers": [
+                "臺東縣",
+                "臺東市"
+            ],
+            "comment": "Taitung County"
+        },
+        {
+            "question": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Taoyuan_City_in_Taiwan.svg/2000px-Taoyuan_City_in_Taiwan.svg.png",
+            "answers": [
+                "桃園市",
+                "桃園區"
+            ],
+            "comment": "Taoyuan City"
+        },
+        {
+            "question": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Yilan_County_in_Taiwan.svg/2000px-Yilan_County_in_Taiwan.svg.png",
+            "answers": [
+                "宜蘭縣",
+                "宜蘭市"
+            ],
+            "comment": "Yilan County"
+        },
+        {
+            "question": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Yunlin_County_in_Taiwan.svg/2000px-Yunlin_County_in_Taiwan.svg.png",
+            "answers": [
+                "雲林縣",
+                "斗六市"
+            ],
+            "comment": "Yunlin County"
+        }
+    ]
+}

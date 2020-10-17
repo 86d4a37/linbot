@@ -1,0 +1,4805 @@
+{
+    "description": "Type the reading for vocabulary words in the HSK 4 word list.",
+    "deck": [
+        {
+            "question": "爱情",
+            "answers": [
+                "ㄞˋ ㄑㄧㄥˊ",
+                "ai4 qing2"
+            ],
+            "comment": "(romantic) love"
+        },
+        {
+            "question": "安排",
+            "answers": [
+                "ㄢ ㄆㄞˊ",
+                "an1 pai2"
+            ],
+            "comment": "arrange; to plan"
+        },
+        {
+            "question": "安全",
+            "answers": [
+                "ㄢ ㄑㄩㄢˊ",
+                "an1 quan2"
+            ],
+            "comment": "safe; safety; secure; security"
+        },
+        {
+            "question": "按时",
+            "answers": [
+                "ㄢˋ ㄕˊ",
+                "an4 shi2"
+            ],
+            "comment": "on time; on schedule"
+        },
+        {
+            "question": "按照",
+            "answers": [
+                "ㄢˋ ㄓㄠˋ",
+                "an4 zhao4"
+            ],
+            "comment": "according to; in accordance with; in light of"
+        },
+        {
+            "question": "百分之",
+            "answers": [
+                "ㄅㄞˇ ㄈㄣ ㄓ",
+                "bai3 fen1 zhi1"
+            ],
+            "comment": "percent"
+        },
+        {
+            "question": "棒",
+            "answers": [
+                "ㄅㄤˋ",
+                "bang4"
+            ],
+            "comment": "stick; club; good; excellent"
+        },
+        {
+            "question": "包子",
+            "answers": [
+                "ㄅㄠ ㄗ˙",
+                "bao1 zi"
+            ],
+            "comment": "steamed stuffed bun"
+        },
+        {
+            "question": "保护",
+            "answers": [
+                "ㄅㄠˇ ㄏㄨˋ",
+                "bao3 hu4"
+            ],
+            "comment": "to protect; to defend"
+        },
+        {
+            "question": "保证",
+            "answers": [
+                "ㄅㄠˇ ㄓㄥˋ",
+                "bao3 zheng4"
+            ],
+            "comment": "to guarantee; ensure"
+        },
+        {
+            "question": "报名",
+            "answers": [
+                "ㄅㄠˋ ㄇㄧㄥˊ",
+                "bao4 ming2"
+            ],
+            "comment": "sign up; apply"
+        },
+        {
+            "question": "抱",
+            "answers": [
+                "ㄅㄠˋ",
+                "bao4"
+            ],
+            "comment": "to hold; to hug; carry in one's arms; to cradle"
+        },
+        {
+            "question": "抱歉",
+            "answers": [
+                "ㄅㄠˋ ㄑㄧㄢˋ",
+                "bao4 qian4"
+            ],
+            "comment": "be sorry; feel apologetic; to regret"
+        },
+        {
+            "question": "倍",
+            "answers": [
+                "ㄅㄟˋ",
+                "bei4"
+            ],
+            "comment": "(two, three, etc)-fold; times (multiplier)"
+        },
+        {
+            "question": "本来",
+            "answers": [
+                "ㄅㄣˇ ㄌㄞˊ",
+                "ben3 lai2"
+            ],
+            "comment": "originally; at first"
+        },
+        {
+            "question": "笨",
+            "answers": [
+                "ㄅㄣˋ",
+                "ben4"
+            ],
+            "comment": "stupid; foolish; silly; dumb; clumsy"
+        },
+        {
+            "question": "比如",
+            "answers": [
+                "ㄅㄧˇ ㄖㄨˊ",
+                "bi3 ru2"
+            ],
+            "comment": "for example; for instance; such as"
+        },
+        {
+            "question": "毕业",
+            "answers": [
+                "ㄅㄧˋ ㄧㄝˋ",
+                "bi4 ye4"
+            ],
+            "comment": "to graduate; to finish school"
+        },
+        {
+            "question": "遍",
+            "answers": [
+                "ㄅㄧㄢˋ",
+                "bian4"
+            ],
+            "comment": "a time; everywhere; turn; (mw for times or turns)"
+        },
+        {
+            "question": "标准",
+            "answers": [
+                "ㄅㄧㄠ ㄓㄨㄣˇ",
+                "biao1 zhun3"
+            ],
+            "comment": "(an official) standard; norm; criterion"
+        },
+        {
+            "question": "表格",
+            "answers": [
+                "ㄅㄧㄠˇ ㄍㄜˊ",
+                "biao3 ge2"
+            ],
+            "comment": "form (document)"
+        },
+        {
+            "question": "表示",
+            "answers": [
+                "ㄅㄧㄠˇ ㄕˋ",
+                "biao3 shi4"
+            ],
+            "comment": "express; show; indicate"
+        },
+        {
+            "question": "表演",
+            "answers": [
+                "ㄅㄧㄠˇ ㄧㄢˇ",
+                "biao3 yan3"
+            ],
+            "comment": "perform; to play"
+        },
+        {
+            "question": "表扬",
+            "answers": [
+                "ㄅㄧㄠˇ ㄧㄤˊ",
+                "biao3 yang2"
+            ],
+            "comment": "to praise; commend"
+        },
+        {
+            "question": "饼干",
+            "answers": [
+                "ㄅㄧㄥˇ ㄍㄢ",
+                "bing3 gan1"
+            ],
+            "comment": "biscuit; cracker; cookie"
+        },
+        {
+            "question": "并且",
+            "answers": [
+                "ㄅㄧㄥˋ ㄑㄧㄝˇ",
+                "bing4 qie3"
+            ],
+            "comment": "and; besides; moreover"
+        },
+        {
+            "question": "博士",
+            "answers": [
+                "ㄅㄛˊ ㄕˋ",
+                "bo2 shi4"
+            ],
+            "comment": "doctor; PhD"
+        },
+        {
+            "question": "不得不",
+            "answers": [
+                "ㄅㄨˋ ㄉㄜˊ ㄅㄨˋ",
+                "bu4 de2 bu4"
+            ],
+            "comment": "have to; have no choice but to; cannot but"
+        },
+        {
+            "question": "不管",
+            "answers": [
+                "ㄅㄨˋ ㄍㄨㄢˇ",
+                "bu4 guan3"
+            ],
+            "comment": "no matter (what, how, etc.); regardless of"
+        },
+        {
+            "question": "不过",
+            "answers": [
+                "ㄅㄨˊ ㄍㄨㄛˋ",
+                "bu2 guo4"
+            ],
+            "comment": "only; merely; but; however"
+        },
+        {
+            "question": "不仅",
+            "answers": [
+                "ㄅㄨˋ ㄐㄧㄣˇ",
+                "bu4 jin3"
+            ],
+            "comment": "not only; not just"
+        },
+        {
+            "question": "部分",
+            "answers": [
+                "ㄅㄨˋ ㄈㄣ˙",
+                "bu4 fen"
+            ],
+            "comment": "part; share; section"
+        },
+        {
+            "question": "擦",
+            "answers": [
+                "ㄘㄚ",
+                "ca1"
+            ],
+            "comment": "to wipe; to rub; to polish"
+        },
+        {
+            "question": "猜",
+            "answers": [
+                "ㄘㄞ",
+                "cai1"
+            ],
+            "comment": "to guess"
+        },
+        {
+            "question": "材料",
+            "answers": [
+                "ㄘㄞˊ ㄌㄧㄠˋ",
+                "cai2 liao4"
+            ],
+            "comment": "material"
+        },
+        {
+            "question": "参观",
+            "answers": [
+                "ㄘㄤ uㄢ",
+                "cang1 uan1"
+            ],
+            "comment": "to visit (a place, such as a tourist spot); inspect"
+        },
+        {
+            "question": "餐厅",
+            "answers": [
+                "ㄘㄢ ㄊㄧㄥ",
+                "can1 ting1"
+            ],
+            "comment": "dining hall; cafeteria; restaurant"
+        },
+        {
+            "question": "厕所",
+            "answers": [
+                "ㄘㄜˋ ㄙㄨㄛˇ",
+                "ce4 suo3"
+            ],
+            "comment": "bathroom; toilet; lavatory"
+        },
+        {
+            "question": "差不多",
+            "answers": [
+                "ㄔㄚˋ ㄅㄨ˙ ㄉㄨㄛ",
+                "cha4 buduo1"
+            ],
+            "comment": "almost; about the same"
+        },
+        {
+            "question": "长城",
+            "answers": [
+                "ㄔㄤˊ ㄔㄥˊ",
+                "chang2 cheng2"
+            ],
+            "comment": "the Great Wall"
+        },
+        {
+            "question": "长江",
+            "answers": [
+                "ㄔㄤˊ ㄐㄧㄤ",
+                "Chang2 jiang1"
+            ],
+            "comment": "the Yangtze River; the Changjiang River"
+        },
+        {
+            "question": "尝",
+            "answers": [
+                "ㄔㄤˊ",
+                "chang2"
+            ],
+            "comment": "to taste; flavor; (past tense marker)"
+        },
+        {
+            "question": "场",
+            "answers": [
+                "ㄔㄤˇ",
+                "chang3"
+            ],
+            "comment": "courtyard; place; field; (mw for games, performances, etc.)"
+        },
+        {
+            "question": "超过",
+            "answers": [
+                "ㄔㄠ ㄍㄨㄛˋ",
+                "chao1 guo4"
+            ],
+            "comment": "surpass; exceed; outstrip"
+        },
+        {
+            "question": "成功",
+            "answers": [
+                "ㄔㄥˊ ㄍㄨㄥ",
+                "cheng2 gong1"
+            ],
+            "comment": "success; to succeed"
+        },
+        {
+            "question": "成为",
+            "answers": [
+                "ㄔㄥˊ ㄨㄟˊ",
+                "cheng2 wei2"
+            ],
+            "comment": "become; turn into"
+        },
+        {
+            "question": "诚实",
+            "answers": [
+                "ㄔㄥˊ ㄕˊ",
+                "cheng2 shi2"
+            ],
+            "comment": "honest; honorable"
+        },
+        {
+            "question": "乘坐",
+            "answers": [
+                "ㄔㄥˊ ㄗㄨㄛˋ",
+                "cheng2 zuo4"
+            ],
+            "comment": "ride; get into (a vehicle)"
+        },
+        {
+            "question": "吃惊",
+            "answers": [
+                "ㄔ ㄐㄧㄥ",
+                "chi1 jing1"
+            ],
+            "comment": "be startled; be shocked; be amazed"
+        },
+        {
+            "question": "重新",
+            "answers": [
+                "ㄔㄨㄥˊ ㄒㄧㄣ",
+                "chong2 xin1"
+            ],
+            "comment": "again; anew; once more"
+        },
+        {
+            "question": "抽烟",
+            "answers": [
+                "ㄔㄡ ㄧㄢ",
+                "chou1 yan1"
+            ],
+            "comment": "to smoke (a cigarette, pipe, etc.)"
+        },
+        {
+            "question": "出差",
+            "answers": [
+                "ㄔㄨ ㄔㄞ",
+                "chu1 chai1"
+            ],
+            "comment": "go on a business trip"
+        },
+        {
+            "question": "出发",
+            "answers": [
+                "ㄔㄨ ㄈㄚ",
+                "chu1 fa1"
+            ],
+            "comment": "start out; set off"
+        },
+        {
+            "question": "出生",
+            "answers": [
+                "ㄔㄨ ㄕㄥ",
+                "chu1 sheng1"
+            ],
+            "comment": "be born"
+        },
+        {
+            "question": "出现",
+            "answers": [
+                "ㄔㄨ ㄒㄧㄢˋ",
+                "chu1 xian4"
+            ],
+            "comment": "appear; arise; emerge"
+        },
+        {
+            "question": "厨房",
+            "answers": [
+                "ㄔㄨˊ ㄈㄤˊ",
+                "chu2 fang2"
+            ],
+            "comment": "kitchen"
+        },
+        {
+            "question": "传真",
+            "answers": [
+                "ㄔㄨㄢˊ ㄓㄣ",
+                "chuan2 zhen1"
+            ],
+            "comment": "fax; facsimile"
+        },
+        {
+            "question": "窗户",
+            "answers": [
+                "ㄔㄨㄤ ㄏㄨ˙",
+                "chuang1 hu"
+            ],
+            "comment": "window"
+        },
+        {
+            "question": "词语",
+            "answers": [
+                "ㄘˊ ㄩˇ",
+                "ci2 yu3"
+            ],
+            "comment": "words and expressions; terms"
+        },
+        {
+            "question": "从来",
+            "answers": [
+                "ㄘㄨㄥˊ ㄌㄞˊ",
+                "cong2 lai2"
+            ],
+            "comment": "always; at all times"
+        },
+        {
+            "question": "粗心",
+            "answers": [
+                "ㄘㄨ ㄒㄧㄣ",
+                "cu1 xin1"
+            ],
+            "comment": "careless; inadvertent; negligent"
+        },
+        {
+            "question": "存",
+            "answers": [
+                "ㄘㄨㄣˊ",
+                "cun2"
+            ],
+            "comment": "exist; to deposit; to store"
+        },
+        {
+            "question": "错误",
+            "answers": [
+                "ㄘㄨㄛˋ ㄨˋ",
+                "cuo4 wu4"
+            ],
+            "comment": "error; mistake; mistaken"
+        },
+        {
+            "question": "答案",
+            "answers": [
+                "ㄉㄚˊ ㄢˋ",
+                "da2 an4"
+            ],
+            "comment": "answer; solution"
+        },
+        {
+            "question": "打扮",
+            "answers": [
+                "ㄉㄚˇ ㄅㄢ˙",
+                "da3 ban"
+            ],
+            "comment": "dress up; put on make up"
+        },
+        {
+            "question": "打扰",
+            "answers": [
+                "ㄉㄚˇ ㄖㄠˇ",
+                "da3 rao3"
+            ],
+            "comment": "disturb"
+        },
+        {
+            "question": "打印",
+            "answers": [
+                "ㄉㄚˇ ㄧㄣˋ",
+                "da3 yin4"
+            ],
+            "comment": "to print"
+        },
+        {
+            "question": "打招呼",
+            "answers": [
+                "ㄉㄚˇ ㄓㄠ ㄏㄨ˙",
+                "da3 zhao1 hu"
+            ],
+            "comment": "notify; greet; inform"
+        },
+        {
+            "question": "打折",
+            "answers": [
+                "ㄉㄚˇ ㄓㄜˊ",
+                "da3 zhe2"
+            ],
+            "comment": "sell at a discount"
+        },
+        {
+            "question": "打针",
+            "answers": [
+                "ㄉㄚˇ ㄓㄣ",
+                "da3 zhen1"
+            ],
+            "comment": "inject; get a shot"
+        },
+        {
+            "question": "大概",
+            "answers": [
+                "ㄉㄚˋ ㄍㄞˋ",
+                "da4 gai4"
+            ],
+            "comment": "probably; roughly; approximate"
+        },
+        {
+            "question": "大使馆",
+            "answers": [
+                "ㄉㄚˋ ㄕˇ ㄍㄨㄢˇ",
+                "da4 shi3 guan3"
+            ],
+            "comment": "embassy"
+        },
+        {
+            "question": "大约",
+            "answers": [
+                "ㄉㄚˋ ㄩㄝ",
+                "da4 yue1"
+            ],
+            "comment": "approximately; about"
+        },
+        {
+            "question": "大夫",
+            "answers": [
+                "ㄉㄞˋ ㄈㄨ˙",
+                "dai4 fu"
+            ],
+            "comment": "doctor; physician"
+        },
+        {
+            "question": "戴",
+            "answers": [
+                "ㄉㄞˋ",
+                "dai4"
+            ],
+            "comment": "put on; to wear; to respect"
+        },
+        {
+            "question": "当",
+            "answers": [
+                "ㄉㄤ",
+                "dang1"
+            ],
+            "comment": "should; act as; work as; manage; match; (sound of bells)"
+        },
+        {
+            "question": "当时",
+            "answers": [
+                "ㄉㄤ ㄕˊ",
+                "dang1 shi2"
+            ],
+            "comment": "then; at that time; while"
+        },
+        {
+            "question": "刀",
+            "answers": [
+                "ㄉㄠ",
+                "dao1"
+            ],
+            "comment": "knife; blade (Kangxi radical 18)"
+        },
+        {
+            "question": "导游",
+            "answers": [
+                "ㄉㄠˇ ㄧㄡˊ",
+                "dao3 you2"
+            ],
+            "comment": "tour guide"
+        },
+        {
+            "question": "到处",
+            "answers": [
+                "ㄉㄠˋ ㄔㄨˋ",
+                "dao4 chu4"
+            ],
+            "comment": "everywhere; in all places; all over"
+        },
+        {
+            "question": "到底",
+            "answers": [
+                "ㄉㄠˋ ㄉㄧˇ",
+                "dao4 di3"
+            ],
+            "comment": "after all; in the end (used in a question)"
+        },
+        {
+            "question": "倒",
+            "answers": [
+                "ㄉㄠˇ , ㄉㄠˋ",
+                "dao3 , dao4"
+            ],
+            "comment": "to collapse; to fall; fail; to exchange | to pour; contrary to expectations"
+        },
+        {
+            "question": "道歉",
+            "answers": [
+                "ㄉㄠˋ ㄑㄧㄢˋ",
+                "dao4 qian4"
+            ],
+            "comment": "apologize; make an apology"
+        },
+        {
+            "question": "得意",
+            "answers": [
+                "ㄉㄜˊ ㄧˋ",
+                "de2 yi4"
+            ],
+            "comment": "proud of oneself; complacent"
+        },
+        {
+            "question": "得",
+            "answers": [
+                "ㄉㄜ˙",
+                "de"
+            ],
+            "comment": "(complement particle)"
+        },
+        {
+            "question": "登机牌",
+            "answers": [
+                "ㄉㄥ ㄐㄧ ㄆㄞˊ",
+                "deng1 ji1 pai2"
+            ],
+            "comment": "boarding pass"
+        },
+        {
+            "question": "等",
+            "answers": [
+                "ㄉㄥˇ",
+                "deng3"
+            ],
+            "comment": "to wait; rank; equal; etc."
+        },
+        {
+            "question": "低",
+            "answers": [
+                "ㄉㄧ",
+                "di1"
+            ],
+            "comment": "low; to lower (one's head); droop"
+        },
+        {
+            "question": "底",
+            "answers": [
+                "ㄉㄧˇ",
+                "di3"
+            ],
+            "comment": "bottom; background; base"
+        },
+        {
+            "question": "地点",
+            "answers": [
+                "ㄉㄧˋ ㄉㄧㄢˇ",
+                "di4 dian3"
+            ],
+            "comment": "place; site; location"
+        },
+        {
+            "question": "地球",
+            "answers": [
+                "ㄉㄧˋ ㄑㄧㄡˊ",
+                "di4 qiu2"
+            ],
+            "comment": "the Earth; planet"
+        },
+        {
+            "question": "地址",
+            "answers": [
+                "ㄉㄧˋ ㄓˇ",
+                "di4 zhi3"
+            ],
+            "comment": "address"
+        },
+        {
+            "question": "调查",
+            "answers": [
+                "ㄉㄧㄠˋ ㄔㄚˊ",
+                "diao4 cha2"
+            ],
+            "comment": "investigate; survey; inquiry"
+        },
+        {
+            "question": "掉",
+            "answers": [
+                "ㄉㄧㄠˋ",
+                "diao4"
+            ],
+            "comment": "to drop; to fall"
+        },
+        {
+            "question": "丢",
+            "answers": [
+                "ㄉㄧㄡ",
+                "diu1"
+            ],
+            "comment": "lose (something); throw; put aside"
+        },
+        {
+            "question": "动作",
+            "answers": [
+                "ㄉㄨㄥˋ ㄗㄨㄛˋ",
+                "dong4 zuo4"
+            ],
+            "comment": "movement; motion; action"
+        },
+        {
+            "question": "堵车",
+            "answers": [
+                "ㄉㄨˇ ㄔㄜ",
+                "du3 che1"
+            ],
+            "comment": "traffic jam"
+        },
+        {
+            "question": "肚子",
+            "answers": [
+                "ㄉㄨˋ ㄗ˙",
+                "du4 zi"
+            ],
+            "comment": "belly; abdomen; stomach"
+        },
+        {
+            "question": "短信",
+            "answers": [
+                "ㄉㄨㄢˇ ㄒㄧㄣˋ",
+                "duan3 xin4"
+            ],
+            "comment": "text message; SMS"
+        },
+        {
+            "question": "对话",
+            "answers": [
+                "ㄉㄨㄟˋ ㄏㄨㄚˋ",
+                "dui4 hua4"
+            ],
+            "comment": "dialogue; conversation"
+        },
+        {
+            "question": "对面",
+            "answers": [
+                "ㄉㄨㄟˋ ㄇㄧㄢˋ",
+                "dui4 mian4"
+            ],
+            "comment": "opposite; across from; the other side"
+        },
+        {
+            "question": "对于",
+            "answers": [
+                "ㄉㄨㄟˋ ㄩˊ",
+                "dui4 yu2"
+            ],
+            "comment": "regarding; as far as sth. is concerned; with regards to; for"
+        },
+        {
+            "question": "儿童",
+            "answers": [
+                "ㄦˊ ㄊㄨㄥˊ",
+                "er2 tong2"
+            ],
+            "comment": "child; children"
+        },
+        {
+            "question": "而",
+            "answers": [
+                "ㄦˊ",
+                "er2"
+            ],
+            "comment": "and; but; yet; while (Kangxi radical 126)"
+        },
+        {
+            "question": "发生",
+            "answers": [
+                "ㄈㄚ ㄕㄥ",
+                "fa1 sheng1"
+            ],
+            "comment": "happen; occur; take place"
+        },
+        {
+            "question": "发展",
+            "answers": [
+                "ㄈㄚ ㄓㄢˇ",
+                "fa1 zhan3"
+            ],
+            "comment": "develop; development; growth"
+        },
+        {
+            "question": "法律",
+            "answers": [
+                "ㄈㄚˇ ㄌㄩˋ",
+                "fa3 lü4"
+            ],
+            "comment": "law; statute"
+        },
+        {
+            "question": "翻译",
+            "answers": [
+                "ㄈㄢ ㄧˋ",
+                "fan1 yi4"
+            ],
+            "comment": "translate; translation; interpret"
+        },
+        {
+            "question": "烦恼",
+            "answers": [
+                "ㄈㄢˊ ㄋㄠˇ",
+                "fan2 nao3"
+            ],
+            "comment": "worried; vexed"
+        },
+        {
+            "question": "反对",
+            "answers": [
+                "ㄈㄢˇ ㄉㄨㄟˋ",
+                "fan3 dui4"
+            ],
+            "comment": "oppose; fight against"
+        },
+        {
+            "question": "方法",
+            "answers": [
+                "ㄈㄤ ㄈㄚˇ",
+                "fang1 fa3"
+            ],
+            "comment": "method; way; means"
+        },
+        {
+            "question": "方面",
+            "answers": [
+                "ㄈㄤ ㄇㄧㄢˋ",
+                "fang1 mian4"
+            ],
+            "comment": "aspect; field; side"
+        },
+        {
+            "question": "方向",
+            "answers": [
+                "ㄈㄤ ㄒㄧㄤˋ",
+                "fang1 xiang4"
+            ],
+            "comment": "direction; orientation"
+        },
+        {
+            "question": "房东",
+            "answers": [
+                "ㄈㄤˊ ㄉㄨㄥ",
+                "fang2 dong1"
+            ],
+            "comment": "landlord"
+        },
+        {
+            "question": "放弃",
+            "answers": [
+                "ㄈㄤˋ ㄑㄧˋ",
+                "fang4 qi4"
+            ],
+            "comment": "abandon; renounce; give up"
+        },
+        {
+            "question": "放暑假",
+            "answers": [
+                "ㄈㄤˋ ㄕㄨˇ ㄐㄧㄚˋ",
+                "fang4 shu3 jia4"
+            ],
+            "comment": "have summer vacation"
+        },
+        {
+            "question": "放松",
+            "answers": [
+                "ㄈㄤˋ ㄙㄨㄥ",
+                "fang4 song1"
+            ],
+            "comment": "relax; loosen; slacken"
+        },
+        {
+            "question": "份",
+            "answers": [
+                "ㄈㄣˋ",
+                "fen4"
+            ],
+            "comment": "part; portion; (mw for documents, papers, jobs, etc.)"
+        },
+        {
+            "question": "丰富",
+            "answers": [
+                "ㄈㄥ ㄈㄨˋ",
+                "feng1 fu4"
+            ],
+            "comment": "rich; enrich; abundant; plentiful"
+        },
+        {
+            "question": "否则",
+            "answers": [
+                "ㄈㄡˇ ㄗㄜˊ",
+                "fou3 ze2"
+            ],
+            "comment": "if not; otherwise; or else"
+        },
+        {
+            "question": "符合",
+            "answers": [
+                "ㄈㄨˊ ㄏㄜˊ",
+                "fu2 he2"
+            ],
+            "comment": "in keeping with; in accordance with; conform"
+        },
+        {
+            "question": "父亲",
+            "answers": [
+                "ㄈㄨˋ ㄑㄧㄣ˙",
+                "fu4 qin"
+            ],
+            "comment": "father"
+        },
+        {
+            "question": "付款",
+            "answers": [
+                "ㄈㄨˋ ㄎㄨㄢˇ",
+                "fu4 kuan3"
+            ],
+            "comment": "to pay"
+        },
+        {
+            "question": "负责",
+            "answers": [
+                "ㄈㄨˋ ㄗㄜˊ",
+                "fu4 ze2"
+            ],
+            "comment": "responsible for (something); in charge of"
+        },
+        {
+            "question": "复印",
+            "answers": [
+                "ㄈㄨˋ ㄧㄣˋ",
+                "fu4 yin4"
+            ],
+            "comment": "photocopy; duplicate"
+        },
+        {
+            "question": "复杂",
+            "answers": [
+                "ㄈㄨˋ ㄗㄚˊ",
+                "fu4 za2"
+            ],
+            "comment": "complicated; complex"
+        },
+        {
+            "question": "富",
+            "answers": [
+                "ㄈㄨˋ",
+                "fu4"
+            ],
+            "comment": "wealthy"
+        },
+        {
+            "question": "改变",
+            "answers": [
+                "ㄍㄞˇ ㄅㄧㄢˋ",
+                "gai3 bian4"
+            ],
+            "comment": "to change; alter; to transform"
+        },
+        {
+            "question": "干杯",
+            "answers": [
+                "ㄍㄢ ㄅㄟ",
+                "gan1 bei1"
+            ],
+            "comment": "to drink a toast; cheers!; bottoms up!"
+        },
+        {
+            "question": "赶",
+            "answers": [
+                "ㄍㄢˇ",
+                "gan3"
+            ],
+            "comment": "catch up; overtake; drive away"
+        },
+        {
+            "question": "敢",
+            "answers": [
+                "ㄍㄢˇ",
+                "gan3"
+            ],
+            "comment": "to dare"
+        },
+        {
+            "question": "感动",
+            "answers": [
+                "ㄍㄢˇ ㄉㄨㄥˋ",
+                "gan3 dong4"
+            ],
+            "comment": "be moved; to touch emotionally"
+        },
+        {
+            "question": "感觉",
+            "answers": [
+                "ㄍㄢˇ ㄐㄩㄝˊ",
+                "gan3 jue2"
+            ],
+            "comment": "to feel; become aware of; feeling"
+        },
+        {
+            "question": "感情",
+            "answers": [
+                "ㄍㄢˇ ㄑㄧㄥˊ",
+                "gan3 qing2"
+            ],
+            "comment": "feeling; emotion; sensation"
+        },
+        {
+            "question": "感谢",
+            "answers": [
+                "ㄍㄢˇ ㄒㄧㄝˋ",
+                "gan3 xie4"
+            ],
+            "comment": "thank; be grateful"
+        },
+        {
+            "question": "干",
+            "answers": [
+                "ㄍㄢ",
+                "gan1"
+            ],
+            "comment": "to concern; shield; dry; clean (Kangxi radical 51)"
+        },
+        {
+            "question": "刚",
+            "answers": [
+                "ㄍㄤ",
+                "gang1"
+            ],
+            "comment": "just (indicating the immediate past); recently; firm"
+        },
+        {
+            "question": "高速公路",
+            "answers": [
+                "ㄍㄠ ㄙㄨˋ ㄍㄨㄥ ㄌㄨˋ",
+                "gao1 su4 gong1 lu4"
+            ],
+            "comment": "highway"
+        },
+        {
+            "question": "胳膊",
+            "answers": [
+                "ㄍㄜ ㄅㄛ˙",
+                "ge1 bo"
+            ],
+            "comment": "arm"
+        },
+        {
+            "question": "各",
+            "answers": [
+                "ㄍㄜˋ",
+                "ge4"
+            ],
+            "comment": "each; every"
+        },
+        {
+            "question": "工资",
+            "answers": [
+                "ㄍㄨㄥ ㄗ",
+                "gong1 zi1"
+            ],
+            "comment": "wages; pay; earnings; salary"
+        },
+        {
+            "question": "公里",
+            "answers": [
+                "ㄍㄨㄥ ㄌㄧˇ",
+                "gong1 li3"
+            ],
+            "comment": "kilometer"
+        },
+        {
+            "question": "功夫",
+            "answers": [
+                "ㄍㄨㄥ ㄈㄨ˙",
+                "gong1 fu"
+            ],
+            "comment": "kung fu; skill; art; labor"
+        },
+        {
+            "question": "共同",
+            "answers": [
+                "ㄍㄨㄥˋ ㄊㄨㄥˊ",
+                "gong4 tong2"
+            ],
+            "comment": "together; common; joint"
+        },
+        {
+            "question": "购物",
+            "answers": [
+                "ㄍㄡˋ ㄨˋ",
+                "gou4 wu4"
+            ],
+            "comment": "go shopping; buy goods"
+        },
+        {
+            "question": "够",
+            "answers": [
+                "ㄍㄡˋ",
+                "gou4"
+            ],
+            "comment": "enough; to reach"
+        },
+        {
+            "question": "估计",
+            "answers": [
+                "ㄍㄨ ㄐㄧˋ",
+                "gu1 ji4"
+            ],
+            "comment": "appraise; estimate"
+        },
+        {
+            "question": "鼓励",
+            "answers": [
+                "ㄍㄨˇ ㄌㄧˋ",
+                "gu3 li4"
+            ],
+            "comment": "encourage; inspire"
+        },
+        {
+            "question": "故意",
+            "answers": [
+                "ㄍㄨˋ ㄧˋ",
+                "gu4 yi4"
+            ],
+            "comment": "deliberately; intentional; on purpose"
+        },
+        {
+            "question": "顾客",
+            "answers": [
+                "ㄍㄨˋ ㄎㄜˋ",
+                "gu4 ke4"
+            ],
+            "comment": "customer; client"
+        },
+        {
+            "question": "挂",
+            "answers": [
+                "ㄍㄨㄚˋ",
+                "gua4"
+            ],
+            "comment": "hang; put up; suspend"
+        },
+        {
+            "question": "关键",
+            "answers": [
+                "ㄍㄨㄢ ㄐㄧㄢˋ",
+                "guan1 jian4"
+            ],
+            "comment": "crucial; key; pivotal"
+        },
+        {
+            "question": "观众",
+            "answers": [
+                "ㄍㄨㄢ ㄓㄨㄥˋ",
+                "guan1 zhong4"
+            ],
+            "comment": "spectator; audience"
+        },
+        {
+            "question": "管理",
+            "answers": [
+                "ㄍㄨㄢˇ ㄌㄧˇ",
+                "guan3 li3"
+            ],
+            "comment": "supervise; manage"
+        },
+        {
+            "question": "光",
+            "answers": [
+                "ㄍㄨㄤ",
+                "guang1"
+            ],
+            "comment": "light; ray; bright; only; merely; used up"
+        },
+        {
+            "question": "广播",
+            "answers": [
+                "ㄍㄨㄤˇ ㄅㄛ",
+                "guang3 bo1"
+            ],
+            "comment": "broadcast; on the air"
+        },
+        {
+            "question": "广告",
+            "answers": [
+                "ㄍㄨㄤˇ ㄍㄠˋ",
+                "guang3 gao4"
+            ],
+            "comment": "advertisement; a commercial"
+        },
+        {
+            "question": "逛",
+            "answers": [
+                "ㄍㄨㄤˋ",
+                "guang4"
+            ],
+            "comment": "to stroll; to visit; go window shopping"
+        },
+        {
+            "question": "规定",
+            "answers": [
+                "ㄍㄨㄟ ㄉㄧㄥˋ",
+                "gui1 ding4"
+            ],
+            "comment": "regulation; stipulate; fix; set"
+        },
+        {
+            "question": "国籍",
+            "answers": [
+                "ㄍㄨㄛˊ ㄐㄧˊ",
+                "guo2 ji2"
+            ],
+            "comment": "nationality"
+        },
+        {
+            "question": "国际",
+            "answers": [
+                "ㄍㄨㄛˊ ㄐㄧˋ",
+                "guo2 ji4"
+            ],
+            "comment": "international"
+        },
+        {
+            "question": "果汁",
+            "answers": [
+                "ㄍㄨㄛˇ ㄓ",
+                "guo3 zhi1"
+            ],
+            "comment": "fruit juice"
+        },
+        {
+            "question": "过程",
+            "answers": [
+                "ㄍㄨㄛˋ ㄔㄥˊ",
+                "guo4 cheng2"
+            ],
+            "comment": "course of events; process"
+        },
+        {
+            "question": "海洋",
+            "answers": [
+                "ㄏㄞˇ ㄧㄤˊ",
+                "hai3 yang2"
+            ],
+            "comment": "ocean"
+        },
+        {
+            "question": "害羞",
+            "answers": [
+                "ㄏㄞˋ ㄒㄧㄡ",
+                "hai4 xiu1"
+            ],
+            "comment": "blush; shy"
+        },
+        {
+            "question": "寒假",
+            "answers": [
+                "ㄏㄢˊ ㄐㄧㄚˋ",
+                "han2 jia4"
+            ],
+            "comment": "winter vacation"
+        },
+        {
+            "question": "汗",
+            "answers": [
+                "ㄏㄢˋ",
+                "han4"
+            ],
+            "comment": "sweat; perspiration; Khan"
+        },
+        {
+            "question": "航班",
+            "answers": [
+                "ㄏㄤˊ ㄅㄢ",
+                "hang2 ban1"
+            ],
+            "comment": "scheduled flight; flight number"
+        },
+        {
+            "question": "好处",
+            "answers": [
+                "ㄏㄠˇ ㄔㄨ˙",
+                "hao3 chu"
+            ],
+            "comment": "benefit; advantage"
+        },
+        {
+            "question": "好像",
+            "answers": [
+                "ㄏㄠˇ ㄒㄧㄤˋ",
+                "hao3 xiang4"
+            ],
+            "comment": "as if; seem to be"
+        },
+        {
+            "question": "号码",
+            "answers": [
+                "ㄏㄠˋ ㄇㄚˇ",
+                "hao4 ma3"
+            ],
+            "comment": "number"
+        },
+        {
+            "question": "合格",
+            "answers": [
+                "ㄏㄜˊ ㄍㄜˊ",
+                "he2 ge2"
+            ],
+            "comment": "qualified; up to standard"
+        },
+        {
+            "question": "合适",
+            "answers": [
+                "ㄏㄜˊ ㄕˋ",
+                "he2 shi4"
+            ],
+            "comment": "suitable; proper; appropriate"
+        },
+        {
+            "question": "盒子",
+            "answers": [
+                "ㄏㄜˊ ㄗ˙",
+                "he2 zi"
+            ],
+            "comment": "box"
+        },
+        {
+            "question": "后悔",
+            "answers": [
+                "ㄏㄡˋ ㄏㄨㄟˇ",
+                "hou4 hui3"
+            ],
+            "comment": "to regret; repent"
+        },
+        {
+            "question": "厚",
+            "answers": [
+                "ㄏㄡˋ",
+                "hou4"
+            ],
+            "comment": "thick (for flat things); generous"
+        },
+        {
+            "question": "互联网",
+            "answers": [
+                "ㄏㄨˋ ㄌㄧㄢˊ ㄨㄤˇ",
+                "Hu4 lian2 wang3"
+            ],
+            "comment": "Internet"
+        },
+        {
+            "question": "互相",
+            "answers": [
+                "ㄏㄨˋ ㄒㄧㄤ",
+                "hu4 xiang1"
+            ],
+            "comment": "mutually; with each other"
+        },
+        {
+            "question": "护士",
+            "answers": [
+                "ㄏㄨˋ ㄕ˙",
+                "hu4 shi"
+            ],
+            "comment": "nurse"
+        },
+        {
+            "question": "怀疑",
+            "answers": [
+                "ㄏㄨㄞˊ ㄧˊ",
+                "huai2 yi2"
+            ],
+            "comment": "doubt; to suspect; be skeptical"
+        },
+        {
+            "question": "回忆",
+            "answers": [
+                "ㄏㄨㄟˊ ㄧˋ",
+                "hui2 yi4"
+            ],
+            "comment": "to recall; recollect"
+        },
+        {
+            "question": "活动",
+            "answers": [
+                "ㄏㄨㄛˊ ㄉㄨㄥˋ",
+                "huo2 dong4"
+            ],
+            "comment": "activity; exercise; move about"
+        },
+        {
+            "question": "活泼",
+            "answers": [
+                "ㄏㄨㄛˊ ㄆㄛ˙",
+                "huo2 po"
+            ],
+            "comment": "lively; vivacious"
+        },
+        {
+            "question": "火",
+            "answers": [
+                "ㄏㄨㄛˇ",
+                "huo3"
+            ],
+            "comment": "fire (Kangxi radical 86)"
+        },
+        {
+            "question": "获得",
+            "answers": [
+                "ㄏㄨㄛˋ ㄉㄜˊ",
+                "huo4 de2"
+            ],
+            "comment": "obtain; acquire; to gain"
+        },
+        {
+            "question": "积极",
+            "answers": [
+                "ㄐㄧ ㄐㄧˊ",
+                "ji1 ji2"
+            ],
+            "comment": "active; positive; energetic"
+        },
+        {
+            "question": "积累",
+            "answers": [
+                "ㄐㄧ ㄌㄟˇ",
+                "ji1 lei3"
+            ],
+            "comment": "accumulate; accumulation"
+        },
+        {
+            "question": "基础",
+            "answers": [
+                "ㄐㄧ ㄔㄨˇ",
+                "ji1 chu3"
+            ],
+            "comment": "base; foundation"
+        },
+        {
+            "question": "激动",
+            "answers": [
+                "ㄐㄧ ㄉㄨㄥˋ",
+                "ji1 dong4"
+            ],
+            "comment": "excite; agitate"
+        },
+        {
+            "question": "及时",
+            "answers": [
+                "ㄐㄧˊ ㄕˊ",
+                "ji2 shi2"
+            ],
+            "comment": "timely; in time; promptly; without delay"
+        },
+        {
+            "question": "即使",
+            "answers": [
+                "ㄐㄧˊ ㄕˇ",
+                "ji2 shi3"
+            ],
+            "comment": "even if; even though"
+        },
+        {
+            "question": "计划",
+            "answers": [
+                "ㄐㄧˋ ㄏㄨㄚˋ",
+                "ji4 hua4"
+            ],
+            "comment": "plan; project"
+        },
+        {
+            "question": "记者",
+            "answers": [
+                "ㄐㄧˋ ㄓㄜˇ",
+                "ji4 zhe3"
+            ],
+            "comment": "reporter; journalist"
+        },
+        {
+            "question": "技术",
+            "answers": [
+                "ㄐㄧˋ ㄕㄨˋ",
+                "ji4 shu4"
+            ],
+            "comment": "technology; technique; skill"
+        },
+        {
+            "question": "既然",
+            "answers": [
+                "ㄐㄧˋ ㄖㄢˊ",
+                "ji4 ran2"
+            ],
+            "comment": "since; given that; now that"
+        },
+        {
+            "question": "继续",
+            "answers": [
+                "ㄐㄧˋ ㄒㄩˋ",
+                "ji4 xu4"
+            ],
+            "comment": "to continue; to go on; to proceed"
+        },
+        {
+            "question": "寄",
+            "answers": [
+                "ㄐㄧˋ",
+                "ji4"
+            ],
+            "comment": "send by mail"
+        },
+        {
+            "question": "加班",
+            "answers": [
+                "ㄐㄧㄚ ㄅㄢ",
+                "jia1 ban1"
+            ],
+            "comment": "work overtime"
+        },
+        {
+            "question": "加油站",
+            "answers": [
+                "ㄐㄧㄚ ㄧㄡˊ ㄓㄢˋ",
+                "jia1 you2 zhan4"
+            ],
+            "comment": "gas station"
+        },
+        {
+            "question": "家具",
+            "answers": [
+                "ㄐㄧㄚ ㄐㄩˋ",
+                "jia1 ju4"
+            ],
+            "comment": "furniture"
+        },
+        {
+            "question": "假",
+            "answers": [
+                "ㄐㄧㄚˇ , ㄐㄧㄚˋ",
+                "jia3 , jia4"
+            ],
+            "comment": "fake; if; borrow | vacation; holiday"
+        },
+        {
+            "question": "价格",
+            "answers": [
+                "ㄐㄧㄚˋ ㄍㄜˊ",
+                "jia4 ge2"
+            ],
+            "comment": "price"
+        },
+        {
+            "question": "坚持",
+            "answers": [
+                "ㄐㄧㄢ ㄔˊ",
+                "jian1 chi2"
+            ],
+            "comment": "persist in; persevere"
+        },
+        {
+            "question": "减肥",
+            "answers": [
+                "ㄐㄧㄢˇ ㄈㄟˊ",
+                "jian3 fei2"
+            ],
+            "comment": "go on a diet; lose weight"
+        },
+        {
+            "question": "减少",
+            "answers": [
+                "ㄐㄧㄢˇ ㄕㄠˇ",
+                "jian3 shao3"
+            ],
+            "comment": "reduce; to decrease"
+        },
+        {
+            "question": "建议",
+            "answers": [
+                "ㄐㄧㄢˋ ㄧˋ",
+                "jian4 yi4"
+            ],
+            "comment": "to propose; to suggest; recommend"
+        },
+        {
+            "question": "将来",
+            "answers": [
+                "ㄐㄧㄤ ㄌㄞˊ",
+                "jiang1 lai2"
+            ],
+            "comment": "the future"
+        },
+        {
+            "question": "奖金",
+            "answers": [
+                "ㄐㄧㄤˇ ㄐㄧㄣ",
+                "jiang3 jin1"
+            ],
+            "comment": "bonus"
+        },
+        {
+            "question": "降低",
+            "answers": [
+                "ㄐㄧㄤˋ ㄉㄧ",
+                "jiang4 di1"
+            ],
+            "comment": "reduce; to lower; to drop"
+        },
+        {
+            "question": "降落",
+            "answers": [
+                "ㄐㄧㄤˋ ㄌㄨㄛˋ",
+                "jiang4 luo4"
+            ],
+            "comment": "descend; to land; put down"
+        },
+        {
+            "question": "交",
+            "answers": [
+                "ㄐㄧㄠ",
+                "jiao1"
+            ],
+            "comment": "deliver; turn over; intersect; to pay (money); friendship"
+        },
+        {
+            "question": "交流",
+            "answers": [
+                "ㄐㄧㄠ ㄌㄧㄡˊ",
+                "jiao1 liu2"
+            ],
+            "comment": "communicate; exchange; give and take; interaction; to alternate"
+        },
+        {
+            "question": "交通",
+            "answers": [
+                "ㄐㄧㄠ ㄊㄨㄥ",
+                "jiao1 tong1"
+            ],
+            "comment": "traffic; transportation"
+        },
+        {
+            "question": "郊区",
+            "answers": [
+                "ㄐㄧㄠ ㄑㄩ",
+                "jiao1 qu1"
+            ],
+            "comment": "suburbs; outskirts"
+        },
+        {
+            "question": "骄傲",
+            "answers": [
+                "ㄐㄧㄠ ㄠˋ",
+                "jiao1 ao4"
+            ],
+            "comment": "proud; arrogant; conceited; take pride in"
+        },
+        {
+            "question": "饺子",
+            "answers": [
+                "ㄐㄧㄠˇ ㄗ˙",
+                "jiao3 zi"
+            ],
+            "comment": "dumpling; potsticker"
+        },
+        {
+            "question": "教授",
+            "answers": [
+                "ㄐㄧㄠˋ ㄕㄡˋ",
+                "jiao4 shou4"
+            ],
+            "comment": "professor; instruct; to lecture"
+        },
+        {
+            "question": "教育",
+            "answers": [
+                "ㄐㄧㄠˋ ㄩˋ",
+                "jiao4 yu4"
+            ],
+            "comment": "education"
+        },
+        {
+            "question": "接受",
+            "answers": [
+                "ㄐㄧㄝ ㄕㄡˋ",
+                "jie1 shou4"
+            ],
+            "comment": "accept; receive (honors, etc.)"
+        },
+        {
+            "question": "接着",
+            "answers": [
+                "ㄐㄧㄝ ㄓㄜ˙",
+                "jie1 zhe"
+            ],
+            "comment": "continue; carry on; to catch; follow"
+        },
+        {
+            "question": "节",
+            "answers": [
+                "ㄐㄧㄝˊ",
+                "jie2"
+            ],
+            "comment": "section; part; festival; moral integrity; save; (mw for class periods)"
+        },
+        {
+            "question": "节约",
+            "answers": [
+                "ㄐㄧㄝˊ ㄩㄝ",
+                "jie2 yue1"
+            ],
+            "comment": "frugal; to save"
+        },
+        {
+            "question": "结果",
+            "answers": [
+                "ㄐㄧㄝˊ ㄍㄨㄛˇ",
+                "jie2 guo3"
+            ],
+            "comment": "result; outcome; finally"
+        },
+        {
+            "question": "解释",
+            "answers": [
+                "ㄐㄧㄝˇ ㄕˋ",
+                "jie3 shi4"
+            ],
+            "comment": "to explain"
+        },
+        {
+            "question": "尽管",
+            "answers": [
+                "ㄐㄧㄥˇ uㄢˇ",
+                "jing3 uan3"
+            ],
+            "comment": "despite; although; even though | freely; without hesitation"
+        },
+        {
+            "question": "紧张",
+            "answers": [
+                "ㄐㄧㄣˇ ㄓㄤ",
+                "jin3 zhang1"
+            ],
+            "comment": "nervous; tension; strain"
+        },
+        {
+            "question": "进行",
+            "answers": [
+                "ㄐㄧㄣˋ ㄒㄧㄥˊ",
+                "jin4 xing2"
+            ],
+            "comment": "carry on; carry out; undertake"
+        },
+        {
+            "question": "禁止",
+            "answers": [
+                "ㄐㄧㄣˋ ㄓˇ",
+                "jin4 zhi3"
+            ],
+            "comment": "to ban; prohibit"
+        },
+        {
+            "question": "京剧",
+            "answers": [
+                "ㄐㄧㄥ ㄐㄩˋ",
+                "jing1 ju4"
+            ],
+            "comment": "Beijing Opera"
+        },
+        {
+            "question": "经济",
+            "answers": [
+                "ㄐㄧㄥ ㄐㄧˋ",
+                "jing1 ji4"
+            ],
+            "comment": "economy; economic"
+        },
+        {
+            "question": "经历",
+            "answers": [
+                "ㄐㄧㄥ ㄌㄧˋ",
+                "jing1 li4"
+            ],
+            "comment": "undergo; to experience"
+        },
+        {
+            "question": "经验",
+            "answers": [
+                "ㄐㄧㄥ ㄧㄢˋ",
+                "jing1 yan4"
+            ],
+            "comment": "experience"
+        },
+        {
+            "question": "精彩",
+            "answers": [
+                "ㄐㄧㄥ ㄘㄞˇ",
+                "jing1 cai3"
+            ],
+            "comment": "brilliant; spectacular; wonderful"
+        },
+        {
+            "question": "景色",
+            "answers": [
+                "ㄐㄧㄥˇ ㄙㄜˋ",
+                "jing3 se4"
+            ],
+            "comment": "scenery; landscape; scene; view"
+        },
+        {
+            "question": "警察",
+            "answers": [
+                "ㄐㄧㄥˇ ㄔㄚˊ",
+                "jing3 cha2"
+            ],
+            "comment": "police"
+        },
+        {
+            "question": "竞争",
+            "answers": [
+                "ㄐㄧㄥˋ ㄓㄥ",
+                "jing4 zheng1"
+            ],
+            "comment": "compete"
+        },
+        {
+            "question": "竟然",
+            "answers": [
+                "ㄐㄧㄥˋ ㄖㄢˊ",
+                "jing4 ran2"
+            ],
+            "comment": "unexpectedly; to one's surprise; go so far as to"
+        },
+        {
+            "question": "镜子",
+            "answers": [
+                "ㄐㄧㄥˋ ㄗ˙",
+                "jing4 zi"
+            ],
+            "comment": "mirror"
+        },
+        {
+            "question": "究竟",
+            "answers": [
+                "ㄐㄧㄡ ㄐㄧㄥˋ",
+                "jiu1 jing4"
+            ],
+            "comment": "after all; when all is said and done; actually"
+        },
+        {
+            "question": "举",
+            "answers": [
+                "ㄐㄩˇ",
+                "ju3"
+            ],
+            "comment": "lift; raise; cite"
+        },
+        {
+            "question": "举办",
+            "answers": [
+                "ㄐㄩˇ ㄅㄢˋ",
+                "ju3 ban4"
+            ],
+            "comment": "to conduct; to hold"
+        },
+        {
+            "question": "举行",
+            "answers": [
+                "ㄐㄩˇ ㄒㄧㄥˊ",
+                "ju3 xing2"
+            ],
+            "comment": "convene; to hold (a meeting, ceremony, etc.)"
+        },
+        {
+            "question": "拒绝",
+            "answers": [
+                "ㄐㄩˋ ㄐㄩㄝˊ",
+                "ju4 jue2"
+            ],
+            "comment": "to refuse; to decline; to reject"
+        },
+        {
+            "question": "距离",
+            "answers": [
+                "ㄐㄩˋ ㄌㄧˊ",
+                "ju4 li2"
+            ],
+            "comment": "distance; be apart; away from"
+        },
+        {
+            "question": "聚会",
+            "answers": [
+                "ㄐㄩˋ ㄏㄨㄟˋ",
+                "ju4 hui4"
+            ],
+            "comment": "hold a meeting; get together; a party"
+        },
+        {
+            "question": "开玩笑",
+            "answers": [
+                "ㄎㄞ ㄨㄢˊ ㄒㄧㄠˋ",
+                "kai1 wan2 xiao4"
+            ],
+            "comment": "joke; play a joke; make fun of"
+        },
+        {
+            "question": "开心",
+            "answers": [
+                "ㄎㄞ ㄒㄧㄣ",
+                "kai1 xin1"
+            ],
+            "comment": "feel happy; have a great time; make fun of somebody"
+        },
+        {
+            "question": "看法",
+            "answers": [
+                "ㄎㄢˋ ㄈㄚˇ",
+                "kan4 fa3"
+            ],
+            "comment": "point of view; opinion"
+        },
+        {
+            "question": "考虑",
+            "answers": [
+                "ㄎㄠˇ ㄌㄩˋ",
+                "kao3 lü4"
+            ],
+            "comment": "think over; consider"
+        },
+        {
+            "question": "烤鸭",
+            "answers": [
+                "ㄎㄠˇ ㄧㄚ",
+                "kao3 ya1"
+            ],
+            "comment": "roast duck"
+        },
+        {
+            "question": "科学",
+            "answers": [
+                "ㄎㄜ ㄒㄩㄝˊ",
+                "ke1 xue2"
+            ],
+            "comment": "science; scientific knowledge"
+        },
+        {
+            "question": "棵",
+            "answers": [
+                "ㄎㄜ",
+                "ke1"
+            ],
+            "comment": "(mw for plants)"
+        },
+        {
+            "question": "咳嗽",
+            "answers": [
+                "ㄎㄜˊ ㄙㄡ˙",
+                "ke2 sou"
+            ],
+            "comment": "to cough"
+        },
+        {
+            "question": "可怜",
+            "answers": [
+                "ㄎㄜˇ ㄌㄧㄢˊ",
+                "ke3 lian2"
+            ],
+            "comment": "pitiful; poor; pathetic"
+        },
+        {
+            "question": "可是",
+            "answers": [
+                "ㄎㄜˇ ㄕˋ",
+                "ke3 shi4"
+            ],
+            "comment": "but; however"
+        },
+        {
+            "question": "可惜",
+            "answers": [
+                "ㄎㄜˇ ㄒㄧ",
+                "ke3 xi1"
+            ],
+            "comment": "it's a pity; regrettable; too bad"
+        },
+        {
+            "question": "客厅",
+            "answers": [
+                "ㄎㄜˋ ㄊㄧㄥ",
+                "ke4 ting1"
+            ],
+            "comment": "living room; parlor"
+        },
+        {
+            "question": "肯定",
+            "answers": [
+                "ㄎㄣˇ ㄉㄧㄥˋ",
+                "ken3 ding4"
+            ],
+            "comment": "sure; definite; affirm; approve"
+        },
+        {
+            "question": "空",
+            "answers": [
+                "ㄎㄨㄥ , ㄎㄨㄥˋ",
+                "kong1 , kong4"
+            ],
+            "comment": "empty; sky | leave blank; leisure"
+        },
+        {
+            "question": "空气",
+            "answers": [
+                "ㄎㄨㄥ ㄑㄧˋ",
+                "kong1 qi4"
+            ],
+            "comment": "air"
+        },
+        {
+            "question": "恐怕",
+            "answers": [
+                "ㄎㄨㄥˇ ㄆㄚˋ",
+                "kong3 pa4"
+            ],
+            "comment": "be afraid; to fear; I'm afraid that..."
+        },
+        {
+            "question": "苦",
+            "answers": [
+                "ㄎㄨˇ",
+                "ku3"
+            ],
+            "comment": "bitter; miserable"
+        },
+        {
+            "question": "矿泉水",
+            "answers": [
+                "ㄎㄨㄤˋ ㄑㄩㄢˊ ㄕㄨㄟˇ",
+                "kuang4 quan2 shui3"
+            ],
+            "comment": "mineral water"
+        },
+        {
+            "question": "困",
+            "answers": [
+                "ㄎㄨㄣˋ",
+                "kun4"
+            ],
+            "comment": "sleepy; surround; hard-pressed"
+        },
+        {
+            "question": "困难",
+            "answers": [
+                "ㄎㄨㄣˋ ㄋㄢ˙",
+                "kun4 nan"
+            ],
+            "comment": "difficulty; difficult; problem"
+        },
+        {
+            "question": "垃圾桶",
+            "answers": [
+                "ㄌㄚ ㄐㄧ ㄊㄨㄥˇ",
+                "la1 ji1 tong3"
+            ],
+            "comment": "garbage can"
+        },
+        {
+            "question": "拉",
+            "answers": [
+                "ㄌㄚ",
+                "la1"
+            ],
+            "comment": "to pull; to play (string instruments); to drag"
+        },
+        {
+            "question": "辣",
+            "answers": [
+                "ㄌㄚˋ",
+                "la4"
+            ],
+            "comment": "hot (spicy)"
+        },
+        {
+            "question": "来不及",
+            "answers": [
+                "ㄌㄞˊ ㄅㄨ˙ ㄐㄧˊ",
+                "lai2 bu ji2"
+            ],
+            "comment": "there's not enough time (to do something); it's too late"
+        },
+        {
+            "question": "来得及",
+            "answers": [
+                "ㄌㄞˊ ㄉㄜ˙ ㄐㄧˊ",
+                "lai2 de ji2"
+            ],
+            "comment": "there's still time"
+        },
+        {
+            "question": "来自",
+            "answers": [
+                "ㄌㄞˊ ㄗˋ",
+                "lai2 zi4"
+            ],
+            "comment": "come from (a place)"
+        },
+        {
+            "question": "懒",
+            "answers": [
+                "ㄌㄢˇ",
+                "lan3"
+            ],
+            "comment": "lazy"
+        },
+        {
+            "question": "浪费",
+            "answers": [
+                "ㄌㄤˋ ㄈㄟˋ",
+                "lang4 fei4"
+            ],
+            "comment": "to waste; squander"
+        },
+        {
+            "question": "浪漫",
+            "answers": [
+                "ㄌㄤˋ ㄇㄢˋ",
+                "lang4 man4"
+            ],
+            "comment": "romantic"
+        },
+        {
+            "question": "老虎",
+            "answers": [
+                "ㄌㄠˇ ㄏㄨˇ",
+                "lao3 hu3"
+            ],
+            "comment": "tiger"
+        },
+        {
+            "question": "冷静",
+            "answers": [
+                "ㄌㄥˇ ㄐㄧㄥˋ",
+                "leng3 jing4"
+            ],
+            "comment": "calm; cool-headed; sober"
+        },
+        {
+            "question": "礼拜天",
+            "answers": [
+                "ㄌㄧˇ ㄅㄞˋ ㄊㄧㄢ",
+                "li3 bai4 tian1"
+            ],
+            "comment": "Sunday"
+        },
+        {
+            "question": "礼貌",
+            "answers": [
+                "ㄌㄧˇ ㄇㄠˋ",
+                "li3 mao4"
+            ],
+            "comment": "courtesy; politeness; manners"
+        },
+        {
+            "question": "理发",
+            "answers": [
+                "ㄌㄧˇ ㄈㄚˋ",
+                "li3 fa4"
+            ],
+            "comment": "a barber, hairdressing; haircut"
+        },
+        {
+            "question": "理解",
+            "answers": [
+                "ㄌㄧˇ ㄐㄧㄝˇ",
+                "li3 jie3"
+            ],
+            "comment": "comprehend; understand"
+        },
+        {
+            "question": "理想",
+            "answers": [
+                "ㄌㄧˇ ㄒㄧㄤˇ",
+                "li3 xiang3"
+            ],
+            "comment": "ideal"
+        },
+        {
+            "question": "力气",
+            "answers": [
+                "ㄌㄧˋ ㄑㄧ˙",
+                "li4 qi"
+            ],
+            "comment": "physical strength; effort"
+        },
+        {
+            "question": "厉害",
+            "answers": [
+                "ㄌㄧˋ ㄏㄞ˙",
+                "li4 hai"
+            ],
+            "comment": "terrible; formidable; fierce; cool; awesome"
+        },
+        {
+            "question": "例如",
+            "answers": [
+                "ㄌㄧˋ ㄖㄨˊ",
+                "li4 ru2"
+            ],
+            "comment": "for example; for instance"
+        },
+        {
+            "question": "俩",
+            "answers": [
+                "ㄌㄧㄤˇ",
+                "liang3"
+            ],
+            "comment": "(colloquial) two (people)"
+        },
+        {
+            "question": "连",
+            "answers": [
+                "ㄌㄧㄢˊ",
+                "lian2"
+            ],
+            "comment": "even; including; join"
+        },
+        {
+            "question": "联系",
+            "answers": [
+                "ㄌㄧㄢˊ ㄒㄧˋ",
+                "lian2 xi4"
+            ],
+            "comment": "integrate; link; connection; contact"
+        },
+        {
+            "question": "凉快",
+            "answers": [
+                "ㄌㄧㄤˊ ㄎㄨㄞ˙",
+                "liang2 kuai"
+            ],
+            "comment": "nice and cool; pleasantly cool"
+        },
+        {
+            "question": "零钱",
+            "answers": [
+                "ㄌㄧㄥˊ ㄑㄧㄢˊ",
+                "ling2 qian2"
+            ],
+            "comment": "small change (of money)"
+        },
+        {
+            "question": "另外",
+            "answers": [
+                "ㄌㄧㄥˋ ㄨㄞˋ",
+                "ling4 wai4"
+            ],
+            "comment": "another; in addition; besides"
+        },
+        {
+            "question": "留",
+            "answers": [
+                "ㄌㄧㄡˊ",
+                "liu2"
+            ],
+            "comment": "to leave (behind, a message); to retain; to stay"
+        },
+        {
+            "question": "流利",
+            "answers": [
+                "ㄌㄧㄡˊ ㄌㄧˋ",
+                "liu2 li4"
+            ],
+            "comment": "fluent"
+        },
+        {
+            "question": "流行",
+            "answers": [
+                "ㄌㄧㄡˊ ㄒㄧㄥˊ",
+                "liu2 xing2"
+            ],
+            "comment": "spread; prevalent; be popular"
+        },
+        {
+            "question": "旅行",
+            "answers": [
+                "ㄌㄩˇ ㄒㄧㄥˊ",
+                "lü3 xing2"
+            ],
+            "comment": "travel"
+        },
+        {
+            "question": "律师",
+            "answers": [
+                "ㄌㄩˋ ㄕ",
+                "lü4 shi1"
+            ],
+            "comment": "lawyer"
+        },
+        {
+            "question": "乱",
+            "answers": [
+                "ㄌㄨㄢˋ",
+                "luan4"
+            ],
+            "comment": "disorder; confusion; arbitrarily"
+        },
+        {
+            "question": "麻烦",
+            "answers": [
+                "ㄇㄚˊ ㄈㄢ˙",
+                "ma2 fan"
+            ],
+            "comment": "trouble (someone); troubling; bothersome"
+        },
+        {
+            "question": "马虎",
+            "answers": [
+                "ㄇㄚˇ ㄏㄨ˙",
+                "ma3 hu"
+            ],
+            "comment": "careless; sloppy; casual"
+        },
+        {
+            "question": "满",
+            "answers": [
+                "ㄇㄢˇ",
+                "man3"
+            ],
+            "comment": "full; abbreviation for Manchurian"
+        },
+        {
+            "question": "毛",
+            "answers": [
+                "ㄇㄠˊ",
+                "mao2"
+            ],
+            "comment": "hair; fur; feather; dime (Kangxi radical 82)"
+        },
+        {
+            "question": "毛巾",
+            "answers": [
+                "ㄇㄠˊ ㄐㄧㄣ",
+                "mao2 jin1"
+            ],
+            "comment": "towel; washcloth"
+        },
+        {
+            "question": "美丽",
+            "answers": [
+                "ㄇㄟˇ ㄌㄧˋ",
+                "mei3 li4"
+            ],
+            "comment": "beautiful"
+        },
+        {
+            "question": "梦",
+            "answers": [
+                "ㄇㄥˋ",
+                "meng4"
+            ],
+            "comment": "to dream"
+        },
+        {
+            "question": "迷路",
+            "answers": [
+                "ㄇㄧˊ ㄌㄨˋ",
+                "mi2 lu4"
+            ],
+            "comment": "to get lost"
+        },
+        {
+            "question": "密码",
+            "answers": [
+                "ㄇㄧˋ ㄇㄚˇ",
+                "mi4 ma3"
+            ],
+            "comment": "password; secret code"
+        },
+        {
+            "question": "免费",
+            "answers": [
+                "ㄇㄧㄢˇ ㄈㄟˋ",
+                "mian3 fei4"
+            ],
+            "comment": "free (of charge); no cost"
+        },
+        {
+            "question": "秒",
+            "answers": [
+                "ㄇㄧㄠˇ",
+                "miao3"
+            ],
+            "comment": "second (unit of time or angle)"
+        },
+        {
+            "question": "民族",
+            "answers": [
+                "ㄇㄧㄣˊ ㄗㄨˊ",
+                "min2 zu2"
+            ],
+            "comment": "nationality; ethnic group"
+        },
+        {
+            "question": "母亲",
+            "answers": [
+                "ㄇㄨˇ ㄑㄧㄣ˙",
+                "mu3 qin"
+            ],
+            "comment": "mother"
+        },
+        {
+            "question": "目的",
+            "answers": [
+                "ㄇㄨˋ ㄉㄧˋ",
+                "mu4 di4"
+            ],
+            "comment": "purpose; aim; goal"
+        },
+        {
+            "question": "耐心",
+            "answers": [
+                "ㄋㄞˋ ㄒㄧㄣ",
+                "nai4 xin1"
+            ],
+            "comment": "to be patient"
+        },
+        {
+            "question": "难道",
+            "answers": [
+                "ㄋㄢˊ ㄉㄠˋ",
+                "nan2 dao4"
+            ],
+            "comment": "could it be that ...?; don't tell me ..."
+        },
+        {
+            "question": "难受",
+            "answers": [
+                "ㄋㄢˊ ㄕㄡˋ",
+                "nan2 shou4"
+            ],
+            "comment": "feel unwell; to suffer pain"
+        },
+        {
+            "question": "内",
+            "answers": [
+                "ㄋㄟˋ",
+                "nei4"
+            ],
+            "comment": "inside; inner; internal; within"
+        },
+        {
+            "question": "内容",
+            "answers": [
+                "ㄋㄟˋ ㄖㄨㄥˊ",
+                "nei4 rong2"
+            ],
+            "comment": "content; substance; details"
+        },
+        {
+            "question": "能力",
+            "answers": [
+                "ㄋㄥˊ ㄌㄧˋ",
+                "neng2 li4"
+            ],
+            "comment": "capability; capable; ability"
+        },
+        {
+            "question": "年龄",
+            "answers": [
+                "ㄋㄧㄢˊ ㄌㄧㄥˊ",
+                "nian2 ling2"
+            ],
+            "comment": "(a person's) age"
+        },
+        {
+            "question": "弄",
+            "answers": [
+                "ㄋㄨㄥˋ",
+                "nong4"
+            ],
+            "comment": "do; manage; to handle; make"
+        },
+        {
+            "question": "暖和",
+            "answers": [
+                "ㄋㄨㄢˇ ㄏㄨㄛ˙",
+                "nuan3 huo"
+            ],
+            "comment": "warm; nice and warm"
+        },
+        {
+            "question": "偶尔",
+            "answers": [
+                "ㄡˇ ㄦˇ",
+                "ou3 er3"
+            ],
+            "comment": "occasionally; once in a while; sometimes"
+        },
+        {
+            "question": "排队",
+            "answers": [
+                "ㄆㄞˊ ㄉㄨㄟˋ",
+                "pai2 dui4"
+            ],
+            "comment": "queue; stand in line"
+        },
+        {
+            "question": "排列",
+            "answers": [
+                "ㄆㄞˊ ㄌㄧㄝˋ",
+                "pai2 lie4"
+            ],
+            "comment": "arrange; align; permutation"
+        },
+        {
+            "question": "判断",
+            "answers": [
+                "ㄆㄢˋ ㄉㄨㄢˋ",
+                "pan4 duan4"
+            ],
+            "comment": "to judge; judgment; to decide"
+        },
+        {
+            "question": "陪",
+            "answers": [
+                "ㄆㄟˊ",
+                "pei2"
+            ],
+            "comment": "accompany; keep company"
+        },
+        {
+            "question": "批评",
+            "answers": [
+                "ㄆㄧ ㄆㄧㄥˊ",
+                "pi1 ping2"
+            ],
+            "comment": "criticize"
+        },
+        {
+            "question": "皮肤",
+            "answers": [
+                "ㄆㄧˊ ㄈㄨ",
+                "pi2 fu1"
+            ],
+            "comment": "skin"
+        },
+        {
+            "question": "脾气",
+            "answers": [
+                "ㄆㄧˊ ㄑㄧ˙",
+                "pi2 qi"
+            ],
+            "comment": "temperament; disposition; temper"
+        },
+        {
+            "question": "篇",
+            "answers": [
+                "ㄆㄧㄢ",
+                "pian1"
+            ],
+            "comment": "sheet; (mw for articles); piece of writing"
+        },
+        {
+            "question": "骗",
+            "answers": [
+                "ㄆㄧㄢˋ",
+                "pian4"
+            ],
+            "comment": "to cheat; to swindle; deceive"
+        },
+        {
+            "question": "乒乓球",
+            "answers": [
+                "ㄆㄧㄥ ㄆㄤ ㄑㄧㄡˊ",
+                "ping1 pang1 qiu2"
+            ],
+            "comment": "ping pong; table tennis"
+        },
+        {
+            "question": "平时",
+            "answers": [
+                "ㄆㄧㄥˊ ㄕˊ",
+                "ping2 shi2"
+            ],
+            "comment": "ordinarily; in normal times; in peacetime"
+        },
+        {
+            "question": "破",
+            "answers": [
+                "ㄆㄛˋ",
+                "po4"
+            ],
+            "comment": "broken; damaged; to split"
+        },
+        {
+            "question": "葡萄",
+            "answers": [
+                "ㄆㄨˊ ㄊㄠ˙",
+                "pu2 tao"
+            ],
+            "comment": "grape"
+        },
+        {
+            "question": "普遍",
+            "answers": [
+                "ㄆㄨˇ ㄅㄧㄢˋ",
+                "pu3 bian4"
+            ],
+            "comment": "common; universal; general; widespread"
+        },
+        {
+            "question": "普通话",
+            "answers": [
+                "ㄆㄨˇ ㄊㄨㄥ ㄏㄨㄚˋ",
+                "pu3 tong1 hua4"
+            ],
+            "comment": "Mandarin (common language)"
+        },
+        {
+            "question": "其次",
+            "answers": [
+                "ㄑㄧˊ ㄘˋ",
+                "qi2 ci4"
+            ],
+            "comment": "next; secondly"
+        },
+        {
+            "question": "其中",
+            "answers": [
+                "ㄑㄧˊ ㄓㄨㄥ",
+                "qi2 zhong1"
+            ],
+            "comment": "among; in; included among these"
+        },
+        {
+            "question": "气候",
+            "answers": [
+                "ㄑㄧˋ ㄏㄡˋ",
+                "qi4 hou4"
+            ],
+            "comment": "climate; atmosphere; weather"
+        },
+        {
+            "question": "千万",
+            "answers": [
+                "ㄑㄧㄢ ㄨㄢˋ",
+                "qian1 wan4"
+            ],
+            "comment": "ten million; be sure to; must"
+        },
+        {
+            "question": "签证",
+            "answers": [
+                "ㄑㄧㄢ ㄓㄥˋ",
+                "qian1 zheng4"
+            ],
+            "comment": "visa"
+        },
+        {
+            "question": "敲",
+            "answers": [
+                "ㄑㄧㄠ",
+                "qiao1"
+            ],
+            "comment": "knock; blackmail"
+        },
+        {
+            "question": "桥",
+            "answers": [
+                "ㄑㄧㄠˊ",
+                "qiao2"
+            ],
+            "comment": "bridge"
+        },
+        {
+            "question": "巧克力",
+            "answers": [
+                "ㄑㄧㄠˇ ㄎㄜˋ ㄌㄧˋ",
+                "qiao3 ke4 li4"
+            ],
+            "comment": "chocolate"
+        },
+        {
+            "question": "亲戚",
+            "answers": [
+                "ㄑㄧㄣ ㄑㄧ˙",
+                "qin1 qi"
+            ],
+            "comment": "a relative (i.e. family relation)"
+        },
+        {
+            "question": "轻",
+            "answers": [
+                "ㄑㄧㄥ",
+                "qing1"
+            ],
+            "comment": "light; easy; gentle; soft"
+        },
+        {
+            "question": "轻松",
+            "answers": [
+                "ㄑㄧㄥ ㄙㄨㄥ",
+                "qing1 song1"
+            ],
+            "comment": "relaxed; gentle; easygoing"
+        },
+        {
+            "question": "情况",
+            "answers": [
+                "ㄑㄧㄥˊ ㄎㄨㄤˋ",
+                "qing2 kuang4"
+            ],
+            "comment": "circumstance; state of affairs; situation"
+        },
+        {
+            "question": "穷",
+            "answers": [
+                "ㄑㄩㄥˊ",
+                "qiong2"
+            ],
+            "comment": "poor; exhausted"
+        },
+        {
+            "question": "区别",
+            "answers": [
+                "ㄑㄩ ㄅㄧㄝˊ",
+                "qu1 bie2"
+            ],
+            "comment": "difference; distinguish"
+        },
+        {
+            "question": "取",
+            "answers": [
+                "ㄑㄩˇ",
+                "qu3"
+            ],
+            "comment": "to take; get; choose"
+        },
+        {
+            "question": "全部",
+            "answers": [
+                "ㄑㄩㄢˊ ㄅㄨˋ",
+                "quan2 bu4"
+            ],
+            "comment": "whole; entire; complete"
+        },
+        {
+            "question": "缺点",
+            "answers": [
+                "ㄑㄩㄝ ㄉㄧㄢˇ",
+                "que1 dian3"
+            ],
+            "comment": "weak point; defect; fault; shortcoming"
+        },
+        {
+            "question": "缺少",
+            "answers": [
+                "ㄑㄩㄝ ㄕㄠˇ",
+                "que1 shao3"
+            ],
+            "comment": "to lack; be short of; be deficient in"
+        },
+        {
+            "question": "却",
+            "answers": [
+                "ㄑㄩㄝˋ",
+                "que4"
+            ],
+            "comment": "but; yet; however"
+        },
+        {
+            "question": "确实",
+            "answers": [
+                "ㄑㄩㄝˋ ㄕˊ",
+                "que4 shi2"
+            ],
+            "comment": "indeed; in truth; reliable"
+        },
+        {
+            "question": "然而",
+            "answers": [
+                "ㄖㄢˊ ㄦˊ",
+                "ran2 er2"
+            ],
+            "comment": "however; yet; but"
+        },
+        {
+            "question": "热闹",
+            "answers": [
+                "ㄖㄣˋ ㄠ˙",
+                "ren4 ao"
+            ],
+            "comment": "bustling; lively; busy"
+        },
+        {
+            "question": "任何",
+            "answers": [
+                "ㄖㄣˋ ㄏㄜˊ",
+                "ren4 he2"
+            ],
+            "comment": "any; whatever; whichever"
+        },
+        {
+            "question": "任务",
+            "answers": [
+                "ㄖㄣˋ ㄨ˙",
+                "ren4 wu"
+            ],
+            "comment": "a mission; an assignment; a task"
+        },
+        {
+            "question": "扔",
+            "answers": [
+                "ㄖㄥ",
+                "reng1"
+            ],
+            "comment": "to throw; throw away"
+        },
+        {
+            "question": "仍然",
+            "answers": [
+                "ㄖㄥˊ ㄖㄢˊ",
+                "reng2 ran2"
+            ],
+            "comment": "still; yet"
+        },
+        {
+            "question": "日记",
+            "answers": [
+                "ㄖˋ ㄐㄧˋ",
+                "ri4 ji4"
+            ],
+            "comment": "diary"
+        },
+        {
+            "question": "入口",
+            "answers": [
+                "ㄖㄨˋ ㄎㄡˇ",
+                "ru4 kou3"
+            ],
+            "comment": "entrance"
+        },
+        {
+            "question": "散步",
+            "answers": [
+                "ㄙㄢˋ ㄅㄨˋ",
+                "san4 bu4"
+            ],
+            "comment": "to go for a walk"
+        },
+        {
+            "question": "森林",
+            "answers": [
+                "ㄙㄣ ㄌㄧㄣˊ",
+                "sen1 lin2"
+            ],
+            "comment": "forest"
+        },
+        {
+            "question": "沙发",
+            "answers": [
+                "ㄕㄚ ㄈㄚ",
+                "sha1 fa1"
+            ],
+            "comment": "sofa"
+        },
+        {
+            "question": "伤心",
+            "answers": [
+                "ㄕㄤ ㄒㄧㄣ",
+                "shang1 xin1"
+            ],
+            "comment": "sad; grieve; brokenhearted"
+        },
+        {
+            "question": "商量",
+            "answers": [
+                "ㄕㄤ ㄌㄧㄤ˙",
+                "shang1 liang"
+            ],
+            "comment": "consult; talk over; discuss"
+        },
+        {
+            "question": "稍微",
+            "answers": [
+                "ㄕㄠ ㄨㄟ",
+                "shao1 wei1"
+            ],
+            "comment": "a little bit; slightly"
+        },
+        {
+            "question": "勺子",
+            "answers": [
+                "ㄕㄠˊ ㄗ˙",
+                "shao2 zi"
+            ],
+            "comment": "spoon; scoop; ladle"
+        },
+        {
+            "question": "社会",
+            "answers": [
+                "ㄕㄜˋ ㄏㄨㄟˋ",
+                "she4 hui4"
+            ],
+            "comment": "society"
+        },
+        {
+            "question": "申请",
+            "answers": [
+                "ㄕㄣ ㄑㄧㄥˇ",
+                "shen1 qing3"
+            ],
+            "comment": "apply for; application"
+        },
+        {
+            "question": "深",
+            "answers": [
+                "ㄕㄣ",
+                "shen1"
+            ],
+            "comment": "deep; profound; dark (of colors)"
+        },
+        {
+            "question": "甚至",
+            "answers": [
+                "ㄕㄣˋ ㄓˋ",
+                "shen4 zhi4"
+            ],
+            "comment": "even (to the point of); so much so that"
+        },
+        {
+            "question": "生活",
+            "answers": [
+                "ㄕㄥ ㄏㄨㄛˊ",
+                "sheng1 huo2"
+            ],
+            "comment": "life; livelihood; to live"
+        },
+        {
+            "question": "生命",
+            "answers": [
+                "ㄕㄥ ㄇㄧㄥˋ",
+                "sheng1 ming4"
+            ],
+            "comment": "life"
+        },
+        {
+            "question": "生意",
+            "answers": [
+                "ㄕㄥ ㄧ˙",
+                "sheng1 yi"
+            ],
+            "comment": "business; trade"
+        },
+        {
+            "question": "省",
+            "answers": [
+                "ㄕㄥˇ",
+                "sheng3"
+            ],
+            "comment": "to save; economize; omit; province"
+        },
+        {
+            "question": "剩",
+            "answers": [
+                "ㄕㄥˋ",
+                "sheng4"
+            ],
+            "comment": "have as remainder; be left over; surplus"
+        },
+        {
+            "question": "失败",
+            "answers": [
+                "ㄕ ㄅㄞˋ",
+                "shi1 bai4"
+            ],
+            "comment": "be defeated; fail; lose"
+        },
+        {
+            "question": "失望",
+            "answers": [
+                "ㄕ ㄨㄤˋ",
+                "shi1 wang4"
+            ],
+            "comment": "disappointed; lose hope"
+        },
+        {
+            "question": "师傅",
+            "answers": [
+                "ㄕ ㄈㄨ˙",
+                "shi1 fu"
+            ],
+            "comment": "master; qualified worker; teacher"
+        },
+        {
+            "question": "十分",
+            "answers": [
+                "ㄕˊ ㄈㄣ",
+                "shi2 fen1"
+            ],
+            "comment": "very; fully; 100%"
+        },
+        {
+            "question": "实际",
+            "answers": [
+                "ㄕˊ ㄐㄧˋ",
+                "shi2 ji4"
+            ],
+            "comment": "actual; reality; practice"
+        },
+        {
+            "question": "实在",
+            "answers": [
+                "ㄕˊ ㄗㄞˋ",
+                "shi2 zai4"
+            ],
+            "comment": "honest; in reality; honestly; indeed; certainly"
+        },
+        {
+            "question": "使",
+            "answers": [
+                "ㄕˇ",
+                "shi3"
+            ],
+            "comment": "to use; to make; to cause; enable; envoy; messenger"
+        },
+        {
+            "question": "使用",
+            "answers": [
+                "ㄕˇ ㄩㄥˋ",
+                "shi3 yong4"
+            ],
+            "comment": "to use; employ; apply; administer; manipulate"
+        },
+        {
+            "question": "世纪",
+            "answers": [
+                "ㄕˋ ㄐㄧˋ",
+                "shi4 ji4"
+            ],
+            "comment": "century"
+        },
+        {
+            "question": "是否",
+            "answers": [
+                "ㄕˋ ㄈㄡˇ",
+                "shi4 fou3"
+            ],
+            "comment": "whether (or not); if"
+        },
+        {
+            "question": "适合",
+            "answers": [
+                "ㄕˋ ㄏㄜˊ",
+                "shi4 he2"
+            ],
+            "comment": "to suit; to fit"
+        },
+        {
+            "question": "适应",
+            "answers": [
+                "ㄕˋ ㄧㄥˋ",
+                "shi4 ying4"
+            ],
+            "comment": "to suit; to fit; adapt"
+        },
+        {
+            "question": "收",
+            "answers": [
+                "ㄕㄡ",
+                "shou1"
+            ],
+            "comment": "receive; accept; collect; to harvest"
+        },
+        {
+            "question": "收入",
+            "answers": [
+                "ㄕㄡ ㄖㄨˋ",
+                "shou1 ru4"
+            ],
+            "comment": "take in; income; revenue"
+        },
+        {
+            "question": "收拾",
+            "answers": [
+                "ㄕㄡ ㄕ˙",
+                "shou1 shi"
+            ],
+            "comment": "to tidy; put in order; to repair; to settle with; punish"
+        },
+        {
+            "question": "首都",
+            "answers": [
+                "ㄕㄡˇ ㄉㄨ",
+                "shou3 du1"
+            ],
+            "comment": "capital (city)"
+        },
+        {
+            "question": "首先",
+            "answers": [
+                "ㄕㄡˇ ㄒㄧㄢ",
+                "shou3 xian1"
+            ],
+            "comment": "first (of all); in the first place; firstly"
+        },
+        {
+            "question": "受不了",
+            "answers": [
+                "ㄕㄡˋ ㄅㄨ˙ ㄌㄧㄠˇ",
+                "shou4 bu liao3"
+            ],
+            "comment": "cannot endure; unbearable; can't stand"
+        },
+        {
+            "question": "受到",
+            "answers": [
+                "ㄕㄡˋ ㄉㄠˋ",
+                "shou4 dao4"
+            ],
+            "comment": "receive (influence, restriction, etc.); be subjected to"
+        },
+        {
+            "question": "售货员",
+            "answers": [
+                "ㄕㄡˋ ㄏㄨㄛˋ ㄩㄢˊ",
+                "shou4 huo4 yuan2"
+            ],
+            "comment": "salesclerk; shop assistant"
+        },
+        {
+            "question": "输",
+            "answers": [
+                "ㄕㄨ",
+                "shu1"
+            ],
+            "comment": "to transport; to lose (a game, etc.)"
+        },
+        {
+            "question": "熟悉",
+            "answers": [
+                "ㄕㄨˊ ㄒㄧ",
+                "shu2 xi1"
+            ],
+            "comment": "familiar with; know well"
+        },
+        {
+            "question": "数量",
+            "answers": [
+                "ㄕㄨˋ ㄌㄧㄤˋ",
+                "shu4 liang4"
+            ],
+            "comment": "amount; quantity; number"
+        },
+        {
+            "question": "数字",
+            "answers": [
+                "ㄕㄨˋ ㄗˋ",
+                "shu4 zi4"
+            ],
+            "comment": "number; numeral; figure; digit"
+        },
+        {
+            "question": "帅",
+            "answers": [
+                "ㄕㄨㄞˋ",
+                "shuai4"
+            ],
+            "comment": "handsome; graceful; commander-in-chief"
+        },
+        {
+            "question": "顺便",
+            "answers": [
+                "ㄕㄨㄣˋ ㄅㄧㄢˋ",
+                "shun4 bian4"
+            ],
+            "comment": "conveniently; in passing; on the way"
+        },
+        {
+            "question": "顺利",
+            "answers": [
+                "ㄕㄨㄣˋ ㄌㄧˋ",
+                "shun4 li4"
+            ],
+            "comment": "go smoothly; without a hitch; successful"
+        },
+        {
+            "question": "顺序",
+            "answers": [
+                "ㄕㄨㄣˋ ㄒㄩˋ",
+                "shun4 xu4"
+            ],
+            "comment": "sequence; order"
+        },
+        {
+            "question": "说明",
+            "answers": [
+                "ㄕㄨㄛ ㄇㄧㄥˊ",
+                "shuo1 ming2"
+            ],
+            "comment": "explain; explanation; illustrate; to show"
+        },
+        {
+            "question": "硕士",
+            "answers": [
+                "ㄕㄨㄛˋ ㄕˋ",
+                "shuo4 shi4"
+            ],
+            "comment": "Master's degree (M.A.)"
+        },
+        {
+            "question": "死",
+            "answers": [
+                "ㄙˇ",
+                "si3"
+            ],
+            "comment": "to die; dead; fixed; impassible; extremely"
+        },
+        {
+            "question": "速度",
+            "answers": [
+                "ㄙㄨˋ ㄉㄨˋ",
+                "su4 du4"
+            ],
+            "comment": "speed; rate; velocity"
+        },
+        {
+            "question": "塑料袋",
+            "answers": [
+                "ㄙㄨˋ ㄌㄧㄠˋ ㄉㄞˋ",
+                "su4 liao4 dai4"
+            ],
+            "comment": "plastic bag"
+        },
+        {
+            "question": "酸",
+            "answers": [
+                "ㄙㄨㄢ",
+                "suan1"
+            ],
+            "comment": "sour; sore; ache"
+        },
+        {
+            "question": "随便",
+            "answers": [
+                "ㄙㄨㄟˊ ㄅㄧㄢˋ",
+                "sui2 bian4"
+            ],
+            "comment": "as one pleases; informal; random; casual"
+        },
+        {
+            "question": "随着",
+            "answers": [
+                "ㄙㄨㄟˊ ㄓㄜ˙",
+                "sui2 zhe"
+            ],
+            "comment": "along with; in the wake of"
+        },
+        {
+            "question": "孙子",
+            "answers": [
+                "ㄙㄨㄣ ㄗ˙",
+                "sun1 zi"
+            ],
+            "comment": "grandson; son's son"
+        },
+        {
+            "question": "所有",
+            "answers": [
+                "ㄙㄨㄛˇ ㄧㄡˇ",
+                "suo3 you3"
+            ],
+            "comment": "all; to have; to possess"
+        },
+        {
+            "question": "台",
+            "answers": [
+                "ㄊㄞˊ",
+                "tai2"
+            ],
+            "comment": "platform; Taiwan (abbr.); desk; stage; typhoon; (mw for machines); (classical) you (in letters)"
+        },
+        {
+            "question": "抬",
+            "answers": [
+                "ㄊㄞˊ",
+                "tai2"
+            ],
+            "comment": "to lift; to raise (with both palms up); carry (together)"
+        },
+        {
+            "question": "态度",
+            "answers": [
+                "ㄊㄞˋ ㄉㄨ˙",
+                "tai4 du"
+            ],
+            "comment": "manner; bearing; attitude"
+        },
+        {
+            "question": "谈",
+            "answers": [
+                "ㄊㄢˊ",
+                "tan2"
+            ],
+            "comment": "to talk; to chat; discuss"
+        },
+        {
+            "question": "弹钢琴",
+            "answers": [
+                "ㄊㄢˊ ㄍㄤ ㄑㄧㄣˊ",
+                "tan2 gang1 qin2"
+            ],
+            "comment": "play the piano"
+        },
+        {
+            "question": "汤",
+            "answers": [
+                "ㄊㄤ",
+                "tang1"
+            ],
+            "comment": "soup; broth"
+        },
+        {
+            "question": "糖",
+            "answers": [
+                "ㄊㄤˊ",
+                "tang2"
+            ],
+            "comment": "sugar; candy; sweets"
+        },
+        {
+            "question": "躺",
+            "answers": [
+                "ㄊㄤˇ",
+                "tang3"
+            ],
+            "comment": "recline; lie down (on back or side)"
+        },
+        {
+            "question": "趟",
+            "answers": [
+                "ㄊㄤˋ , ㄊㄤ",
+                "tang4 , tang1"
+            ],
+            "comment": "(mw for trips times) | to wade"
+        },
+        {
+            "question": "讨论",
+            "answers": [
+                "ㄊㄠˇ ㄌㄨㄣˋ",
+                "tao3 lun4"
+            ],
+            "comment": "to discuss; discussion; to talk over"
+        },
+        {
+            "question": "讨厌",
+            "answers": [
+                "ㄊㄠˇ ㄧㄢˋ",
+                "tao3 yan4"
+            ],
+            "comment": "to hate; loathe; disgusting; troublesome"
+        },
+        {
+            "question": "特点",
+            "answers": [
+                "ㄊㄜˋ ㄉㄧㄢˇ",
+                "te4 dian3"
+            ],
+            "comment": "a characteristic; trait; feature"
+        },
+        {
+            "question": "提",
+            "answers": [
+                "ㄊㄧˊ",
+                "ti2"
+            ],
+            "comment": "to carry; to lift; to raise (an issue)"
+        },
+        {
+            "question": "提供",
+            "answers": [
+                "ㄊㄧˊ ㄍㄨㄥ",
+                "ti2 gong1"
+            ],
+            "comment": "to supply; provide; furnish"
+        },
+        {
+            "question": "提前",
+            "answers": [
+                "ㄊㄧˊ ㄑㄧㄢˊ",
+                "ti2 qian2"
+            ],
+            "comment": "shift to an earlier date; bring forward; to advance"
+        },
+        {
+            "question": "提醒",
+            "answers": [
+                "ㄊㄧˊ ㄒㄧㄥˇ",
+                "ti2 xing3"
+            ],
+            "comment": "remind; call attention to; warn of"
+        },
+        {
+            "question": "填空",
+            "answers": [
+                "ㄊㄧㄢˊ ㄎㄨㄥˋ",
+                "tian2 kong4"
+            ],
+            "comment": "fill in the blanks; fill a vacancy"
+        },
+        {
+            "question": "条件",
+            "answers": [
+                "ㄊㄧㄠˊ ㄐㄧㄢˋ",
+                "tiao2 jian4"
+            ],
+            "comment": "condition; circumstances; prerequisite"
+        },
+        {
+            "question": "停",
+            "answers": [
+                "ㄊㄧㄥˊ",
+                "ting2"
+            ],
+            "comment": "to stop; to halt; to park (a car)"
+        },
+        {
+            "question": "挺",
+            "answers": [
+                "ㄊㄧㄥˇ",
+                "ting3"
+            ],
+            "comment": "straighten up; stick out; rather (good); very"
+        },
+        {
+            "question": "通过",
+            "answers": [
+                "ㄊㄨㄥ ㄍㄨㄛˋ",
+                "tong1 guo4"
+            ],
+            "comment": "by means of; through (a method); pass through; via"
+        },
+        {
+            "question": "通知",
+            "answers": [
+                "ㄊㄨㄥ ㄓ",
+                "tong1 zhi1"
+            ],
+            "comment": "notify; to inform; notice"
+        },
+        {
+            "question": "同情",
+            "answers": [
+                "ㄊㄨㄥˊ ㄑㄧㄥˊ",
+                "tong2 qing2"
+            ],
+            "comment": "compassion; sympathy"
+        },
+        {
+            "question": "同时",
+            "answers": [
+                "ㄊㄨㄥˊ ㄕˊ",
+                "tong2 shi2"
+            ],
+            "comment": "at the same time; simultaneously"
+        },
+        {
+            "question": "推",
+            "answers": [
+                "ㄊㄨㄟ",
+                "tui1"
+            ],
+            "comment": "to push; to scrape; to decline; postpone; elect"
+        },
+        {
+            "question": "推迟",
+            "answers": [
+                "ㄊㄨㄟ ㄔˊ",
+                "tui1 chi2"
+            ],
+            "comment": "postpone; defer"
+        },
+        {
+            "question": "脱",
+            "answers": [
+                "ㄊㄨㄛ",
+                "tuo1"
+            ],
+            "comment": "to shed; take off; to escape"
+        },
+        {
+            "question": "袜子",
+            "answers": [
+                "ㄨㄚˋ ㄗ˙",
+                "wa4 zi"
+            ],
+            "comment": "socks; stockings"
+        },
+        {
+            "question": "完全",
+            "answers": [
+                "ㄨㄢˊ ㄑㄩㄢˊ",
+                "wan2 quan2"
+            ],
+            "comment": "complete; whole; totally"
+        },
+        {
+            "question": "网球",
+            "answers": [
+                "ㄨㄤˇ ㄑㄧㄡˊ",
+                "wang3 qiu2"
+            ],
+            "comment": "tennis; tennis ball"
+        },
+        {
+            "question": "网站",
+            "answers": [
+                "ㄨㄤˇ ㄓㄢˋ",
+                "wang3 zhan4"
+            ],
+            "comment": "website"
+        },
+        {
+            "question": "往往",
+            "answers": [
+                "ㄨㄤˇ ㄨㄤˇ",
+                "wang3 wang3"
+            ],
+            "comment": "often; frequently; more often than not"
+        },
+        {
+            "question": "危险",
+            "answers": [
+                "ㄨㄟ ㄒㄧㄢˇ",
+                "wei1 xian3"
+            ],
+            "comment": "danger; dangerous; perilous"
+        },
+        {
+            "question": "卫生间",
+            "answers": [
+                "ㄨㄟˋ ㄕㄥ ㄐㄧㄢ",
+                "wei4 sheng1 jian1"
+            ],
+            "comment": "restroom; bathroom; water closet (WC)"
+        },
+        {
+            "question": "味道",
+            "answers": [
+                "ㄨㄟˋ ㄉㄠ˙",
+                "wei4 dao"
+            ],
+            "comment": "flavor; taste"
+        },
+        {
+            "question": "温度",
+            "answers": [
+                "ㄨㄣ ㄉㄨˋ",
+                "wen1 du4"
+            ],
+            "comment": "temperature"
+        },
+        {
+            "question": "文章",
+            "answers": [
+                "ㄨㄣˊ ㄓㄤ",
+                "wen2 zhang1"
+            ],
+            "comment": "article; essay"
+        },
+        {
+            "question": "污染",
+            "answers": [
+                "ㄨ ㄖㄢˇ",
+                "wu1 ran3"
+            ],
+            "comment": "pollution; contamination"
+        },
+        {
+            "question": "无",
+            "answers": [
+                "ㄨˊ",
+                "wu2"
+            ],
+            "comment": "have not; without; not (Kangxi radical 71)"
+        },
+        {
+            "question": "无聊",
+            "answers": [
+                "ㄨˊ ㄌㄧㄠˊ",
+                "wu2 liao2"
+            ],
+            "comment": "nonsense; bored; silly; stupid"
+        },
+        {
+            "question": "无论",
+            "answers": [
+                "ㄨˊ ㄌㄨㄣˋ",
+                "wu2 lun4"
+            ],
+            "comment": "no matter what; regardless of whether..."
+        },
+        {
+            "question": "误会",
+            "answers": [
+                "ㄨˋ ㄏㄨㄟˋ",
+                "wu4 hui4"
+            ],
+            "comment": "to misunderstand; to mistake"
+        },
+        {
+            "question": "西红柿",
+            "answers": [
+                "ㄒㄧ ㄏㄨㄥˊ ㄕˋ",
+                "xi1 hong2 shi4"
+            ],
+            "comment": "tomato"
+        },
+        {
+            "question": "吸引",
+            "answers": [
+                "ㄒㄧ ㄧㄣˇ",
+                "xi1 yin3"
+            ],
+            "comment": "attract (interest, investment, etc.)"
+        },
+        {
+            "question": "咸",
+            "answers": [
+                "ㄒㄧㄢˊ",
+                "xian2"
+            ],
+            "comment": "salty; salted; all"
+        },
+        {
+            "question": "现金",
+            "answers": [
+                "ㄒㄧㄢˋ ㄐㄧㄣ",
+                "xian4 jin1"
+            ],
+            "comment": "cash"
+        },
+        {
+            "question": "羡慕",
+            "answers": [
+                "ㄒㄧㄢˋ ㄇㄨˋ",
+                "xian4 mu4"
+            ],
+            "comment": "to envy; admire"
+        },
+        {
+            "question": "相反",
+            "answers": [
+                "ㄒㄧㄤ ㄈㄢˇ",
+                "xiang1 fan3"
+            ],
+            "comment": "opposite; contrary"
+        },
+        {
+            "question": "相同",
+            "answers": [
+                "ㄒㄧㄤ ㄊㄨㄥˊ",
+                "xiang1 tong2"
+            ],
+            "comment": "identical; same; alike"
+        },
+        {
+            "question": "香",
+            "answers": [
+                "ㄒㄧㄤ",
+                "xiang1"
+            ],
+            "comment": "fragrant; savory (Kangxi radical 186)"
+        },
+        {
+            "question": "详细",
+            "answers": [
+                "ㄒㄧㄤˊ ㄒㄧˋ",
+                "xiang2 xi4"
+            ],
+            "comment": "detailed; in detail; minute"
+        },
+        {
+            "question": "响",
+            "answers": [
+                "ㄒㄧㄤˇ",
+                "xiang3"
+            ],
+            "comment": "make a sound; to ring; echo"
+        },
+        {
+            "question": "橡皮",
+            "answers": [
+                "ㄒㄧㄤˋ ㄆㄧˊ",
+                "xiang4 pi2"
+            ],
+            "comment": "rubber; an eraser"
+        },
+        {
+            "question": "消息",
+            "answers": [
+                "ㄒㄧㄠ ㄒㄧ˙",
+                "xiao1 xi"
+            ],
+            "comment": "news; information"
+        },
+        {
+            "question": "小吃",
+            "answers": [
+                "ㄒㄧㄠˇ ㄔ",
+                "xiao3 chi1"
+            ],
+            "comment": "snack; refreshments"
+        },
+        {
+            "question": "小伙子",
+            "answers": [
+                "ㄒㄧㄠˇ ㄏㄨㄛˇ ㄗ˙",
+                "xiao3 huo3 zi"
+            ],
+            "comment": "young man; lad; youngster"
+        },
+        {
+            "question": "小说",
+            "answers": [
+                "ㄒㄧㄠˇ ㄕㄨㄛ",
+                "xiao3 shuo1"
+            ],
+            "comment": "novel; fiction"
+        },
+        {
+            "question": "笑话",
+            "answers": [
+                "ㄒㄧㄠˋ ㄏㄨㄚ˙",
+                "xiao4 hua"
+            ],
+            "comment": "joke; laugh at"
+        },
+        {
+            "question": "效果",
+            "answers": [
+                "ㄒㄧㄠˋ ㄍㄨㄛˇ",
+                "xiao4 guo3"
+            ],
+            "comment": "effect; result"
+        },
+        {
+            "question": "心情",
+            "answers": [
+                "ㄒㄧㄣ ㄑㄧㄥˊ",
+                "xin1 qing2"
+            ],
+            "comment": "mood; state of mind"
+        },
+        {
+            "question": "辛苦",
+            "answers": [
+                "ㄒㄧㄣ ㄎㄨˇ",
+                "xin1 ku3"
+            ],
+            "comment": "hard; exhausting; toilsome; laborious"
+        },
+        {
+            "question": "信封",
+            "answers": [
+                "ㄒㄧㄣˋ ㄈㄥ",
+                "xin4 feng1"
+            ],
+            "comment": "envelope"
+        },
+        {
+            "question": "信息",
+            "answers": [
+                "ㄒㄧㄣˋ ㄒㄧ",
+                "xin4 xi1"
+            ],
+            "comment": "information; news; message"
+        },
+        {
+            "question": "信心",
+            "answers": [
+                "ㄒㄧㄣˋ ㄒㄧㄣ",
+                "xin4 xin1"
+            ],
+            "comment": "confidence; faith (in sb. or sth.)"
+        },
+        {
+            "question": "兴奋",
+            "answers": [
+                "ㄒㄧㄥ ㄈㄣˋ",
+                "xing1 fen4"
+            ],
+            "comment": "excitement； be excited"
+        },
+        {
+            "question": "行",
+            "answers": [
+                "ㄒㄧㄥˊ",
+                "xing2"
+            ],
+            "comment": "walk; be current; do; will do; okay"
+        },
+        {
+            "question": "醒",
+            "answers": [
+                "ㄒㄧㄥˇ",
+                "xing3"
+            ],
+            "comment": "wake up"
+        },
+        {
+            "question": "幸福",
+            "answers": [
+                "ㄒㄧㄥˋ ㄈㄨˊ",
+                "xing4 fu2"
+            ],
+            "comment": "happy; blessed; fortunate"
+        },
+        {
+            "question": "性别",
+            "answers": [
+                "ㄒㄧㄥˋ ㄅㄧㄝˊ",
+                "xing4 bie2"
+            ],
+            "comment": "gender; sex; sexual distinction"
+        },
+        {
+            "question": "性格",
+            "answers": [
+                "ㄒㄧㄥˋ ㄍㄜˊ",
+                "xing4 ge2"
+            ],
+            "comment": "nature; personality; temperament"
+        },
+        {
+            "question": "修理",
+            "answers": [
+                "ㄒㄧㄡ ㄌㄧˇ",
+                "xiu1 li3"
+            ],
+            "comment": "to repair; perform maintenance; to overhaul"
+        },
+        {
+            "question": "许多",
+            "answers": [
+                "ㄒㄩˇ ㄉㄨㄛ",
+                "xu3 duo1"
+            ],
+            "comment": "many; a lot; much"
+        },
+        {
+            "question": "学期",
+            "answers": [
+                "ㄒㄩㄝˊ ㄑㄧ",
+                "xue2 qi1"
+            ],
+            "comment": "semester; school term"
+        },
+        {
+            "question": "压力",
+            "answers": [
+                "ㄧㄚ ㄌㄧˋ",
+                "ya1 li4"
+            ],
+            "comment": "pressure; stress"
+        },
+        {
+            "question": "呀",
+            "answers": [
+                "ㄧㄚ˙",
+                "ya"
+            ],
+            "comment": "ah; oh; (used for 啊 after words ending with a, e, i, o, or ü)"
+        },
+        {
+            "question": "牙膏",
+            "answers": [
+                "ㄧㄚˊ ㄍㄠ",
+                "ya2 gao1"
+            ],
+            "comment": "toothpaste"
+        },
+        {
+            "question": "亚洲",
+            "answers": [
+                "ㄧㄚˋ ㄓㄡ",
+                "Ya4 zhou1"
+            ],
+            "comment": "Asia"
+        },
+        {
+            "question": "严格",
+            "answers": [
+                "ㄧㄤˊ ㄜˊ",
+                "yang2 e2"
+            ],
+            "comment": "strict; stringent; tight"
+        },
+        {
+            "question": "严重",
+            "answers": [
+                "ㄧㄢˊ ㄓㄨㄥˋ",
+                "yan2 zhong4"
+            ],
+            "comment": "grave; serious; critical"
+        },
+        {
+            "question": "研究",
+            "answers": [
+                "ㄧㄢˊ ㄐㄧㄡ",
+                "yan2 jiu1"
+            ],
+            "comment": "to study; to research"
+        },
+        {
+            "question": "盐",
+            "answers": [
+                "ㄧㄢˊ",
+                "yan2"
+            ],
+            "comment": "salt"
+        },
+        {
+            "question": "眼镜",
+            "answers": [
+                "ㄧㄢˇ ㄐㄧㄥˋ",
+                "yan3 jing4"
+            ],
+            "comment": "glasses; spectacles"
+        },
+        {
+            "question": "演出",
+            "answers": [
+                "ㄧㄢˇ ㄔㄨ",
+                "yan3 chu1"
+            ],
+            "comment": "to act (in a play); to perform; to put on a show; performance"
+        },
+        {
+            "question": "演员",
+            "answers": [
+                "ㄧㄢˇ ㄩㄢˊ",
+                "yan3 yuan2"
+            ],
+            "comment": "actor or actress; performer"
+        },
+        {
+            "question": "阳光",
+            "answers": [
+                "ㄧㄤˊ ㄍㄨㄤ",
+                "yang2 guang1"
+            ],
+            "comment": "sunshine; sunlight"
+        },
+        {
+            "question": "养成",
+            "answers": [
+                "ㄧㄤˇ ㄔㄥˊ",
+                "yang3 cheng2"
+            ],
+            "comment": "cultivate; acquire; to form"
+        },
+        {
+            "question": "样子",
+            "answers": [
+                "ㄧㄤˋ ㄗ˙",
+                "yang4 zi"
+            ],
+            "comment": "manner; air; appearance; looks"
+        },
+        {
+            "question": "邀请",
+            "answers": [
+                "ㄧㄠ ㄑㄧㄥˇ",
+                "yao1 qing3"
+            ],
+            "comment": "to invite"
+        },
+        {
+            "question": "要是",
+            "answers": [
+                "ㄧㄠˋ ㄕ˙",
+                "yao4 shi"
+            ],
+            "comment": "if; suppose; in case"
+        },
+        {
+            "question": "钥匙",
+            "answers": [
+                "ㄧㄠˋ ㄕ˙",
+                "yao4 shi"
+            ],
+            "comment": "key"
+        },
+        {
+            "question": "也许",
+            "answers": [
+                "ㄧㄝˇ ㄒㄩˇ",
+                "ye3 xu3"
+            ],
+            "comment": "perhaps; probably; maybe"
+        },
+        {
+            "question": "叶子",
+            "answers": [
+                "ㄧㄝˋ ㄗ˙",
+                "ye4 zi"
+            ],
+            "comment": "leaves"
+        },
+        {
+            "question": "页",
+            "answers": [
+                "ㄧㄝˋ",
+                "ye4"
+            ],
+            "comment": "page; leaf (Kangxi radical 181)"
+        },
+        {
+            "question": "一切",
+            "answers": [
+                "ㄧˊ ㄑㄧㄝˋ",
+                "yi2 qie4"
+            ],
+            "comment": "all; every; everything"
+        },
+        {
+            "question": "以",
+            "answers": [
+                "ㄧˇ",
+                "yi3"
+            ],
+            "comment": "to use; according to; so as to; for; by"
+        },
+        {
+            "question": "以为",
+            "answers": [
+                "ㄧˇ ㄨㄟˊ",
+                "yi3 wei2"
+            ],
+            "comment": "think (mistakenly); consider (that); believe"
+        },
+        {
+            "question": "艺术",
+            "answers": [
+                "ㄧˋ ㄕㄨˋ",
+                "yi4 shu4"
+            ],
+            "comment": "art"
+        },
+        {
+            "question": "意见",
+            "answers": [
+                "ㄧˋ ㄐㄧㄢˋ",
+                "yi4 jian4"
+            ],
+            "comment": "opinion; view; suggestion; complaint"
+        },
+        {
+            "question": "因此",
+            "answers": [
+                "ㄧㄣ ㄘˇ",
+                "yin1 ci3"
+            ],
+            "comment": "therefore; thus; that is why; because of this"
+        },
+        {
+            "question": "引起",
+            "answers": [
+                "ㄧㄣˇ ㄑㄧˇ",
+                "yin3 qi3"
+            ],
+            "comment": "give rise to; lead to; to cause; arouse"
+        },
+        {
+            "question": "印象",
+            "answers": [
+                "ㄧㄣˋ ㄒㄧㄤˋ",
+                "yin4 xiang4"
+            ],
+            "comment": "impression"
+        },
+        {
+            "question": "赢",
+            "answers": [
+                "ㄧㄥˊ",
+                "ying2"
+            ],
+            "comment": "to win; to beat; to profit"
+        },
+        {
+            "question": "应聘",
+            "answers": [
+                "ㄧㄥˋ ㄆㄧㄣˋ",
+                "ying4 pin4"
+            ],
+            "comment": "accept a job offer; to apply for a job"
+        },
+        {
+            "question": "永远",
+            "answers": [
+                "ㄩㄥˇ ㄩㄢˇ",
+                "yong3 yuan3"
+            ],
+            "comment": "forever; eternal; always"
+        },
+        {
+            "question": "勇敢",
+            "answers": [
+                "ㄩㄥˇ ㄍㄢˇ",
+                "yong3 gan3"
+            ],
+            "comment": "brave; courageous"
+        },
+        {
+            "question": "优点",
+            "answers": [
+                "ㄧㄡ ㄉㄧㄢˇ",
+                "you1 dian3"
+            ],
+            "comment": "merit; good point; a strength; a benefit"
+        },
+        {
+            "question": "优秀",
+            "answers": [
+                "ㄧㄡ ㄒㄧㄡˋ",
+                "you1 xiu4"
+            ],
+            "comment": "outstanding; excellent"
+        },
+        {
+            "question": "幽默",
+            "answers": [
+                "ㄧㄡ ㄇㄛˋ",
+                "you1 mo4"
+            ],
+            "comment": "humorous"
+        },
+        {
+            "question": "尤其",
+            "answers": [
+                "ㄧㄡˊ ㄑㄧˊ",
+                "you2 qi2"
+            ],
+            "comment": "especially; particularly"
+        },
+        {
+            "question": "由",
+            "answers": [
+                "ㄧㄡˊ",
+                "you2"
+            ],
+            "comment": "follow; from; by; through"
+        },
+        {
+            "question": "由于",
+            "answers": [
+                "ㄧㄡˊ ㄩˊ",
+                "you2 yu2"
+            ],
+            "comment": "due to; owing to; as a result of; thanks to"
+        },
+        {
+            "question": "邮局",
+            "answers": [
+                "ㄧㄡˊ ㄐㄩˊ",
+                "you2 ju2"
+            ],
+            "comment": "post office"
+        },
+        {
+            "question": "友好",
+            "answers": [
+                "ㄧㄡˇ ㄏㄠˇ",
+                "you3 hao3"
+            ],
+            "comment": "friendly (relations); close friends"
+        },
+        {
+            "question": "友谊",
+            "answers": [
+                "ㄧㄡˇ ㄧˋ",
+                "you3 yi4"
+            ],
+            "comment": "friendship; companionship"
+        },
+        {
+            "question": "有趣",
+            "answers": [
+                "ㄧㄡˇ ㄑㄩˋ",
+                "you3 qu4"
+            ],
+            "comment": "interesting; fascinating; amusing"
+        },
+        {
+            "question": "于是",
+            "answers": [
+                "ㄩˊ ㄕˋ",
+                "yu2 shi4"
+            ],
+            "comment": "as a result; thus; therefore"
+        },
+        {
+            "question": "愉快",
+            "answers": [
+                "ㄩˊ ㄎㄨㄞˋ",
+                "yu2 kuai4"
+            ],
+            "comment": "happy; cheerful; delightful"
+        },
+        {
+            "question": "与",
+            "answers": [
+                "ㄩˇ",
+                "yu3"
+            ],
+            "comment": "(formal) and; to give; together with; participate; final particle expressing doubt or surprise"
+        },
+        {
+            "question": "羽毛球",
+            "answers": [
+                "ㄩˇ ㄇㄠˊ ㄑㄧㄡˊ",
+                "yu3 mao2 qiu2"
+            ],
+            "comment": "badminton"
+        },
+        {
+            "question": "语法",
+            "answers": [
+                "ㄩˇ ㄈㄚˇ",
+                "yu3 fa3"
+            ],
+            "comment": "grammar"
+        },
+        {
+            "question": "语言",
+            "answers": [
+                "ㄩˇ ㄧㄢˊ",
+                "yu3 yan2"
+            ],
+            "comment": "language"
+        },
+        {
+            "question": "预习",
+            "answers": [
+                "ㄩˋ ㄒㄧˊ",
+                "yu4 xi2"
+            ],
+            "comment": "(of students) prepare a lesson before class; preview"
+        },
+        {
+            "question": "原来",
+            "answers": [
+                "ㄩㄢˊ ㄌㄞˊ",
+                "yuan2 lai2"
+            ],
+            "comment": "original; former; as it turns out"
+        },
+        {
+            "question": "原谅",
+            "answers": [
+                "ㄩㄢˊ ㄌㄧㄤˋ",
+                "yuan2 liang4"
+            ],
+            "comment": "to excuse; forgive; to pardon"
+        },
+        {
+            "question": "原因",
+            "answers": [
+                "ㄩㄢˊ ㄧㄣ",
+                "yuan2 yin1"
+            ],
+            "comment": "cause; reason"
+        },
+        {
+            "question": "约会",
+            "answers": [
+                "ㄩㄝ ㄏㄨㄟˋ",
+                "yue1 hui4"
+            ],
+            "comment": "appointment; engagement; date"
+        },
+        {
+            "question": "阅读",
+            "answers": [
+                "ㄩㄝˋ ㄉㄨˊ",
+                "yue4 du2"
+            ],
+            "comment": "read; reading"
+        },
+        {
+            "question": "云",
+            "answers": [
+                "ㄩㄣˊ",
+                "yun2"
+            ],
+            "comment": "cloud; Yunnan province | say; speak"
+        },
+        {
+            "question": "允许",
+            "answers": [
+                "ㄩㄣˇ ㄒㄩˇ",
+                "yun3 xu3"
+            ],
+            "comment": "to permit; allow"
+        },
+        {
+            "question": "杂志",
+            "answers": [
+                "ㄗㄚˊ ㄓˋ",
+                "za2 zhi4"
+            ],
+            "comment": "magazine"
+        },
+        {
+            "question": "咱们",
+            "answers": [
+                "ㄗㄢˊ ㄇㄣ˙",
+                "zan2 men"
+            ],
+            "comment": "we (including the listener); us; our"
+        },
+        {
+            "question": "暂时",
+            "answers": [
+                "ㄗㄢˋ ㄕˊ",
+                "zan4 shi2"
+            ],
+            "comment": "temporary; transient; for the moment"
+        },
+        {
+            "question": "脏",
+            "answers": [
+                "ㄗㄤ",
+                "zang1"
+            ],
+            "comment": "filthy; dirty"
+        },
+        {
+            "question": "责任",
+            "answers": [
+                "ㄗㄜ˙ ㄦˊ ㄣˋ",
+                "zer2 en4"
+            ],
+            "comment": "responsibility; blame; duty"
+        },
+        {
+            "question": "增加",
+            "answers": [
+                "ㄗㄥ ㄐㄧㄚ",
+                "zeng1 jia1"
+            ],
+            "comment": "to increase; to raise; add"
+        },
+        {
+            "question": "占线",
+            "answers": [
+                "ㄓㄢˋ ㄒㄧㄢˋ",
+                "zhan4 xian4"
+            ],
+            "comment": "the (phone) line is busy"
+        },
+        {
+            "question": "招聘",
+            "answers": [
+                "ㄓㄠ ㄆㄧㄣˋ",
+                "zhao1 pin4"
+            ],
+            "comment": "recruitment; take job applications for a job"
+        },
+        {
+            "question": "照",
+            "answers": [
+                "ㄓㄠˋ",
+                "zhao4"
+            ],
+            "comment": "to shine; illuminate; according to"
+        },
+        {
+            "question": "真正",
+            "answers": [
+                "ㄓㄣ ㄓㄥˋ",
+                "zhen1 zheng4"
+            ],
+            "comment": "genuine; real; true"
+        },
+        {
+            "question": "整理",
+            "answers": [
+                "ㄓㄥˇ ㄌㄧˇ",
+                "zheng3 li3"
+            ],
+            "comment": "put in order; arrange; straighten up; to tidy; to pack (luggage)"
+        },
+        {
+            "question": "正常",
+            "answers": [
+                "ㄓㄥˋ ㄔㄤˊ",
+                "zheng4 chang2"
+            ],
+            "comment": "normal; regular; ordinary"
+        },
+        {
+            "question": "正好",
+            "answers": [
+                "ㄓㄥˋ ㄏㄠˇ",
+                "zheng4 hao3"
+            ],
+            "comment": "just (in time); just right; just enough; happen to; by chance"
+        },
+        {
+            "question": "正确",
+            "answers": [
+                "ㄓㄥˋ ㄑㄩㄝˋ",
+                "zheng4 que4"
+            ],
+            "comment": "correct; proper"
+        },
+        {
+            "question": "正式",
+            "answers": [
+                "ㄓㄥˋ ㄕˋ",
+                "zheng4 shi4"
+            ],
+            "comment": "formal; official"
+        },
+        {
+            "question": "证明",
+            "answers": [
+                "ㄓㄥˋ ㄇㄧㄥˊ",
+                "zheng4 ming2"
+            ],
+            "comment": "proof; testify; confirm; certificate"
+        },
+        {
+            "question": "之",
+            "answers": [
+                "ㄓ",
+                "zhi1"
+            ],
+            "comment": "(literary equivalent to 的); (pronoun); of"
+        },
+        {
+            "question": "支持",
+            "answers": [
+                "ㄓ ㄔˊ",
+                "zhi1 chi2"
+            ],
+            "comment": "sustain; hold out; | support; stand by (e.g. international support)"
+        },
+        {
+            "question": "知识",
+            "answers": [
+                "ㄓ ㄕ˙",
+                "zhi1 shi"
+            ],
+            "comment": "knowledge; intellectual"
+        },
+        {
+            "question": "直接",
+            "answers": [
+                "ㄓˊ ㄐㄧㄝ",
+                "zhi2 jie1"
+            ],
+            "comment": "direct; immediate"
+        },
+        {
+            "question": "值得",
+            "answers": [
+                "ㄓˊ ㄉㄜ˙",
+                "zhi2 de"
+            ],
+            "comment": "be worth; deserve"
+        },
+        {
+            "question": "职业",
+            "answers": [
+                "ㄓˊ ㄧㄝˋ",
+                "zhi2 ye4"
+            ],
+            "comment": "profession; occupation"
+        },
+        {
+            "question": "植物",
+            "answers": [
+                "ㄓˊ ㄨˋ",
+                "zhi2 wu4"
+            ],
+            "comment": "plant; botanical; vegetation"
+        },
+        {
+            "question": "只好",
+            "answers": [
+                "ㄓˇ ㄏㄠˇ",
+                "zhi3 hao3"
+            ],
+            "comment": "have to; be forced to"
+        },
+        {
+            "question": "只要",
+            "answers": [
+                "ㄓˇ ㄧㄠˋ",
+                "zhi3 yao4"
+            ],
+            "comment": "so long as; if only; provided that"
+        },
+        {
+            "question": "指",
+            "answers": [
+                "ㄓˇ",
+                "zhi3"
+            ],
+            "comment": "finger; to point (at, to, out); refer to"
+        },
+        {
+            "question": "至少",
+            "answers": [
+                "ㄓˋ ㄕㄠˇ",
+                "zhi4 shao3"
+            ],
+            "comment": "at least; (to say the) least"
+        },
+        {
+            "question": "质量",
+            "answers": [
+                "ㄓˋ ㄌㄧㄤˋ",
+                "zhi4 liang4"
+            ],
+            "comment": "quality; mass (physics)"
+        },
+        {
+            "question": "重",
+            "answers": [
+                "ㄓㄨㄥˋ",
+                "zhong4"
+            ],
+            "comment": "heavy; serious; important"
+        },
+        {
+            "question": "重点",
+            "answers": [
+                "ㄓㄨㄥˋ ㄉㄧㄢˇ",
+                "zhong4 dian3"
+            ],
+            "comment": "emphasis; main point"
+        },
+        {
+            "question": "重视",
+            "answers": [
+                "ㄓㄨㄥˋ ㄕˋ",
+                "zhong4 shi4"
+            ],
+            "comment": "to value; take seriously"
+        },
+        {
+            "question": "周围",
+            "answers": [
+                "ㄓㄡ ㄨㄟˊ",
+                "zhou1 wei2"
+            ],
+            "comment": "surroundings; vicinity; environment"
+        },
+        {
+            "question": "主意",
+            "answers": [
+                "ㄓㄨˇ ㄧ˙",
+                "zhu3 yi"
+            ],
+            "comment": "plan; idea; decision"
+        },
+        {
+            "question": "祝贺",
+            "answers": [
+                "ㄓㄨˋ ㄏㄜˋ",
+                "zhu4 he4"
+            ],
+            "comment": "congratulate"
+        },
+        {
+            "question": "著名",
+            "answers": [
+                "ㄓㄨˋ ㄇㄧㄥˊ",
+                "zhu4 ming2"
+            ],
+            "comment": "famous; well-known; celebration"
+        },
+        {
+            "question": "专门",
+            "answers": [
+                "ㄓㄨㄢ ㄇㄣˊ",
+                "zhuan1 men2"
+            ],
+            "comment": "specialized"
+        },
+        {
+            "question": "专业",
+            "answers": [
+                "ㄓㄨㄢ ㄧㄝˋ",
+                "zhuan1 ye4"
+            ],
+            "comment": "profession; specialized field of study; major"
+        },
+        {
+            "question": "转",
+            "answers": [
+                "ㄓㄨㄢˇ , ㄓㄨㄢˋ",
+                "zhuan3 , zhuan4"
+            ],
+            "comment": "to turn; to change; pass on | revolve; rotate"
+        },
+        {
+            "question": "赚",
+            "answers": [
+                "ㄓㄨㄢˋ",
+                "zhuan4"
+            ],
+            "comment": "earn; make a profit"
+        },
+        {
+            "question": "准确",
+            "answers": [
+                "ㄓㄨㄣˇ ㄑㄩㄝˋ",
+                "zhun3 que4"
+            ],
+            "comment": "accurate; precise"
+        },
+        {
+            "question": "准时",
+            "answers": [
+                "ㄓㄨㄣˇ ㄕˊ",
+                "zhun3 shi2"
+            ],
+            "comment": "punctually; on time"
+        },
+        {
+            "question": "仔细",
+            "answers": [
+                "ㄗˇ ㄒㄧˋ",
+                "zi3 xi4"
+            ],
+            "comment": "careful; attentive; cautious"
+        },
+        {
+            "question": "自然",
+            "answers": [
+                "ㄗˋ ㄖㄢˊ",
+                "zi4 ran2"
+            ],
+            "comment": "nature; natural"
+        },
+        {
+            "question": "自信",
+            "answers": [
+                "ㄗˋ ㄒㄧㄣˋ",
+                "zi4 xin4"
+            ],
+            "comment": "self-confidence"
+        },
+        {
+            "question": "总结",
+            "answers": [
+                "ㄗㄨㄥˇ ㄐㄧㄝˊ",
+                "zong3 jie2"
+            ],
+            "comment": "summarize; conclude"
+        },
+        {
+            "question": "租",
+            "answers": [
+                "ㄗㄨ",
+                "zu1"
+            ],
+            "comment": "to rent"
+        },
+        {
+            "question": "最好",
+            "answers": [
+                "ㄗㄨㄟˋ ㄏㄠˇ",
+                "zui4 hao3"
+            ],
+            "comment": "the best; had better ...; it would be best"
+        },
+        {
+            "question": "尊重",
+            "answers": [
+                "ㄗㄨㄣ ㄓㄨㄥˋ",
+                "zun1 zhong4"
+            ],
+            "comment": "esteem; to respect; to value; to honor"
+        },
+        {
+            "question": "左右",
+            "answers": [
+                "ㄗㄨㄛˇ ㄧㄡˋ",
+                "zuo3 you4"
+            ],
+            "comment": "about; approximate; around | left and right"
+        },
+        {
+            "question": "作家",
+            "answers": [
+                "ㄗㄨㄛˋ ㄐㄧㄚ",
+                "zuo4 jia1"
+            ],
+            "comment": "author; writer"
+        },
+        {
+            "question": "作用",
+            "answers": [
+                "ㄗㄨㄛˋ ㄩㄥˋ",
+                "zuo4 yong4"
+            ],
+            "comment": "action; activity; effect"
+        },
+        {
+            "question": "作者",
+            "answers": [
+                "ㄗㄨㄛˋ ㄓㄜˇ",
+                "zuo4 zhe3"
+            ],
+            "comment": "author; writer"
+        },
+        {
+            "question": "座",
+            "answers": [
+                "ㄗㄨㄛˋ",
+                "zuo4"
+            ],
+            "comment": "(mw for mountains, bridges, tall buildings, etc.); | seat; base; stand; constellation"
+        },
+        {
+            "question": "座位",
+            "answers": [
+                "ㄗㄨㄛˋ ㄨㄟˋ",
+                "zuo4 wei4"
+            ],
+            "comment": "seat; place"
+        }
+    ]
+}

@@ -1,0 +1,1672 @@
+{
+    "description": "Type the correct chengyu given the definition! Source:《新華成語詞典》",
+    "type": "text",
+    "deck": [
+        {
+            "question": "［解釋］安安定；樂喜愛，愉快；業職業。指安定愉快地生活和勞動。\n［出處］《老子》第八十章民各甘其食，美其服，安其俗，樂其業，至老死不相往來。《漢書·貨殖列傳》各安其居而樂其業，甘其食而美其服。\n［例子］一家正～，不想安祿山兵亂，潼關失守，天子西幸。★明·馮夢龍《醒世恆言》卷六",
+            "answers": [
+                "安居樂業"
+            ],
+            "comment": "to live in peace and work happily (idiom)"
+        },
+        {
+            "question": "［解釋］道主張，思想。安於貧窮，以堅持自己的信念為樂。舊時士大夫所主張的為人處世之道。\n［出處］《後漢書·楊彪傳》～，恬於進趣，三輔諸儒莫不慕仰之。\n［例子］勸人～是古今治國平天下的大經絡，開過的方子也很多，但都沒有十全大補的功效。★魯迅《花邊文學·～法》",
+            "answers": [
+                "安貧樂道"
+            ],
+            "comment": "to be content with poverty and strive for virtue (idiom)"
+        },
+        {
+            "question": "［解釋］蒼蒼灰白色。頭髮灰白。形容人的蒼老。\n［出處］唐·韓愈《祭十二郎文》吾年未四十，而視茫茫，而發蒼蒼，而齒牙動搖。",
+            "answers": [
+                "白髮蒼蒼"
+            ],
+            "comment": "old and gray-haired"
+        },
+        {
+            "question": "［解釋］形容百花盛開，豐富多彩。比喻各種不同形式和風格的藝術自由發展。也形容藝術界的繁榮景象。\n［出處］清·李汝珍《鏡花緣》第三回百花仙子只顧在此著棋，那知下界帝王忽有御旨命他～。\n［例子］美術展覽會上展出了許多新作品，～，各具風格。",
+            "answers": [
+                "百花齊放"
+            ],
+            "comment": "a hundred flowers bloom (idiom); let the arts have free expression"
+        },
+        {
+            "question": "［解釋］指各種學術流派的自由爭論互相批評。也指不同意見的爭論。百家，這種觀點的人或各種學術派別。鳴，發表見解。\n［出處］《漢書·藝文志》凡諸子百八十九家……蜂出並作，各引一端，崇其所說，以此弛說，取捨諸候。\n［例子］自春秋末年以來，中國的思想得到一個極大的開放，呈現出一個～的局面。★郭沫若《呂不韋與秦王政的批判》",
+            "answers": [
+                "百家爭鳴"
+            ],
+            "comment": "a hundred schools of thought contend (idiom); refers to the classical philosophic schools of the Warring States period 475-221 BC"
+        },
+        {
+            "question": "［解釋］在魯班門前舞弄斧子。比喻在行家面前賣弄本領，不自量力。\n［出處］唐·柳宗元《王氏伯仲唱和詩序》操斧於班、郢之門，斯強顏耳。宋·歐陽修《與梅聖俞書》昨在真定，有詩七八首，今錄去，～，可笑可笑。\n［例子］聞得亭亭姐姐學問淵博，妹子何敢～，同他亂談。★清·李汝珍《鏡花緣》第五十二回",
+            "answers": [
+                "班門弄斧"
+            ],
+            "comment": "to display one's slight skill before an expert (idiom)"
+        },
+        {
+            "question": "［解釋］廢停止。指做事不能堅持到底，中途停頓，有始無終。\n［出處］《禮記·中庸》君子遵道而行，～，吾弗難已矣。\n［例子］如果就此請假回國，這裡的事～，將來保舉弄不到，白吃一趟辛苦。★清·李寶嘉《官場現形記》第五十六回",
+            "answers": [
+                "半途而廢"
+            ],
+            "comment": "to give up halfway (idiom); leave sth unfinished"
+        },
+        {
+            "question": "［解釋］一半真情，一半假意。不是完全真實的。\n［出處］元·範居中《金殿喜重重·秋思》套曲我這裡千回右轉自彷徨，撇不下多情數樁。～喬摸樣，宜嗔宜喜嬌情況，知疼知熱俏心腸。\n［例子］劉老義們～地喊叫著不讓他們逃，還故意打了幾槍，然後帶著餘下的一部分轉回大廟。★姚雪垠《長夜》第二十六章",
+            "answers": [
+                "半真半假"
+            ],
+            "comment": "(idiom) half true and half false"
+        },
+        {
+            "question": "［解釋］暴、驟急速，突然。又猛又急的大風雨。比喻聲勢浩大，發展急速而猛烈。\n［出處］《老子》第二十三章故飄風不終朝，驟雨不終日。\n［例子］有雌雄二鳥，原在一處同飛，忽被～驚散。★明·吳承恩《西遊記》第六十九回",
+            "answers": [
+                "暴風驟雨"
+            ],
+            "comment": "violent wind and rainstorm; hurricane; tempest"
+        },
+        {
+            "question": "［解釋］彬彬原意為文質兼備的樣子，後形容文雅。形容文雅有禮貌的樣子。\n［出處］《史記·太史公自序》叔孫通定禮儀，則文學彬彬稍進。\n［例子］喚出他兩個兒子，兄先弟後，～。★清·李汝珍《鏡花緣》第八十三回",
+            "answers": [
+                "彬彬有禮"
+            ],
+            "comment": "refined and courteous; urbane"
+        },
+        {
+            "question": "［解釋］卑低、自卑；亢高傲。指對人有恰當的分寸，既不低聲下氣，也不傲慢自大。\n［出處］明·朱之瑜《答小宅生順書十九首》聖賢自有中正之道，不亢不卑，不驕不謅，何得如此也！\n［例子］老張雖著急，可是龍樹古～的支應，使老張無可發作。★老舍《老張的哲學》",
+            "answers": [
+                "不卑不亢"
+            ],
+            "comment": "neither servile nor overbearing (idiom); neither obsequious nor supercilious"
+        },
+        {
+            "question": "［解釋］辭告辭；別離別。沒有告辭就離開了。或悄悄溜走了。\n［出處］元·鄭德輝《王粲登樓》第一折報老爺得知，王粲～去了。\n［例子］於是，大家想～。★老舍《不成問題的問題》",
+            "answers": [
+                "不辭而別"
+            ],
+            "comment": "to leave without saying good-bye"
+        },
+        {
+            "question": "［解釋］什麼都不顧。\n［出處］葉聖陶《孤獨》既然見到一點兒光，便不得不～地逃開。\n［例子］我閉上眼睛，～的向著他手裡的刀迎上去。★巴金《長生塔·塔的祕密》",
+            "answers": [
+                "不顧一切"
+            ],
+            "comment": "reckless; regardless of everything"
+        },
+        {
+            "question": "［解釋］不顧一切，不問是非情由。\n［出處］明·馮夢龍《警世通言》卷三十二若三日沒有銀時，老身也～，公子不公子，一頓孤拐，打那光棍出去。\n［例子］我因為自己好作短文，好用反語，每逢辯論，輒～，就迎頭一擊，所以每見和我的辦法不同者便以為缺點。★魯迅《兩地書》十二",
+            "answers": [
+                "不管三七二十一"
+            ],
+            "comment": "regardless of the consequences; recklessly relying on a hopelessly optimistic forecast"
+        },
+        {
+            "question": "［解釋］開打開，解開；交相錯，糾纏。形容沒法解開或擺脫。\n［出處］清·姬文《市聲》第二十四回兩口子正在吵得～。\n［例子］倘一加人為，一辦，那就輿論沸騰，～了。★魯迅《而已集·談所謂大內檔案》",
+            "answers": [
+                "不可開交"
+            ],
+            "comment": "to be awfully (busy etc)"
+        },
+        {
+            "question": "［解釋］謀商量；合相符。事先沒有商量過，意見或行動卻完全一致。\n［出處］晉·幹寶《搜神記》卷二二人之言，～。\n［例子］如磁石鐵，～。★宋·蘇軾《朱壽昌樑武懺贊偈》",
+            "answers": [
+                "不謀而合"
+            ],
+            "comment": "to agree without prior consultation; to happen to hold the same view"
+        },
+        {
+            "question": "［解釋］分不出高低好壞。形容水平相當。\n［出處］唐·陸龜蒙《蠹化》翳葉仰齧，如飢蠶之速，～。\n［例子］以愚觀之，晉楚互為雌雄，～。★明·馮夢龍《東周列國志》第五十五回",
+            "answers": [
+                "不相上下"
+            ],
+            "comment": "equally matched; about the same"
+        },
+        {
+            "question": "［解釋］喻瞭解，明白。不用說話就能明白。形容道理很明顯。\n［出處］《孟子·盡心上》仁義禮智根於心，其生色也，然見於面。盎於背，施於四體，四體～。\n［例子］你想他們這朋友之樂，儘可～了。★清·劉鶚《老殘遊記續集》第一回",
+            "answers": [
+                "不言而喻"
+            ],
+            "comment": "it goes without saying; it is self-evident"
+        },
+        {
+            "question": "［解釋］然是，對。不認為是對的。表示不同意或否定。\n［出處］宋·蘇軾《再乞罷詳定役法狀》右臣先曾奏論前衙一役，只當招募，不當定差，執政～。\n［例子］聽他說洋人不是，口雖不言，心下卻老大～。★清·李寶嘉《官場現形記》",
+            "answers": [
+                "不以為然"
+            ],
+            "comment": "not to accept as correct (idiom); to object; to disapprove; to take exception to"
+        },
+        {
+            "question": "［解釋］翼翅膀。沒有翅膀卻飛走了。比喻物品忽然丟失。也比喻事情傳播得很迅速。\n［出處］《管子·戒》無翼而飛者聲也。《戰國策·秦策三》眾口所移，毋翼而飛。\n［例子］足足的一百六十塊錢就那樣便～了。★郭沫若《革命春秋·創造十年》",
+            "answers": [
+                "不翼而飛"
+            ],
+            "comment": "to disappear without trace; to vanish all of a sudden; to spread fast; to spread like wildfire"
+        },
+        {
+            "question": "［解釋］不正當的社會風氣。\n［出處］《抱朴子·辯問》移～，易流遁之俗。",
+            "answers": [
+                "不正之風"
+            ],
+            "comment": "unhealthy tendency"
+        },
+        {
+            "question": "［解釋］知知道；覺覺察。沒有意識到，沒有覺察到。現多指未加註意。\n［出處］明·趙弼《兩教辨》遂使昏愚之徒，聽其妖誕，捨正從邪，醉生夢死，～。堯舜三代以前，未聞有此教。\n［例子］他的殘忍和狠毒，時而～地在老人面前顯露出來。★曹禺《王昭君》第二幕",
+            "answers": [
+                "不知不覺"
+            ],
+            "comment": "unconsciously; unwittingly"
+        },
+        {
+            "question": "［解釋］不足不值得；掛齒放在嘴上講。表示不值得一提。\n［出處］《史記·劉敬叔孫叔通傳》此特群盜鼠竊狗盜耳，何足置之齒牙間？\n［例子］宋江答道無能小將，～。★明·施耐庵《水滸全傳》第八十七回",
+            "answers": [
+                "不足掛齒"
+            ],
+            "comment": "not worth mentioning (idiom)"
+        },
+        {
+            "question": "［解釋］層重複；窮盡。接連不斷地出現，沒有窮盡。\n［出處］唐·韓愈《貞曜先生墓誌銘》神施鬼設，間見層出。《唐書·藝文志》歷代盛衰，文章與時高下；然其變能百出，不可窮極，何其興衰。\n［例子］愛國精神之表現於中外文學裡已經是～的，數不勝數了。★聞一多《文藝與愛國——紀念三月十八》",
+            "answers": [
+                "層出不窮"
+            ],
+            "comment": "more and more emerge; innumerable succession; breeding like flies (idiom)"
+        },
+        {
+            "question": "［解釋］朝氣早上的空氣，引伸為新生向上，努力進取的氣象；蓬勃旺盛的樣子。形容充滿了生命和活力。\n［例子］青年人富有理想，～，是祖國的未來。",
+            "answers": [
+                "朝氣蓬勃"
+            ],
+            "comment": "full of youthful energy (idiom); vigorous; energetic; a bright spark"
+        },
+        {
+            "question": "［解釋］原指玩弄手法欺騙人◇用來比喻常常變卦，反覆無常。\n［出處］《莊子·齊物論》狙公賦芧，曰‘朝三而暮四。’眾狙皆怒。曰‘然則朝四而暮三。’眾狙皆悅。名實未虧而喜怒為用，亦因是也。\n［例子］釐定規則怎樣服役，怎樣納糧，怎樣磕頭，怎樣頌聖。而且這規則是不象現在那樣～的。★魯迅《墳·燈下漫筆》",
+            "answers": [
+                "朝三暮四"
+            ],
+            "comment": "lit. say three in the morning but four in the evening (idiom); to change sth that is already settled upon; indecisive; to blow hot and cold"
+        },
+        {
+            "question": "［解釋］魚見之沉入水底，雁見之降落沙洲。形容女子容貌美麗。\n［出處］《莊子·齊物論》毛嬙、麗姬，人之所美也；魚見之深入，鳥見之高飛，麋鹿見之決驟，四者孰知天下之正色哉？\n［例子］他二人長的一個是～之容，一個是閉月羞花之貌。★清·李寶嘉《官場現形記》第十二回",
+            "answers": [
+                "沉魚落雁"
+            ],
+            "comment": "lit. fish sink, goose alights (idiom, from Zhuangzi 莊子); fig. female beauty captivating even the birds and beasts"
+        },
+        {
+            "question": "［解釋］形容數量很多。\n［出處］老舍《神拳》第二幕做假事騙得了幾個人，騙不了～的人。",
+            "answers": [
+                "成千上萬"
+            ],
+            "comment": "lit. by the thousands and tens of thousands (idiom); untold numbers; innumerable; thousands upon thousands"
+        },
+        {
+            "question": "［解釋］形容十分真摯誠懇。\n［出處］《後漢書·馬援傳》開心見誠，無所隱伏。\n［例子］大遠的～來了，豈有個不叫你見個真佛兒去的呢？★清·曹雪芹《紅樓夢》第六回",
+            "answers": [
+                "誠心誠意"
+            ],
+            "comment": "earnestly and sincerely (idiom); with all sincerity"
+        },
+        {
+            "question": "［解釋］船隻乘著風勢破浪前進。比喻排除困難，奮勇前進。\n［出處］《宋書·宗愨傳》愨年少時，炳問其志，愨曰‘願乘長風破萬里浪。’\n［例子］輪船在～，汽車在駛過原野。★茅盾《子夜》五",
+            "answers": [
+                "乘風破浪"
+            ],
+            "comment": "to brave the wind and the billows (idiom); to have high ambitions"
+        },
+        {
+            "question": "［解釋］舊指學生恭敬受教。比喻尊師。\n［出處］《宋史·楊時傳》見程頤於洛，時蓋年四十矣。一日見頤，頤偶瞑坐，時與遊酢侍立不雲。頤既覺，則門外雪深一尺矣。",
+            "answers": [
+                "程門立雪"
+            ],
+            "comment": "lit. the snow piles up at Cheng Yi's door (idiom); fig. deep reverence for one's master"
+        },
+        {
+            "question": "［解釋］川河流。形容行人、車馬等象水流一樣連續不斷。\n［出處］南朝·樑·周興嗣《千字文》～，淵澄取映。\n［例子］兩個丫頭，～的在家前屋後的走，叫的太太一片聲響。★清·吳敬梓《儒林外史》第二十七回",
+            "answers": [
+                "川流不息"
+            ],
+            "comment": "the stream flows without stopping (idiom); unending flow"
+        },
+        {
+            "question": "［解釋］從容不慌不忙，很鎮靜；不迫不急促。不慌不忙，沉著鎮定。\n［出處］《舊唐書·劉世龍傳》而思禮以為得計，從容自若，嘗與相忤者，必引令枉誅。\n［例子］這些人～地叩了頭，花費了半點鐘以上的時間。★巴金《家》十五",
+            "answers": [
+                "從容不迫"
+            ],
+            "comment": "calm; unruffled"
+        },
+        {
+            "question": "［解釋］粗粗蔬。指做事馬虎，不細心。\n［出處］宋·朱熹《朱子語類·學四》去盡皮方見肉，去盡肉方見骨，終骨方見髓，使粗心大氣不得。\n［例子］這是我～，我若不進去，他怎得出來？★清·文康《兒女英雄傳》第四回",
+            "answers": [
+                "粗心大意"
+            ],
+            "comment": "negligent; careless; inadvertent"
+        },
+        {
+            "question": "［解釋］指辦事公正，沒有私心。現多指從集體利益出發，毫無個人打算。\n［出處］漢·馬融《忠經·天地神明》忠者中也，至公無私。\n［例子］要把你的志向拿定，而且要抱著一個光明磊落、～的心懷。（郭沫若《屈原》第一幕）",
+            "answers": [
+                "大公無私"
+            ],
+            "comment": "selfless; impartial"
+        },
+        {
+            "question": "［解釋］形容對沒有什麼了不起的的事情過分驚訝。\n［出處］宋·朱熹《答林擇之》要肱把此事做一平常事看，樸實頭做將去，久之自然見效，不必如此～，起模畫樣也。\n［例子］兄弟，休要～的，則他便是楊衙內，是個有權有勢的的。★元·李文蔚《燕青博魚》第一折",
+            "answers": [
+                "大驚小怪"
+            ],
+            "comment": "to make a fuss about nothing (idiom)"
+        },
+        {
+            "question": "［解釋］大體相同，略有差異。\n［出處］《莊子·天下》大同而與小同異，此之謂小同異；萬物畢同畢異，此之謂大同異。\n［例子］說的是侯統領一個，其實如今做官的人，無非與侯統領～罷了。★清·吳趼人《二十年目睹之怪現狀》第八十四回",
+            "answers": [
+                "大同小異"
+            ],
+            "comment": "virtually the same; differing only on small points"
+        },
+        {
+            "question": "［解釋］事情有發展前途，很值得做。\n［例子］出國留學人員回國後也是～的。",
+            "answers": [
+                "大有可為"
+            ],
+            "comment": "with great prospects for the future (idiom); well worth doing"
+        },
+        {
+            "question": "［解釋］某些才智出眾的人，看來好象愚笨，不露鋒芒。\n［出處］宋·蘇軾《賀歐陽少師致仕啟》大勇若怯，大智如愚。\n［例子］執雌守黑，不敢自遂，～，於是乎在。★章炳麟《箴新黨論》",
+            "answers": [
+                "大智若愚"
+            ],
+            "comment": "great intelligence may appear to be stupidity (idiom)"
+        },
+        {
+            "question": "［解釋］償抵得上。所得的利益抵償不了所受的損失。\n［出處］宋·蘇軾《和子由除日見寄》詩感時嗟事變，所～。\n［例子］饒鴻生在精養軒雖化了幾十塊冤枉錢，在後樂園倒明白了一樁古典，不能說～了。★清·李寶嘉《文明小史》第五十三回",
+            "answers": [
+                "得不償失"
+            ],
+            "comment": "the gains do not make up for the losses (idiom)"
+        },
+        {
+            "question": "［解釋］形容態度卑賤低下也指工作性質卑賤低下。\n［出處］清·吳敬梓《儒林外史》第四十回我常州姓沈的，不是甚麼～的人家。\n［例子］想當初，我在城裡頭作藝，不肯～地侍候有勢力的人，教人家打了一頓。★老舍《龍鬚溝》第一幕",
+            "answers": [
+                "低三下四"
+            ],
+            "comment": "servile"
+        },
+        {
+            "question": "［解釋］到處奔波。多指為生活所迫或為某一目的四處奔走活動。\n［出處］元·魏初《沁園春·留別張周卿韻》甚年來行役，交情契闊，～，水送山迎。\n［例子］強如在中國～，受盡醃舎的氣。★清·陳忱《水滸後傳》第三十回",
+            "answers": [
+                "東奔西走"
+            ],
+            "comment": "to run this way and that (idiom); to rush about busily; to bustle about; to hopscotch; also 東跑西顛[dong1 pao3 xi1 dian1]"
+        },
+        {
+            "question": "［解釋］指再度出任要職。也比喻失勢之後又重新得勢。\n［出處］《晉書·謝安傳》隱居會稽東山，年逾四十復出為桓溫司馬，累遷中書、司徒等要職，晉室賴以轉危為安。\n［例子］回到家鄉，先圖個骨肉團聚，一面藏器待時，或者聖恩高厚，想起來還有～之日，也未可知。★清·文康《兒女英雄傳》第三十九回",
+            "answers": [
+                "東山再起"
+            ],
+            "comment": "lit. to return to office after living as a hermit on Mount Dongshan (idiom); fig. to make a comeback"
+        },
+        {
+            "question": "［解釋］多指國家或政黨維護主權，不受別人的控制或支配。\n［出處］毛澤東《中國革命戰爭的戰略問題》無論處於怎樣複雜、嚴重、慘苦和環境，軍事指導者首先需要的是～地組織和使用自己的力量。",
+            "answers": [
+                "獨立自主"
+            ],
+            "comment": "independent and autonomous (idiom); self-determination; to act independently; to maintain control over one's own affairs"
+        },
+        {
+            "question": "［解釋］沒有相同的或沒有可以相比的。\n［出處］宋·延壽輯《宗鏡錄》卷三十一～，即真解脫。\n［例子］贏了錢，便大把的賞人；輸了錢，無論上千上萬，從不興皺眉頭真要算得～的好賭品了。★清·李寶嘉《官場現形記》第二十一回",
+            "answers": [
+                "獨一無二"
+            ],
+            "comment": "unique and unmatched (idiom); unrivalled; nothing compares with it"
+        },
+        {
+            "question": "［解釋］譏笑聽話的人不懂對方說得是什麼。用以譏笑說話的人不看對象。\n［出處］漢·牟融《理惑論》公明儀為牛彈清角之操，伏食如枚。非牛不聞，不合其耳矣。\n［例子］～，牛不入耳，罵得很好，咱們一總再算賬！★清·李當珍《鏡花緣》第九十回",
+            "answers": [
+                "對牛彈琴"
+            ],
+            "comment": "lit. to play the lute to a cow (idiom); fig. offering a treat to an unappreciative audience; to cast pearls before swine; caviar to the general; to preach to deaf ears; to talk over sb's head"
+        },
+        {
+            "question": "［解釋］下定決心，努力追求進步。\n［出處］《人民日報》1959.9.3～、自力更生，對於落後隊貧困落後的面貌的改變，當然起著極其重要的作用。",
+            "answers": [
+                "發奮圖強"
+            ],
+            "comment": "to make an effort to become strong (idiom); determined to do better; to pull one's socks up"
+        },
+        {
+            "question": "［解釋］發揚發展，提倡；光大輝煌而盛大。使好的作風、傳統等得到發展和提高。\n［出處］《周易·坤》坤厚載物，德合無疆，含弘光大，品物鹹享。\n［例子］最合理的孝道恐怕是繼承父輩的成就，把它～，好教下一輩得到更好的精神的與物質的遺產。★老舍《四世同堂》六十四",
+            "answers": [
+                "發揚光大"
+            ],
+            "comment": "to develop and promote; to carry forward; to bring to great height of development"
+        },
+        {
+            "question": "［解釋］廢停止。顧不得睡覺，忘記了吃飯。形容專心努力。\n［出處］《列子·開瑞篇》杞國有人憂天地崩墜，身亡所寄，廢寢食者。南朝·齊·王融《曲水詩》序猶且具明廢寢，昃晷忘餐。\n［例子］但得個寄信傳音，也省的人～。★元·曾瑞卿《留鞋記》第一折",
+            "answers": [
+                "廢寢忘食"
+            ],
+            "comment": "to neglect sleep and forget about food (idiom); to skip one's sleep and meals; to be completely wrapped up in one's work"
+        },
+        {
+            "question": "［解釋］邪不正當、不正派；歸回到。從邪路上回到正路上來，不再做壞事。\n［出處］明·施耐庵《水滸全傳》第九十一回將軍棄邪歸正，與宋某等同替國家出力，朝廷自當重用。\n［例子］這才叫～，懲創善心。★明·吳承恩《西遊記》第十四回",
+            "answers": [
+                "改邪歸正"
+            ],
+            "comment": "to mend one's ways (idiom); to turn over a new leaf"
+        },
+        {
+            "question": "［解釋］格格阻礙，隔閡。形容彼此不協調，不相容。\n［出處］《禮記·學記》發然後禁，則抜格而不勝。\n［例子］我本不知運動的人，所以凡所講演，多與該同盟～。★《魯迅書信集·致章廷謙》",
+            "answers": [
+                "格格不入"
+            ],
+            "comment": "(idiom) inharmonious; incompatible"
+        },
+        {
+            "question": "［解釋］奔投向，奔往；前程前途。各走各的路。比喻各人按不同的志向，尋找自己的前途。\n［出處］明·凌濛初《二刻拍案驚奇》卷三十萬戶升了邊上參將，～去了。\n［例子］三爺，年月不對了，我們應當～！★老舍《四世同堂》三十四",
+            "answers": [
+                "各奔前程"
+            ],
+            "comment": "each goes his own way (idiom); each person has his own life to lead"
+        },
+        {
+            "question": "［解釋］比喻基礎深厚，不容易動搖。\n［出處］《老子》有國之母，可以長久，是謂深根固柢，長生久視之道。《韓非子·解老》柢固則生長，根深則視久。\n［例子］但我總還想對於～的所謂舊文明，施行襲擊，令其動搖，冀將來有萬一之希望。★魯迅《兩地書·十一》",
+            "answers": [
+                "根深蒂固"
+            ],
+            "comment": "deep-rooted (problem etc)"
+        },
+        {
+            "question": "［解釋］供供給，供應；求需求，需要。供應不能滿足需求。\n［出處］巴金《憶覺醒與活動》當時在成都新的書報很受歡迎，常常～。",
+            "answers": [
+                "供不應求"
+            ],
+            "comment": "supply does not meet demand"
+        },
+        {
+            "question": "［解釋］指從整體的利益著想，使不遭受損害。\n［出處］清·吳趼人《二十年目睹之怪現狀》第九十一回然而要～呢，也有個無可奈何的時候；到了無可奈何的時候，就不能不自己開解自己。\n［例子］倘若東林、復社兩黨的朋友，能夠～，解除糾紛，也未嘗不可一變士林的風氣。★歐陽予倩《桃花扇》第一幕",
+            "answers": [
+                "顧全大局"
+            ],
+            "comment": "to take the big picture into consideration (idiom); to work for the benefits of all"
+        },
+        {
+            "question": "［解釋］磊落心地光明坦白。胸懷坦白，正大光明。\n［出處］《晉書·右勒載記下》大丈夫行事，當礌（磊）落落，如日月皎然。宋·朱熹《朱子語類》卷七十四譬如人～底便是好人，昏昧迷暗底便不是好人。\n［例子］公子～，為天人所欽矚。★清·蒲松齡《聊齋志異·聶小倩》",
+            "answers": [
+                "光明磊落"
+            ],
+            "comment": "open and candid (idiom); straightforward and upright"
+        },
+        {
+            "question": "［解釋］歸結到根本上。\n［出處］清·張南莊《何典》第二回歸根結柢，把一場著水人命一盤摙歸去，還虧有錢使得鬼推磨。",
+            "answers": [
+                "歸根到底"
+            ],
+            "comment": "after all; in the final analysis; ultimately"
+        },
+        {
+            "question": "［解釋］蜃大蛤。原指海邊或沙漠中，由於光線的反向和折射，空中或地面出現虛幻的樓臺城郭。現多比喻虛無縹渺的事物。\n［出處］《史記·天官書》海旁蜃氣象樓臺，廣野氣成宮闕然。《隋唐遺事》此～比耳，豈長久耶？\n［例子］第五齣是達摩帶著徒弟過江回去，正扮出～，好不熱鬧。★清·曹雪芹《紅樓夢》第八十五回",
+            "answers": [
+                "海市蜃樓"
+            ],
+            "comment": "mirage (lit. or fig.)"
+        },
+        {
+            "question": "［解釋］原形容水勢廣大的樣子◇形容事物的廣闊壯大，或前進的人流聲勢浩大。\n［出處］《尚書·堯典》湯湯洪水方割，蕩蕩懷山襄陵，浩浩滔天。宋·范仲淹《岳陽樓記》～，橫夫際涯。\n［例子］一時只見寧府大殯～，壓地銀山一般從北而至。★清·曹雪芹《紅樓夢》第十四回",
+            "answers": [
+                "浩浩蕩蕩"
+            ],
+            "comment": "grandiose; majestic"
+        },
+        {
+            "question": "［解釋］符合情理。\n［出處］陳殘雲《山谷風煙》第11章黃為民心情顯得輕鬆，覺得周祺這個人很可愛，既有原則，又能～地幫助他解除思想包袱。\n［例子］學校認為這個方案～，就定為制度。★柯巖《特邀代表》",
+            "answers": [
+                "合情合理"
+            ],
+            "comment": "reasonable and fair (idiom)"
+        },
+        {
+            "question": "［解釋］舊指道德高尚者能承擔重大任務。\n［出處］《周易·坤》君子以～。",
+            "answers": [
+                "厚德載物"
+            ],
+            "comment": "with great virtue one can take charge of the world (idiom)"
+        },
+        {
+            "question": "［解釋］囫圇整個兒。把棗整個嚥下去，不加咀嚼，不辨滋味。比喻對事物不加分析思考。\n［出處］宋·圓悟禪師《碧巖錄》卷三若是知有底人，細嚼來咽；若是不知有底人，一似渾侖吞個棗。\n［例子］一個高中文科的學生，與其～或走馬看花地讀十部詩集，不如仔仔細細地背誦三百首詩。★朱自清《論詩學門徑》",
+            "answers": [
+                "囫圇吞棗"
+            ],
+            "comment": "to swallow in one gulp (idiom); (fig.) to accept without thinking; to lap up"
+        },
+        {
+            "question": "［解釋］假借↑狸假借老虎的威勢。比喻依仗別人的勢力欺壓人。\n［出處］《戰國策·楚策一》虎求百獸而食之，得狐。……虎以為然，故遂與之行。獸見之皆走，虎不知獸畏己而走也，以為畏狐也。\n［例子］果然府中來借，怎好不借？只怕被別人～的誆的去，這個卻保不得他。★明·凌濛初《二刻拍案驚奇》卷二十",
+            "answers": [
+                "狐假虎威"
+            ],
+            "comment": "lit. the fox exploits the tiger's might (idiom); fig. to use powerful connections to intimidate people"
+        },
+        {
+            "question": "［解釋］沒有根據或沒有道理地瞎說。\n［出處］宋·釋普濟《五燈會元·龍門遠禪師法嗣》祕魔巖主擎個義兒，胡說亂道，遂將一摑成齏粉，散在十方世界。\n［例子］為了造語驚人，對仗工穩起見，有些文豪們簡直不恤～的。★魯迅《且介亭雜文·病後雜談》",
+            "answers": [
+                "胡說八道"
+            ],
+            "comment": "to talk rubbish"
+        },
+        {
+            "question": "［解釋］畫蛇時給蛇添上腳。比喻做了多餘的事，非但無益，反而不合適。也比喻虛構事實，無中生有。\n［出處］《戰國策·齊策二》蛇固無足，子安能為之足？ 明·施耐庵《水滸全傳》第一百十回將軍功績已成，威聲大震，可以止矣。今若前進，倘不如意，正如‘～’也。。\n［例子］這也是一則事實，並非做書的人～，為此奇談。★《花月痕》第五一回",
+            "answers": [
+                "畫蛇添足"
+            ],
+            "comment": "lit. draw legs on a snake (idiom); fig. to ruin the effect by adding sth superfluous; to overdo it"
+        },
+        {
+            "question": "［解釋］煥然鮮明光亮的樣子。改變舊面貌，出現嶄新的氣象。\n［出處］唐·張彥遠《歷代名畫記·論鑑識收藏購求閱玩》其有晉宋名跡，煥然如新，已歷數百年，紙素彩色未甚敗。\n［例子］依中國法度，造作旗幟大纛，～。★清·陳忱《水滸後傳》第十一回",
+            "answers": [
+                "煥然一新"
+            ],
+            "comment": "to look completely new (idiom); brand new; changed beyond recognition"
+        },
+        {
+            "question": "［解釋］在一旁助威增加他人的憤怒或助長事態的發展。\n［出處］清·李寶嘉《官場現形記》第五回三荷包也不睬他，把他氣得越發～了。\n［例子］這是一個重要的西洋古典，主上不懂得運用，而公開的說出‘自由民治’的真面目，那就一定要～的更激起匪徒的暴亂的。★瞿秋白《論文學革命及語言文字問題·學閥萬歲》",
+            "answers": [
+                "火上加油"
+            ],
+            "comment": "to add oil to the fire (idiom); fig. to aggravate a situation; to enrage people and make matters worse"
+        },
+        {
+            "question": "［解釋］指家中日常的飯食。也比喻常見的事情。\n［出處］唐·宋若華、宋若昭《女論語·事夫章》莫教寒冷，凍損夫身；家常茶飯，供侍殷勤。宋·羅大經《鶴林玉露》卷四常調官好作，家常飯好吃。\n［例子］快請夏老爺出來！雖然～，也沒有背客自吃之理啊！★清·吳趼人《二十年目睹之怪現狀》第五十六回",
+            "answers": [
+                "家常便飯"
+            ],
+            "comment": "simple home-style meal; common occurrence; nothing out of the ordinary"
+        },
+        {
+            "question": "［解釋］喻明白；曉知道。家家戶戶都知道。形容人所共知。\n［出處］《漢書·劉輔傳》天下不可戶曉。宋·樓鑰《繳鄭熙等免罪》而遽有免罪之旨，不可以家諭（喻）戶曉。\n［例子］與其作不能行遠不能普及之秦漢六朝，不如作～之《水滸》《西遊》文字也。★胡適《逼上梁山》",
+            "answers": [
+                "家喻戶曉"
+            ],
+            "comment": "understood by everyone (idiom); well known; a household name"
+        },
+        {
+            "question": "［解釋］堅堅定；貞有節操；屈屈服、低頭。意志堅定，決不屈服。\n［出處］《荀子·法行》堅強而不屈，義也。《後漢書·王龔傳》王公束脩厲節，敦樂爇文，不求苟得，不為苟行，但以堅貞之操，違俗失眾，橫為讒佞所構毀。\n［例子］而那些共產黨人的～、為了人民和祖國視死如歸的偉大精神更深深使他嚮往。★楊沫《青春之歌》第二部第四十四章",
+            "answers": [
+                "堅貞不屈"
+            ],
+            "comment": "faithful and unchanging (idiom); steadfast"
+        },
+        {
+            "question": "［解釋］見到有利可圖就不顧道義。\n［出處］《漢書·樊酈滕灌傅靳周傳》夫賣友者，謂見利而忘義也。\n［例子］某與呂布同鄉，知其勇而無謀，～。★明·羅貫中《三國演義》第三回",
+            "answers": [
+                "見利忘義"
+            ],
+            "comment": "to see profit and forget morality (idiom); to act from mercenary considerations; to sell one's soul for gain"
+        },
+        {
+            "question": "［解釋］看到錢財，眼睛就睜大了。形容人貪財。\n［出處］明·蘭陵笑笑生《金瓶梅詞話》第八十一回棄舊迎新，～，自然之理。\n［例子］現在的這位中丞，面子上雖然清廉，骨底子是個～的人。★清·李寶嘉《官場現形記》第二十三回",
+            "answers": [
+                "見錢眼開"
+            ],
+            "comment": "to open one's eyes wide at the sight of profit (idiom); thinking of nothing but personal gain; money-grubbing"
+        },
+        {
+            "question": "［解釋］一個接著一個，接連不斷。\n［出處］清·曹雪芹《紅樓夢》第一回於是～，牽五掛四，將一條街燒得如‘火焰山’一般。\n［例子］滿屋子的手都拱起來，膝關節和腿關節～地屈折，彷彿就要蹲了下去似的。★魯迅《彷徨·高老夫子》",
+            "answers": [
+                "接二連三"
+            ],
+            "comment": "one after another (idiom); in quick succession"
+        },
+        {
+            "question": "［解釋］津津興趣濃厚的樣子。指吃得很有味道或談得很有興趣。\n［出處］漢·王褒《洞簫賦》哀悁悁之可懷兮，良醰醰而有味。\n［例子］話是這樣說，可是談起理論，許寧還是一套套地向道靜談得～，頭頭是道。★楊沫《青春之歌》第一部第十二章",
+            "answers": [
+                "津津有味"
+            ],
+            "comment": "with keen interest pleasure (idiom); with gusto; to relish; eagerly; with great interest"
+        },
+        {
+            "question": "［解釋］筋筋骨；盡完。形容非常疲乏，一點力氣也沒有了。\n［出處］漢·焦延壽《焦氏易林·巽》蹇驢不材，駿驥失時，筋勞力盡，罷於沙丘。唐·韓愈《論淮西事宜狀》雖時侵掠，小有所得，力盡筋疲，不償其費。\n［例子］趙家一門大小，日夜忙碌，早已弄得～，人仰馬翻。★清·李寶嘉《官場現形記》第一回",
+            "answers": [
+                "筋疲力盡"
+            ],
+            "comment": "body weary, strength exhausted (idiom); extremely tired; spent"
+        },
+        {
+            "question": "［解釋］失措失去常態。由於驚慌，一下子不知怎麼辦才好。\n［出處］《北齊書·元暉業傳》（元）孝友臨刑，～，暉業神色自若。\n［例子］遇到危險情況，應該沉著冷靜，不要～。",
+            "answers": [
+                "驚慌失措"
+            ],
+            "comment": "to lose one's head out of fear (idiom)"
+        },
+        {
+            "question": "［解釋］兢兢形容小心謹慎；業業畏懼的樣子。形容做事謹慎、勤懇。\n［出處］《詩經·大雅·雲漢》～，如霆如雷。\n［例子］於是寧府中人才知鳳姐厲害，自此俱～，不敢偷安。★清·曹雪芹《紅樓夢》第十四回",
+            "answers": [
+                "兢兢業業"
+            ],
+            "comment": "cautious and conscientious"
+        },
+        {
+            "question": "［解釋］打規劃。精密地計劃，詳細地計算。指在使用人力物力時計算得很精細。\n［出處］茹誌鵑《妯娌》再看紅英自己，那是連半個鐘頭的工都不肯耽誤的，也從沒見她吃過一口零食，一看就知道是個會～、會過日子的人。",
+            "answers": [
+                "精打細算"
+            ],
+            "comment": "meticulous planning and careful accounting (idiom)"
+        },
+        {
+            "question": "［解釋］精完美，好；益更加∶了還求更好。\n［出處］《論語·學而》《詩》雲‘如切如磋，如琢如磨。’其斯之謂與？宋·朱熹注言治骨角者，既切之而復磋之；治玉石者，既琢之而復磨之，治之已精，而益求其精也。\n［例子］白求恩同志是個醫生，他以醫療為職業，對技術～；在整個八路軍醫務系統中，他的醫術是很高明的。（毛澤東《紀念白求恩》）",
+            "answers": [
+                "精益求精"
+            ],
+            "comment": "to perfect sth that is already outstanding (idiom); constantly improving"
+        },
+        {
+            "question": "［解釋］表面上表示尊敬，實際上不願接近。也用作不願接近某人的諷刺話。\n［出處］《論語·雍也》務民之義，敬鬼神而遠之。\n［例子］若遇此等人，～，以免殺身之禍。★清·劉鶚《老殘遊記》第十一回",
+            "answers": [
+                "敬而遠之"
+            ],
+            "comment": "to show respect from a distance (idiom); to remain at a respectful distance"
+        },
+        {
+            "question": "［解釋］抬起眼睛，看不見一個親人。比喻單身在外，人地生疏。\n［出處］唐·薛調《劉無雙傳》四海之廣，～戚，未知託身之所。\n［例子］他到得京裡，是～的，自然留他住下。★清·吳趼人《二十年目睹之怪現狀》第七十六回",
+            "answers": [
+                "舉目無親"
+            ],
+            "comment": "to look up and see no-one familiar (idiom); not having anyone to rely on; without a friend in the world"
+        },
+        {
+            "question": "［解釋］舉世全世界。全世界都知道。形容非常著名。\n［出處］北齊·顏之推《顏氏家訓·雜藝》王逸少風流才士，蕭散名人。舉世但知其書，翻以能自蔽也。\n［例子］中國的象牙雕刻是傑出的，北京的山水人物和廣州的花卉動物牙雕，尤其～。★秦牧《高高翹起的象鼻子》",
+            "answers": [
+                "舉世聞名"
+            ],
+            "comment": "world-famous (idiom)"
+        },
+        {
+            "question": "［解釋］全世界的人都注視著。\n［出處］《國語·晉語》則恐國人之矚目於我也。戰國·楚·屈原《漁父》舉世皆濁我獨清。",
+            "answers": [
+                "舉世矚目"
+            ],
+            "comment": "to receive worldwide attention"
+        },
+        {
+            "question": "［解釋］會集中。原指君臣協力，集思廣益◇形容精神高度集中。\n［出處］漢·王褒《聖主得賢臣頌》～，相得益（章）彰。\n［例子］看校樣時的～，就和在寫作的時候一樣，因為我的目的要使它沒有一個錯字。★鄒韜奮《經歷·一個小小的過街樓》",
+            "answers": [
+                "聚精會神"
+            ],
+            "comment": "to concentrate one's attention (idiom)"
+        },
+        {
+            "question": "［解釋］只有一個，再沒有別的。形容非常少有。\n［出處］宋·蘇軾《上皇帝書》改過不吝，從善如流，此堯舜禹湯之所勉強而力行，秦漢以來之所絕無而僅有。\n［例子］新的一輩繼他們的父親或者母親之後成為作家的，可以說～。★秦牧《兩代人》",
+            "answers": [
+                "絕無僅有"
+            ],
+            "comment": "one and only (idiom); rarely seen; unique of its kind"
+        },
+        {
+            "question": "［解釋］開卷打開書本，指讀書；益好處。讀書總有好處。\n［出處］晉·陶潛《與子儼等疏》開卷有得，便欣然忘食。",
+            "answers": [
+                "開卷有益"
+            ],
+            "comment": "lit. opening a book is profitable (idiom); the benefits of education"
+        },
+        {
+            "question": "［解釋］打開門就能看見山。比喻說話或寫文章直截了當談本題，不拐彎抹角。\n［出處］唐·劉得仁《青龍寺僧院》此地堪終日，開門見數峰。\n［例子］說話要～，譚兄之意，欲以世兄讀書之事，煩潛老照管理。★清·李綠園《歧路燈》第二回",
+            "answers": [
+                "開門見山"
+            ],
+            "comment": "lit. to open the door and see the mountain; fig. to get right to the point (idiom)"
+        },
+        {
+            "question": "［解釋］古代神話傳說盤古氏開闢天地，開始有人類歷史◇常比喻空前的，自古以來沒有過的。\n［出處］三國·吳·徐整《三五曆紀》天地混沌如雞子，盤古生在其中，萬八千歲，天地開闢，陽清為天，陰濁為地，盤古在其中。\n［例子］感謝那些～，披荊斬莽的英雄們！只有你們才配承受這最高的幸福，最大的快樂。★劉白羽《從富拉爾基到齊齊哈爾》",
+            "answers": [
+                "開天闢地"
+            ],
+            "comment": "to split heaven and earth apart (idiom); refers to the Pangu 盤古[Pan2 gu3] creation myth"
+        },
+        {
+            "question": "［解釋］泣不出聲地流淚。值得歌頌、讚美，使人感動流淚。形容英勇悲壯的感人事蹟。\n［出處］《周易·中孚》得敵，或鼓或罷，或泣或歌。明·海瑞《方孝孺臨麻姑仙壇記跋》國初方列之概，無異平原復生。追念及之，～。\n［例子］《長恨歌》一篇，有聲有色，～。★清·趙翼《甌北詩話》卷四",
+            "answers": [
+                "可歌可泣"
+            ],
+            "comment": "lit. you can sing or you can cry (idiom); fig. deeply moving; happy and sad; inspiring and tragic"
+        },
+        {
+            "question": "［解釋］不用說明就能想象得到。\n［出處］宋·王楙《野客叢書》而郊以吟詩廢務，上官差官以攝其職，分其半祿，酸寒之壯，～。\n［例子］你想日本人練陸軍把東三省地圖當作功課，其用心～。★清·高鶚《老殘遊記續集》第一回",
+            "answers": [
+                "可想而知"
+            ],
+            "comment": "it is obvious that...; as one can well imagine..."
+        },
+        {
+            "question": "［解釋］把事情說得超過原有的程度。\n［出處］宋·樓鑰《攻媿集·論災異》祥瑞之出，則潤色而張大其詞。\n［例子］蔡京開邊，祖道欲乘時徽富貴，誘王江酋，楊晟免等使納士，～。★《宋史·王祖道傳》",
+            "answers": [
+                "誇大其詞"
+            ],
+            "comment": "to exaggerate"
+        },
+        {
+            "question": "［解釋］形容吃東西又猛又急的樣子。\n［出處］明·凌濛初《初刻拍案驚奇·劉東山誇技順城門》十人自來吃酒……須臾之間，狼飧虎嚥，算來吃夠有六七十斤肉。\n［例子］走了這半日，肚中飢餓，～吃了一回。★清·陳忱《水滸後傳》第五回",
+            "answers": [
+                "狼吞虎嚥"
+            ],
+            "comment": "to wolf down one's food (idiom); to devour ravenously; to gorge oneself"
+        },
+        {
+            "question": "［解釋］形容態度堅定，不可動搖。也形容嚴格遵守規定，決不變更。\n［例子］他的決心是～的。",
+            "answers": [
+                "雷打不動"
+            ],
+            "comment": "not shaken by thunder (idiom); the arrangements are unalterable; to adhere rigidly to regulations; will go ahead whatever happens (of an arrangement or plan)"
+        },
+        {
+            "question": "［解釋］當然應當如此。按道理應當這樣。\n［出處］隋·王通《文中子·魏相篇》非辯也，理當然耳。\n［例子］善者福而惡者禍，～。★明·趙弼《續東窗事犯傳》",
+            "answers": [
+                "理所當然"
+            ],
+            "comment": "as it should be by rights (idiom); proper and to be expected as a matter of course; inevitable and right"
+        },
+        {
+            "question": "［解釋］理直理由正確、充分；氣壯氣勢旺盛。理由充分，說話氣勢就壯。\n［出處］明·馮夢龍《古今小說》卷三十一便捉我到閻羅殿前，我也～，不怕甚的。\n［例子］只要我們～，怕他怎的！★清·李寶嘉《官場現形記》第十七回",
+            "answers": [
+                "理直氣壯"
+            ],
+            "comment": "in the right and self-confident (idiom); bold and confident with justice on one's side; to have the courage of one's convictions; just and forceful"
+        },
+        {
+            "question": "［解釋］心裡想做，可是力量夠不上。\n［出處］《後漢書·西域傳》今使者大兵未能得出，如諸國～，東西南北自在也。\n［例子］按我的政治思想水平、鬥爭閱歷和知識能力，擔當編選陳毅同志詩詞的工作確是～。★張茜《陳毅詩詞選集·序言》",
+            "answers": [
+                "力不從心"
+            ],
+            "comment": "less capable than desirable (idiom); not as strong as one would wish; the spirit is willing but the flesh is weak"
+        },
+        {
+            "question": "［解釋］力體力，能力；及達到。在自己力量的限度內所能做到的。\n［出處］晉·羊佑《誡子書》今之職位，謬恩之加耳，非吾力所能致也。\n［例子］特別是要用實例、用典型示範去告訴他們組織起來的好處，這種好處是超出單幹戶～的。★郭小川《十字路口》",
+            "answers": [
+                "力所能及"
+            ],
+            "comment": "as far as one's capabilities extend (idiom); to the best of one's ability; within one's powers"
+        },
+        {
+            "question": "［解釋］戀戀愛慕，留戀。原形容極其愛慕，不能丟開。現多形容非常留戀，捨不得離開。\n［出處］《史記·範睢傳》然公之所以得無死者，以綈袍戀戀，有故人之間，故釋公。宋·王明清《揮塵後錄》卷六（蔡）元度送之郊外，促膝劇談，戀戀不能捨。\n［例子］他們，農會主任和青婦隊長在炮聲隆隆中，～地把我們送出了很遠很遠。★峻青《夜宿靈山》",
+            "answers": [
+                "戀戀不捨"
+            ],
+            "comment": "reluctant to part"
+        },
+        {
+            "question": "［解釋］伶、俐聰明，靈活。形容人機靈，很會說話。\n［出處］元·吳昌齡《張天師》第三折你休那裡便～，調三幹四，說人好歹，訐人曖昧，損人行止。\n［例子］碧蓮本來生得～，最會隨機應變，把個言中丞及四姨太太巴結的十分喜歡。★清·吳趼人《二十年目睹之怪現狀》第八十四回",
+            "answers": [
+                "伶牙俐齒"
+            ],
+            "comment": "clever and eloquent (idiom); fluent; having the gift of the gab"
+        },
+        {
+            "question": "［解釋］形容無秩序，無條理，亂得不成樣子。\n［出處］清·曾樸《孽海花》第五回你看屋裡的圖書字畫，傢伙器皿，佈置得清雅整潔，不象公坊以前～的樣子了，這是霞郎的成績。\n［例子］琴彈得～，可是她的嗓子怪清亮的。★老舍《二馬》四",
+            "answers": [
+                "亂七八糟"
+            ],
+            "comment": "everything in disorder (idiom); in a hideous mess; at sixes and sevens"
+        },
+        {
+            "question": "［解釋］色臉色。形容人得意興奮的樣子。\n［出處］清·李寶嘉《官場現形記》第三十二回餘藎臣一聽‘明保’二字，正是他心上最為關切之事，不禁～。",
+            "answers": [
+                "眉飛色舞"
+            ],
+            "comment": "smiles of exultation; radiant with delight"
+        },
+        {
+            "question": "［解釋］大體很好，但還有不足。\n［出處］明·凌濛初《初刻拍案驚奇》卷二十七破鏡重圓，離而複合，固是好事；但王夫人所遭不幸，失身為妾，又不曾根究奸人，報仇雪恨，尚為～。",
+            "answers": [
+                "美中不足"
+            ],
+            "comment": "everything is fine except for one small defect (idiom); the fly in the ointment"
+        },
+        {
+            "question": "［解釋］舊時指男女雙方的社會地位和經濟情況相當，結親很適合。\n［出處］元·王實甫《西廂記》第二本第一折雖然不是～，也強如陷於賊中。\n［例子］我想他兩家也就算～了，一說去，自然成的；誰知他這會子來了，說不中用。★清·曹雪芹《紅樓夢》第七十二回",
+            "answers": [
+                "門當戶對"
+            ],
+            "comment": "the families are well-matched in terms of social status (idiom); (of a prospective marriage partner) an appropriate match"
+        },
+        {
+            "question": "［解釋］各方面都能照顧到，沒有遺漏疏忽。也指雖然照顧到各方面，但一般化。\n［出處］清·李寶嘉《官場現形記》第五十七回這位單道臺辦事一向是～，不肯落一點褒貶的。\n［例子］賓館服務周全，衣食住行～，令客人非常滿意。",
+            "answers": [
+                "面面俱到"
+            ],
+            "comment": "(idiom) take care of everything; handle everything"
+        },
+        {
+            "question": "［解釋］名聲或名義和實際相符。\n［出處］漢·曹操《與王修書》君澡身浴德，流聲本州，忠能成績，為世美談，名實相符，過人甚遠。\n［例子］而況教育能不能～，還是個不能便下斷語的問題。★葉聖陶《橋上》",
+            "answers": [
+                "名副其實"
+            ],
+            "comment": "not just in name only, but also in reality (idiom)"
+        },
+        {
+            "question": "［解釋］說不出其中的奧妙。指事情很奇怪，說不出道理來。\n［出處］清·吳趼人《二十年目睹之怪現狀》第十五回我實在是～，我從那時得著這麼一個門生，連我也不知道。\n［例子］躲懶的人念成潭拓寺，那更是～了。（朱自清《潭拓寺和戒壇寺》）",
+            "answers": [
+                "莫名其妙"
+            ],
+            "comment": "unfathomable mystery (idiom); subtle and ineffable; unable to make head or tail of it; boring (e.g. movie)"
+        },
+        {
+            "question": "［解釋］眼裡沒有別人。形容驕傲自大，看不起人。\n［出處］明·馮夢龍《東周列國志》第九十六回趙奢子趙括，自少喜談兵法，家傳《六韜》、《三略》之書，一覽而盡；嘗與父奢論兵，指天畫地，～，雖奢亦不能難也。",
+            "answers": [
+                "目中無人"
+            ],
+            "comment": "to consider everyone else beneath one (idiom); so arrogant that no-one else matters; condescending; to go about with one's nose in the air"
+        },
+        {
+            "question": "［解釋］指共過患難的人或彼此處於同樣困境的人。\n［例子］其以半殖民地的風貌出現於世界也，和我們實在是～。（郭沫若《革命春秋·創造十年續編》）",
+            "answers": [
+                "難兄難弟"
+            ],
+            "comment": "lit. hard to differentiate between elder and younger brother (idiom); fig. one is just as bad as the other; brothers in hardship (idiom); fellow sufferers; in the same boat"
+        },
+        {
+            "question": "［解釋］耍花招欺騙人。\n［例子］無論做什麼事都應該實事求是，不該～。",
+            "answers": [
+                "弄虛作假"
+            ],
+            "comment": "to practice fraud (idiom); by trickery"
+        },
+        {
+            "question": "［解釋］浮萍隨水漂泊，聚散不定。比喻向來不認識的人偶然相遇。\n［出處］唐·王勃《滕王閣序》～，盡是他鄉之客。\n［例子］此生平第二知心交也。惜～，聚首無多日耳。★清·沈復《浮生六記·浪遊記快》",
+            "answers": [
+                "萍水相逢"
+            ],
+            "comment": "strangers coming together by chance (idiom)"
+        },
+        {
+            "question": "［解釋］近緊急。急迫得不能等待。形容心情急切。\n［出處］清·李汝珍《鏡花緣》第六回且系酒後遊戲，該仙子何以迫不急待。\n［例子］他～地推開門，走進屋去。",
+            "answers": [
+                "迫不及待"
+            ],
+            "comment": "impatient (idiom); in a hurry; itching to get on with it"
+        },
+        {
+            "question": "［解釋］一下子到處都是。形容來勢很猛。\n［例子］洪水霎時～而來，衝倒了樹木和房屋。",
+            "answers": [
+                "鋪天蓋地"
+            ],
+            "comment": "lit. hiding the sky and covering the earth (idiom); fig. earth-shattering; omnipresent; of universal importance"
+        },
+        {
+            "question": "［解釋］形容人多口雜。\n［出處］清·袁枚《牘外餘言》故晉大夫～，冷譏熱嘲，皆由於心之大公也。",
+            "answers": [
+                "七嘴八舌"
+            ],
+            "comment": "lively discussion with everybody talking at once"
+        },
+        {
+            "question": "［解釋］原意是指希奇少見的花草。也比喻美妙的文章作品等。\n［出處］《西京雜記》卷三奇樹異草，靡不具植。\n［例子］命岸賈於絳州城內，起一座花園，遍求～，種植其中。★明·馮夢龍《東周列國志》第五十回",
+            "answers": [
+                "奇花異草"
+            ],
+            "comment": "very rarely seen, unusual (idiom)"
+        },
+        {
+            "question": "［解釋］哪有這個道理。指別人的言行或某一事物極其荒謬。\n［出處］《南齊書·虞悰傳》鬱林（王）廢，悰竊嘆日‘王、徐遂縛裦廢一天子，天下～邪？’\n［例子］人家好心問你，你倒說這種話！真正～！（巴金《家》十六）",
+            "answers": [
+                "豈有此理"
+            ],
+            "comment": "how can this be so? (idiom); preposterous; ridiculous; absurd"
+        },
+        {
+            "question": "［解釋］指說話做事恰好到了最合適的地步。\n［出處］朱自清《經典常談·春秋三傳第六》只是平心靜氣的說，緊要關頭卻不放鬆一步；真所謂～。",
+            "answers": [
+                "恰到好處"
+            ],
+            "comment": "it's just perfect; it's just right"
+        },
+        {
+            "question": "［解釋］指辦事或說話正合分寸。\n［例子］老師舉的這個例子～，同學們很快就掌握了這種方法。",
+            "answers": [
+                "恰如其分"
+            ],
+            "comment": "(idiom) appropriate; apt; just right"
+        },
+        {
+            "question": "［解釋］想盡或用盡一切辦法。\n［出處］《朱子語類·論語十七》譬如捉賊相似，須是著起氣力精神，～去趕他。\n［例子］這個老匪開初～想收買這支已經武裝了的工人隊伍，可是工人們堅決拒絕加入匪股。★曲波《林海雪原》十四",
+            "answers": [
+                "千方百計"
+            ],
+            "comment": "lit. thousand ways, a hundred plans (idiom); by every possible means"
+        },
+        {
+            "question": "［解釋］形容雄壯的隊伍或浩大的聲勢。\n［出處］《南史·陳慶之傳》名軍大將莫自牢，千兵萬馬避白袍。\n［例子］各方面竟如～地圍困攏來，實在說，我是有被這班箭手底亂箭所射死的可能性的。★柔石《二月》二四",
+            "answers": [
+                "千軍萬馬"
+            ],
+            "comment": "magnificent army with thousands of men and horses (idiom); impressive display of manpower; all the King's horses and all the King's men"
+        },
+        {
+            "question": "［解釋］形容說得話很多。\n［出處］唐·鄭谷《燕》詩～無人會，又逐流鶯過短牆。\n［例子］兩人對望著，好象沒有話說了，其實心裡正有著～。（巴金《家》三十六）",
+            "answers": [
+                "千言萬語"
+            ],
+            "comment": "thousands of words (idiom); having a lot of things to say; talking nonstop"
+        },
+        {
+            "question": "［解釋］前面的衝上去了，後面的緊跟上來。形容不斷投入戰鬥，奮勇衝殺向前。\n［出處］唐·孫樵《祭梓潼神君文》跛馬慍僕，前僕後踣。\n［例子］波濤洶湧的海浪，奔騰著，咆哮著，沒有盡頭。",
+            "answers": [
+                "前赴後繼"
+            ],
+            "comment": "to advance dauntlessly in wave upon wave (idiom)"
+        },
+        {
+            "question": "［解釋］從來沒有過的。\n［出處］宋·徐度《卻掃編》卷下而鄧樞密洵武真以少保領院而不兼節鉞，～也。",
+            "answers": [
+                "前所未有"
+            ],
+            "comment": "unprecedented"
+        },
+        {
+            "question": "［解釋］形容事情容易做，不費力氣。\n［出處］《詩·大雅·焌民》人亦有言，德輶如毛，民鮮克舉之。朱熹注言人皆言德甚～，然人莫能舉也。\n［例子］事情並不象宋福想的那樣～。★楊朔《漁笛》",
+            "answers": [
+                "輕而易舉"
+            ],
+            "comment": "easy; with no difficulty"
+        },
+        {
+            "question": "［解釋］赴前往。把全部力量都投入進去。\n［出處］清·越翼《廿二史札記·五·東漢尚名節》蓋當時薦徵闢，必採名譽，故凡可以得名者，必全力赴之，好為苟難，遂成風俗。\n［例子］他們缺乏一種主動的積極的高興的歡迎的～的精神。（毛澤東《〈中國農村的社會主義高潮〉序言》）",
+            "answers": [
+                "全力以赴"
+            ],
+            "comment": "to do at all costs; to make an all-out effort"
+        },
+        {
+            "question": "［解釋］貫注集中。全部精神集中在一點上。形容注意力高度集中。\n［出處］葉聖陶《伊和他》他指著球裡嵌著的花紋，相著伊又相著花紋，～的，十分喜悅的告訴伊。",
+            "answers": [
+                "全神貫注"
+            ],
+            "comment": "to concentrate one's attention completely (idiom); with rapt attention"
+        },
+        {
+            "question": "［解釋］投入全部精力，一點沒有保留。\n［例子］張思德～為人民服務的精神，值得我們學習。",
+            "answers": [
+                "全心全意"
+            ],
+            "comment": "heart and soul; wholeheartedly"
+        },
+        {
+            "question": "［解釋］惹引起；非事端。招惹是非，引起爭端。\n［出處］明·馮夢龍《喻世明言》安分守己，並不～。\n［例子］學生在教課上得不到滿足，在校內便時常愛鬧風潮，在校外也時常～。★郭沫若《我的童年》第三篇一",
+            "answers": [
+                "惹是生非"
+            ],
+            "comment": "to stir up trouble"
+        },
+        {
+            "question": "［解釋］盈充滿；眶眼眶。因感情激動而使眼淚充滿了眼眶，形容感動至極或非常悲傷。\n［出處］鄒韜奮《我的母親》往往講到孤女患難，或義婦含冤的悽慘的情形，她兩人便都～，淚珠盡往頰上湧流著。",
+            "answers": [
+                "熱淚盈眶"
+            ],
+            "comment": "eyes brimming with tears of excitement (idiom); extremely moved"
+        },
+        {
+            "question": "［解釋］一天一天地、一月一月地不斷積累。指長時間不斷地積累。\n［出處］宋·朱熹《答周南仲書》隨時體究，隨時討論，但使一日之間整頓得三五次，理會得三五事，則～，自然純熟，自然光明矣。\n［例子］自是以後，～，千百成群，其為國之蠹害甚矣。（清·顧炎武《日知錄》卷九）",
+            "answers": [
+                "日積月累"
+            ],
+            "comment": "to accumulate over a long period of time"
+        },
+        {
+            "question": "［解釋］好象老虎長上了翅膀。比喻強有力的人得到幫助變得更加強有力。\n［出處］三國·蜀·諸葛亮《心書·兵機》將能執兵之權，操兵之勢，而臨群下，臂如猛虎加之羽翼，而翱翔四海。\n［例子］因為匪徒們深知，這兩件東西一掌握在姜青山手裡，就～，再多的人也奈何不了他。★曲波《林海雪原》二七",
+            "answers": [
+                "如虎添翼"
+            ],
+            "comment": "lit. like a tiger that has grown wings; with redoubled power (idiom)"
+        },
+        {
+            "question": "［解釋］釋放下；重負重擔子。象放下重擔那樣輕鬆。形容緊張心情過去以後的的輕鬆愉快。\n［出處］《穀梁傳·昭公二十九年》昭公出奔，民～。\n［例子］姐姐～似的鬆了一口氣。★曲波《林海雪原》一",
+            "answers": [
+                "如釋重負"
+            ],
+            "comment": "as if relieved from a burden (idiom); to have a weight off one's mind"
+        },
+        {
+            "question": "［解釋］好象影子總是跟著身體一樣。比喻兩個人關係親密，常在一起。\n［出處］《管子·任法》然故下之事上也，如響之應聲也；臣之事主也，如影之從形也。漢·劉向《說苑·君道》故天之應人，如影之隨形，響之效聲者也。\n［例子］善惡昭彰，～。（清·李汝珍《鏡花緣》第七十一回）",
+            "answers": [
+                "如影隨形"
+            ],
+            "comment": "as the shadow follows the body (idiom); closely associated with each other; to follow relentlessly"
+        },
+        {
+            "question": "［解釋］償實現、滿足。按所希望的那樣得到滿足。指願望實現。\n［出處］清·吳趼人《二十年目睹之怪現狀》第一百一回況且他家裡人既然有心弄死他，等～之後，賊人心虛，怕人議論，豈有不盡力推在醫生身上之理？\n［例子］他終於～，考上的北京大學。",
+            "answers": [
+                "如願以償"
+            ],
+            "comment": "to have one's wish fulfilled"
+        },
+        {
+            "question": "［解釋］形容神態失常，失去自制。\n［出處］元·馬致遠《漢宮秋》第二折得見了王昭君，使朕如痴似醉。\n［例子］真也弄得個～，眠思夢想。★明·東魯古狂生《醉醒石》第十三回",
+            "answers": [
+                "如醉如痴"
+            ],
+            "comment": "lit. as if drunk and stupefied (idiom); intoxicated by sth; obsessed with; mad about sth; also written 如癡如醉[ru2 chi1 ru2 zui4]"
+        },
+        {
+            "question": "［解釋］塞邊界險要之處；翁老頭。比喻一時雖然受到損失，也許反而因此能得到好處。也指壞事在一定條件下可變為好事。\n［出處］《淮南子·人間訓》近塞上之人有善術者，馬無故亡而入胡。人皆吊之。其父曰‘此何遽不為鉻？’居數月，其馬將胡駿馬而歸。人皆賀之。…故福之為禍，禍之為福，化不可極，深不可測也。\n［例子］處士有志未遂，甚為可惜，然～，安知非福。★清·李汝珍《鏡花緣》第七回",
+            "answers": [
+                "塞翁失馬"
+            ],
+            "comment": "lit. the old man lost his horse, but it all turned out for the best (idiom); fig. a blessing in disguise; it's an ill wind that blows nobody any good"
+        },
+        {
+            "question": "［解釋］番遍數。一再，多次。\n［出處］元·鄭德輝《王粲登樓》第一折你將書呈三番兩次調發小生到此，蕭條旅館，個月期程，不蒙放參。",
+            "answers": [
+                "三番五次"
+            ],
+            "comment": "over and over again (idiom)"
+        },
+        {
+            "question": "［解釋］深厚的感情和友誼。\n［出處］陳毅《向秀麗歌》向秀麗，你當得起這樣的～。",
+            "answers": [
+                "深情厚誼"
+            ],
+            "comment": "deep friendship"
+        },
+        {
+            "question": "［解釋］形容生活簡樸，吃用節儉。\n［出處］清·吳敬梓《儒林外史》第四十七回虞華軒在家，～，積起幾兩銀子。",
+            "answers": [
+                "省吃儉用"
+            ],
+            "comment": "to live frugally; to economize on food and clothing; to scrimp and save"
+        },
+        {
+            "question": "［解釋］十分完美，毫無欠缺。\n［例子］新生事物在剛產生時，並不都是～，但總是不斷髮展壯大，最終是要取代舊事物的。",
+            "answers": [
+                "十全十美"
+            ],
+            "comment": "complete and beautiful; to be perfect (idiom)"
+        },
+        {
+            "question": "［解釋］指從實際對象出發，探求事物的內部聯繫及其發展的規律性，認識事物的本質。通常指按照事物的實際情況辦事。\n［出處］《漢書·河間獻王劉德傳》修學好古，～。\n［例子］總結經驗要～，不可弄虛做假。",
+            "answers": [
+                "實事求是"
+            ],
+            "comment": "to seek truth from facts (idiom); to be practical and realistic"
+        },
+        {
+            "question": "［解釋］原指與現實社會隔絕、生活安樂的理想境界◇也指環境幽靜生活安逸的地方。借指一種空想的脫離現實鬥爭的美好世界。\n［出處］晉·陶潛《桃花園記》描述的一個與世隔絕，沒有遭到禍亂的美好地方。\n［例子］在這兒，在這～的仙境中，有了人世喧囂的聲音。★楊沫《青春之歌》第一部第三章",
+            "answers": [
+                "世外桃源"
+            ],
+            "comment": "see 桃花源[tao2 hua1 yuan2]"
+        },
+        {
+            "question": "［解釋］不算第一也算第二。形容突出。\n［出處］清·曹雪芹《紅樓夢》第七十九回這門親原是老親，且又和我們是同在戶部掛名行商，也是～的大門戶。\n［例子］他的學習成績在班裡是～的。",
+            "answers": [
+                "數一數二"
+            ],
+            "comment": "reckoned to be first or second best (idiom); one of the very best; to list one by one"
+        },
+        {
+            "question": "［解釋］形容不負責任地胡亂議論。\n［出處］清·崔灝《通俗編·言笑》莫學他人不知朝暮，走啟蒙鄉村，～。\n［例子］有的人工作不努力，別人有了成績，卻整天～。",
+            "answers": [
+                "說三道四"
+            ],
+            "comment": "to make thoughtless remarks (idiom); to criticize; gossip"
+        },
+        {
+            "question": "［解釋］思考慮；前前因；後後果。對事情發生的緣由，發展後果，作再三考慮。\n［出處］明·許仲琳《封神演義》第五十二回且聞太師見後無襲兵，領人馬徐徐而行；又見折了餘慶，辛環帶傷，太師十分不樂，一路上～。",
+            "answers": [
+                "思前想後"
+            ],
+            "comment": "to consider past cause and future effect (idiom); to think over the past and future; to ponder over reasons and connection"
+        },
+        {
+            "question": "［解釋］從極危險的境地中逃脫，倖免於死。\n［出處］元·王實甫《西廂記》第二本第三折半萬賊兵，卷浮雲片時掃淨，俺一家兒～。\n［例子］今日～，夫妻再合。★明·馮夢龍《警世通言》卷十二",
+            "answers": [
+                "死裡逃生"
+            ],
+            "comment": "mortal danger, escape alive (idiom); a narrow escape; to survive by the skin of one's teeth"
+        },
+        {
+            "question": "［解釋］原指帝王佔有全國◇指什麼地方都可以當作自己的家。指志在四方，不留戀家鄉或個人小天地。\n［出處］《漢書·高帝記》且夫天子以～。\n［例子］我們是～的，我們是以一切人民為兄弟姐妹的。★孫犁《看護》",
+            "answers": [
+                "四海為家"
+            ],
+            "comment": "to regard the four corners of the world all as home (idiom); to feel at home anywhere; to roam about unconstrained; to consider the entire country, or world, to be one's own"
+        },
+        {
+            "question": "［解釋］指各個方面或各個地方。\n［出處］宋·釋道原《景德傳燈錄》卷二十忽遇～怎麼生？",
+            "answers": [
+                "四面八方"
+            ],
+            "comment": "in all directions; all around; far and near"
+        },
+        {
+            "question": "［解釋］好象懂，又好象不懂。\n［出處］葉聖陶《得失》然而學生還是～，教他們回講往往講不出來。",
+            "answers": [
+                "似懂非懂"
+            ],
+            "comment": "to not really understand; to half-understand"
+        },
+        {
+            "question": "［解釋］似象；是對；非不對∶象是對的，實際上不對。\n［出處］《莊子·山木》周將處夫材與不材之間；材與不材之間，似之而非也。《孟子·盡心下》孔子曰‘惡似而非者，惡莠，恐其亂苗也。’",
+            "answers": [
+                "似是而非"
+            ],
+            "comment": "apparently right but actually wrong; specious (idiom)"
+        },
+        {
+            "question": "［解釋］像笑又不笑。\n［出處］魯迅《彷徨·祝福》後來大家又都知道了她的脾氣，只要有孩子在眼前，便～的先問她。\n［例子］後來見的次數多了，大家～，用以代替招呼。★蘇青《結婚十年》第四章",
+            "answers": [
+                "似笑非笑"
+            ],
+            "comment": "like a smile yet not a smile (idiom)"
+        },
+        {
+            "question": "［解釋］隨順從；遇遭遇。指能順應環境，在任何境遇中都能滿足。\n［出處］清·劉獻廷《廣陽雜記》一隨寓而安，斯真隱矣。\n［例子］不過能夠～——即有船坐船云云——則比起幻想太多的人們來，可以稍為安穩，能夠敷衍下去而已。★魯迅《兩地書》六",
+            "answers": [
+                "隨遇而安"
+            ],
+            "comment": "at home wherever one is (idiom); ready to adapt; flexible; to accept circumstances with good will"
+        },
+        {
+            "question": "［解釋］損害別人，使自己得到好處。\n［出處］《舊唐書·陸象先傳》為政者理則可矣，何必嚴刑樹威。損人益己，恐非仁恕之道。\n［例子］凡有～之心的人，其結果都不妙。★毛澤東《新民主主義的憲政》",
+            "answers": [
+                "損人利己"
+            ],
+            "comment": "harming others for one's personal benefit (idiom); personal gain to the detriment of others"
+        },
+        {
+            "question": "［解釋］忐忑心神不定。心神極為不安。\n［出處］清·吳趼人《糊塗世界》卷九兩道聽了這話，心裡忐忑不定。\n［例子］母親謹慎地窺視著一切動靜，心裡～，她怕有人出賣星海。★馮德英《苦菜花》第十章",
+            "answers": [
+                "忐忑不安"
+            ],
+            "comment": "restless; apprehensive"
+        },
+        {
+            "question": "［解釋］探頭或上體向前伸出。伸著頭向左右張望。形容鬼鬼祟祟的探望。\n［出處］明·施耐庵《水滸全傳》第四十五回卻好交五更時候，只見那個頭陀挾著木魚，來巷口～。",
+            "answers": [
+                "探頭探腦"
+            ],
+            "comment": "to stick one's head out and look around (idiom)"
+        },
+        {
+            "question": "［解釋］滔滔形容流水不斷。象流水那樣毫不間斷。指話很多，說起來沒個完。\n［出處］五代後周·王仁裕《開元天寶遺事·走丸之辯》張九齡善談論，每與賓客議論經旨，滔滔不竭，如下阪走丸也。\n［例子］斡離不得汪豹獻了李劉隘口，無人阻當，～，把十萬大兵盡數渡了黃河。★清·陳忱《水滸後傳》第二十回",
+            "answers": [
+                "滔滔不絕"
+            ],
+            "comment": "unceasing torrent (idiom); talking non-stop; gabbling forty to the dozen"
+        },
+        {
+            "question": "［解釋］討索取。買賣東西，賣主要價高，買主給價低，雙方要反覆爭議。也比喻在進行談判時反覆爭議，或接受任務時講條件。\n［出處］明·馮夢龍《古今小說》卷一三巧兒問了他～，便道‘真個虧你些兒。’\n［例子］我們的方針是不拒絕談判，要求對方完全承認八條，不許～。★毛澤東《在中國共產黨第七屆中央委員會第二次全體會議上的報告》",
+            "answers": [
+                "討價還價"
+            ],
+            "comment": "to haggle over price"
+        },
+        {
+            "question": "［解釋］形容十分擔心或害怕。\n［出處］明·吳承恩《西遊記》第十七回眾僧聞得此言，一個個～，告天許願。\n［例子］但他們往往遭農會嚴厲拒絕，所以他們總是懸心吊膽地過日子。★毛澤東《湖南農民運動考察報告》",
+            "answers": [
+                "提心吊膽"
+            ],
+            "comment": "(saying) to be very scared and on edge"
+        },
+        {
+            "question": "［解釋］跟天和地存在的時間那樣長。形容時間悠久。也形容永遠不變（多指愛情）。\n［出處］《老子》第七章～，天地所以能長且久者，以其不自生，故能長生。唐·白居易《長恨歌》～有時盡，此恨綿綿無絕期。",
+            "answers": [
+                "天長地久"
+            ],
+            "comment": "enduring while the world lasts (idiom); eternal"
+        },
+        {
+            "question": "［解釋］形容極遠的地方，或相隔極遠。\n［出處］南朝陳·徐陵《武皇帝作相時與嶺南酋豪書》天涯藐藐，地角悠悠了，陰謀詭計　面無由，但以情企。宋·張世南《遊宦記聞》卷六今之遠宦及遠服賈者，皆曰～。\n［例子］我們俱系～之人，今幸得賢主人相邀一聚，也是三生之緣。★清·吳敬梓《儒林外史》第四十六回",
+            "answers": [
+                "天涯海角"
+            ],
+            "comment": "Cape Haijiao in Sanya 三亞[San1 ya4], Hainan; the ends of the earth; separated worlds apart"
+        },
+        {
+            "question": "［解釋］投機利用時機鑽空子。利用時機，以囤積居奇、買空賣空、摻雜作假、操縱物價等手段牟取暴利。\n［出處］浩然《豔陽天》第47章～是不符合政策條文的事情，彎彎繞那傢伙能幹這樣傻事？",
+            "answers": [
+                "投機倒把"
+            ],
+            "comment": "speculation and profiteering (idiom); buying and selling on speculation"
+        },
+        {
+            "question": "［解釋］本指藺相如將和氏璧完好地自秦送回趙國◇比喻把原物完好地歸還本人。\n［出處］《史記·廉頗藺相如列傳》城入趙而璧留秦；城不入，臣請～。\n［例子］請放心，不要多久，這兩件東西定會～。此事放在弟身上好啦。★姚雪垠《李自成》第一卷第二十六章",
+            "answers": [
+                "完璧歸趙"
+            ],
+            "comment": "lit. to return the jade annulus to Zhao (idiom); fig. to return something intact to its rightful owner"
+        },
+        {
+            "question": "［解釋］萬古千秋萬代。千秋萬代都象松柏一樣永遠蒼翠。比喻崇高的精神或深厚的友誼永遠不會消失。\n［出處］元·無名氏《謝金梧》第四折也論功增封食邑，共皇家萬古長春。\n［例子］不信請看看我們～的祖國吧，那一天不在開著各色各樣的奇花？★楊朔《迎春詞》",
+            "answers": [
+                "萬古長青"
+            ],
+            "comment": "remain fresh; last forever; eternal"
+        },
+        {
+            "question": "［解釋］萬道河，千重山。形容路途艱難遙遠。\n［出處］唐·張喬《寄維陽故人》詩離別河邊綰柳條，千山萬水玉人遙。\n［例子］～路，孤舟幾月程。★唐·賈島《送耿處士》詩",
+            "answers": [
+                "萬水千山"
+            ],
+            "comment": "ten thousand crags and torrents (idiom); the trials and tribulations of a long journey; a long and difficult road"
+        },
+        {
+            "question": "［解釋］微細，小；足值得；道談起。微小得很，不值得一提。指意義、價值等小得不值得一提。\n［出處］郭沫若《百花齊放·單色蓳》詩在草花中我們雖然是～。但我們的花色卻算是紫色代表。",
+            "answers": [
+                "微不足道"
+            ],
+            "comment": "negligible; insignificant"
+        },
+        {
+            "question": "［解釋］描寫或模仿的非常逼真。\n［例子］她扮演一位英雄的母親，言談舉止，無不～。",
+            "answers": [
+                "惟妙惟肖"
+            ],
+            "comment": "to imitate to perfection; to be remarkably true to life"
+        },
+        {
+            "question": "［解釋］素平素，向來。不管人家怎樣說，仍舊按照自己平素的一套去做。\n［出處］《禮記·中庸》君子素其位而行，不願乎其外。素富貴行乎富貴，素貧賤行乎貧賤，素夷狄行乎夷狄，素患難行乎患難，君子無入而不自得焉。\n［例子］笑罵由人笑罵，～而已。★柔石《二月》十",
+            "answers": [
+                "我行我素"
+            ],
+            "comment": "to continue in one's own way (idiom)"
+        },
+        {
+            "question": "［解釋］沒有什麼可以告訴對方的。\n［例子］事關公司的財務機密，因此～。",
+            "answers": [
+                "無可奉告"
+            ],
+            "comment": "(idiom) \"no comment\""
+        },
+        {
+            "question": "［解釋］奈何如何，怎麼辦。指感到沒有辦法，只有這樣了。\n［出處］《戰國策·燕策三》太子聞之，弛往，伏屍而哭極哀。既已～，乃遂收盛樊於期之首，函封之。《史記·周本紀》禍成矣，載可奈何。\n［例子］大哥同楊太守來拿我，實是一毫不知，既被他連累，也～了。★清·陳忱《水滸後傳》第三回",
+            "answers": [
+                "無可奈何"
+            ],
+            "comment": "have no way out; have no alternative; abbr. to 無奈[wu2 nai4]"
+        },
+        {
+            "question": "［解釋］毫無理由地跟人吵鬧。指故意搗亂。\n［出處］唐·韓愈《答柳州食蝦蟆》詩鳴聲相呼和，無理只取鬧。周公所不堪，灑灰垂典教。\n［例子］對那些～的人，我們決不應該遷就。",
+            "answers": [
+                "無理取鬧"
+            ],
+            "comment": "to make trouble without reason (idiom); to be deliberately provocative"
+        },
+        {
+            "question": "［解釋］不能施展力量。指使不上勁或沒有能力去做好某件事情、解決某個問題。\n［出處］清·紀昀《閱微草堂筆記》卷十四此罪至重，微我難解脫，即釋迦牟尼亦～也。\n［例子］使兵餉頓竭，忠臣流涕頓足而嘆，～，惟有一死以報國，不亦大可哀乎？★清·樑紹壬《兩般秋雨庵隨筆·卷八·史閣部書》",
+            "answers": [
+                "無能為力"
+            ],
+            "comment": "impotent (idiom); powerless; helpless"
+        },
+        {
+            "question": "［解釋］沒有一點情義。形容冷酷無情。\n［出處］清·曹雪芹《紅樓夢》第八十二回好！寶玉，我今日才知道你是個～的人了！",
+            "answers": [
+                "無情無義"
+            ],
+            "comment": "completely lacking any feeling or sense of justice (idiom); cold and ruthless"
+        },
+        {
+            "question": "［解釋］作為作出成績。沒有做出任何成績。指工作中安於現狀，缺乏創造性。\n［例子］停止的論點，悲觀的論點，～和驕傲自滿的論點，都是錯誤的。",
+            "answers": [
+                "無所作為"
+            ],
+            "comment": "attempting nothing and accomplishing nothing (idiom); without any initiative or drive; feckless"
+        },
+        {
+            "question": "［解釋］微微細；至到。沒有一處細微的地方不照顧到。形容關懷、照顧得非常細心周到。\n［出處］宋·魏了翁《辭免督視軍馬乞以參贊軍事從丞相行奏札》臣竊念主憂臣辱，義不得辭，踨蹐受命，退而差闢官吏、條列事目、調遣將士，凡所以為速發之計者，靡微不周。\n［例子］還是在劍波十八歲的時候，要到戰鬥部隊去，姐姐對這將要離開自己的弟弟，照顧得～。★曲波《林海雪原》一",
+            "answers": [
+                "無微不至"
+            ],
+            "comment": "in every possible way (idiom); meticulous"
+        },
+        {
+            "question": "［解釋］下次不可以再這樣做。表示只通融這一次。\n［出處］清·張春帆《宦海》第十八回既然如此，只此一次，～如何？",
+            "answers": [
+                "下不為例"
+            ],
+            "comment": "not to be repeated; not to be taken as a precedent; just this once"
+        },
+        {
+            "question": "［解釋］形容事情或道理很明顯，極容易看清楚。\n［出處］清·李漁《閒情偶寄·結構第一》此～之事，從無一人辯之。\n［例子］日本帝國主義和中國討伐派的失望，已～。★毛澤東《關於蔣介石聲明的聲明》",
+            "answers": [
+                "顯而易見"
+            ],
+            "comment": "clearly and easy to see (idiom); obviously; clearly; it goes without saying"
+        },
+        {
+            "question": "［解釋］濡沾溼；沫唾沫。泉水乾了，魚吐沫互相潤溼。比喻一同在困難的處境裡，用微薄的力量互相幫助。\n［出處］《莊子·大宗師》泉涸，魚相與處於陸，相呴以溼，～，不如相忘於江湖。",
+            "answers": [
+                "相濡以沫"
+            ],
+            "comment": "to moisten with spittle (idiom); sharing meager resources; mutual help in humble circumstances"
+        },
+        {
+            "question": "［解釋］相提相對照；並齊。把不同的人或不同的事放在一起談論或看待。\n［出處］《史記·魏其武安侯列傳》～，是自明揚主上之過。\n［例子］二者～，則陳張兩公之捐軀殉難，均有所迫而然也。★清·淮陰百一居士《壺天錄》",
+            "answers": [
+                "相提並論"
+            ],
+            "comment": "to discuss two disparate things together (idiom); to mention on equal terms; to place on a par with; (often with negatives: impossible to mention X in the same breath as Y)"
+        },
+        {
+            "question": "［解釋］想種種辦法。\n［出處］葉聖陶《得失》教的一篇若是白話，看來看去差不多沒有幾句需要說明的；然而也得～，把五十分鐘敷衍過去。",
+            "answers": [
+                "想方設法"
+            ],
+            "comment": "to think up every possible method (idiom); to devise ways and means; to try this, that and the other"
+        },
+        {
+            "question": "［解釋］翼翼嚴肅謹慎。本是嚴肅恭敬的意思。現形容謹慎小心，一點不敢疏忽。\n［出處］《詩經·大雅·大明》維此文王，～。\n［例子］母親～地起床做飯，心裡欣喜地想，讓兒子多睡一會，不要驚醒他。★馮德英《迎春花》第二章",
+            "answers": [
+                "小心翼翼"
+            ],
+            "comment": "cautious and solemn (idiom); very carefully; prudent; gently and cautiously"
+        },
+        {
+            "question": "［解釋］形容對人外表和氣，卻陰險毒辣。\n［出處］《舊唐書·李義府傳》義府貌狀溫恭，與人語必嬉怡微笑，而褊忌陰賊。既處要權，欲人附己，微忤意者，輒加傾陷。故時人言義府笑中有刀。\n［例子］他把我丕的來藥倒，煙生七竅，冰浸四稍，誰承望～，眼見的喪荒郊。★元·孟漢卿《魔合羅》第二折",
+            "answers": [
+                "笑裡藏刀"
+            ],
+            "comment": "lit. a dagger hidden in smiles (idiom); friendly manners belying hypocritical intentions; when the fox preaches, look to the geese"
+        },
+        {
+            "question": "［解釋］心裡完全願意，沒有一點勉強。多指自願做出某種犧牲。\n［出處］宋·王明清《摭青雜說·項四郎》此事兒甘心情願也。\n［例子］溫州不算十分窮苦的地方，也沒碰著大荒年，幹什麼得了七個小毛錢，就～的將自己的小妹子捧給人家呢？★朱自清《溫州的蹤跡》",
+            "answers": [
+                "心甘情願"
+            ],
+            "comment": "delighted to (do sth, idiom); perfectly happy to do; most willing to do"
+        },
+        {
+            "question": "［解釋］形容心境平靜，毫無雜念。\n［出處］唐·白居易《祭李侍郎文》浩浩世途，是非同軌；齒牙相軋，波瀾四起。公獨何人，～；風雨如晦，雞鳴不已。\n［例子］屢遭情變之後，她已然～，古井無波。",
+            "answers": [
+                "心如止水"
+            ],
+            "comment": "to be at peace with oneself"
+        },
+        {
+            "question": "［解釋］定安定。形容心情不平靜。\n［出處］明·吳承恩《西遊記》第33回（三藏）～道‘徒弟啊，我怎麼打寒噤呢？’\n［例子］她自己也驚訝為什麼如此～，最後她自慰地想到‘是因為等待慧來。’★茅盾《幻滅》",
+            "answers": [
+                "心神不寧"
+            ],
+            "comment": "to feel ill at ease"
+        },
+        {
+            "question": "［解釋］欣欣形容草木生長旺盛；榮茂盛。形容草木長得茂盛。比喻事業蓬勃發展，興旺昌盛。\n［出處］晉·陶潛《歸去來辭》木欣欣以向榮，泉涓涓而始流。\n［例子］在其間～的，只有鮮花和綠草，這是比喻對於將來的希望。★葉聖陶《搭班子》",
+            "answers": [
+                "欣欣向榮"
+            ],
+            "comment": "luxuriant growth (idiom); flourishing; thriving"
+        },
+        {
+            "question": "［解釋］陳陳舊的；代替換；謝凋謝，衰亡。指生物體不斷用新物質代替舊物質的過程。也指新事物不斷產生髮展，代替舊的事物。\n［出處］毛澤東《矛盾論》世界上總是這樣以新的代替舊的，總是這樣～、除舊佈新或推陳出新的。",
+            "answers": [
+                "新陳代謝"
+            ],
+            "comment": "metabolism (biology); the new replaces the old (idiom)"
+        },
+        {
+            "question": "［解釋］興原指志趣，後指興致；採原指神采，後指精神；烈旺盛。原指文章志趣高尚，言詞犀利◇多形容興致高，精神飽滿。\n［出處］南朝梁·劉勰《文心雕龍·體性》步夜俊俠，故興高而采烈。\n［例子］阿二忽然對於曾滄海的威嚇全沒怕懼，反而～的說起來了。（茅盾《子夜》四）",
+            "answers": [
+                "興高采烈"
+            ],
+            "comment": "happy and excited (idiom); in high spirits; in great delight"
+        },
+        {
+            "question": "［解釋］興致興趣；勃勃旺盛的樣子。形容興頭很足。\n［出處］清·李汝珍《鏡花緣》第五十六回到了郡考，眾人以為緇氏必不肯去，誰知他還是～道‘以天朝之大，豈無看文巨眼。’\n［例子］全班同學早就集合好，～地向野遊地進發了。",
+            "answers": [
+                "興致勃勃"
+            ],
+            "comment": "to become exhilarated (idiom); in high spirits; full of zest"
+        },
+        {
+            "question": "［解釋］幸高興。指人缺乏善意，在別人遇到災禍時感到高興。\n［出處］《左傳·僖公十四年》背施無親，幸災不仁。又《莊公二十年》今王子頹歌舞不倦，樂禍也。\n［例子］對於同學的缺點和錯誤，我們不應採取～的態度。",
+            "answers": [
+                "幸災樂禍"
+            ],
+            "comment": "lit. to take joy in calamity and delight in disaster (idiom); fig. to rejoice in other people's misfortune; Schadenfreude"
+        },
+        {
+            "question": "［解釋］虛謙虛；谷山谷。胸懷象山谷一樣深廣。形容十分謙虛，能容納別人的意見。\n［出處］《老子》敦兮其若樸，曠兮其若谷。\n［例子］每個人都應有～的態度，遇事不固執己見。",
+            "answers": [
+                "虛懷若谷"
+            ],
+            "comment": "receptive as an echoing canyon (idiom); modest and open-minded"
+        },
+        {
+            "question": "［解釋］栩栩活潑生動的樣子。指藝術形象非常逼真，如同活的一樣。\n［出處］《莊子·齊物論》昔者莊周夢為胡蝶，栩栩然胡蝶也，自喻適志與！不知周也。俄然覺，則茫茫然周也。\n［例子］這些畫裡的蝦所以～，是由於他深刻觀察過真正的蝦的生活，筆墨變化、寫照已經達到了極高境界的緣故。★秦牧《蝦趣》",
+            "answers": [
+                "栩栩如生"
+            ],
+            "comment": "vivid and lifelike (idiom); true to life; realistic"
+        },
+        {
+            "question": "［解釋］比喻接連遭受災難，損害愈加嚴重。\n［出處］宋·釋道原《景德傳燈錄》卷十九饒你道有什麼事，猶是頭上著頭，～。\n［例子］正在驚慌，偏又轉了迎面大風，真是～。★清·李汝珍《鏡花緣》第五十一回",
+            "answers": [
+                "雪上加霜"
+            ],
+            "comment": "to add hail to snow (idiom); one disaster on top of another; to make things worse in a bad situation"
+        },
+        {
+            "question": "［解釋］指學習工作等按照一定的步驟逐漸深入或提高。\n［出處］《論語·憲問》不怨天，不尤人，下學而上達，知我者其天乎？朱熹注此但自言其反己自修，～耳。\n［例子］她通常是從一個角度寫，而不是從幾個角度寫；還只是～地寫，而不是錯綜交叉地寫。★茅盾《怎樣評價〈青春之歌〉？》",
+            "answers": [
+                "循序漸進"
+            ],
+            "comment": "in sequence, step by step (idiom); to make steady progress incrementally"
+        },
+        {
+            "question": "［解釋］深夜沒有人聲，非常寂靜。\n［出處］漢·蔡琰《胡茄十八折》更深夜闌兮，夢汝來期。\n［例子］聽到月高初更後，果然絃索齊鳴。恰喜禁垣，～，琤璁齊應。（清·洪昻《長生殿·偷曲》）",
+            "answers": [
+                "夜深人靜"
+            ],
+            "comment": "in the dead of night (idiom)"
+        },
+        {
+            "question": "［解釋］原指一部合乎道德規範的經典◇用以形容態度莊重嚴肅，鄭重其事。有時含諷刺意味。\n［出處］晉·葛洪《抱朴子·百家》正經為道義之淵海，子書為增深之川流。\n［例子］他說話從來都是～，不苟言笑。",
+            "answers": [
+                "一本正經"
+            ],
+            "comment": "in deadly earnest; deadpan"
+        },
+        {
+            "question": "［解釋］蹴踏；就成功。踏一步就成功。比喻事情輕而易舉，一下子就成功。\n［出處］宋·蘇洵《上田樞密書》天下之學者，孰不欲一蹴而造聖人之域。\n［例子］從前所受，皆為大略，～於繁賾，毋乃不可！★清·吳趼人《痛史·原敘》",
+            "answers": [
+                "一蹴而就"
+            ],
+            "comment": "to get there in one step (idiom); easily done; success at a stroke; to get results overnight"
+        },
+        {
+            "question": "［解釋］船掛著滿帆順風行駛。比喻非常順利，沒有任何阻礙。\n［出處］唐·孟郊《送崔爽之湖南》定知一日帆，使得千里風。\n［例子］櫛霜沐露多勞頓，喜借得～。★清·李漁《憐香伴·蹴居》",
+            "answers": [
+                "一帆風順"
+            ],
+            "comment": "propitious wind throughout the journey (idiom); plain sailing; to go smoothly; have a nice trip!"
+        },
+        {
+            "question": "［解釋］一概同一標準，一律。指處理事情或問題不分性質，不加區別，用同一標準來對待或處理。\n［出處］《楚辭·九章·懷沙》同糅玉石兮，一而相量。唐·劉知幾《史通·敘事》而作者安可以方古，～得失？\n［例子］我們對具體問題要做具體分析，決不能～。",
+            "answers": [
+                "一概而論"
+            ],
+            "comment": "to lump different matters together (idiom)"
+        },
+        {
+            "question": "［解釋］形容十分徹底，一點兒也不剩。\n［出處］清·李汝珍《鏡花緣》第十回他是‘一毛不拔’，我們是‘無毛不拔’，把他拔的～，看他如何。\n［例子］從前學過的一點天文學知識，長期不用，早忘得～。",
+            "answers": [
+                "一乾二淨"
+            ],
+            "comment": "thoroughly (idiom); completely; one and all; very clean"
+        },
+        {
+            "question": "［解釋］哄吵鬧。形容聚在一起的人一下子吵吵嚷嚷地走散了。\n［出處］明·沈德符《萬曆野獲編·壬戌科罷選吉士》第十卷御筆硃書四大字，曰‘今年且罷。’於是～。\n［例子］白鳳、阿男早收拾好錢文，向眾人道謝，看的就～了。★清·吳趼人《情變》第六回",
+            "answers": [
+                "一鬨而散"
+            ],
+            "comment": "to disperse in confusion (idiom); see 一哄而散[yi1 hong1 er2 san4]"
+        },
+        {
+            "question": "［解釋］技技能，本領；長擅長、長處。指有某種技能或特長。\n［出處］清·鄭燮《鄭板橋集·家書·淮安舟中寄舍弟墨》愚兄平生漫罵無禮，然人有一才～，一行一言之美，未嘗不嘖嘖稱道。\n［例子］風琴棋書畫，醫卜星相，如有～者，前來進謁，莫不優禮以待。★清·李汝珍《鏡花緣》第六十四回",
+            "answers": [
+                "一技之長"
+            ],
+            "comment": "proficiency in a particular field (idiom); skill in a specialized area (idiom)"
+        },
+        {
+            "question": "［解釋］指旅途中沒出任何事故。也用作對出門人的祝福語。\n［出處］明·馮夢龍《古今小說》卷十九～，行了一月有餘，來到舊日泊船之處。",
+            "answers": [
+                "一路平安"
+            ],
+            "comment": "to have a pleasant journey; Bon voyage!"
+        },
+        {
+            "question": "［解釋］旅途平安（多用於祝人）。\n［出處］清·文康《兒女英雄傳》第十九回忽然，～裡說到想要告休歸裡。清·俞萬春《蕩寇志》第一二二回且喜連冬過春，徐槐一邊久無消息，更喜雲陳兩處亦無動靜，～無些毫打叉之事，以是吳用漸漸向愈。\n［例子］我們這次出門旅行真是～，沿途一點兒也沒有耽誤。",
+            "answers": [
+                "一路順風"
+            ],
+            "comment": "to have a pleasant journey (idiom)"
+        },
+        {
+            "question": "［解釋］一根汗毛也不肯拔。原指楊朱的極端為我主義◇形容為人非常吝嗇自私。\n［出處］《孟子·盡心上》楊子取為我，拔一毛而利天下，不為也。\n［例子］沈姑娘，你也太拿老了！叫我們管山吃山，管水吃水，都象你這～，我們喝西北風。★清·吳敬梓《儒林外史》第四十一回",
+            "answers": [
+                "一毛不拔"
+            ],
+            "comment": "stingy (idiom)"
+        },
+        {
+            "question": "［解釋］指一心一意。\n［出處］孫華炳《重賞之下》他自己又到圖書館借來關於數控的書，什麼也不顧了，～鑽研起來。",
+            "answers": [
+                "一門心思"
+            ],
+            "comment": "to set one's heart on sth (idiom)"
+        },
+        {
+            "question": "［解釋］比喻說話直截了當，切中要害。\n［出處］毛澤東《反對黨八股》這不是把我們的毛病講得～麼？不錯，黨八股中中國有，外國也有，可見是通病。",
+            "answers": [
+                "一針見血"
+            ],
+            "comment": "lit. to draw blood on the first prick (idiom); fig. to hit the nail on the head"
+        },
+        {
+            "question": "［解釋］依依依戀的樣子；舍放棄。形容捨不得離開。\n［出處］明·馮夢龍《醒世恆言·盧太學詩酒傲王候》那盧楠直送五百餘里，兩下～。\n［例子］晚會結束已經大半天了，同學們才～地離去。",
+            "answers": [
+                "依依不捨"
+            ],
+            "comment": "reluctant to part (idiom); broken-hearted at having to leave"
+        },
+        {
+            "question": "［解釋］則準則，榜樣。以自己的行動做出榜樣。\n［出處］巴金《家》二十五這其間不顧一切阻礙～做一個開路先鋒的便是許倩如。",
+            "answers": [
+                "以身作則"
+            ],
+            "comment": "to set an example (idiom); to serve as a model"
+        },
+        {
+            "question": "［解釋］原意是說，你慢走我也慢走，你快走我也快走，你跑我也跑。比喻由於缺乏主張，或為了討好，事事模仿或追隨別人。\n［出處］《莊子·田子方》夫子步亦步，夫子趨亦趨，夫子馳亦馳，夫子奔逸絕塵，而回瞠若乎後矣。\n［例子］尾巴主義是成功的仇敵。刊物內容如果只是人云亦云，格式如果只是～，那是刊物的尾巴主義。★鄒韜奮《經歷·幾個原則》",
+            "answers": [
+                "亦步亦趨"
+            ],
+            "comment": "to blindly follow suit (idiom); to imitate slavishly; to do what everyone else is doing"
+        },
+        {
+            "question": "［解釋］注目注視。吸引人們注意。\n［出處］毛澤東《湖南農民運動考察報告》也有敲打銅鑼，高舉旗幟，～的。",
+            "answers": [
+                "引人注目"
+            ],
+            "comment": "to attract attention; eye-catching; conspicuous"
+        },
+        {
+            "question": "［解釋］喝水的時候想起水是從哪兒來的。比喻不忘本。\n［出處］北周·庾信《徵調曲》落其實者思其樹，飲其流者懷其源。\n［例子］這也是他～的意思。★清·吳趼人《二十年目睹之怪現狀》第七十八回",
+            "answers": [
+                "飲水思源"
+            ],
+            "comment": "lit. when you drink water, think of its source (idiom); gratitude for blessings and their well-spring; Don't forget where your happiness come from.; Be grateful for all your blessings!"
+        },
+        {
+            "question": "［解釋］應順應；運原指天命，泛指時機。舊指應天命而產生。現指適應時機而產生。\n［出處］漢·荀悅《漢紀·後序》實天生德，應運建主。\n［例子］天地生人，除大仁大惡，餘者皆無大異；若大仁者則～，大惡者則應劫而生，運生世治，劫生世危。★清·曹雪芹《紅樓夢》第二回",
+            "answers": [
+                "應運而生"
+            ],
+            "comment": "to emerge to meet a historic destiny (idiom); to arise at an opportune time; able to take advantage of an opportunity; to rise to the occasion"
+        },
+        {
+            "question": "［解釋］垂留傳後世；朽腐爛，磨滅。指光輝的事紀偉大的精神永遠流傳，不會磨滅。\n［出處］《魏書·高祖紀下》雖不足綱範萬度，～，且可釋滯目前，釐整時務。\n［例子］小將軍丹心忠義，為國捐軀，青史簡篇，～，亦不辜負將軍教養之功。★明·許仲琳《封神演義》第七十四回",
+            "answers": [
+                "永垂不朽"
+            ],
+            "comment": "eternal glory; will never be forgotten"
+        },
+        {
+            "question": "［解釋］嘴上說了，心裡可沒那樣想。指不是有心說的。\n［出處］清·張南莊《何典·序》總屬～，安用設身處地。\n［例子］大爺快別動氣，咱是個～的人，不會說話。★清·李寶嘉《活地獄》第二回",
+            "answers": [
+                "有口無心"
+            ],
+            "comment": "to speak harshly but without any bad intent (idiom)"
+        },
+        {
+            "question": "［解釋］形容說話或表演精彩生動。\n［出處］清·洪亮吉《北江詩話》卷一寫月～如此，後人復何著筆耶？\n［例子］敘得頭頭是道，已經不易，敘得～，更難。★朱自清《經典常談·春秋三傳第六》",
+            "answers": [
+                "有聲有色"
+            ],
+            "comment": "having sound and color (idiom); vivid; dazzling"
+        },
+        {
+            "question": "［解釋］紊亂。形容有條有理，一點不亂。\n［出處］《尚書·盤庚上》若網在綱，有條而不紊。\n［例子］聽上去倒也是原原本本，～。★清·李寶嘉《官場現形記》第五十六回",
+            "answers": [
+                "有條不紊"
+            ],
+            "comment": "regular and thorough (idiom); methodically arranged"
+        },
+        {
+            "question": "［解釋］比喻堅持不懈地改造自然和堅定不移地進行鬥爭。\n［出處］《列子·湯問》記載愚公家門前有兩大座山擋著路，他決心把山平掉，另一個老人智叟笑他太傻，認為不能能。愚公說我死了有兒子，兒子死了還有孫子，子子孫孫是沒有窮盡的，兩座山終究會鑿平。\n［例子］在現代化建設中，我們要發揚～的精神。",
+            "answers": [
+                "愚公移山"
+            ],
+            "comment": "the old man moves mountains (idiom); fig. where there's a will, there's a way"
+        },
+        {
+            "question": "［解釋］跟大家不一樣。\n［出處］清·李汝珍《鏡花緣》這是今日令中第一個古人，必須出類拔萃，～，才覺有趣。\n［例子］從他～的解題思路中，看出他很聰明。",
+            "answers": [
+                "與眾不同"
+            ],
+            "comment": "to stand out from the masses (idiom)"
+        },
+        {
+            "question": "［解釋］寄託或隱含的意思很深（多指語言文字或藝術作品）。\n［出處］宋·沈作喆《寓簡》卷一詩之作也，其～，後之人莫能知之其意之所在也。",
+            "answers": [
+                "寓意深遠"
+            ],
+            "comment": "the implied message is deep (idiom); having deep implications"
+        },
+        {
+            "question": "［解釋］緣木爬樹。爬到樹上去找魚。比喻方向或辦法不對頭，不可能達到目的。\n［出處］《孟子·梁惠王上》以若所為，求若所欲，猶緣木而求魚也。\n［例子］若想善出此關，大王乃～，非徒無益，而又害之也。★明·許仲琳《封神演義》第三十三回",
+            "answers": [
+                "緣木求魚"
+            ],
+            "comment": "lit. climb a tree to catch a fish (idiom); fig. to attempt the impossible"
+        },
+        {
+            "question": "［解釋］除草時要連根除掉，使草不能再長。比喻除去禍根，以免後患。\n［出處］《左傳·隱公六年》為國家者，見惡如農夫之務去草焉，芟夷薀崇之，絕其本根，勿使能殖，則善者信矣。北齊·魏收《為侯景叛移樑朝文》若抽薪止沸，剪草除根。\n［例子］～，萌芽不發；斬草若不除根，春至萌芽再發。★明·馮夢龍《警世通言》卷三十七",
+            "answers": [
+                "斬草除根"
+            ],
+            "comment": "to cut weeds and eliminate the roots (idiom); to destroy root and branch; to eliminate completely"
+        },
+        {
+            "question": "［解釋］形容說話或行動堅決果斷，毫不猶豫。\n［出處］宋·釋道原《景德傳燈錄》卷十七師謂眾曰‘學佛法底人如～始得時。’《朱子全書·孟子》君來惟是孟子說得～。\n［例子］我喜歡那種～的作風。",
+            "answers": [
+                "斬釘截鐵"
+            ],
+            "comment": "lit. to chop the nail and slice the iron (idiom); fig. resolute and decisive; unhesitating; categorical"
+        },
+        {
+            "question": "［解釋］搶著向前，唯恐落後。\n［出處］清·張春帆《宦海》第十四回一個個～的直搶上來。\n［例子］在學校舉行的運動會上，各班同學～，奮力爭先。",
+            "answers": [
+                "爭先恐後"
+            ],
+            "comment": "striving to be first and fearing to be last (idiom); outdoing one another"
+        },
+        {
+            "question": "［解釋］原指作戰要見機而行，不要做實際上無法辦到的事◇泛指知道事情困難就後退。\n［出處］《左傳·宣公十二年》見可而行，～，軍之善政也。\n［例子］尤其是因為在那一級裡有三、四個吵客，弄得那位英文教員不得不～。★鄒韜奮《經歷·新飯碗問題》",
+            "answers": [
+                "知難而退"
+            ],
+            "comment": "to sound out the difficulties and retreat to avoid defeat (idiom); fig. to back out of an awkward situation; to get out on finding out what it's really like"
+        },
+        {
+            "question": "［解釋］知道滿足，就總是快樂。形容安於已經得到的利益、地位。\n［出處］先秦·李耳《老子》禍莫大於不知足，咎莫大於欲得，故知足之足常足矣。\n［例子］一個快樂主義者首先得有知足的修養，就是古訓所謂‘～’。★王西彥《古屋》第一部",
+            "answers": [
+                "知足常樂"
+            ],
+            "comment": "satisfied with what one has (idiom)"
+        },
+        {
+            "question": "［解釋］指說話時做出各種動作。形容說話時放肆或得意忘形。\n［出處］明·施耐庵《水滸全傳》第七十五回見這李虞侯、張幹辦在宋江前面指手劃腳，你來我去，都有心要殺這廝，只是礙著宋江一個，不敢下手。\n［例子］站在他們前頭領導他們呢？還是站在他們後頭～地批評他們呢？★毛澤東《湖南農民運動考察報告》",
+            "answers": [
+                "指手畫腳"
+            ],
+            "comment": "to gesticulate while talking (idiom); to explain by waving one's hands; to criticize or give orders summarily"
+        },
+        {
+            "question": "［解釋］大家普遍知道的。\n［出處］《玉嬌梨》第二十回城中宣雜難住，莫苦就在～石村卜一居，與白公為鄰。\n［例子］這種小說的生產，～，主要是為了爆炸，所以他特別注意的是政治上的應時。★孫犁《文林談屑（一）·運動文學與揣摩小說》",
+            "answers": [
+                "眾所周知"
+            ],
+            "comment": "as everyone knows (idiom); see 眾所周知[zhong4 suo3 zhou1 zhi1]"
+        },
+        {
+            "question": "［解釋］溫複習，指回憶，體味。比喻再經歷一次過去的光景。\n［出處］清·丘逢甲《嶺雲每日樓詩鈔·重過感舊園二首》詩水木清華負郭園，三年客夢此重溫。眼中故物詩留壁，身後浮文酒滿樽。\n［例子］開始寫《第四病室》的時候，因為記憶猶新，我的確有～的感覺。★巴金《談〈第四病室〉》",
+            "answers": [
+                "重溫舊夢"
+            ],
+            "comment": "to revive old dreams (idiom); to relive past experiences"
+        },
+        {
+            "question": "［解釋］諸眾多；此這，這樣。象這類的各種事物。\n［出處］《晉書·劉頌傳》～ ，亦不得已已。\n［例子］書法、繪畫、吟詩，～，他無一不會。",
+            "answers": [
+                "諸如此類"
+            ],
+            "comment": "things like this (idiom); and so on; and the rest; etc"
+        },
+        {
+            "question": "［解釋］惴憂愁、恐懼。形容因害怕或擔心而不安。\n［出處］《詩經·秦風·黃鳥》臨其穴，惴惴其慄。宋·周孚《鉛刀編·滁州奠枕樓記》乾道八年，濟南辛侯（辛棄疾）自司農寺簿來守滁……民之居茅竹相比，每大風作，惴惴然不自安。\n［例子］大家都認為這是震南村第一個大災難，愁眉苦臉，～。★歐陽山《苦鬥》六七",
+            "answers": [
+                "惴惴不安"
+            ],
+            "comment": "to be on tenterhooks (idiom); to be anxious and frightened"
+        },
+        {
+            "question": "［解釋］齜露齒。張著嘴巴，露出牙齒。形容凶狠或疼痛難忍的樣子。\n［出處］明·吳承恩《西遊記》第五回即諮牙咧嘴道‘不好吃！不好吃！’\n［例子］?糜兩岸上的狗，吃死屍都吃紅了眼，見了生人就～。★峻青《秋色賦·故鄉雜憶》",
+            "answers": [
+                "齜牙咧嘴"
+            ],
+            "comment": "to grimace (in pain); to show one's teeth; to bare one's fangs"
+        },
+        {
+            "question": "［解釋］更生再次獲得生命，比喻振興起來。指不依賴外力，靠自己的力量重新振作起來，把事情辦好。\n［出處］聞一多《組織民眾與保衛大西南》我們人民能以～的方式強起來了。",
+            "answers": [
+                "自力更生"
+            ],
+            "comment": "regeneration through one's own effort (idiom); self-reliance"
+        },
+        {
+            "question": "［解釋］從開始到末了。表示一貫到底。\n［出處］宋·孫光憲《北夢瑣言》卷二十先皇帝與汴軍校戰，～，馬數才萬。今有鐵馬三萬五千，不能使九州混一，是吾養卒練士將帥之不至也。\n［例子］～，秀蓮唱得很拘謹，好象並不想取悅聽眾。★老舍《鼓書藝人》五",
+            "answers": [
+                "自始至終"
+            ],
+            "comment": "from start to finish (idiom)"
+        },
+        {
+            "question": "［解釋］私心很重，只為個人利益打算。\n［出處］《晉書·潘尼傳》憂患之接，必生於自私，而興於有欲。《列子·楊朱》大禹不以一身自利，一體偏枯。\n［例子］我麼？你問我麼？我是～的個人主義者！★柔石《二月》二",
+            "answers": [
+                "自私自利"
+            ],
+            "comment": "everything for self and selfish profit (idiom); with no regard for others; selfish; mercenary"
+        },
+        {
+            "question": "［解釋］矛進攻敵人的刺擊武器；盾保護自己的盾牌。比喻自己說話做事前後牴觸。\n［出處］《韓非子·難一》楚人有鬻盾與矛者，譽之曰‘吾盾之堅，莫之能陷也。’又譽其矛曰‘吾矛之利，於物無不陷也。’或曰‘以子之矛陷子之盾，何如？’其人勿能應也。\n［例子］這些理論～。",
+            "answers": [
+                "自相矛盾"
+            ],
+            "comment": "to contradict oneself; self-contradictory; inconsistent"
+        },
+        {
+            "question": "［解釋］自己一個人低聲嘀咕。\n［出處］元·無名氏《桃花女》第四折你這般鬼促促的，在這～，莫不要出城去砍那桃樹嗎？",
+            "answers": [
+                "自言自語"
+            ],
+            "comment": "to talk to oneself; to think aloud; to soliloquize"
+        },
+        {
+            "question": "［解釋］自以為聰明而亂作主張。指過高地估計自己，主觀地辦事。\n［出處］《尚書·蔡仲之命》無作聰明，亂舊章。宋·洪邁《容齋隨筆》卷十四嚴州分水縣，故額草書‘分’字，縣令～者，謂草體非宜，自真書三字刻而立之。",
+            "answers": [
+                "自作聰明"
+            ],
+            "comment": "to think oneself clever (idiom)"
+        },
+        {
+            "question": "［解釋］總的說起來。\n［出處］《容齋隨筆·卷六·洗兒金錢》若～，殆不可勝算。\n［例子］～，長征是以我們勝利、敵人失敗的結果而千結束。★《毛澤東選集·論反對帝國主義的策略》",
+            "answers": [
+                "總而言之"
+            ],
+            "comment": "in short; in a word; in brief"
+        },
+        {
+            "question": "［解釋］顧、盼看。向左右兩邊看。形容人驕傲得意的神情。\n［出處］晉·左思《詠史》詩左眄澄江湘，右盼定羌胡。\n［例子］都尉朝天躍馬歸，香風吹人花亂飛。銀鞍紫鞚照雲日，～生光輝。★唐·李白《走筆獨孤附馬》詩",
+            "answers": [
+                "左顧右盼"
+            ],
+            "comment": "glancing to left and right (idiom); to look all around"
+        }
+    ]
+}

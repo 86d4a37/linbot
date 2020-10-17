@@ -1,0 +1,14 @@
+.idea/
+.ipynb_checkpoints/
+.DS_Store
+__pycache__/
+tmp/
+*.py[cod]
+*.ipynb
+*.db
+*.otf
+*.png
+*.ttf
+auth.py
+leaderboard.json
+taisho.json

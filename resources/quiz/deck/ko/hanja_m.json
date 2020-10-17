@@ -1,0 +1,7205 @@
+{
+    "description": "Type either the reading or the *eumhun* of the 900 Chinese characters taught in Korean middle schools.",
+    "deck": [
+        {
+            "question": "佳",
+            "answers": [
+                "아름다울 가",
+                "가"
+            ],
+            "comment": "good, auspicious; beautiful; delightful"
+        },
+        {
+            "question": "假",
+            "answers": [
+                "거짓 가",
+                "가"
+            ],
+            "comment": "falsehood, deception; vacation"
+        },
+        {
+            "question": "價",
+            "answers": [
+                "값 가",
+                "가"
+            ],
+            "comment": "price, value"
+        },
+        {
+            "question": "加",
+            "answers": [
+                "더할 가",
+                "가"
+            ],
+            "comment": "add to, increase, augment"
+        },
+        {
+            "question": "可",
+            "answers": [
+                "옳을 가",
+                "가"
+            ],
+            "comment": "may, can, -able; possibly"
+        },
+        {
+            "question": "家",
+            "answers": [
+                "집 가",
+                "가"
+            ],
+            "comment": "house, home, residence; family"
+        },
+        {
+            "question": "歌",
+            "answers": [
+                "노래 가",
+                "가"
+            ],
+            "comment": "song, lyrics; sing, chant; praise"
+        },
+        {
+            "question": "街",
+            "answers": [
+                "거리 가",
+                "가"
+            ],
+            "comment": "street, road, thoroughfare"
+        },
+        {
+            "question": "各",
+            "answers": [
+                "각각 각",
+                "각"
+            ],
+            "comment": "each, individually, every, all"
+        },
+        {
+            "question": "脚",
+            "answers": [
+                "다리 각",
+                "각"
+            ],
+            "comment": "leg, foot; base, leg, foundation"
+        },
+        {
+            "question": "角",
+            "answers": [
+                "뿔 각",
+                "각"
+            ],
+            "comment": "horn; angle, corner; point"
+        },
+        {
+            "question": "干",
+            "answers": [
+                "방패 간",
+                "간"
+            ],
+            "comment": "oppose, offend; invade; dried"
+        },
+        {
+            "question": "看",
+            "answers": [
+                "볼 간",
+                "간"
+            ],
+            "comment": "look, see; examine, scrutinize"
+        },
+        {
+            "question": "間",
+            "answers": [
+                "사이 간",
+                "간"
+            ],
+            "comment": "interval, space; place, between"
+        },
+        {
+            "question": "渴",
+            "answers": [
+                "목마를 갈",
+                "갈"
+            ],
+            "comment": "thirsty, parched; yearn, pine"
+        },
+        {
+            "question": "感",
+            "answers": [
+                "느낄 감",
+                "감"
+            ],
+            "comment": "feel, perceive, emotion"
+        },
+        {
+            "question": "敢",
+            "answers": [
+                "감히 감",
+                "감"
+            ],
+            "comment": "to dare, venture; bold, brave"
+        },
+        {
+            "question": "減",
+            "answers": [
+                "덜 감",
+                "감"
+            ],
+            "comment": "decrease, subtract, diminish"
+        },
+        {
+            "question": "甘",
+            "answers": [
+                "달 감",
+                "감"
+            ],
+            "comment": "sweetness; sweet, tasty"
+        },
+        {
+            "question": "甲",
+            "answers": [
+                "갑옷 갑",
+                "갑"
+            ],
+            "comment": "armor, shell; fingernails; 1st heavenly stem"
+        },
+        {
+            "question": "強",
+            "answers": [
+                "굳셀 강",
+                "강"
+            ],
+            "comment": "strong, powerful, energetic"
+        },
+        {
+            "question": "江",
+            "answers": [
+                "강 강",
+                "강"
+            ],
+            "comment": "large river; yangzi; surname"
+        },
+        {
+            "question": "講",
+            "answers": [
+                "익힐 강",
+                "강"
+            ],
+            "comment": "explain; discuss; talk"
+        },
+        {
+            "question": "降",
+            "answers": [
+                "내릴 강",
+                "강"
+            ],
+            "comment": "descend, fall, drop; lower, down"
+        },
+        {
+            "question": "個",
+            "answers": [
+                "낱 개",
+                "개"
+            ],
+            "comment": "numerary adjunct, piece; single"
+        },
+        {
+            "question": "改",
+            "answers": [
+                "고칠 개",
+                "개"
+            ],
+            "comment": "change, alter; improve, remodel"
+        },
+        {
+            "question": "皆",
+            "answers": [
+                "다 개",
+                "개"
+            ],
+            "comment": "all, every, everybody"
+        },
+        {
+            "question": "開",
+            "answers": [
+                "열 개",
+                "개"
+            ],
+            "comment": "open; initiate, begin, start"
+        },
+        {
+            "question": "客",
+            "answers": [
+                "손님 객",
+                "객"
+            ],
+            "comment": "guest, traveller; customer"
+        },
+        {
+            "question": "更",
+            "answers": [
+                "다시 갱",
+                "갱"
+            ],
+            "comment": "more, still further, much more"
+        },
+        {
+            "question": "去",
+            "answers": [
+                "갈 거",
+                "거"
+            ],
+            "comment": "go away, leave, depart"
+        },
+        {
+            "question": "居",
+            "answers": [
+                "있을 거",
+                "거"
+            ],
+            "comment": "live, dwell, reside, sit"
+        },
+        {
+            "question": "巨",
+            "answers": [
+                "클 거",
+                "거"
+            ],
+            "comment": "large, great, enormous; chief"
+        },
+        {
+            "question": "擧",
+            "answers": [
+                "들 거",
+                "거"
+            ],
+            "comment": "raise, lift up; recommend"
+        },
+        {
+            "question": "車",
+            "answers": [
+                "수레 거",
+                "거"
+            ],
+            "comment": "cart, vehicle; carry in cart"
+        },
+        {
+            "question": "乾",
+            "answers": [
+                "하늘 건",
+                "건"
+            ],
+            "comment": "dry; first hexagram; warming principle of the sun, penetrating and fertilizing, heavenly generative principle (male)"
+        },
+        {
+            "question": "建",
+            "answers": [
+                "세울 건",
+                "건"
+            ],
+            "comment": "build, establish, erect, found"
+        },
+        {
+            "question": "堅",
+            "answers": [
+                "굳을 견",
+                "견"
+            ],
+            "comment": "hard, strong, firm; resolute"
+        },
+        {
+            "question": "犬",
+            "answers": [
+                "개 견",
+                "견"
+            ],
+            "comment": "dog; radical number 94"
+        },
+        {
+            "question": "見",
+            "answers": [
+                "볼 견",
+                "견"
+            ],
+            "comment": "see, observe, behold; perceive"
+        },
+        {
+            "question": "決",
+            "answers": [
+                "터질 결",
+                "결"
+            ],
+            "comment": "decide, determine, judge"
+        },
+        {
+            "question": "潔",
+            "answers": [
+                "깨끗할 결",
+                "결"
+            ],
+            "comment": "clean, purify, pure"
+        },
+        {
+            "question": "結",
+            "answers": [
+                "맺을 결",
+                "결"
+            ],
+            "comment": "knot, tie; join, connect"
+        },
+        {
+            "question": "京",
+            "answers": [
+                "서울 경",
+                "경"
+            ],
+            "comment": "capital city"
+        },
+        {
+            "question": "庚",
+            "answers": [
+                "일곱째 천간 경",
+                "경"
+            ],
+            "comment": "7th heavenly stem"
+        },
+        {
+            "question": "慶",
+            "answers": [
+                "경사 경",
+                "경"
+            ],
+            "comment": "congratulate, celebrate"
+        },
+        {
+            "question": "敬",
+            "answers": [
+                "공경할 경",
+                "경"
+            ],
+            "comment": "respect, honor; respectfully"
+        },
+        {
+            "question": "景",
+            "answers": [
+                "볕 경",
+                "경"
+            ],
+            "comment": "scenery, view; conditions"
+        },
+        {
+            "question": "競",
+            "answers": [
+                "겨룰 경",
+                "경"
+            ],
+            "comment": "contend, vie, compete"
+        },
+        {
+            "question": "經",
+            "answers": [
+                "경서 경",
+                "경"
+            ],
+            "comment": "classic works; pass through"
+        },
+        {
+            "question": "耕",
+            "answers": [
+                "밭을 갈 경",
+                "경"
+            ],
+            "comment": "plow, cultivate"
+        },
+        {
+            "question": "輕",
+            "answers": [
+                "가벼울 경",
+                "경"
+            ],
+            "comment": "light; easy, simple; gentle"
+        },
+        {
+            "question": "驚",
+            "answers": [
+                "놀랄 경",
+                "경"
+            ],
+            "comment": "frighten, surprise, startle"
+        },
+        {
+            "question": "季",
+            "answers": [
+                "끝 계",
+                "계"
+            ],
+            "comment": "quarter of year; season; surname"
+        },
+        {
+            "question": "溪",
+            "answers": [
+                "시내 계",
+                "계"
+            ],
+            "comment": "mountain stream, creek"
+        },
+        {
+            "question": "界",
+            "answers": [
+                "지경 계",
+                "계"
+            ],
+            "comment": "boundary, limit; domain; society; the world"
+        },
+        {
+            "question": "癸",
+            "answers": [
+                "열째 천간 계",
+                "계"
+            ],
+            "comment": "10th heavenly stem"
+        },
+        {
+            "question": "計",
+            "answers": [
+                "꾀 계",
+                "계"
+            ],
+            "comment": "plan, plot; strategem; scheme"
+        },
+        {
+            "question": "鷄",
+            "answers": [
+                "닭 계",
+                "계"
+            ],
+            "comment": "chicken"
+        },
+        {
+            "question": "古",
+            "answers": [
+                "옛 고",
+                "고"
+            ],
+            "comment": "old, classic, ancient"
+        },
+        {
+            "question": "告",
+            "answers": [
+                "알릴 고",
+                "고"
+            ],
+            "comment": "tell, announce, inform; accuse"
+        },
+        {
+            "question": "固",
+            "answers": [
+                "굳을 고",
+                "고"
+            ],
+            "comment": "to become solid, solidify; strength"
+        },
+        {
+            "question": "故",
+            "answers": [
+                "옛 고",
+                "고"
+            ],
+            "comment": "ancient, old; reason, because"
+        },
+        {
+            "question": "考",
+            "answers": [
+                "상고할 고",
+                "고"
+            ],
+            "comment": "examine, test; investigate"
+        },
+        {
+            "question": "苦",
+            "answers": [
+                "쓸 고",
+                "고"
+            ],
+            "comment": "bitter; hardship, suffering"
+        },
+        {
+            "question": "高",
+            "answers": [
+                "높을 고",
+                "고"
+            ],
+            "comment": "high, tall; lofty, elevated"
+        },
+        {
+            "question": "曲",
+            "answers": [
+                "굽을 곡",
+                "곡"
+            ],
+            "comment": "crooked, bent; wrong, false"
+        },
+        {
+            "question": "穀",
+            "answers": [
+                "곡식 곡",
+                "곡"
+            ],
+            "comment": "corn, grain, cereal; lucky"
+        },
+        {
+            "question": "谷",
+            "answers": [
+                "골 곡",
+                "곡"
+            ],
+            "comment": "valley, gorge, ravine"
+        },
+        {
+            "question": "困",
+            "answers": [
+                "괴로울 곤",
+                "곤"
+            ],
+            "comment": "to surround, beseige; to be surrounded; difficult"
+        },
+        {
+            "question": "坤",
+            "answers": [
+                "땅 곤",
+                "곤"
+            ],
+            "comment": "earth; feminine, female"
+        },
+        {
+            "question": "骨",
+            "answers": [
+                "뼈 골",
+                "골"
+            ],
+            "comment": "bone; skeleton; frame, framework"
+        },
+        {
+            "question": "公",
+            "answers": [
+                "공변될 공",
+                "공"
+            ],
+            "comment": "fair, equitable; public; duke"
+        },
+        {
+            "question": "共",
+            "answers": [
+                "함께 공",
+                "공"
+            ],
+            "comment": "together with, all, total; to share"
+        },
+        {
+            "question": "功",
+            "answers": [
+                "공로 공",
+                "공"
+            ],
+            "comment": "achievement, merit, good result"
+        },
+        {
+            "question": "工",
+            "answers": [
+                "장인 공",
+                "공"
+            ],
+            "comment": "labor, work; worker, laborer"
+        },
+        {
+            "question": "空",
+            "answers": [
+                "빌 공",
+                "공"
+            ],
+            "comment": "empty, hollow, bare, deserted"
+        },
+        {
+            "question": "果",
+            "answers": [
+                "과실 과",
+                "과"
+            ],
+            "comment": "fruit; result"
+        },
+        {
+            "question": "科",
+            "answers": [
+                "과정 과",
+                "과"
+            ],
+            "comment": "section, department, science"
+        },
+        {
+            "question": "課",
+            "answers": [
+                "매길 과",
+                "과"
+            ],
+            "comment": "lesson; course; classwork"
+        },
+        {
+            "question": "過",
+            "answers": [
+                "지날 과",
+                "과"
+            ],
+            "comment": "pass, pass through, go across"
+        },
+        {
+            "question": "官",
+            "answers": [
+                "벼슬 관",
+                "관"
+            ],
+            "comment": "official, public servant"
+        },
+        {
+            "question": "觀",
+            "answers": [
+                "볼 관",
+                "관"
+            ],
+            "comment": "see, observe, view; appearance"
+        },
+        {
+            "question": "關",
+            "answers": [
+                "빗장 관",
+                "관"
+            ],
+            "comment": "frontier pass; close; relation"
+        },
+        {
+            "question": "光",
+            "answers": [
+                "빛 광",
+                "광"
+            ],
+            "comment": "light, brilliant, shine; only"
+        },
+        {
+            "question": "廣",
+            "answers": [
+                "넓을 광",
+                "광"
+            ],
+            "comment": "broad, wide, extensive"
+        },
+        {
+            "question": "交",
+            "answers": [
+                "사귈 교",
+                "교"
+            ],
+            "comment": "mix; intersect; exchange, communicate; deliver"
+        },
+        {
+            "question": "敎",
+            "answers": [
+                "가르칠 교",
+                "교"
+            ],
+            "comment": "teach"
+        },
+        {
+            "question": "校",
+            "answers": [
+                "학교 교",
+                "교"
+            ],
+            "comment": "school; military field officer"
+        },
+        {
+            "question": "橋",
+            "answers": [
+                "다리 교",
+                "교"
+            ],
+            "comment": "bridge; beam, crosspiece"
+        },
+        {
+            "question": "久",
+            "answers": [
+                "오랠 구",
+                "구"
+            ],
+            "comment": "long time (ago); time passage, grow late"
+        },
+        {
+            "question": "九",
+            "answers": [
+                "아홉 구",
+                "구"
+            ],
+            "comment": "nine"
+        },
+        {
+            "question": "口",
+            "answers": [
+                "입 구",
+                "구"
+            ],
+            "comment": "mouth; open end; entrance, gate"
+        },
+        {
+            "question": "句",
+            "answers": [
+                "글귀 구",
+                "구"
+            ],
+            "comment": "sentence"
+        },
+        {
+            "question": "救",
+            "answers": [
+                "건질 구",
+                "구"
+            ],
+            "comment": "save, rescue, relieve; help, aid"
+        },
+        {
+            "question": "求",
+            "answers": [
+                "구할 구",
+                "구"
+            ],
+            "comment": "seek; demand, request; beseech"
+        },
+        {
+            "question": "究",
+            "answers": [
+                "궁구할 구",
+                "구"
+            ],
+            "comment": "examine, investigate"
+        },
+        {
+            "question": "舊",
+            "answers": [
+                "예 구",
+                "구"
+            ],
+            "comment": "old, ancient; former, past"
+        },
+        {
+            "question": "國",
+            "answers": [
+                "나라 국",
+                "국"
+            ],
+            "comment": "nation, country, nation-state"
+        },
+        {
+            "question": "君",
+            "answers": [
+                "임금 군",
+                "군"
+            ],
+            "comment": "sovereign, monarch, ruler, chief, prince"
+        },
+        {
+            "question": "軍",
+            "answers": [
+                "군사 군",
+                "군"
+            ],
+            "comment": "army, military; soldiers, troops"
+        },
+        {
+            "question": "郡",
+            "answers": [
+                "고을 군",
+                "군"
+            ],
+            "comment": "administrative division"
+        },
+        {
+            "question": "弓",
+            "answers": [
+                "활 궁",
+                "궁"
+            ],
+            "comment": "bow; curved, arched; KangXi radical number 57"
+        },
+        {
+            "question": "勸",
+            "answers": [
+                "권할 권",
+                "권"
+            ],
+            "comment": "recommend, advise, urge"
+        },
+        {
+            "question": "卷",
+            "answers": [
+                "책 권",
+                "권"
+            ],
+            "comment": "scroll; curl; make a comeback"
+        },
+        {
+            "question": "權",
+            "answers": [
+                "권세 권",
+                "권"
+            ],
+            "comment": "power, right, authority"
+        },
+        {
+            "question": "歸",
+            "answers": [
+                "돌아갈 귀",
+                "귀"
+            ],
+            "comment": "return; return to, revert to"
+        },
+        {
+            "question": "貴",
+            "answers": [
+                "귀할 귀",
+                "귀"
+            ],
+            "comment": "expensive, costly, valuable"
+        },
+        {
+            "question": "均",
+            "answers": [
+                "고를 균",
+                "균"
+            ],
+            "comment": "equal, even, fair; all, also"
+        },
+        {
+            "question": "極",
+            "answers": [
+                "다할 극",
+                "극"
+            ],
+            "comment": "extreme, utmost, furthest, final"
+        },
+        {
+            "question": "勤",
+            "answers": [
+                "부지런할 근",
+                "근"
+            ],
+            "comment": "industrious, diligent, attentive"
+        },
+        {
+            "question": "根",
+            "answers": [
+                "뿌리 근",
+                "근"
+            ],
+            "comment": "root, base(d on); foundation"
+        },
+        {
+            "question": "近",
+            "answers": [
+                "가까울 근",
+                "근"
+            ],
+            "comment": "near, close; approach; intimate"
+        },
+        {
+            "question": "今",
+            "answers": [
+                "이제 금",
+                "금"
+            ],
+            "comment": "now, today, modern era"
+        },
+        {
+            "question": "禁",
+            "answers": [
+                "금할 금",
+                "금"
+            ],
+            "comment": "restrict, prohibit, forbid"
+        },
+        {
+            "question": "金",
+            "answers": [
+                "쇠 금",
+                "금"
+            ],
+            "comment": "gold; metals in general; money"
+        },
+        {
+            "question": "及",
+            "answers": [
+                "미칠 급",
+                "급"
+            ],
+            "comment": "extend; reach; come up to; and"
+        },
+        {
+            "question": "急",
+            "answers": [
+                "급할 급",
+                "급"
+            ],
+            "comment": "quick, quickly; urgent, pressing"
+        },
+        {
+            "question": "給",
+            "answers": [
+                "넉넉할 급",
+                "급"
+            ],
+            "comment": "give; by, for"
+        },
+        {
+            "question": "其",
+            "answers": [
+                "그 기",
+                "기"
+            ],
+            "comment": "his, her, its, their; that"
+        },
+        {
+            "question": "基",
+            "answers": [
+                "터 기",
+                "기"
+            ],
+            "comment": "foundation, base"
+        },
+        {
+            "question": "己",
+            "answers": [
+                "몸 기",
+                "기"
+            ],
+            "comment": "self, oneself; personal, private; 6th heavenly stem"
+        },
+        {
+            "question": "幾",
+            "answers": [
+                "기미 기",
+                "기"
+            ],
+            "comment": "how many? how much?; a few, some"
+        },
+        {
+            "question": "技",
+            "answers": [
+                "재주 기",
+                "기"
+            ],
+            "comment": "skill, ability, talent, ingenuity"
+        },
+        {
+            "question": "旣",
+            "answers": [
+                "이미 기",
+                "기"
+            ],
+            "comment": "already; de facto; since; then"
+        },
+        {
+            "question": "期",
+            "answers": [
+                "기약할 기",
+                "기"
+            ],
+            "comment": "period of time; date; time limit"
+        },
+        {
+            "question": "氣",
+            "answers": [
+                "기운 기",
+                "기"
+            ],
+            "comment": "air, gas, steam, vapor; spirit"
+        },
+        {
+            "question": "記",
+            "answers": [
+                "기록할 기",
+                "기"
+            ],
+            "comment": "record; keep in mind, remember"
+        },
+        {
+            "question": "起",
+            "answers": [
+                "일어날 기",
+                "기"
+            ],
+            "comment": "rise, stand up; go up; begin"
+        },
+        {
+            "question": "吉",
+            "answers": [
+                "길할 길",
+                "길"
+            ],
+            "comment": "lucky, propitious, good"
+        },
+        {
+            "question": "暖",
+            "answers": [
+                "따뜻할 난",
+                "난"
+            ],
+            "comment": "warm, genial"
+        },
+        {
+            "question": "難",
+            "answers": [
+                "어려울 난",
+                "난"
+            ],
+            "comment": "difficult, arduous, hard; unable"
+        },
+        {
+            "question": "南",
+            "answers": [
+                "남녘 남",
+                "남"
+            ],
+            "comment": "south; southern part; southward"
+        },
+        {
+            "question": "男",
+            "answers": [
+                "사내 남",
+                "남"
+            ],
+            "comment": "male, man; son; baron; surname"
+        },
+        {
+            "question": "乃",
+            "answers": [
+                "이에 내",
+                "내"
+            ],
+            "comment": "then; really, indeed; as it turned out, after all; namely"
+        },
+        {
+            "question": "內",
+            "answers": [
+                "안 내",
+                "내"
+            ],
+            "comment": "inside, interior; domestic"
+        },
+        {
+            "question": "女",
+            "answers": [
+                "계집 녀",
+                "녀"
+            ],
+            "comment": "woman, girl; feminine; rad. 38"
+        },
+        {
+            "question": "年",
+            "answers": [
+                "해 년",
+                "년"
+            ],
+            "comment": "year; new-years; person's age"
+        },
+        {
+            "question": "念",
+            "answers": [
+                "생각할 념",
+                "념"
+            ],
+            "comment": "think of, recall, study"
+        },
+        {
+            "question": "怒",
+            "answers": [
+                "성낼 노",
+                "노"
+            ],
+            "comment": "anger, rage, passion; angry"
+        },
+        {
+            "question": "農",
+            "answers": [
+                "농사 농",
+                "농"
+            ],
+            "comment": "agriculture, farming; farmer"
+        },
+        {
+            "question": "能",
+            "answers": [
+                "능할 능",
+                "능"
+            ],
+            "comment": "to be able; can, permitted to; ability"
+        },
+        {
+            "question": "多",
+            "answers": [
+                "많을 다",
+                "다"
+            ],
+            "comment": "much, many; more than, over"
+        },
+        {
+            "question": "丹",
+            "answers": [
+                "붉을 단",
+                "단"
+            ],
+            "comment": "cinnabar (native HgS); vermilion (artificial HgS used as pigment)"
+        },
+        {
+            "question": "但",
+            "answers": [
+                "다만 단",
+                "단"
+            ],
+            "comment": "only; but, however, yet, still"
+        },
+        {
+            "question": "單",
+            "answers": [
+                "홑 단",
+                "단"
+            ],
+            "comment": "single, individual, only; lone"
+        },
+        {
+            "question": "短",
+            "answers": [
+                "짧을 단",
+                "단"
+            ],
+            "comment": "short; brief; deficient, lacking"
+        },
+        {
+            "question": "端",
+            "answers": [
+                "바를 단",
+                "단"
+            ],
+            "comment": "end, extreme; head; beginning"
+        },
+        {
+            "question": "達",
+            "answers": [
+                "통달할 달",
+                "달"
+            ],
+            "comment": "arrive at, reach; intelligent"
+        },
+        {
+            "question": "談",
+            "answers": [
+                "말씀 담",
+                "담"
+            ],
+            "comment": "talk; conversation; surname"
+        },
+        {
+            "question": "答",
+            "answers": [
+                "대답할 답",
+                "답"
+            ],
+            "comment": "answer, reply; return; assent to"
+        },
+        {
+            "question": "堂",
+            "answers": [
+                "집 당",
+                "당"
+            ],
+            "comment": "hall; government office"
+        },
+        {
+            "question": "當",
+            "answers": [
+                "당할 당",
+                "당"
+            ],
+            "comment": "bear, accept, undertake; just"
+        },
+        {
+            "question": "代",
+            "answers": [
+                "대신할 대",
+                "대"
+            ],
+            "comment": "replace, replacement (of person or generation); era, generation"
+        },
+        {
+            "question": "大",
+            "answers": [
+                "큰 대",
+                "대"
+            ],
+            "comment": "big, great, vast, large, high"
+        },
+        {
+            "question": "對",
+            "answers": [
+                "대답할 대",
+                "대"
+            ],
+            "comment": "correct, right; facing, opposed"
+        },
+        {
+            "question": "待",
+            "answers": [
+                "기다릴 대",
+                "대"
+            ],
+            "comment": "treat, entertain, receive; wait"
+        },
+        {
+            "question": "德",
+            "answers": [
+                "덕 덕",
+                "덕"
+            ],
+            "comment": "ethics, morality, virtue"
+        },
+        {
+            "question": "刀",
+            "answers": [
+                "칼 도",
+                "도"
+            ],
+            "comment": "knife; old coin; measure"
+        },
+        {
+            "question": "到",
+            "answers": [
+                "이를 도",
+                "도"
+            ],
+            "comment": "go to, arrive, been to"
+        },
+        {
+            "question": "圖",
+            "answers": [
+                "그림 도",
+                "도"
+            ],
+            "comment": "diagram; chart, map, picture"
+        },
+        {
+            "question": "島",
+            "answers": [
+                "섬 도",
+                "도"
+            ],
+            "comment": "island"
+        },
+        {
+            "question": "度",
+            "answers": [
+                "법도 도",
+                "도"
+            ],
+            "comment": "degree, system; manner; to consider"
+        },
+        {
+            "question": "徒",
+            "answers": [
+                "무리 도",
+                "도"
+            ],
+            "comment": "disciple, follower; go on foot"
+        },
+        {
+            "question": "道",
+            "answers": [
+                "길 도",
+                "도"
+            ],
+            "comment": "path, road, street; method, way"
+        },
+        {
+            "question": "都",
+            "answers": [
+                "도읍 도",
+                "도"
+            ],
+            "comment": "metropolis, capital; all, the whole; elegant, refined"
+        },
+        {
+            "question": "獨",
+            "answers": [
+                "홀로 독",
+                "독"
+            ],
+            "comment": "alone, single, solitary, only"
+        },
+        {
+            "question": "讀",
+            "answers": [
+                "읽을 독",
+                "독"
+            ],
+            "comment": "read, study; pronounce"
+        },
+        {
+            "question": "冬",
+            "answers": [
+                "겨울 동",
+                "동"
+            ],
+            "comment": "winter, 11th lunar month"
+        },
+        {
+            "question": "動",
+            "answers": [
+                "움직일 동",
+                "동"
+            ],
+            "comment": "move, happen; movement, action"
+        },
+        {
+            "question": "同",
+            "answers": [
+                "한가지 동",
+                "동"
+            ],
+            "comment": "same, similar; together with"
+        },
+        {
+            "question": "東",
+            "answers": [
+                "동녘 동",
+                "동"
+            ],
+            "comment": "east, eastern, eastward"
+        },
+        {
+            "question": "洞",
+            "answers": [
+                "골짜기 동",
+                "동"
+            ],
+            "comment": "cave, grotto; ravine; hole"
+        },
+        {
+            "question": "童",
+            "answers": [
+                "아이 동",
+                "동"
+            ],
+            "comment": "child, boy, servant boy; virgin"
+        },
+        {
+            "question": "斗",
+            "answers": [
+                "말 두",
+                "두"
+            ],
+            "comment": "Chinese peck; liquid measure"
+        },
+        {
+            "question": "豆",
+            "answers": [
+                "콩 두",
+                "두"
+            ],
+            "comment": "beans, peas; bean-shaped"
+        },
+        {
+            "question": "頭",
+            "answers": [
+                "머리 두",
+                "두"
+            ],
+            "comment": "head; top; chief, first; boss"
+        },
+        {
+            "question": "得",
+            "answers": [
+                "얻을 득",
+                "득"
+            ],
+            "comment": "obtain, get, gain, acquire"
+        },
+        {
+            "question": "燈",
+            "answers": [
+                "등잔 등",
+                "등"
+            ],
+            "comment": "lantern, lamp"
+        },
+        {
+            "question": "登",
+            "answers": [
+                "오를 등",
+                "등"
+            ],
+            "comment": "rise, mount, board, climb"
+        },
+        {
+            "question": "等",
+            "answers": [
+                "가지런할 등",
+                "등"
+            ],
+            "comment": "rank, grade; wait; equal; 'etc.'"
+        },
+        {
+            "question": "樂",
+            "answers": [
+                "즐길 락",
+                "락"
+            ],
+            "comment": "happy, glad; enjoyable; music"
+        },
+        {
+            "question": "落",
+            "answers": [
+                "떨어질 락",
+                "락"
+            ],
+            "comment": "fall, drop; net income, surplus"
+        },
+        {
+            "question": "卵",
+            "answers": [
+                "알 란",
+                "란"
+            ],
+            "comment": "egg; ovum; roe; spawn"
+        },
+        {
+            "question": "浪",
+            "answers": [
+                "물결 랑",
+                "랑"
+            ],
+            "comment": "wave; wasteful, reckless"
+        },
+        {
+            "question": "郞",
+            "answers": [
+                "사내 랑",
+                "랑"
+            ],
+            "comment": "gentleman"
+        },
+        {
+            "question": "來",
+            "answers": [
+                "올 래",
+                "래"
+            ],
+            "comment": "come, coming; return, returning"
+        },
+        {
+            "question": "冷",
+            "answers": [
+                "찰 랭",
+                "랭"
+            ],
+            "comment": "cold, cool; lonely"
+        },
+        {
+            "question": "兩",
+            "answers": [
+                "두 량",
+                "량"
+            ],
+            "comment": "two, both, pair, couple; ounce"
+        },
+        {
+            "question": "涼",
+            "answers": [
+                "서늘할 량",
+                "량"
+            ],
+            "comment": "cool, cold; disheartened"
+        },
+        {
+            "question": "良",
+            "answers": [
+                "어질 량",
+                "량"
+            ],
+            "comment": "good, virtuous, respectable"
+        },
+        {
+            "question": "量",
+            "answers": [
+                "헤아릴 량",
+                "량"
+            ],
+            "comment": "measure, quantity, capacity"
+        },
+        {
+            "question": "旅",
+            "answers": [
+                "군사 려",
+                "려"
+            ],
+            "comment": "trip, journey; travel; traveler"
+        },
+        {
+            "question": "力",
+            "answers": [
+                "힘 력",
+                "력"
+            ],
+            "comment": "power, capability, influence"
+        },
+        {
+            "question": "歷",
+            "answers": [
+                "지낼 력",
+                "력"
+            ],
+            "comment": "take place, past, history"
+        },
+        {
+            "question": "練",
+            "answers": [
+                "익힐 련",
+                "련"
+            ],
+            "comment": "practice, drill, exercise, train"
+        },
+        {
+            "question": "連",
+            "answers": [
+                "잇닿을 련",
+                "련"
+            ],
+            "comment": "join, connect; continuous; even"
+        },
+        {
+            "question": "列",
+            "answers": [
+                "벌일 렬",
+                "렬"
+            ],
+            "comment": "a line; to arrange in order, classify"
+        },
+        {
+            "question": "烈",
+            "answers": [
+                "세찰 렬",
+                "렬"
+            ],
+            "comment": "fiery, violent, vehement, ardent"
+        },
+        {
+            "question": "令",
+            "answers": [
+                "명령할 령",
+                "령"
+            ],
+            "comment": "command, order; 'commandant', magistrate; allow, cause"
+        },
+        {
+            "question": "領",
+            "answers": [
+                "옷깃 령",
+                "령"
+            ],
+            "comment": "neck; collar; lead, guide"
+        },
+        {
+            "question": "例",
+            "answers": [
+                "법식 례",
+                "례"
+            ],
+            "comment": "precedent, example; regulation"
+        },
+        {
+            "question": "禮",
+            "answers": [
+                "예도 례",
+                "례"
+            ],
+            "comment": "social custom; manners; courtesy; rites"
+        },
+        {
+            "question": "勞",
+            "answers": [
+                "일할 로",
+                "로"
+            ],
+            "comment": "labor, toil, do manual work"
+        },
+        {
+            "question": "老",
+            "answers": [
+                "늙은이 로",
+                "로"
+            ],
+            "comment": "old, aged; experienced"
+        },
+        {
+            "question": "路",
+            "answers": [
+                "길 로",
+                "로"
+            ],
+            "comment": "road, path, street; journey"
+        },
+        {
+            "question": "露",
+            "answers": [
+                "이슬 로",
+                "로"
+            ],
+            "comment": "dew; bare, open, exposed"
+        },
+        {
+            "question": "綠",
+            "answers": [
+                "초록빛 록",
+                "록"
+            ],
+            "comment": "green; chlorine"
+        },
+        {
+            "question": "論",
+            "answers": [
+                "말할 론",
+                "론"
+            ],
+            "comment": "debate; discuss; discourse"
+        },
+        {
+            "question": "料",
+            "answers": [
+                "헤아릴 료",
+                "료"
+            ],
+            "comment": "consider, conjecture; materials, ingredients"
+        },
+        {
+            "question": "柳",
+            "answers": [
+                "버들 류",
+                "류"
+            ],
+            "comment": "willow tree; pleasure"
+        },
+        {
+            "question": "流",
+            "answers": [
+                "흐를 류",
+                "류"
+            ],
+            "comment": "flow, circulate, drift; class"
+        },
+        {
+            "question": "留",
+            "answers": [
+                "머무를 류",
+                "류"
+            ],
+            "comment": "stop, halt; stay, detain, keep"
+        },
+        {
+            "question": "六",
+            "answers": [
+                "여섯 륙",
+                "륙"
+            ],
+            "comment": "number six"
+        },
+        {
+            "question": "陸",
+            "answers": [
+                "뭍 륙",
+                "륙"
+            ],
+            "comment": "land, continental; army; an accounting form of U+516D 六 (six)"
+        },
+        {
+            "question": "倫",
+            "answers": [
+                "인륜 륜",
+                "륜"
+            ],
+            "comment": "normal human relationships"
+        },
+        {
+            "question": "律",
+            "answers": [
+                "법 률",
+                "률"
+            ],
+            "comment": "statute, principle, regulation"
+        },
+        {
+            "question": "利",
+            "answers": [
+                "이로울 리",
+                "리"
+            ],
+            "comment": "gains, advantage, profit, merit"
+        },
+        {
+            "question": "李",
+            "answers": [
+                "오얏 리",
+                "리"
+            ],
+            "comment": "plum; judge; surname"
+        },
+        {
+            "question": "理",
+            "answers": [
+                "다스릴 리",
+                "리"
+            ],
+            "comment": "reason, logic; manage"
+        },
+        {
+            "question": "里",
+            "answers": [
+                "마을 리",
+                "리"
+            ],
+            "comment": "unit of distance; village; lane"
+        },
+        {
+            "question": "林",
+            "answers": [
+                "수풀 림",
+                "림"
+            ],
+            "comment": "forest, grove; surname"
+        },
+        {
+            "question": "立",
+            "answers": [
+                "설 립",
+                "립"
+            ],
+            "comment": "stand; let stand; establish, set"
+        },
+        {
+            "question": "馬",
+            "answers": [
+                "말 마",
+                "마"
+            ],
+            "comment": "horse; surname; KangXi radical 187"
+        },
+        {
+            "question": "莫",
+            "answers": [
+                "없을 막",
+                "막"
+            ],
+            "comment": "do not, is not, can not; negative"
+        },
+        {
+            "question": "晚",
+            "answers": [
+                "늦을 만",
+                "만"
+            ],
+            "comment": "night, evening; late"
+        },
+        {
+            "question": "滿",
+            "answers": [
+                "찰 만",
+                "만"
+            ],
+            "comment": "fill; full, satisfied"
+        },
+        {
+            "question": "萬",
+            "answers": [
+                "일만 만",
+                "만"
+            ],
+            "comment": "ten thousand; innumerable"
+        },
+        {
+            "question": "末",
+            "answers": [
+                "끝 말",
+                "말"
+            ],
+            "comment": "final, last, end; insignificant"
+        },
+        {
+            "question": "亡",
+            "answers": [
+                "망할 망",
+                "망"
+            ],
+            "comment": "death, destroyed; lose, perish"
+        },
+        {
+            "question": "忙",
+            "answers": [
+                "바쁠 망",
+                "망"
+            ],
+            "comment": "busy, pressed for time; hustling"
+        },
+        {
+            "question": "忘",
+            "answers": [
+                "잊을 망",
+                "망"
+            ],
+            "comment": "forget; neglect; miss, omit"
+        },
+        {
+            "question": "望",
+            "answers": [
+                "바랄 망",
+                "망"
+            ],
+            "comment": "to look at, look forward; to hope, expect"
+        },
+        {
+            "question": "妹",
+            "answers": [
+                "누이 매",
+                "매"
+            ],
+            "comment": "younger sister"
+        },
+        {
+            "question": "每",
+            "answers": [
+                "매양 매",
+                "매"
+            ],
+            "comment": "every, each"
+        },
+        {
+            "question": "買",
+            "answers": [
+                "살 매",
+                "매"
+            ],
+            "comment": "buy, purchase; bribe, persuade"
+        },
+        {
+            "question": "賣",
+            "answers": [
+                "팔 매",
+                "매"
+            ],
+            "comment": "sell; betray; show off"
+        },
+        {
+            "question": "麥",
+            "answers": [
+                "보리 맥",
+                "맥"
+            ],
+            "comment": "wheat, barley, oats; KangXi radical number 199"
+        },
+        {
+            "question": "免",
+            "answers": [
+                "면할 면",
+                "면"
+            ],
+            "comment": "spare; excuse from; evade"
+        },
+        {
+            "question": "勉",
+            "answers": [
+                "힘쓸 면",
+                "면"
+            ],
+            "comment": "endeavor, make effort; urge"
+        },
+        {
+            "question": "眠",
+            "answers": [
+                "잠잘 면",
+                "면"
+            ],
+            "comment": "close eyes, sleep; hibernate"
+        },
+        {
+            "question": "面",
+            "answers": [
+                "낯 면",
+                "면"
+            ],
+            "comment": "face; surface; plane; side, dimension"
+        },
+        {
+            "question": "名",
+            "answers": [
+                "이름 명",
+                "명"
+            ],
+            "comment": "name, rank, title, position"
+        },
+        {
+            "question": "命",
+            "answers": [
+                "목숨 명",
+                "명"
+            ],
+            "comment": "life; destiny, fate, luck; an order, instruction"
+        },
+        {
+            "question": "明",
+            "answers": [
+                "밝을 명",
+                "명"
+            ],
+            "comment": "bright, light, brilliant; clear"
+        },
+        {
+            "question": "鳴",
+            "answers": [
+                "울 명",
+                "명"
+            ],
+            "comment": "cry of bird or animal; make sound"
+        },
+        {
+            "question": "暮",
+            "answers": [
+                "저물 모",
+                "모"
+            ],
+            "comment": "evening, dusk, sunset; ending"
+        },
+        {
+            "question": "母",
+            "answers": [
+                "어미 모",
+                "모"
+            ],
+            "comment": "mother; female elders; female"
+        },
+        {
+            "question": "毛",
+            "answers": [
+                "털 모",
+                "모"
+            ],
+            "comment": "hair, fur, feathers; coarse"
+        },
+        {
+            "question": "木",
+            "answers": [
+                "나무 목",
+                "목"
+            ],
+            "comment": "tree; wood, lumber; wooden"
+        },
+        {
+            "question": "目",
+            "answers": [
+                "눈 목",
+                "목"
+            ],
+            "comment": "eye; look, see; division, topic"
+        },
+        {
+            "question": "卯",
+            "answers": [
+                "토끼 묘",
+                "묘"
+            ],
+            "comment": "4th terrestrial branch; period from 5-7 a.m."
+        },
+        {
+            "question": "妙",
+            "answers": [
+                "묘할 묘",
+                "묘"
+            ],
+            "comment": "mysterious, subtle; exquisite"
+        },
+        {
+            "question": "務",
+            "answers": [
+                "일 무",
+                "무"
+            ],
+            "comment": "affairs, business; must, should"
+        },
+        {
+            "question": "戊",
+            "answers": [
+                "다섯째 천간 무",
+                "무"
+            ],
+            "comment": "5th heavenly stem"
+        },
+        {
+            "question": "武",
+            "answers": [
+                "굳셀 무",
+                "무"
+            ],
+            "comment": "military; martial, warlike"
+        },
+        {
+            "question": "無",
+            "answers": [
+                "없을 무",
+                "무"
+            ],
+            "comment": "negative, no, not; lack, have no"
+        },
+        {
+            "question": "舞",
+            "answers": [
+                "춤출 무",
+                "무"
+            ],
+            "comment": "dance, posture, prance; brandish"
+        },
+        {
+            "question": "茂",
+            "answers": [
+                "우거질 무",
+                "무"
+            ],
+            "comment": "thick, lush, dense; talented"
+        },
+        {
+            "question": "墨",
+            "answers": [
+                "먹 묵",
+                "묵"
+            ],
+            "comment": "ink; writing"
+        },
+        {
+            "question": "問",
+            "answers": [
+                "물을 문",
+                "문"
+            ],
+            "comment": "ask (about), inquire after"
+        },
+        {
+            "question": "文",
+            "answers": [
+                "글월 문",
+                "문"
+            ],
+            "comment": "literature, culture, writing"
+        },
+        {
+            "question": "聞",
+            "answers": [
+                "들을 문",
+                "문"
+            ],
+            "comment": "hear; smell; make known; news"
+        },
+        {
+            "question": "門",
+            "answers": [
+                "문 문",
+                "문"
+            ],
+            "comment": "gate, door, entrance, opening"
+        },
+        {
+            "question": "勿",
+            "answers": [
+                "말 물",
+                "물"
+            ],
+            "comment": "must not, do not; without, never"
+        },
+        {
+            "question": "物",
+            "answers": [
+                "만물 물",
+                "물"
+            ],
+            "comment": "thing, substance, creature"
+        },
+        {
+            "question": "味",
+            "answers": [
+                "맛 미",
+                "미"
+            ],
+            "comment": "taste, smell, odor; delicacy"
+        },
+        {
+            "question": "尾",
+            "answers": [
+                "꼬리 미",
+                "미"
+            ],
+            "comment": "tail, extremity; end, stern"
+        },
+        {
+            "question": "未",
+            "answers": [
+                "아닐 미",
+                "미"
+            ],
+            "comment": "not yet; 8th terrestrial branch"
+        },
+        {
+            "question": "米",
+            "answers": [
+                "쌀 미",
+                "미"
+            ],
+            "comment": "hulled or husked uncooked rice"
+        },
+        {
+            "question": "美",
+            "answers": [
+                "아름다울 미",
+                "미"
+            ],
+            "comment": "beautiful, pretty; pleasing"
+        },
+        {
+            "question": "民",
+            "answers": [
+                "백성 민",
+                "민"
+            ],
+            "comment": "people, subjects, citizens"
+        },
+        {
+            "question": "密",
+            "answers": [
+                "빽빽할 밀",
+                "밀"
+            ],
+            "comment": "dense, thick, close; intimate"
+        },
+        {
+            "question": "朴",
+            "answers": [
+                "순박할 박",
+                "박"
+            ],
+            "comment": "simple, unadorned; sincere; surname; a tree"
+        },
+        {
+            "question": "半",
+            "answers": [
+                "반 반",
+                "반"
+            ],
+            "comment": "half"
+        },
+        {
+            "question": "反",
+            "answers": [
+                "되돌릴 반",
+                "반"
+            ],
+            "comment": "reverse, opposite, contrary, anti"
+        },
+        {
+            "question": "飯",
+            "answers": [
+                "밥 반",
+                "반"
+            ],
+            "comment": "cooked rice; food; meal"
+        },
+        {
+            "question": "發",
+            "answers": [
+                "쏠 발",
+                "발"
+            ],
+            "comment": "issue, dispatch, send out, emit"
+        },
+        {
+            "question": "房",
+            "answers": [
+                "방 방",
+                "방"
+            ],
+            "comment": "house, building; room"
+        },
+        {
+            "question": "放",
+            "answers": [
+                "놓을 방",
+                "방"
+            ],
+            "comment": "put, release, free, liberate"
+        },
+        {
+            "question": "方",
+            "answers": [
+                "모 방",
+                "방"
+            ],
+            "comment": "a square, rectangle; a region; local"
+        },
+        {
+            "question": "訪",
+            "answers": [
+                "찾을 방",
+                "방"
+            ],
+            "comment": "visit; ask, inquire"
+        },
+        {
+            "question": "防",
+            "answers": [
+                "막을 방",
+                "방"
+            ],
+            "comment": "defend; prevent; embankment"
+        },
+        {
+            "question": "拜",
+            "answers": [
+                "절 배",
+                "배"
+            ],
+            "comment": "do obeisance, bow, kowtow"
+        },
+        {
+            "question": "杯",
+            "answers": [
+                "잔 배",
+                "배"
+            ],
+            "comment": "cup, glass"
+        },
+        {
+            "question": "白",
+            "answers": [
+                "흰 백",
+                "백"
+            ],
+            "comment": "white; pure, unblemished; bright"
+        },
+        {
+            "question": "百",
+            "answers": [
+                "일백 백",
+                "백"
+            ],
+            "comment": "one hundred; numerous, many"
+        },
+        {
+            "question": "番",
+            "answers": [
+                "차례 번",
+                "번"
+            ],
+            "comment": "to take turns; a turn, a time; to repeat"
+        },
+        {
+            "question": "伐",
+            "answers": [
+                "칠 벌",
+                "벌"
+            ],
+            "comment": "cut down, subjugate, attack"
+        },
+        {
+            "question": "凡",
+            "answers": [
+                "무릇 범",
+                "범"
+            ],
+            "comment": "all, any, every; ordinary, common"
+        },
+        {
+            "question": "法",
+            "answers": [
+                "법 법",
+                "법"
+            ],
+            "comment": "law, rule, regulation, statute; France, French"
+        },
+        {
+            "question": "變",
+            "answers": [
+                "변할 변",
+                "변"
+            ],
+            "comment": "change, transform, alter; rebel"
+        },
+        {
+            "question": "別",
+            "answers": [
+                "나눌 별",
+                "별"
+            ],
+            "comment": "separate, other; do not"
+        },
+        {
+            "question": "丙",
+            "answers": [
+                "남녘 병",
+                "병"
+            ],
+            "comment": "third; 3rd heavenly stem"
+        },
+        {
+            "question": "兵",
+            "answers": [
+                "군사 병",
+                "병"
+            ],
+            "comment": "soldier, troops"
+        },
+        {
+            "question": "病",
+            "answers": [
+                "병 병",
+                "병"
+            ],
+            "comment": "illness, sickness, disease"
+        },
+        {
+            "question": "保",
+            "answers": [
+                "지킬 보",
+                "보"
+            ],
+            "comment": "protect, safeguard, defend, care"
+        },
+        {
+            "question": "報",
+            "answers": [
+                "갚을 보",
+                "보"
+            ],
+            "comment": "report, tell, announce"
+        },
+        {
+            "question": "步",
+            "answers": [
+                "걸음 보",
+                "보"
+            ],
+            "comment": "step, pace; walk, stroll"
+        },
+        {
+            "question": "伏",
+            "answers": [
+                "엎드릴 복",
+                "복"
+            ],
+            "comment": "crouch, crawl, lie hidden, conceal"
+        },
+        {
+            "question": "復",
+            "answers": [
+                "돌아올 복",
+                "복"
+            ],
+            "comment": "return; repeat; repeatedly"
+        },
+        {
+            "question": "服",
+            "answers": [
+                "옷 복",
+                "복"
+            ],
+            "comment": "clothes; wear, dress"
+        },
+        {
+            "question": "福",
+            "answers": [
+                "복 복",
+                "복"
+            ],
+            "comment": "happiness, good fortune, blessing"
+        },
+        {
+            "question": "本",
+            "answers": [
+                "밑 본",
+                "본"
+            ],
+            "comment": "root, origin, source; basis"
+        },
+        {
+            "question": "奉",
+            "answers": [
+                "받들 봉",
+                "봉"
+            ],
+            "comment": "offer; receive; serve; respect"
+        },
+        {
+            "question": "逢",
+            "answers": [
+                "만날 봉",
+                "봉"
+            ],
+            "comment": "come upon, happen meet; flatter"
+        },
+        {
+            "question": "否",
+            "answers": [
+                "아닐 부",
+                "부"
+            ],
+            "comment": "not, no, negative; final particle"
+        },
+        {
+            "question": "夫",
+            "answers": [
+                "지아비 부",
+                "부"
+            ],
+            "comment": "man, male adult, husband; those"
+        },
+        {
+            "question": "婦",
+            "answers": [
+                "며느리 부",
+                "부"
+            ],
+            "comment": "married women; woman; wife"
+        },
+        {
+            "question": "富",
+            "answers": [
+                "넉넉할 부",
+                "부"
+            ],
+            "comment": "abundant, ample; rich, wealthy"
+        },
+        {
+            "question": "扶",
+            "answers": [
+                "도울 부",
+                "부"
+            ],
+            "comment": "support, help; protect; hold on"
+        },
+        {
+            "question": "浮",
+            "answers": [
+                "뜰 부",
+                "부"
+            ],
+            "comment": "to float, drift, waft; to exceed; superfluous"
+        },
+        {
+            "question": "父",
+            "answers": [
+                "아비 부",
+                "부"
+            ],
+            "comment": "father; KangXi radical 88"
+        },
+        {
+            "question": "部",
+            "answers": [
+                "거느릴 부",
+                "부"
+            ],
+            "comment": "part, division, section"
+        },
+        {
+            "question": "北",
+            "answers": [
+                "북녘 북",
+                "북"
+            ],
+            "comment": "north; northern; northward"
+        },
+        {
+            "question": "分",
+            "answers": [
+                "나눌 분",
+                "분"
+            ],
+            "comment": "divide; small unit of time etc."
+        },
+        {
+            "question": "不",
+            "answers": [
+                "아닐 불",
+                "불"
+            ],
+            "comment": "no, not; un-; negative prefix"
+        },
+        {
+            "question": "佛",
+            "answers": [
+                "부처 불",
+                "불"
+            ],
+            "comment": "Buddha; of Buddhism; merciful person; Buddhist image; the dead (Jap.)"
+        },
+        {
+            "question": "朋",
+            "answers": [
+                "벗 붕",
+                "붕"
+            ],
+            "comment": "friend, pal, acquaintance"
+        },
+        {
+            "question": "備",
+            "answers": [
+                "갖출 비",
+                "비"
+            ],
+            "comment": "prepare, ready, perfect"
+        },
+        {
+            "question": "比",
+            "answers": [
+                "견줄 비",
+                "비"
+            ],
+            "comment": "to compare, liken; comparison; than"
+        },
+        {
+            "question": "悲",
+            "answers": [
+                "슬플 비",
+                "비"
+            ],
+            "comment": "sorrow, grief; sorry, sad"
+        },
+        {
+            "question": "非",
+            "answers": [
+                "아닐 비",
+                "비"
+            ],
+            "comment": "not, negative, non-; oppose"
+        },
+        {
+            "question": "飛",
+            "answers": [
+                "날 비",
+                "비"
+            ],
+            "comment": "fly; go quickly; dart; high"
+        },
+        {
+            "question": "鼻",
+            "answers": [
+                "코 비",
+                "비"
+            ],
+            "comment": "nose; first; KangXi radical 209"
+        },
+        {
+            "question": "貧",
+            "answers": [
+                "가난할 빈",
+                "빈"
+            ],
+            "comment": "poor, impoverished, needy"
+        },
+        {
+            "question": "氷",
+            "answers": [
+                "얼음 빙",
+                "빙"
+            ],
+            "comment": "ice, frost, icicles; cold"
+        },
+        {
+            "question": "事",
+            "answers": [
+                "일 사",
+                "사"
+            ],
+            "comment": "affair, matter, business; to serve; accident, incident"
+        },
+        {
+            "question": "仕",
+            "answers": [
+                "벼슬할 사",
+                "사"
+            ],
+            "comment": "official; serve government"
+        },
+        {
+            "question": "使",
+            "answers": [
+                "시킬 사",
+                "사"
+            ],
+            "comment": "cause, send on a mission, order; envoy, messenger, ambassador"
+        },
+        {
+            "question": "史",
+            "answers": [
+                "역사 사",
+                "사"
+            ],
+            "comment": "history, chronicle, annals"
+        },
+        {
+            "question": "四",
+            "answers": [
+                "넉 사",
+                "사"
+            ],
+            "comment": "four"
+        },
+        {
+            "question": "士",
+            "answers": [
+                "선비 사",
+                "사"
+            ],
+            "comment": "scholar, gentleman; soldier"
+        },
+        {
+            "question": "寺",
+            "answers": [
+                "절 사",
+                "사"
+            ],
+            "comment": "court, office; temple, monastery"
+        },
+        {
+            "question": "巳",
+            "answers": [
+                "뱀 사",
+                "사"
+            ],
+            "comment": "the hours from 9 to 11; 6th terrestrial branch"
+        },
+        {
+            "question": "射",
+            "answers": [
+                "쏠 사",
+                "사"
+            ],
+            "comment": "shoot, eject, issue forth, emit"
+        },
+        {
+            "question": "師",
+            "answers": [
+                "스승 사",
+                "사"
+            ],
+            "comment": "teacher, master, specialist; multitude, troops"
+        },
+        {
+            "question": "思",
+            "answers": [
+                "생각할 사",
+                "사"
+            ],
+            "comment": "think, consider, ponder; final particle"
+        },
+        {
+            "question": "死",
+            "answers": [
+                "죽을 사",
+                "사"
+            ],
+            "comment": "die; dead; death"
+        },
+        {
+            "question": "私",
+            "answers": [
+                "사사로울 사",
+                "사"
+            ],
+            "comment": "private, personal; secret"
+        },
+        {
+            "question": "絲",
+            "answers": [
+                "실 사",
+                "사"
+            ],
+            "comment": "silk; fine thread; wire; strings"
+        },
+        {
+            "question": "舍",
+            "answers": [
+                "집 사",
+                "사"
+            ],
+            "comment": "house, dwelling; dwell, reside"
+        },
+        {
+            "question": "謝",
+            "answers": [
+                "사례할 사",
+                "사"
+            ],
+            "comment": "thank; decline"
+        },
+        {
+            "question": "山",
+            "answers": [
+                "뫼 산",
+                "산"
+            ],
+            "comment": "mountain, hill, peak"
+        },
+        {
+            "question": "散",
+            "answers": [
+                "흩어질 산",
+                "산"
+            ],
+            "comment": "scatter, disperse, break up"
+        },
+        {
+            "question": "産",
+            "answers": [
+                "낳을 산",
+                "산"
+            ],
+            "comment": "give birth"
+        },
+        {
+            "question": "算",
+            "answers": [
+                "셀 산",
+                "산"
+            ],
+            "comment": "count, calculate, figure; plan"
+        },
+        {
+            "question": "殺",
+            "answers": [
+                "죽일 살",
+                "살"
+            ],
+            "comment": "kill, slaughter, murder; hurt; to pare off, reduce, clip"
+        },
+        {
+            "question": "三",
+            "answers": [
+                "석 삼",
+                "삼"
+            ],
+            "comment": "three"
+        },
+        {
+            "question": "上",
+            "answers": [
+                "위 상",
+                "상"
+            ],
+            "comment": "top; superior, highest; go up, send up"
+        },
+        {
+            "question": "傷",
+            "answers": [
+                "상처 상",
+                "상"
+            ],
+            "comment": "wound, injury; fall ill from"
+        },
+        {
+            "question": "商",
+            "answers": [
+                "장사 상",
+                "상"
+            ],
+            "comment": "commerce, business, trade"
+        },
+        {
+            "question": "喪",
+            "answers": [
+                "죽을 상",
+                "상"
+            ],
+            "comment": "mourning; mourn; funeral"
+        },
+        {
+            "question": "尙",
+            "answers": [
+                "오히려 상",
+                "상"
+            ],
+            "comment": "still, yet; even; fairly, rather"
+        },
+        {
+            "question": "常",
+            "answers": [
+                "항상 상",
+                "상"
+            ],
+            "comment": "common, normal, frequent, regular"
+        },
+        {
+            "question": "想",
+            "answers": [
+                "생각할 상",
+                "상"
+            ],
+            "comment": "think, speculate, plan, consider"
+        },
+        {
+            "question": "相",
+            "answers": [
+                "서로 상",
+                "상"
+            ],
+            "comment": "mutual, reciprocal, each other"
+        },
+        {
+            "question": "賞",
+            "answers": [
+                "상줄 상",
+                "상"
+            ],
+            "comment": "reward, grant, bestow; appreciate"
+        },
+        {
+            "question": "霜",
+            "answers": [
+                "서리 상",
+                "상"
+            ],
+            "comment": "frost; crystallized; candied"
+        },
+        {
+            "question": "色",
+            "answers": [
+                "빛 색",
+                "색"
+            ],
+            "comment": "color, tint, hue, shade; form, body; beauty, desire for beauty"
+        },
+        {
+            "question": "生",
+            "answers": [
+                "날 생",
+                "생"
+            ],
+            "comment": "life, living, lifetime; birth"
+        },
+        {
+            "question": "序",
+            "answers": [
+                "차례 서",
+                "서"
+            ],
+            "comment": "series, serial order, sequence"
+        },
+        {
+            "question": "暑",
+            "answers": [
+                "더울 서",
+                "서"
+            ],
+            "comment": "hot"
+        },
+        {
+            "question": "書",
+            "answers": [
+                "쓸 서",
+                "서"
+            ],
+            "comment": "book, letter, document; writings"
+        },
+        {
+            "question": "西",
+            "answers": [
+                "서녘 서",
+                "서"
+            ],
+            "comment": "west(ern); westward, occident"
+        },
+        {
+            "question": "夕",
+            "answers": [
+                "저녁 석",
+                "석"
+            ],
+            "comment": "evening, night, dusk; slanted"
+        },
+        {
+            "question": "席",
+            "answers": [
+                "자리 석",
+                "석"
+            ],
+            "comment": "seat; mat; take seat; banquet"
+        },
+        {
+            "question": "惜",
+            "answers": [
+                "아낄 석",
+                "석"
+            ],
+            "comment": "pity, regret, rue, begrudge"
+        },
+        {
+            "question": "昔",
+            "answers": [
+                "옛 석",
+                "석"
+            ],
+            "comment": "formerly; ancient; in beginning"
+        },
+        {
+            "question": "石",
+            "answers": [
+                "돌 석",
+                "석"
+            ],
+            "comment": "stone, rock, mineral; rad. 112"
+        },
+        {
+            "question": "仙",
+            "answers": [
+                "신선 선",
+                "선"
+            ],
+            "comment": "Taoist super-being, transcendent, immortal"
+        },
+        {
+            "question": "先",
+            "answers": [
+                "먼저 선",
+                "선"
+            ],
+            "comment": "first, former, previous"
+        },
+        {
+            "question": "善",
+            "answers": [
+                "착할 선",
+                "선"
+            ],
+            "comment": "good, virtuous, charitable, kind"
+        },
+        {
+            "question": "線",
+            "answers": [
+                "줄 선",
+                "선"
+            ],
+            "comment": "thread, line, wire; clue"
+        },
+        {
+            "question": "船",
+            "answers": [
+                "배 선",
+                "선"
+            ],
+            "comment": "ship, boat, vessel"
+        },
+        {
+            "question": "選",
+            "answers": [
+                "가릴 선",
+                "선"
+            ],
+            "comment": "choose, select; elect; election"
+        },
+        {
+            "question": "鮮",
+            "answers": [
+                "고울 선",
+                "선"
+            ],
+            "comment": "fresh, new, delicious; rare, few"
+        },
+        {
+            "question": "舌",
+            "answers": [
+                "혀 설",
+                "설"
+            ],
+            "comment": "tongue; clapper of bell; KangXi radical 135"
+        },
+        {
+            "question": "設",
+            "answers": [
+                "베풀 설",
+                "설"
+            ],
+            "comment": "build; establish; display; particle of hypothesis, supposing"
+        },
+        {
+            "question": "說",
+            "answers": [
+                "말씀 설",
+                "설"
+            ],
+            "comment": "speak, say, talk; scold, upbraid"
+        },
+        {
+            "question": "雪",
+            "answers": [
+                "눈 설",
+                "설"
+            ],
+            "comment": "snow; wipe away shame, avenge"
+        },
+        {
+            "question": "城",
+            "answers": [
+                "성 성",
+                "성"
+            ],
+            "comment": "castle; city, town; municipality"
+        },
+        {
+            "question": "姓",
+            "answers": [
+                "성 성",
+                "성"
+            ],
+            "comment": "one's family name; clan, people"
+        },
+        {
+            "question": "性",
+            "answers": [
+                "성품 성",
+                "성"
+            ],
+            "comment": "nature, character, sex"
+        },
+        {
+            "question": "成",
+            "answers": [
+                "이룰 성",
+                "성"
+            ],
+            "comment": "completed, finished, fixed"
+        },
+        {
+            "question": "星",
+            "answers": [
+                "별 성",
+                "성"
+            ],
+            "comment": "a star, planet; any point of light"
+        },
+        {
+            "question": "盛",
+            "answers": [
+                "담을 성",
+                "성"
+            ],
+            "comment": "abundant, flourishing; contain; fill"
+        },
+        {
+            "question": "省",
+            "answers": [
+                "살필 성",
+                "성"
+            ],
+            "comment": "province; save, economize"
+        },
+        {
+            "question": "聖",
+            "answers": [
+                "성스러울 성",
+                "성"
+            ],
+            "comment": "holy, sacred; sage"
+        },
+        {
+            "question": "聲",
+            "answers": [
+                "소리 성",
+                "성"
+            ],
+            "comment": "sound, voice, noise; tone; music"
+        },
+        {
+            "question": "誠",
+            "answers": [
+                "정성 성",
+                "성"
+            ],
+            "comment": "sincere, honest; true, real"
+        },
+        {
+            "question": "世",
+            "answers": [
+                "세상 세",
+                "세"
+            ],
+            "comment": "generation; world; era"
+        },
+        {
+            "question": "勢",
+            "answers": [
+                "기세 세",
+                "세"
+            ],
+            "comment": "power, force; tendency"
+        },
+        {
+            "question": "歲",
+            "answers": [
+                "해 세",
+                "세"
+            ],
+            "comment": "year; age; harvest"
+        },
+        {
+            "question": "洗",
+            "answers": [
+                "씻을 세",
+                "세"
+            ],
+            "comment": "wash, rinse; clean, purify"
+        },
+        {
+            "question": "稅",
+            "answers": [
+                "세금 세",
+                "세"
+            ],
+            "comment": "taxes, revenue, duty; tax"
+        },
+        {
+            "question": "細",
+            "answers": [
+                "가늘 세",
+                "세"
+            ],
+            "comment": "fine, tiny; slender, thin"
+        },
+        {
+            "question": "小",
+            "answers": [
+                "작을 소",
+                "소"
+            ],
+            "comment": "small, tiny, insignificant"
+        },
+        {
+            "question": "少",
+            "answers": [
+                "적을 소",
+                "소"
+            ],
+            "comment": "few, less, inadequate"
+        },
+        {
+            "question": "所",
+            "answers": [
+                "바 소",
+                "소"
+            ],
+            "comment": "place, location; numerary adjunct"
+        },
+        {
+            "question": "消",
+            "answers": [
+                "사라질 소",
+                "소"
+            ],
+            "comment": "vanish, die out; melt away"
+        },
+        {
+            "question": "笑",
+            "answers": [
+                "웃을 소",
+                "소"
+            ],
+            "comment": "smile, laugh, giggle; snicker"
+        },
+        {
+            "question": "素",
+            "answers": [
+                "흴 소",
+                "소"
+            ],
+            "comment": "white (silk); plain; vegetarian; formerly; normally"
+        },
+        {
+            "question": "俗",
+            "answers": [
+                "풍속 속",
+                "속"
+            ],
+            "comment": "social customs; vulgar, unrefined"
+        },
+        {
+            "question": "續",
+            "answers": [
+                "이을 속",
+                "속"
+            ],
+            "comment": "continue, carry on; succeed"
+        },
+        {
+            "question": "速",
+            "answers": [
+                "빠를 속",
+                "속"
+            ],
+            "comment": "quick, prompt, speedy"
+        },
+        {
+            "question": "孫",
+            "answers": [
+                "손자 손",
+                "손"
+            ],
+            "comment": "grandchild, descendent; surname"
+        },
+        {
+            "question": "松",
+            "answers": [
+                "소나무 송",
+                "송"
+            ],
+            "comment": "pine tree; fir tree"
+        },
+        {
+            "question": "送",
+            "answers": [
+                "보낼 송",
+                "송"
+            ],
+            "comment": "see off, send off; dispatch, give"
+        },
+        {
+            "question": "修",
+            "answers": [
+                "닦을 수",
+                "수"
+            ],
+            "comment": "study; repair; cultivate"
+        },
+        {
+            "question": "受",
+            "answers": [
+                "받을 수",
+                "수"
+            ],
+            "comment": "receive, accept, get; bear, stand"
+        },
+        {
+            "question": "壽",
+            "answers": [
+                "목숨 수",
+                "수"
+            ],
+            "comment": "old age, long life; lifespan"
+        },
+        {
+            "question": "守",
+            "answers": [
+                "지킬 수",
+                "수"
+            ],
+            "comment": "defend, protect, guard, conserve"
+        },
+        {
+            "question": "愁",
+            "answers": [
+                "시름 수",
+                "수"
+            ],
+            "comment": "anxiety; to worry about, be anxious"
+        },
+        {
+            "question": "手",
+            "answers": [
+                "손 수",
+                "수"
+            ],
+            "comment": "hand"
+        },
+        {
+            "question": "授",
+            "answers": [
+                "줄 수",
+                "수"
+            ],
+            "comment": "give to, transmit; confer"
+        },
+        {
+            "question": "收",
+            "answers": [
+                "거둘 수",
+                "수"
+            ],
+            "comment": "gather together, collect; harvest"
+        },
+        {
+            "question": "數",
+            "answers": [
+                "셀 수",
+                "수"
+            ],
+            "comment": "number; several; count; fate"
+        },
+        {
+            "question": "樹",
+            "answers": [
+                "나무 수",
+                "수"
+            ],
+            "comment": "tree; plant; set up, establish"
+        },
+        {
+            "question": "水",
+            "answers": [
+                "물 수",
+                "수"
+            ],
+            "comment": "water, liquid, lotion, juice"
+        },
+        {
+            "question": "秀",
+            "answers": [
+                "빼어날 수",
+                "수"
+            ],
+            "comment": "ear of grain; flowering, luxuriant; refined, elegant, graceful"
+        },
+        {
+            "question": "誰",
+            "answers": [
+                "누구 수",
+                "수"
+            ],
+            "comment": "who? whom? whose? anyone?"
+        },
+        {
+            "question": "雖",
+            "answers": [
+                "비록 수",
+                "수"
+            ],
+            "comment": "although, even if"
+        },
+        {
+            "question": "須",
+            "answers": [
+                "모름지기 수",
+                "수"
+            ],
+            "comment": "must, have to, necessary; moment; whiskers"
+        },
+        {
+            "question": "首",
+            "answers": [
+                "머리 수",
+                "수"
+            ],
+            "comment": "head; first; leader, chief; a poem"
+        },
+        {
+            "question": "叔",
+            "answers": [
+                "아재비 숙",
+                "숙"
+            ],
+            "comment": "father's younger brother"
+        },
+        {
+            "question": "宿",
+            "answers": [
+                "묵을 숙",
+                "숙"
+            ],
+            "comment": "stop, rest, lodge, stay overnight; constellation"
+        },
+        {
+            "question": "淑",
+            "answers": [
+                "맑을 숙",
+                "숙"
+            ],
+            "comment": "good, pure, virtuous, charming"
+        },
+        {
+            "question": "純",
+            "answers": [
+                "순수할 순",
+                "순"
+            ],
+            "comment": "pure, clean, simple"
+        },
+        {
+            "question": "順",
+            "answers": [
+                "순할 순",
+                "순"
+            ],
+            "comment": "obey, submit to, go along with"
+        },
+        {
+            "question": "戌",
+            "answers": [
+                "개 술",
+                "술"
+            ],
+            "comment": "11th terrestrial branch"
+        },
+        {
+            "question": "崇",
+            "answers": [
+                "높을 숭",
+                "숭"
+            ],
+            "comment": "esteem, honor, revere, venerate"
+        },
+        {
+            "question": "拾",
+            "answers": [
+                "주울 습",
+                "습"
+            ],
+            "comment": "pick up, collect, tidy up; accounting form of the numeral ten"
+        },
+        {
+            "question": "習",
+            "answers": [
+                "익힐 습",
+                "습"
+            ],
+            "comment": "practice; flapping wings"
+        },
+        {
+            "question": "乘",
+            "answers": [
+                "탈 승",
+                "승"
+            ],
+            "comment": "ride, ascend; avail oneself of; numerary adjunct for vehicles"
+        },
+        {
+            "question": "勝",
+            "answers": [
+                "이길 승",
+                "승"
+            ],
+            "comment": "victory; excel, be better than"
+        },
+        {
+            "question": "承",
+            "answers": [
+                "받들 승",
+                "승"
+            ],
+            "comment": "inherit, receive; succeed"
+        },
+        {
+            "question": "始",
+            "answers": [
+                "처음 시",
+                "시"
+            ],
+            "comment": "begin, start; then, only then"
+        },
+        {
+            "question": "市",
+            "answers": [
+                "저자 시",
+                "시"
+            ],
+            "comment": "market, fair; city, town; trade"
+        },
+        {
+            "question": "施",
+            "answers": [
+                "베풀 시",
+                "시"
+            ],
+            "comment": "grant, bestow; give; act; name"
+        },
+        {
+            "question": "是",
+            "answers": [
+                "옳을 시",
+                "시"
+            ],
+            "comment": "indeed, yes, right; to be; demonstrative pronoun, this, that"
+        },
+        {
+            "question": "時",
+            "answers": [
+                "때 시",
+                "시"
+            ],
+            "comment": "time, season; era, age, period"
+        },
+        {
+            "question": "示",
+            "answers": [
+                "보일 시",
+                "시"
+            ],
+            "comment": "show, manifest; demonstrate"
+        },
+        {
+            "question": "視",
+            "answers": [
+                "볼 시",
+                "시"
+            ],
+            "comment": "look at, inspect, observe, see"
+        },
+        {
+            "question": "詩",
+            "answers": [
+                "시 시",
+                "시"
+            ],
+            "comment": "poetry; poem, verse, ode"
+        },
+        {
+            "question": "試",
+            "answers": [
+                "시험할 시",
+                "시"
+            ],
+            "comment": "test, try, experiment"
+        },
+        {
+            "question": "式",
+            "answers": [
+                "법 식",
+                "식"
+            ],
+            "comment": "style, system, formula, rule"
+        },
+        {
+            "question": "植",
+            "answers": [
+                "심을 식",
+                "식"
+            ],
+            "comment": "plant, trees, plants; grow"
+        },
+        {
+            "question": "識",
+            "answers": [
+                "알 식",
+                "식"
+            ],
+            "comment": "recognize, understand, know"
+        },
+        {
+            "question": "食",
+            "answers": [
+                "먹을 식",
+                "식"
+            ],
+            "comment": "eat; meal; food; KangXi radical number 184"
+        },
+        {
+            "question": "信",
+            "answers": [
+                "믿을 신",
+                "신"
+            ],
+            "comment": "trust, believe; letter"
+        },
+        {
+            "question": "新",
+            "answers": [
+                "새 신",
+                "신"
+            ],
+            "comment": "new, recent, fresh, modern"
+        },
+        {
+            "question": "申",
+            "answers": [
+                "원숭이 신",
+                "신"
+            ],
+            "comment": "to state to a superior, report; extend; 9th terrestrial branch"
+        },
+        {
+            "question": "神",
+            "answers": [
+                "귀신 신",
+                "신"
+            ],
+            "comment": "spirit, god, supernatural being"
+        },
+        {
+            "question": "臣",
+            "answers": [
+                "신하 신",
+                "신"
+            ],
+            "comment": "minister, statesman, official"
+        },
+        {
+            "question": "身",
+            "answers": [
+                "몸 신",
+                "신"
+            ],
+            "comment": "body; trunk, hull; rad. no. 158"
+        },
+        {
+            "question": "辛",
+            "answers": [
+                "매울 신",
+                "신"
+            ],
+            "comment": "bitter; toilsome, laborious; 8th heavenly stem"
+        },
+        {
+            "question": "失",
+            "answers": [
+                "잃을 실",
+                "실"
+            ],
+            "comment": "lose; make mistake, neglect"
+        },
+        {
+            "question": "室",
+            "answers": [
+                "집 실",
+                "실"
+            ],
+            "comment": "room, home, house, chamber"
+        },
+        {
+            "question": "實",
+            "answers": [
+                "열매 실",
+                "실"
+            ],
+            "comment": "real, true, solid, honest"
+        },
+        {
+            "question": "心",
+            "answers": [
+                "마음 심",
+                "심"
+            ],
+            "comment": "heart; mind, intelligence; soul"
+        },
+        {
+            "question": "深",
+            "answers": [
+                "깊을 심",
+                "심"
+            ],
+            "comment": "deep; depth; far; very, extreme"
+        },
+        {
+            "question": "甚",
+            "answers": [
+                "심할 심",
+                "심"
+            ],
+            "comment": "great extent; considerably"
+        },
+        {
+            "question": "十",
+            "answers": [
+                "열 십",
+                "십"
+            ],
+            "comment": "ten, tenth; complete; perfect"
+        },
+        {
+            "question": "氏",
+            "answers": [
+                "각시 씨",
+                "씨"
+            ],
+            "comment": "clan, family; mister"
+        },
+        {
+            "question": "兒",
+            "answers": [
+                "아이 아",
+                "아"
+            ],
+            "comment": "son, child, oneself; final part"
+        },
+        {
+            "question": "我",
+            "answers": [
+                "나 아",
+                "아"
+            ],
+            "comment": "our, us, i, me, my, we"
+        },
+        {
+            "question": "惡",
+            "answers": [
+                "악할 악",
+                "악"
+            ],
+            "comment": "evil, wicked, bad, foul"
+        },
+        {
+            "question": "安",
+            "answers": [
+                "편안할 안",
+                "안"
+            ],
+            "comment": "peaceful, tranquil, quiet"
+        },
+        {
+            "question": "案",
+            "answers": [
+                "책상 안",
+                "안"
+            ],
+            "comment": "table, bench; legal case"
+        },
+        {
+            "question": "眼",
+            "answers": [
+                "눈 안",
+                "안"
+            ],
+            "comment": "eye; eyelet, hole, opening"
+        },
+        {
+            "question": "顔",
+            "answers": [
+                "얼굴 안",
+                "안"
+            ],
+            "comment": "face, facial appearance"
+        },
+        {
+            "question": "巖",
+            "answers": [
+                "바위 암",
+                "암"
+            ],
+            "comment": "cliff, precipice; cave, grotto"
+        },
+        {
+            "question": "暗",
+            "answers": [
+                "어두울 암",
+                "암"
+            ],
+            "comment": "dark; obscure; in secret, covert"
+        },
+        {
+            "question": "仰",
+            "answers": [
+                "우러를 앙",
+                "앙"
+            ],
+            "comment": "raise the head to look; look up to, rely on, admire"
+        },
+        {
+            "question": "哀",
+            "answers": [
+                "슬플 애",
+                "애"
+            ],
+            "comment": "sad, mournful, pitiful; pity"
+        },
+        {
+            "question": "愛",
+            "answers": [
+                "사랑 애",
+                "애"
+            ],
+            "comment": "love, be fond of, like"
+        },
+        {
+            "question": "也",
+            "answers": [
+                "어조사 야",
+                "야"
+            ],
+            "comment": "also; classical final particle of strong affirmation or identity"
+        },
+        {
+            "question": "夜",
+            "answers": [
+                "밤 야",
+                "야"
+            ],
+            "comment": "night, dark; in night; by night"
+        },
+        {
+            "question": "野",
+            "answers": [
+                "들 야",
+                "야"
+            ],
+            "comment": "open country, field; wilderness"
+        },
+        {
+            "question": "弱",
+            "answers": [
+                "약할 약",
+                "약"
+            ],
+            "comment": "weak; fragile, delicate"
+        },
+        {
+            "question": "約",
+            "answers": [
+                "약속할 약",
+                "약"
+            ],
+            "comment": "treaty, agreement, covenant"
+        },
+        {
+            "question": "若",
+            "answers": [
+                "같을 약",
+                "약"
+            ],
+            "comment": "if, supposing, assuming; similar"
+        },
+        {
+            "question": "藥",
+            "answers": [
+                "약 약",
+                "약"
+            ],
+            "comment": "drugs, pharmaceuticals, medicine"
+        },
+        {
+            "question": "揚",
+            "answers": [
+                "오를 양",
+                "양"
+            ],
+            "comment": "scatter, spread; praise"
+        },
+        {
+            "question": "洋",
+            "answers": [
+                "바다 양",
+                "양"
+            ],
+            "comment": "ocean, sea; foreign; western"
+        },
+        {
+            "question": "羊",
+            "answers": [
+                "양 양",
+                "양"
+            ],
+            "comment": "sheep, goat; KangXi radical 123"
+        },
+        {
+            "question": "讓",
+            "answers": [
+                "사양할 양",
+                "양"
+            ],
+            "comment": "allow, permit, yield, concede"
+        },
+        {
+            "question": "陽",
+            "answers": [
+                "볕 양",
+                "양"
+            ],
+            "comment": "'male' principle; light; sun"
+        },
+        {
+            "question": "養",
+            "answers": [
+                "기를 양",
+                "양"
+            ],
+            "comment": "raise, rear, bring up; support"
+        },
+        {
+            "question": "於",
+            "answers": [
+                "어조사 어",
+                "어"
+            ],
+            "comment": "in, at, on; interjection alas!"
+        },
+        {
+            "question": "漁",
+            "answers": [
+                "고기 잡을 어",
+                "어"
+            ],
+            "comment": "to fish; seize; pursue; surname"
+        },
+        {
+            "question": "語",
+            "answers": [
+                "말씀 어",
+                "어"
+            ],
+            "comment": "language, words; saying, expression"
+        },
+        {
+            "question": "魚",
+            "answers": [
+                "물고기 어",
+                "어"
+            ],
+            "comment": "fish; surname; KangXi radical 195"
+        },
+        {
+            "question": "億",
+            "answers": [
+                "억 억",
+                "억"
+            ],
+            "comment": "hundred million; many"
+        },
+        {
+            "question": "憶",
+            "answers": [
+                "생각할 억",
+                "억"
+            ],
+            "comment": "remember, reflect upon; memory"
+        },
+        {
+            "question": "言",
+            "answers": [
+                "말씀 언",
+                "언"
+            ],
+            "comment": "words, speech; speak, say"
+        },
+        {
+            "question": "嚴",
+            "answers": [
+                "엄할 엄",
+                "엄"
+            ],
+            "comment": "strict, rigorous, rigid; stern"
+        },
+        {
+            "question": "業",
+            "answers": [
+                "업 업",
+                "업"
+            ],
+            "comment": "profession, business, trade"
+        },
+        {
+            "question": "余",
+            "answers": [
+                "나 여",
+                "여"
+            ],
+            "comment": "I, my, me; surname; surplus"
+        },
+        {
+            "question": "如",
+            "answers": [
+                "같을 여",
+                "여"
+            ],
+            "comment": "if, supposing; as if; like, as"
+        },
+        {
+            "question": "汝",
+            "answers": [
+                "너 여",
+                "여"
+            ],
+            "comment": "you"
+        },
+        {
+            "question": "與",
+            "answers": [
+                "줄 여",
+                "여"
+            ],
+            "comment": "and; with; to; for; give, grant"
+        },
+        {
+            "question": "餘",
+            "answers": [
+                "남을 여",
+                "여"
+            ],
+            "comment": "surplus, excess, remainder"
+        },
+        {
+            "question": "亦",
+            "answers": [
+                "또 역",
+                "역"
+            ],
+            "comment": "also, too; likewise"
+        },
+        {
+            "question": "易",
+            "answers": [
+                "바꿀 역",
+                "역"
+            ],
+            "comment": "change; easy"
+        },
+        {
+            "question": "逆",
+            "answers": [
+                "거스를 역",
+                "역"
+            ],
+            "comment": "disobey, rebel; rebel, traitor"
+        },
+        {
+            "question": "然",
+            "answers": [
+                "그러할 연",
+                "연"
+            ],
+            "comment": "yes, certainly; pledge, promise"
+        },
+        {
+            "question": "煙",
+            "answers": [
+                "연기 연",
+                "연"
+            ],
+            "comment": "smoke, soot; opium; tobacco, cigarettes"
+        },
+        {
+            "question": "硏",
+            "answers": [
+                "갈 연",
+                "연"
+            ],
+            "comment": "grind"
+        },
+        {
+            "question": "悅",
+            "answers": [
+                "기쁠 열",
+                "열"
+            ],
+            "comment": "pleased"
+        },
+        {
+            "question": "熱",
+            "answers": [
+                "더울 열",
+                "열"
+            ],
+            "comment": "hot; heat; fever; restless; zeal"
+        },
+        {
+            "question": "炎",
+            "answers": [
+                "불탈 염",
+                "염"
+            ],
+            "comment": "flame, blaze; hot"
+        },
+        {
+            "question": "葉",
+            "answers": [
+                "잎 엽",
+                "엽"
+            ],
+            "comment": "leaf, petal; page of book; period"
+        },
+        {
+            "question": "榮",
+            "answers": [
+                "영화로울 영",
+                "영"
+            ],
+            "comment": "glory, honor; flourish, prosper"
+        },
+        {
+            "question": "永",
+            "answers": [
+                "길 영",
+                "영"
+            ],
+            "comment": "long, perpetual, eternal, forever"
+        },
+        {
+            "question": "英",
+            "answers": [
+                "꽃부리 영",
+                "영"
+            ],
+            "comment": "petal, flower, leaf; brave, a hero; England, English"
+        },
+        {
+            "question": "迎",
+            "answers": [
+                "맞이할 영",
+                "영"
+            ],
+            "comment": "receive, welcome, greet"
+        },
+        {
+            "question": "藝",
+            "answers": [
+                "기예 예",
+                "예"
+            ],
+            "comment": "art; talent, ability; craft"
+        },
+        {
+            "question": "五",
+            "answers": [
+                "다섯 오",
+                "오"
+            ],
+            "comment": "five; surname"
+        },
+        {
+            "question": "午",
+            "answers": [
+                "낮 오",
+                "오"
+            ],
+            "comment": "noon; 7th terrestrial branch"
+        },
+        {
+            "question": "吾",
+            "answers": [
+                "나 오",
+                "오"
+            ],
+            "comment": "i, my, our; resist, impede"
+        },
+        {
+            "question": "悟",
+            "answers": [
+                "깨달을 오",
+                "오"
+            ],
+            "comment": "to apprehend, realize, become aware"
+        },
+        {
+            "question": "烏",
+            "answers": [
+                "까마귀 오",
+                "오"
+            ],
+            "comment": "crow, rook, raven; black, dark"
+        },
+        {
+            "question": "誤",
+            "answers": [
+                "그르칠 오",
+                "오"
+            ],
+            "comment": "err, make mistake; interfere"
+        },
+        {
+            "question": "屋",
+            "answers": [
+                "집 옥",
+                "옥"
+            ],
+            "comment": "house; room; building, shelter"
+        },
+        {
+            "question": "玉",
+            "answers": [
+                "구슬 옥",
+                "옥"
+            ],
+            "comment": "jade, precious stone, gem"
+        },
+        {
+            "question": "溫",
+            "answers": [
+                "따뜻할 온",
+                "온"
+            ],
+            "comment": "lukewarm, warm; tepid, mild"
+        },
+        {
+            "question": "瓦",
+            "answers": [
+                "기와 와",
+                "와"
+            ],
+            "comment": "tile; earthenware pottery; girl"
+        },
+        {
+            "question": "臥",
+            "answers": [
+                "누울 와",
+                "와"
+            ],
+            "comment": "lie down; crouch"
+        },
+        {
+            "question": "完",
+            "answers": [
+                "완전할 완",
+                "완"
+            ],
+            "comment": "complete, finish, settle; whole"
+        },
+        {
+            "question": "曰",
+            "answers": [
+                "가로 왈",
+                "왈"
+            ],
+            "comment": "say; KangXi radical 73"
+        },
+        {
+            "question": "往",
+            "answers": [
+                "갈 왕",
+                "왕"
+            ],
+            "comment": "go, depart; past, formerly"
+        },
+        {
+            "question": "王",
+            "answers": [
+                "임금 왕",
+                "왕"
+            ],
+            "comment": "king, ruler; royal; surname"
+        },
+        {
+            "question": "外",
+            "answers": [
+                "밖 외",
+                "외"
+            ],
+            "comment": "out, outside, external; foreign"
+        },
+        {
+            "question": "要",
+            "answers": [
+                "구할 요",
+                "요"
+            ],
+            "comment": "necessary, essential; necessity"
+        },
+        {
+            "question": "欲",
+            "answers": [
+                "하고자 할 욕",
+                "욕"
+            ],
+            "comment": "desire, want, long for; intend"
+        },
+        {
+            "question": "浴",
+            "answers": [
+                "목욕할 욕",
+                "욕"
+            ],
+            "comment": "bathe, wash; bath"
+        },
+        {
+            "question": "勇",
+            "answers": [
+                "날랠 용",
+                "용"
+            ],
+            "comment": "brave, courageous, fierce"
+        },
+        {
+            "question": "容",
+            "answers": [
+                "얼굴 용",
+                "용"
+            ],
+            "comment": "looks, appearance; figure, form"
+        },
+        {
+            "question": "用",
+            "answers": [
+                "쓸 용",
+                "용"
+            ],
+            "comment": "use, employ, apply, operate; use"
+        },
+        {
+            "question": "于",
+            "answers": [
+                "어조사 우",
+                "우"
+            ],
+            "comment": "in, on, at; go to; surname"
+        },
+        {
+            "question": "又",
+            "answers": [
+                "또 우",
+                "우"
+            ],
+            "comment": "and, also, again, in addition"
+        },
+        {
+            "question": "友",
+            "answers": [
+                "벗 우",
+                "우"
+            ],
+            "comment": "friend, companion; fraternity"
+        },
+        {
+            "question": "右",
+            "answers": [
+                "오른쪽 우",
+                "우"
+            ],
+            "comment": "right; west; right-wing"
+        },
+        {
+            "question": "宇",
+            "answers": [
+                "집 우",
+                "우"
+            ],
+            "comment": "house; building, structure; eaves"
+        },
+        {
+            "question": "尤",
+            "answers": [
+                "더욱 우",
+                "우"
+            ],
+            "comment": "especially, particularly"
+        },
+        {
+            "question": "憂",
+            "answers": [
+                "근심할 우",
+                "우"
+            ],
+            "comment": "sad, grieved; grief, melancholy"
+        },
+        {
+            "question": "牛",
+            "answers": [
+                "소 우",
+                "우"
+            ],
+            "comment": "cow, ox, bull; KangXi radical93"
+        },
+        {
+            "question": "遇",
+            "answers": [
+                "만날 우",
+                "우"
+            ],
+            "comment": "meet, come across, encounter"
+        },
+        {
+            "question": "雨",
+            "answers": [
+                "비 우",
+                "우"
+            ],
+            "comment": "rain; rainy; KangXi radical 173"
+        },
+        {
+            "question": "云",
+            "answers": [
+                "이를 운",
+                "운"
+            ],
+            "comment": "say, speak; clouds"
+        },
+        {
+            "question": "運",
+            "answers": [
+                "돌 운",
+                "운"
+            ],
+            "comment": "luck, fortune; ship, transport"
+        },
+        {
+            "question": "雲",
+            "answers": [
+                "구름 운",
+                "운"
+            ],
+            "comment": "clouds; Yunnan province"
+        },
+        {
+            "question": "雄",
+            "answers": [
+                "수컷 웅",
+                "웅"
+            ],
+            "comment": "male of species; hero; manly"
+        },
+        {
+            "question": "元",
+            "answers": [
+                "으뜸 원",
+                "원"
+            ],
+            "comment": "first; dollar; origin; head"
+        },
+        {
+            "question": "原",
+            "answers": [
+                "근원 원",
+                "원"
+            ],
+            "comment": "source, origin, beginning"
+        },
+        {
+            "question": "圓",
+            "answers": [
+                "둥글 원",
+                "원"
+            ],
+            "comment": "circle; round, circular; complete"
+        },
+        {
+            "question": "園",
+            "answers": [
+                "동산 원",
+                "원"
+            ],
+            "comment": "garden; park, orchard"
+        },
+        {
+            "question": "怨",
+            "answers": [
+                "원망할 원",
+                "원"
+            ],
+            "comment": "hatred, enmity, resentment"
+        },
+        {
+            "question": "遠",
+            "answers": [
+                "멀 원",
+                "원"
+            ],
+            "comment": "distant, remote, far; profound"
+        },
+        {
+            "question": "願",
+            "answers": [
+                "바랄 원",
+                "원"
+            ],
+            "comment": "desire, want; wish; ambition"
+        },
+        {
+            "question": "月",
+            "answers": [
+                "달 월",
+                "월"
+            ],
+            "comment": "moon; month; KangXi radical 74"
+        },
+        {
+            "question": "位",
+            "answers": [
+                "자리 위",
+                "위"
+            ],
+            "comment": "throne; position, post; rank, status; seat"
+        },
+        {
+            "question": "偉",
+            "answers": [
+                "훌륭할 위",
+                "위"
+            ],
+            "comment": "great, robust; extraordinary"
+        },
+        {
+            "question": "危",
+            "answers": [
+                "위태할 위",
+                "위"
+            ],
+            "comment": "dangerous, precarious; high"
+        },
+        {
+            "question": "威",
+            "answers": [
+                "위엄 위",
+                "위"
+            ],
+            "comment": "pomp, power; powerful; dominate"
+        },
+        {
+            "question": "爲",
+            "answers": [
+                "할 위",
+                "위"
+            ],
+            "comment": "do, handle, govern, act; be"
+        },
+        {
+            "question": "唯",
+            "answers": [
+                "오직 유",
+                "유"
+            ],
+            "comment": "only; yes"
+        },
+        {
+            "question": "幼",
+            "answers": [
+                "어릴 유",
+                "유"
+            ],
+            "comment": "infant, young child; immature"
+        },
+        {
+            "question": "有",
+            "answers": [
+                "있을 유",
+                "유"
+            ],
+            "comment": "have, own, possess; exist"
+        },
+        {
+            "question": "柔",
+            "answers": [
+                "부드러울 유",
+                "유"
+            ],
+            "comment": "soft; gentle, pliant"
+        },
+        {
+            "question": "油",
+            "answers": [
+                "기름 유",
+                "유"
+            ],
+            "comment": "oil, fat, grease, lard; paints"
+        },
+        {
+            "question": "猶",
+            "answers": [
+                "오히려 유",
+                "유"
+            ],
+            "comment": "like, similar to, just like, as"
+        },
+        {
+            "question": "由",
+            "answers": [
+                "말미암을 유",
+                "유"
+            ],
+            "comment": "cause, reason; from"
+        },
+        {
+            "question": "遊",
+            "answers": [
+                "놀 유",
+                "유"
+            ],
+            "comment": "wander, roam, travel"
+        },
+        {
+            "question": "遺",
+            "answers": [
+                "끼칠 유",
+                "유"
+            ],
+            "comment": "lose; articles lost; omit"
+        },
+        {
+            "question": "酉",
+            "answers": [
+                "닭 유",
+                "유"
+            ],
+            "comment": "10th terrestrial branch; a wine vessel"
+        },
+        {
+            "question": "肉",
+            "answers": [
+                "고기 육",
+                "육"
+            ],
+            "comment": "flesh; meat; KangXi radical 130"
+        },
+        {
+            "question": "育",
+            "answers": [
+                "기를 육",
+                "육"
+            ],
+            "comment": "produce, give birth to; educate"
+        },
+        {
+            "question": "恩",
+            "answers": [
+                "은혜 은",
+                "은"
+            ],
+            "comment": "kindness, mercy, charity"
+        },
+        {
+            "question": "銀",
+            "answers": [
+                "은 은",
+                "은"
+            ],
+            "comment": "silver; cash, money, wealth"
+        },
+        {
+            "question": "乙",
+            "answers": [
+                "새 을",
+                "을"
+            ],
+            "comment": "second; 2nd heavenly stem"
+        },
+        {
+            "question": "吟",
+            "answers": [
+                "읊을 음",
+                "음"
+            ],
+            "comment": "sing, hum; recite; type of poetry"
+        },
+        {
+            "question": "陰",
+            "answers": [
+                "그늘 음",
+                "음"
+            ],
+            "comment": "'female' principle; dark; secret"
+        },
+        {
+            "question": "音",
+            "answers": [
+                "소리 음",
+                "음"
+            ],
+            "comment": "sound, tone, pitch, pronunciation"
+        },
+        {
+            "question": "飮",
+            "answers": [
+                "마실 음",
+                "음"
+            ],
+            "comment": "drink; swallow; kind of drink"
+        },
+        {
+            "question": "泣",
+            "answers": [
+                "울 읍",
+                "읍"
+            ],
+            "comment": "cry, sob, weep"
+        },
+        {
+            "question": "邑",
+            "answers": [
+                "고을 읍",
+                "읍"
+            ],
+            "comment": "area, district, city, state"
+        },
+        {
+            "question": "應",
+            "answers": [
+                "응할 응",
+                "응"
+            ],
+            "comment": "should, ought to, must"
+        },
+        {
+            "question": "依",
+            "answers": [
+                "의지할 의",
+                "의"
+            ],
+            "comment": "rely on, be set in; consent, obey a wish"
+        },
+        {
+            "question": "意",
+            "answers": [
+                "뜻 의",
+                "의"
+            ],
+            "comment": "thought, idea, opinion; think"
+        },
+        {
+            "question": "矣",
+            "answers": [
+                "어조사 의",
+                "의"
+            ],
+            "comment": "particle of completed action"
+        },
+        {
+            "question": "義",
+            "answers": [
+                "옳을 의",
+                "의"
+            ],
+            "comment": "right conduct, righteousness"
+        },
+        {
+            "question": "衣",
+            "answers": [
+                "옷 의",
+                "의"
+            ],
+            "comment": "clothes, clothing; cover, skin"
+        },
+        {
+            "question": "議",
+            "answers": [
+                "의논할 의",
+                "의"
+            ],
+            "comment": "consult, talk over, discuss"
+        },
+        {
+            "question": "醫",
+            "answers": [
+                "의원 의",
+                "의"
+            ],
+            "comment": "cure, heal; doctor, medical"
+        },
+        {
+            "question": "二",
+            "answers": [
+                "두 이",
+                "이"
+            ],
+            "comment": "two; twice"
+        },
+        {
+            "question": "以",
+            "answers": [
+                "써 이",
+                "이"
+            ],
+            "comment": "by means of; thereby, therefore; consider as; in order to"
+        },
+        {
+            "question": "已",
+            "answers": [
+                "이미 이",
+                "이"
+            ],
+            "comment": "already; finished; stop"
+        },
+        {
+            "question": "異",
+            "answers": [
+                "다를 이",
+                "이"
+            ],
+            "comment": "different, unusual, strange"
+        },
+        {
+            "question": "移",
+            "answers": [
+                "옮길 이",
+                "이"
+            ],
+            "comment": "change place, shift; move about"
+        },
+        {
+            "question": "而",
+            "answers": [
+                "말 이을 이",
+                "이"
+            ],
+            "comment": "and; and then; and yet; but"
+        },
+        {
+            "question": "耳",
+            "answers": [
+                "귀 이",
+                "이"
+            ],
+            "comment": "ear; merely, only; handle"
+        },
+        {
+            "question": "益",
+            "answers": [
+                "더할 익",
+                "익"
+            ],
+            "comment": "profit, benefit; advantage"
+        },
+        {
+            "question": "人",
+            "answers": [
+                "사람 인",
+                "인"
+            ],
+            "comment": "man; people; mankind; someone else"
+        },
+        {
+            "question": "仁",
+            "answers": [
+                "어질 인",
+                "인"
+            ],
+            "comment": "humaneness, benevolence, kindness"
+        },
+        {
+            "question": "印",
+            "answers": [
+                "도장 인",
+                "인"
+            ],
+            "comment": "print, seal, stamp, chop, mark"
+        },
+        {
+            "question": "因",
+            "answers": [
+                "인할 인",
+                "인"
+            ],
+            "comment": "cause, reason; by; because (of)"
+        },
+        {
+            "question": "寅",
+            "answers": [
+                "동방 인",
+                "인"
+            ],
+            "comment": "to respect, reverence; respectfully; 3rd terrestrial branch"
+        },
+        {
+            "question": "引",
+            "answers": [
+                "끌 인",
+                "인"
+            ],
+            "comment": "to pull, draw out, attract; to stretch"
+        },
+        {
+            "question": "忍",
+            "answers": [
+                "참을 인",
+                "인"
+            ],
+            "comment": "endure, bear, suffer; forbear"
+        },
+        {
+            "question": "認",
+            "answers": [
+                "알 인",
+                "인"
+            ],
+            "comment": "recognize, know, understand"
+        },
+        {
+            "question": "一",
+            "answers": [
+                "한 일",
+                "일"
+            ],
+            "comment": "one; a, an; alone"
+        },
+        {
+            "question": "日",
+            "answers": [
+                "날 일",
+                "일"
+            ],
+            "comment": "sun; day; daytime"
+        },
+        {
+            "question": "壬",
+            "answers": [
+                "아홉째 천간 임",
+                "임"
+            ],
+            "comment": "9th heavenly stem"
+        },
+        {
+            "question": "入",
+            "answers": [
+                "들 입",
+                "입"
+            ],
+            "comment": "enter, come in(to), join"
+        },
+        {
+            "question": "姊",
+            "answers": [
+                "손윗누이 자",
+                "자"
+            ],
+            "comment": "elder sister"
+        },
+        {
+            "question": "子",
+            "answers": [
+                "아들 자",
+                "자"
+            ],
+            "comment": "offspring, child; fruit, seed of; 1st terrestrial branch"
+        },
+        {
+            "question": "字",
+            "answers": [
+                "글자 자",
+                "자"
+            ],
+            "comment": "letter, character, word"
+        },
+        {
+            "question": "慈",
+            "answers": [
+                "사랑할 자",
+                "자"
+            ],
+            "comment": "kind, charitable, benevolent"
+        },
+        {
+            "question": "者",
+            "answers": [
+                "놈 자",
+                "자"
+            ],
+            "comment": "that which; he who; those who"
+        },
+        {
+            "question": "自",
+            "answers": [
+                "스스로 자",
+                "자"
+            ],
+            "comment": "self, private, personal; from"
+        },
+        {
+            "question": "作",
+            "answers": [
+                "지을 작",
+                "작"
+            ],
+            "comment": "make; work; compose, write; act, perform"
+        },
+        {
+            "question": "昨",
+            "answers": [
+                "어제 작",
+                "작"
+            ],
+            "comment": "yesterday; in former times, past"
+        },
+        {
+            "question": "場",
+            "answers": [
+                "마당 장",
+                "장"
+            ],
+            "comment": "open space, field, market"
+        },
+        {
+            "question": "壯",
+            "answers": [
+                "씩씩할 장",
+                "장"
+            ],
+            "comment": "big, large; robust; name of tribe"
+        },
+        {
+            "question": "將",
+            "answers": [
+                "장차 장",
+                "장"
+            ],
+            "comment": "will, going to, future; general"
+        },
+        {
+            "question": "章",
+            "answers": [
+                "글 장",
+                "장"
+            ],
+            "comment": "composition; chapter, section"
+        },
+        {
+            "question": "長",
+            "answers": [
+                "길 장",
+                "장"
+            ],
+            "comment": "long; length; excel in; leader"
+        },
+        {
+            "question": "再",
+            "answers": [
+                "두 재",
+                "재"
+            ],
+            "comment": "again, twice, re-"
+        },
+        {
+            "question": "哉",
+            "answers": [
+                "어조사 재",
+                "재"
+            ],
+            "comment": "final exclamatory particle"
+        },
+        {
+            "question": "在",
+            "answers": [
+                "있을 재",
+                "재"
+            ],
+            "comment": "be at, in, on; consist in, rest"
+        },
+        {
+            "question": "才",
+            "answers": [
+                "재주 재",
+                "재"
+            ],
+            "comment": "talent, ability; just, only"
+        },
+        {
+            "question": "材",
+            "answers": [
+                "재목 재",
+                "재"
+            ],
+            "comment": "material, stuff; timber; talent"
+        },
+        {
+            "question": "栽",
+            "answers": [
+                "심을 재",
+                "재"
+            ],
+            "comment": "to cultivate, plant; to care for plants"
+        },
+        {
+            "question": "財",
+            "answers": [
+                "재물 재",
+                "재"
+            ],
+            "comment": "wealth, valuables, riches"
+        },
+        {
+            "question": "爭",
+            "answers": [
+                "다툴 쟁",
+                "쟁"
+            ],
+            "comment": "to dispute, fight, contend, strive"
+        },
+        {
+            "question": "低",
+            "answers": [
+                "밑 저",
+                "저"
+            ],
+            "comment": "low; to lower, hang, bend, bow"
+        },
+        {
+            "question": "著",
+            "answers": [
+                "나타날 저",
+                "저"
+            ],
+            "comment": "manifest; (Cant.) to wear"
+        },
+        {
+            "question": "貯",
+            "answers": [
+                "쌓을 저",
+                "저"
+            ],
+            "comment": "store, stockpile, hoard"
+        },
+        {
+            "question": "敵",
+            "answers": [
+                "원수 적",
+                "적"
+            ],
+            "comment": "enemy, foe, rival; resist"
+        },
+        {
+            "question": "的",
+            "answers": [
+                "과녁 적",
+                "적"
+            ],
+            "comment": "possessive, adjectival suffix"
+        },
+        {
+            "question": "赤",
+            "answers": [
+                "붉을 적",
+                "적"
+            ],
+            "comment": "red; communist, 'red'; bare"
+        },
+        {
+            "question": "適",
+            "answers": [
+                "갈 적",
+                "적"
+            ],
+            "comment": "match, comfortable; just"
+        },
+        {
+            "question": "傳",
+            "answers": [
+                "전할 전",
+                "전"
+            ],
+            "comment": "summon; propagate, transmit"
+        },
+        {
+            "question": "全",
+            "answers": [
+                "온전할 전",
+                "전"
+            ],
+            "comment": "maintain, keep whole or intact"
+        },
+        {
+            "question": "典",
+            "answers": [
+                "법 전",
+                "전"
+            ],
+            "comment": "law, canon; documentation; classic, scripture"
+        },
+        {
+            "question": "前",
+            "answers": [
+                "앞 전",
+                "전"
+            ],
+            "comment": "in front, forward; preceding"
+        },
+        {
+            "question": "展",
+            "answers": [
+                "펼 전",
+                "전"
+            ],
+            "comment": "open, unfold; stretch, extend"
+        },
+        {
+            "question": "戰",
+            "answers": [
+                "싸울 전",
+                "전"
+            ],
+            "comment": "war, fighting, battle"
+        },
+        {
+            "question": "田",
+            "answers": [
+                "밭 전",
+                "전"
+            ],
+            "comment": "field, arable land, cultivated"
+        },
+        {
+            "question": "錢",
+            "answers": [
+                "돈 전",
+                "전"
+            ],
+            "comment": "money, currency, coins"
+        },
+        {
+            "question": "電",
+            "answers": [
+                "번개 전",
+                "전"
+            ],
+            "comment": "electricity, electric; lightning"
+        },
+        {
+            "question": "節",
+            "answers": [
+                "마디 절",
+                "절"
+            ],
+            "comment": "knot, node, joint; section"
+        },
+        {
+            "question": "絕",
+            "answers": [
+                "끊을 절",
+                "절"
+            ],
+            "comment": "cut, sever, break off, terminate"
+        },
+        {
+            "question": "店",
+            "answers": [
+                "가게 점",
+                "점"
+            ],
+            "comment": "shop, store; inn, hotel"
+        },
+        {
+            "question": "接",
+            "answers": [
+                "사귈 접",
+                "접"
+            ],
+            "comment": "receive; continue; catch; connect"
+        },
+        {
+            "question": "丁",
+            "answers": [
+                "고무래 정",
+                "정"
+            ],
+            "comment": "male adult; robust, vigorous; 4th heavenly stem"
+        },
+        {
+            "question": "井",
+            "answers": [
+                "우물 정",
+                "정"
+            ],
+            "comment": "well, mine shaft, pit"
+        },
+        {
+            "question": "停",
+            "answers": [
+                "머무를 정",
+                "정"
+            ],
+            "comment": "stop, suspend, delay; suitable"
+        },
+        {
+            "question": "定",
+            "answers": [
+                "정할 정",
+                "정"
+            ],
+            "comment": "decide, settle, fix"
+        },
+        {
+            "question": "庭",
+            "answers": [
+                "뜰 정",
+                "정"
+            ],
+            "comment": "courtyard; spacious hall or yard"
+        },
+        {
+            "question": "情",
+            "answers": [
+                "뜻 정",
+                "정"
+            ],
+            "comment": "feeling, sentiment, emotion"
+        },
+        {
+            "question": "政",
+            "answers": [
+                "정사 정",
+                "정"
+            ],
+            "comment": "government, political affairs"
+        },
+        {
+            "question": "正",
+            "answers": [
+                "바를 정",
+                "정"
+            ],
+            "comment": "right, proper, correct"
+        },
+        {
+            "question": "淨",
+            "answers": [
+                "깨끗할 정",
+                "정"
+            ],
+            "comment": "pure, clean, unspoiled"
+        },
+        {
+            "question": "精",
+            "answers": [
+                "정할 정",
+                "정"
+            ],
+            "comment": "essence; semen; spirit"
+        },
+        {
+            "question": "貞",
+            "answers": [
+                "곧을 정",
+                "정"
+            ],
+            "comment": "virtuous, chaste, pure; loyal"
+        },
+        {
+            "question": "靜",
+            "answers": [
+                "고요할 정",
+                "정"
+            ],
+            "comment": "quiet, still, motionless; gentle"
+        },
+        {
+            "question": "頂",
+            "answers": [
+                "정수리 정",
+                "정"
+            ],
+            "comment": "top, peak; carry on head; very"
+        },
+        {
+            "question": "帝",
+            "answers": [
+                "임금 제",
+                "제"
+            ],
+            "comment": "supreme ruler, emperor; god"
+        },
+        {
+            "question": "弟",
+            "answers": [
+                "아우 제",
+                "제"
+            ],
+            "comment": "young brother; junior; i, me"
+        },
+        {
+            "question": "祭",
+            "answers": [
+                "제사 제",
+                "제"
+            ],
+            "comment": "sacrifice to, worship"
+        },
+        {
+            "question": "第",
+            "answers": [
+                "차례 제",
+                "제"
+            ],
+            "comment": "sequence, number; grade, degree"
+        },
+        {
+            "question": "製",
+            "answers": [
+                "지을 제",
+                "제"
+            ],
+            "comment": "make, manufacture; produce"
+        },
+        {
+            "question": "諸",
+            "answers": [
+                "모두 제",
+                "제"
+            ],
+            "comment": "several, various"
+        },
+        {
+            "question": "除",
+            "answers": [
+                "덜 제",
+                "제"
+            ],
+            "comment": "eliminate, remove, except"
+        },
+        {
+            "question": "題",
+            "answers": [
+                "표제 제",
+                "제"
+            ],
+            "comment": "forehead; title, headline; theme"
+        },
+        {
+            "question": "兆",
+            "answers": [
+                "조짐 조",
+                "조"
+            ],
+            "comment": "omen; million; mega; also trillion. China = million; Japan and Taiwan = trillion"
+        },
+        {
+            "question": "助",
+            "answers": [
+                "도울 조",
+                "조"
+            ],
+            "comment": "help, aid, assist"
+        },
+        {
+            "question": "早",
+            "answers": [
+                "일찍 조",
+                "조"
+            ],
+            "comment": "early; soon; morning"
+        },
+        {
+            "question": "朝",
+            "answers": [
+                "아침 조",
+                "조"
+            ],
+            "comment": "dynasty; morning"
+        },
+        {
+            "question": "祖",
+            "answers": [
+                "조상 조",
+                "조"
+            ],
+            "comment": "ancestor, forefather; grandfather"
+        },
+        {
+            "question": "調",
+            "answers": [
+                "고를 조",
+                "조"
+            ],
+            "comment": "transfer, move, change; tune"
+        },
+        {
+            "question": "造",
+            "answers": [
+                "만들 조",
+                "조"
+            ],
+            "comment": "construct, build, make, begin; prepare"
+        },
+        {
+            "question": "鳥",
+            "answers": [
+                "새 조",
+                "조"
+            ],
+            "comment": "bird; KangXi radical 196"
+        },
+        {
+            "question": "族",
+            "answers": [
+                "겨레 족",
+                "족"
+            ],
+            "comment": "a family clan, ethnic group, tribe"
+        },
+        {
+            "question": "足",
+            "answers": [
+                "발 족",
+                "족"
+            ],
+            "comment": "foot; attain, satisfy, enough"
+        },
+        {
+            "question": "存",
+            "answers": [
+                "있을 존",
+                "존"
+            ],
+            "comment": "exist, live, be; survive; remain"
+        },
+        {
+            "question": "尊",
+            "answers": [
+                "높을 존",
+                "존"
+            ],
+            "comment": "respect, revere, venerate; honor"
+        },
+        {
+            "question": "卒",
+            "answers": [
+                "군사 졸",
+                "졸"
+            ],
+            "comment": "soldier; servant; at last, finally"
+        },
+        {
+            "question": "宗",
+            "answers": [
+                "마루 종",
+                "종"
+            ],
+            "comment": "lineage, ancestry; ancestor, clan"
+        },
+        {
+            "question": "從",
+            "answers": [
+                "좇을 종",
+                "종"
+            ],
+            "comment": "from, by, since, whence, through"
+        },
+        {
+            "question": "種",
+            "answers": [
+                "씨 종",
+                "종"
+            ],
+            "comment": "seed; race; offspring; to plant"
+        },
+        {
+            "question": "終",
+            "answers": [
+                "끝날 종",
+                "종"
+            ],
+            "comment": "end; finally, in the end"
+        },
+        {
+            "question": "鐘",
+            "answers": [
+                "종 종",
+                "종"
+            ],
+            "comment": "clock; bell"
+        },
+        {
+            "question": "坐",
+            "answers": [
+                "앉을 좌",
+                "좌"
+            ],
+            "comment": "sit; seat; ride, travel by"
+        },
+        {
+            "question": "左",
+            "answers": [
+                "왼 좌",
+                "좌"
+            ],
+            "comment": "left; east; unorthodox, improper"
+        },
+        {
+            "question": "罪",
+            "answers": [
+                "허물 죄",
+                "죄"
+            ],
+            "comment": "crime, sin, vice; evil; hardship"
+        },
+        {
+            "question": "主",
+            "answers": [
+                "주인 주",
+                "주"
+            ],
+            "comment": "master, chief owner; host; lord"
+        },
+        {
+            "question": "住",
+            "answers": [
+                "살 주",
+                "주"
+            ],
+            "comment": "reside, live at, dwell, lodge; stop"
+        },
+        {
+            "question": "宙",
+            "answers": [
+                "집 주",
+                "주"
+            ],
+            "comment": "time as concept; infinite time"
+        },
+        {
+            "question": "晝",
+            "answers": [
+                "낮 주",
+                "주"
+            ],
+            "comment": "daytime, daylight"
+        },
+        {
+            "question": "朱",
+            "answers": [
+                "붉을 주",
+                "주"
+            ],
+            "comment": "cinnabar, vermilion; surname"
+        },
+        {
+            "question": "注",
+            "answers": [
+                "물댈 주",
+                "주"
+            ],
+            "comment": "concentrate, focus, direct"
+        },
+        {
+            "question": "走",
+            "answers": [
+                "달릴 주",
+                "주"
+            ],
+            "comment": "walk, go on foot; run; leave"
+        },
+        {
+            "question": "酒",
+            "answers": [
+                "술 주",
+                "주"
+            ],
+            "comment": "wine, spirits, liquor, alcoholic beverage"
+        },
+        {
+            "question": "竹",
+            "answers": [
+                "대 죽",
+                "죽"
+            ],
+            "comment": "bamboo; flute; KangXi radical 118"
+        },
+        {
+            "question": "中",
+            "answers": [
+                "가운데 중",
+                "중"
+            ],
+            "comment": "central; center, middle; in the midst of; hit (target); attain"
+        },
+        {
+            "question": "衆",
+            "answers": [
+                "무리 중",
+                "중"
+            ],
+            "comment": "multitude, crowd; masses, public"
+        },
+        {
+            "question": "重",
+            "answers": [
+                "무거울 중",
+                "중"
+            ],
+            "comment": "heavy, weighty; double"
+        },
+        {
+            "question": "卽",
+            "answers": [
+                "곧 즉",
+                "즉"
+            ],
+            "comment": "promptly"
+        },
+        {
+            "question": "增",
+            "answers": [
+                "더할 증",
+                "증"
+            ],
+            "comment": "increase, add to, augment"
+        },
+        {
+            "question": "曾",
+            "answers": [
+                "일찍 증",
+                "증"
+            ],
+            "comment": "already; sign of past"
+        },
+        {
+            "question": "證",
+            "answers": [
+                "증거 증",
+                "증"
+            ],
+            "comment": "proof, evidence; testify, verify"
+        },
+        {
+            "question": "之",
+            "answers": [
+                "갈 지",
+                "지"
+            ],
+            "comment": "marks preceding phrase as modifier of following phrase; it, him her, them; go to"
+        },
+        {
+            "question": "只",
+            "answers": [
+                "다만 지",
+                "지"
+            ],
+            "comment": "only, just, simply"
+        },
+        {
+            "question": "地",
+            "answers": [
+                "땅 지",
+                "지"
+            ],
+            "comment": "earth; soil, ground; region"
+        },
+        {
+            "question": "志",
+            "answers": [
+                "뜻 지",
+                "지"
+            ],
+            "comment": "purpose, will, determination; annals"
+        },
+        {
+            "question": "持",
+            "answers": [
+                "가질 지",
+                "지"
+            ],
+            "comment": "sustain, support; hold, grasp"
+        },
+        {
+            "question": "指",
+            "answers": [
+                "손가락 지",
+                "지"
+            ],
+            "comment": "finger, toe; point, indicate"
+        },
+        {
+            "question": "支",
+            "answers": [
+                "지탱할 지",
+                "지"
+            ],
+            "comment": "disperse, pay; support; branch"
+        },
+        {
+            "question": "枝",
+            "answers": [
+                "가지 지",
+                "지"
+            ],
+            "comment": "branches, limbs; branch off"
+        },
+        {
+            "question": "止",
+            "answers": [
+                "그칠 지",
+                "지"
+            ],
+            "comment": "stop, halt, desist; detain"
+        },
+        {
+            "question": "知",
+            "answers": [
+                "알 지",
+                "지"
+            ],
+            "comment": "know, perceive, comprehend"
+        },
+        {
+            "question": "紙",
+            "answers": [
+                "종이 지",
+                "지"
+            ],
+            "comment": "paper"
+        },
+        {
+            "question": "至",
+            "answers": [
+                "이를 지",
+                "지"
+            ],
+            "comment": "reach, arrive; extremely, very"
+        },
+        {
+            "question": "直",
+            "answers": [
+                "곧을 직",
+                "직"
+            ],
+            "comment": "straight, erect, vertical"
+        },
+        {
+            "question": "盡",
+            "answers": [
+                "다할 진",
+                "진"
+            ],
+            "comment": "exhaust, use up; deplete"
+        },
+        {
+            "question": "眞",
+            "answers": [
+                "참 진",
+                "진"
+            ],
+            "comment": "real, actual, true, genuine"
+        },
+        {
+            "question": "辰",
+            "answers": [
+                "별 진",
+                "진"
+            ],
+            "comment": "early morning; 5th terrestrial branch"
+        },
+        {
+            "question": "進",
+            "answers": [
+                "나아갈 진",
+                "진"
+            ],
+            "comment": "advance, make progress, enter"
+        },
+        {
+            "question": "質",
+            "answers": [
+                "바탕 질",
+                "질"
+            ],
+            "comment": "matter, material, substance"
+        },
+        {
+            "question": "執",
+            "answers": [
+                "잡을 집",
+                "집"
+            ],
+            "comment": "hold in hand; keep; carry out"
+        },
+        {
+            "question": "集",
+            "answers": [
+                "모일 집",
+                "집"
+            ],
+            "comment": "assemble, collect together"
+        },
+        {
+            "question": "且",
+            "answers": [
+                "또 차",
+                "차"
+            ],
+            "comment": "moreover, also (post-subject); about to, will soon (pre-verb)"
+        },
+        {
+            "question": "借",
+            "answers": [
+                "빌 차",
+                "차"
+            ],
+            "comment": "borrow; lend; make pretext of"
+        },
+        {
+            "question": "次",
+            "answers": [
+                "버금 차",
+                "차"
+            ],
+            "comment": "order, sequence; next"
+        },
+        {
+            "question": "此",
+            "answers": [
+                "이 차",
+                "차"
+            ],
+            "comment": "this, these; in this case, then"
+        },
+        {
+            "question": "着",
+            "answers": [
+                "붙을 착",
+                "착"
+            ],
+            "comment": "make move, take action"
+        },
+        {
+            "question": "察",
+            "answers": [
+                "살필 찰",
+                "찰"
+            ],
+            "comment": "examine, investigate; notice"
+        },
+        {
+            "question": "參",
+            "answers": [
+                "간여할 참",
+                "참"
+            ],
+            "comment": "take part in, intervene; ginseng"
+        },
+        {
+            "question": "唱",
+            "answers": [
+                "노래 창",
+                "창"
+            ],
+            "comment": "sing, chant, call; ditty, song"
+        },
+        {
+            "question": "昌",
+            "answers": [
+                "창성할 창",
+                "창"
+            ],
+            "comment": "light of sun; good, proper"
+        },
+        {
+            "question": "窓",
+            "answers": [
+                "창 창",
+                "창"
+            ],
+            "comment": "window"
+        },
+        {
+            "question": "採",
+            "answers": [
+                "캘 채",
+                "채"
+            ],
+            "comment": "gather, collect; pick, select"
+        },
+        {
+            "question": "菜",
+            "answers": [
+                "나물 채",
+                "채"
+            ],
+            "comment": "vegetables; dish, order; food"
+        },
+        {
+            "question": "冊",
+            "answers": [
+                "책 책",
+                "책"
+            ],
+            "comment": "book, volume"
+        },
+        {
+            "question": "責",
+            "answers": [
+                "꾸짖을 책",
+                "책"
+            ],
+            "comment": "one's responsibility, duty"
+        },
+        {
+            "question": "妻",
+            "answers": [
+                "아내 처",
+                "처"
+            ],
+            "comment": "wife"
+        },
+        {
+            "question": "處",
+            "answers": [
+                "곳 처",
+                "처"
+            ],
+            "comment": "place, locale; department"
+        },
+        {
+            "question": "尺",
+            "answers": [
+                "자 척",
+                "척"
+            ],
+            "comment": "Chinese measure approx. 'foot'"
+        },
+        {
+            "question": "千",
+            "answers": [
+                "일천 천",
+                "천"
+            ],
+            "comment": "thousand; many, numerous; very; (Cant.) a cheater, swindler"
+        },
+        {
+            "question": "天",
+            "answers": [
+                "하늘 천",
+                "천"
+            ],
+            "comment": "sky, heaven; god, celestial"
+        },
+        {
+            "question": "川",
+            "answers": [
+                "내 천",
+                "천"
+            ],
+            "comment": "stream, river; flow; boil"
+        },
+        {
+            "question": "泉",
+            "answers": [
+                "샘 천",
+                "천"
+            ],
+            "comment": "spring, fountain; wealth, money"
+        },
+        {
+            "question": "淺",
+            "answers": [
+                "얕을 천",
+                "천"
+            ],
+            "comment": "shallow, not deep; superficial"
+        },
+        {
+            "question": "鐵",
+            "answers": [
+                "쇠 철",
+                "철"
+            ],
+            "comment": "iron; strong, solid, firm"
+        },
+        {
+            "question": "晴",
+            "answers": [
+                "갤 청",
+                "청"
+            ],
+            "comment": "clear weather, fine weather"
+        },
+        {
+            "question": "淸",
+            "answers": [
+                "맑을 청",
+                "청"
+            ],
+            "comment": "clear"
+        },
+        {
+            "question": "聽",
+            "answers": [
+                "들을 청",
+                "청"
+            ],
+            "comment": "hear, listen; understand; obey"
+        },
+        {
+            "question": "請",
+            "answers": [
+                "청할 청",
+                "청"
+            ],
+            "comment": "ask, request; invite; please"
+        },
+        {
+            "question": "靑",
+            "answers": [
+                "푸를 청",
+                "청"
+            ],
+            "comment": "blue"
+        },
+        {
+            "question": "體",
+            "answers": [
+                "몸 체",
+                "체"
+            ],
+            "comment": "body; group, class, body, unit"
+        },
+        {
+            "question": "初",
+            "answers": [
+                "처음 초",
+                "초"
+            ],
+            "comment": "beginning, initial, primary"
+        },
+        {
+            "question": "招",
+            "answers": [
+                "부를 초",
+                "초"
+            ],
+            "comment": "beckon, summon; recruit, levy"
+        },
+        {
+            "question": "草",
+            "answers": [
+                "풀 초",
+                "초"
+            ],
+            "comment": "grass, straw, thatch, herbs"
+        },
+        {
+            "question": "寸",
+            "answers": [
+                "마디 촌",
+                "촌"
+            ],
+            "comment": "inch; small, tiny; KangXi radical 41"
+        },
+        {
+            "question": "村",
+            "answers": [
+                "마을 촌",
+                "촌"
+            ],
+            "comment": "village, hamlet; uncouth, vulgar"
+        },
+        {
+            "question": "最",
+            "answers": [
+                "가장 최",
+                "최"
+            ],
+            "comment": "most, extremely, exceedingly"
+        },
+        {
+            "question": "推",
+            "answers": [
+                "밀 추",
+                "추"
+            ],
+            "comment": "push, expel; push forward"
+        },
+        {
+            "question": "秋",
+            "answers": [
+                "가을 추",
+                "추"
+            ],
+            "comment": "autumn, fall; year"
+        },
+        {
+            "question": "追",
+            "answers": [
+                "쫓을 추",
+                "추"
+            ],
+            "comment": "pursue, chase after; expel"
+        },
+        {
+            "question": "丑",
+            "answers": [
+                "소 축",
+                "축"
+            ],
+            "comment": "clown, comedian; 2nd terrestrial branch"
+        },
+        {
+            "question": "祝",
+            "answers": [
+                "빌 축",
+                "축"
+            ],
+            "comment": "pray for happiness or blessings"
+        },
+        {
+            "question": "春",
+            "answers": [
+                "봄 춘",
+                "춘"
+            ],
+            "comment": "spring; wanton"
+        },
+        {
+            "question": "出",
+            "answers": [
+                "날 출",
+                "출"
+            ],
+            "comment": "go out, send out; stand; produce"
+        },
+        {
+            "question": "充",
+            "answers": [
+                "찰 충",
+                "충"
+            ],
+            "comment": "fill, be full, supply"
+        },
+        {
+            "question": "忠",
+            "answers": [
+                "충성 충",
+                "충"
+            ],
+            "comment": "loyalty, devotion, fidelity"
+        },
+        {
+            "question": "蟲",
+            "answers": [
+                "벌레 충",
+                "충"
+            ],
+            "comment": "worms; insects"
+        },
+        {
+            "question": "取",
+            "answers": [
+                "취할 취",
+                "취"
+            ],
+            "comment": "take, receive, obtain; select"
+        },
+        {
+            "question": "吹",
+            "answers": [
+                "불 취",
+                "취"
+            ],
+            "comment": "blow; puff; brag, boast"
+        },
+        {
+            "question": "就",
+            "answers": [
+                "이룰 취",
+                "취"
+            ],
+            "comment": "just, simply; to come, go to; to approach, near"
+        },
+        {
+            "question": "治",
+            "answers": [
+                "다스릴 치",
+                "치"
+            ],
+            "comment": "govern, regulate, administer"
+        },
+        {
+            "question": "致",
+            "answers": [
+                "보낼 치",
+                "치"
+            ],
+            "comment": "send, deliver, present; cause"
+        },
+        {
+            "question": "齒",
+            "answers": [
+                "이 치",
+                "치"
+            ],
+            "comment": "teeth; gears, cogs; age; KangXi radical 211"
+        },
+        {
+            "question": "則",
+            "answers": [
+                "법칙 칙",
+                "칙"
+            ],
+            "comment": "rule, law, regulation; grades"
+        },
+        {
+            "question": "親",
+            "answers": [
+                "친할 친",
+                "친"
+            ],
+            "comment": "relatives, parents; intimate"
+        },
+        {
+            "question": "七",
+            "answers": [
+                "일곱 칠",
+                "칠"
+            ],
+            "comment": "seven"
+        },
+        {
+            "question": "針",
+            "answers": [
+                "바늘 침",
+                "침"
+            ],
+            "comment": "needle; pin; tack; acupuncture"
+        },
+        {
+            "question": "快",
+            "answers": [
+                "쾌할 쾌",
+                "쾌"
+            ],
+            "comment": "rapid, quick, speedy, fast; soon"
+        },
+        {
+            "question": "他",
+            "answers": [
+                "다를 타",
+                "타"
+            ],
+            "comment": "other, another; he, she, it"
+        },
+        {
+            "question": "打",
+            "answers": [
+                "칠 타",
+                "타"
+            ],
+            "comment": "strike, hit, beat; fight; attack"
+        },
+        {
+            "question": "脫",
+            "answers": [
+                "벗을 탈",
+                "탈"
+            ],
+            "comment": "take off, peel off, strip"
+        },
+        {
+            "question": "探",
+            "answers": [
+                "찾을 탐",
+                "탐"
+            ],
+            "comment": "find, locate; search, grope for"
+        },
+        {
+            "question": "太",
+            "answers": [
+                "클 태",
+                "태"
+            ],
+            "comment": "very, too, much; big; extreme"
+        },
+        {
+            "question": "泰",
+            "answers": [
+                "클 태",
+                "태"
+            ],
+            "comment": "great, exalted, superior; big"
+        },
+        {
+            "question": "宅",
+            "answers": [
+                "집 택",
+                "택"
+            ],
+            "comment": "residence, dwelling, home; grave"
+        },
+        {
+            "question": "土",
+            "answers": [
+                "흙 토",
+                "토"
+            ],
+            "comment": "soil, earth; items made of earth"
+        },
+        {
+            "question": "統",
+            "answers": [
+                "큰 줄기 통",
+                "통"
+            ],
+            "comment": "govern, command, control; unite"
+        },
+        {
+            "question": "通",
+            "answers": [
+                "통할 통",
+                "통"
+            ],
+            "comment": "pass through, common, communicate"
+        },
+        {
+            "question": "退",
+            "answers": [
+                "물러날 퇴",
+                "퇴"
+            ],
+            "comment": "step back, retreat, withdraw"
+        },
+        {
+            "question": "投",
+            "answers": [
+                "던질 투",
+                "투"
+            ],
+            "comment": "throw, cast, fling, pitch; jump"
+        },
+        {
+            "question": "特",
+            "answers": [
+                "수컷 특",
+                "특"
+            ],
+            "comment": "special, unique, distinguished"
+        },
+        {
+            "question": "波",
+            "answers": [
+                "물결 파",
+                "파"
+            ],
+            "comment": "waves, breakers; undulations"
+        },
+        {
+            "question": "破",
+            "answers": [
+                "깨뜨릴 파",
+                "파"
+            ],
+            "comment": "break, ruin, destroy; rout"
+        },
+        {
+            "question": "判",
+            "answers": [
+                "판가름할 판",
+                "판"
+            ],
+            "comment": "judge; discriminate; conclude"
+        },
+        {
+            "question": "八",
+            "answers": [
+                "여덟 팔",
+                "팔"
+            ],
+            "comment": "eight; all around, all sides"
+        },
+        {
+            "question": "敗",
+            "answers": [
+                "패할 패",
+                "패"
+            ],
+            "comment": "be defeated, decline, fail"
+        },
+        {
+            "question": "貝",
+            "answers": [
+                "조개 패",
+                "패"
+            ],
+            "comment": "sea shell; money, currency"
+        },
+        {
+            "question": "便",
+            "answers": [
+                "편할 편",
+                "편"
+            ],
+            "comment": "convenience, ease; expedient"
+        },
+        {
+            "question": "片",
+            "answers": [
+                "조각 편",
+                "편"
+            ],
+            "comment": "slice, splinter, strip; rad. 91"
+        },
+        {
+            "question": "篇",
+            "answers": [
+                "책 편",
+                "편"
+            ],
+            "comment": "chapter, section, essay, article"
+        },
+        {
+            "question": "平",
+            "answers": [
+                "평평할 평",
+                "평"
+            ],
+            "comment": "flat, level, even; peaceful"
+        },
+        {
+            "question": "閉",
+            "answers": [
+                "닫을 폐",
+                "폐"
+            ],
+            "comment": "shut, close; obstruct, block up"
+        },
+        {
+            "question": "布",
+            "answers": [
+                "베 포",
+                "포"
+            ],
+            "comment": "cotton cloth, textiles, linen"
+        },
+        {
+            "question": "抱",
+            "answers": [
+                "안을 포",
+                "포"
+            ],
+            "comment": "embrace, hold in arms, enfold"
+        },
+        {
+            "question": "暴",
+            "answers": [
+                "사나울 폭",
+                "폭"
+            ],
+            "comment": "violent, brutal, tyrannical"
+        },
+        {
+            "question": "表",
+            "answers": [
+                "겉 표",
+                "표"
+            ],
+            "comment": "show, express, manifest, display"
+        },
+        {
+            "question": "品",
+            "answers": [
+                "물건 품",
+                "품"
+            ],
+            "comment": "article, product, commodity"
+        },
+        {
+            "question": "豐",
+            "answers": [
+                "풍년 풍",
+                "풍"
+            ],
+            "comment": "abundant, lush, bountiful, plenty"
+        },
+        {
+            "question": "風",
+            "answers": [
+                "바람 풍",
+                "풍"
+            ],
+            "comment": "wind; air; manners, atmosphere"
+        },
+        {
+            "question": "彼",
+            "answers": [
+                "저 피",
+                "피"
+            ],
+            "comment": "that, there, those"
+        },
+        {
+            "question": "皮",
+            "answers": [
+                "가죽 피",
+                "피"
+            ],
+            "comment": "skin, hide, fur, feather; outer"
+        },
+        {
+            "question": "匹",
+            "answers": [
+                "짝 필",
+                "필"
+            ],
+            "comment": "bolt of cloth; counter for horses"
+        },
+        {
+            "question": "必",
+            "answers": [
+                "반드시 필",
+                "필"
+            ],
+            "comment": "surely, most certainly; must"
+        },
+        {
+            "question": "筆",
+            "answers": [
+                "붓 필",
+                "필"
+            ],
+            "comment": "writing brush; write; stroke"
+        },
+        {
+            "question": "下",
+            "answers": [
+                "아래 하",
+                "하"
+            ],
+            "comment": "under, underneath, below; down; inferior; bring down"
+        },
+        {
+            "question": "何",
+            "answers": [
+                "어찌 하",
+                "하"
+            ],
+            "comment": "what, why, where, which, how"
+        },
+        {
+            "question": "夏",
+            "answers": [
+                "여름 하",
+                "하"
+            ],
+            "comment": "summer; great, grand, big"
+        },
+        {
+            "question": "河",
+            "answers": [
+                "물 하",
+                "하"
+            ],
+            "comment": "river; stream; yellow river"
+        },
+        {
+            "question": "賀",
+            "answers": [
+                "하례 하",
+                "하"
+            ],
+            "comment": "congratulate; send present"
+        },
+        {
+            "question": "學",
+            "answers": [
+                "배울 학",
+                "학"
+            ],
+            "comment": "learning, knowledge; school"
+        },
+        {
+            "question": "寒",
+            "answers": [
+                "찰 한",
+                "한"
+            ],
+            "comment": "cold, wintry, chilly"
+        },
+        {
+            "question": "恨",
+            "answers": [
+                "한할 한",
+                "한"
+            ],
+            "comment": "hatred, dislike; resent, hate"
+        },
+        {
+            "question": "漢",
+            "answers": [
+                "한수 한",
+                "한"
+            ],
+            "comment": "the Chinese people, Chinese language"
+        },
+        {
+            "question": "閑",
+            "answers": [
+                "막을 한",
+                "한"
+            ],
+            "comment": "fence, barrier; defend; idle time"
+        },
+        {
+            "question": "限",
+            "answers": [
+                "한계 한",
+                "한"
+            ],
+            "comment": "boundary, limit, line"
+        },
+        {
+            "question": "韓",
+            "answers": [
+                "나라 이름 한",
+                "한"
+            ],
+            "comment": "fence; surname; Korea"
+        },
+        {
+            "question": "合",
+            "answers": [
+                "합할 합",
+                "합"
+            ],
+            "comment": "combine, unite, join; gather"
+        },
+        {
+            "question": "恒",
+            "answers": [
+                "항상 항",
+                "항"
+            ],
+            "comment": "constant, regular, persistent"
+        },
+        {
+            "question": "亥",
+            "answers": [
+                "돼지 해",
+                "해"
+            ],
+            "comment": "12th terrestrial branch"
+        },
+        {
+            "question": "害",
+            "answers": [
+                "해칠 해",
+                "해"
+            ],
+            "comment": "injure, harm; destroy, kill"
+        },
+        {
+            "question": "海",
+            "answers": [
+                "바다 해",
+                "해"
+            ],
+            "comment": "sea, ocean; maritime"
+        },
+        {
+            "question": "解",
+            "answers": [
+                "풀 해",
+                "해"
+            ],
+            "comment": "loosen, unfasten, untie; explain"
+        },
+        {
+            "question": "幸",
+            "answers": [
+                "다행 행",
+                "행"
+            ],
+            "comment": "luck(ily), favor, fortunately"
+        },
+        {
+            "question": "行",
+            "answers": [
+                "다닐 행",
+                "행"
+            ],
+            "comment": "go; walk; move, travel; circulate"
+        },
+        {
+            "question": "向",
+            "answers": [
+                "향할 향",
+                "향"
+            ],
+            "comment": "toward, direction, trend"
+        },
+        {
+            "question": "鄕",
+            "answers": [
+                "시골 향",
+                "향"
+            ],
+            "comment": "country; rural; village"
+        },
+        {
+            "question": "香",
+            "answers": [
+                "향기 향",
+                "향"
+            ],
+            "comment": "fragrant, sweet smelling, incense"
+        },
+        {
+            "question": "虛",
+            "answers": [
+                "빌 허",
+                "허"
+            ],
+            "comment": "false, worthless; empty, hollow"
+        },
+        {
+            "question": "許",
+            "answers": [
+                "허락할 허",
+                "허"
+            ],
+            "comment": "allow, permit; promise; betroth"
+        },
+        {
+            "question": "革",
+            "answers": [
+                "가죽 혁",
+                "혁"
+            ],
+            "comment": "leather, animal hides; rad. 177"
+        },
+        {
+            "question": "現",
+            "answers": [
+                "나타날 현",
+                "현"
+            ],
+            "comment": "appear, manifest, become visible"
+        },
+        {
+            "question": "賢",
+            "answers": [
+                "어질 현",
+                "현"
+            ],
+            "comment": "virtuous, worthy, good; able"
+        },
+        {
+            "question": "血",
+            "answers": [
+                "피 혈",
+                "혈"
+            ],
+            "comment": "blood; radical number 143"
+        },
+        {
+            "question": "協",
+            "answers": [
+                "화할 협",
+                "협"
+            ],
+            "comment": "be united; cooperate"
+        },
+        {
+            "question": "兄",
+            "answers": [
+                "맏 형",
+                "형"
+            ],
+            "comment": "elder brother"
+        },
+        {
+            "question": "刑",
+            "answers": [
+                "형벌 형",
+                "형"
+            ],
+            "comment": "punishment, penalty; law"
+        },
+        {
+            "question": "形",
+            "answers": [
+                "모양 형",
+                "형"
+            ],
+            "comment": "form, shape, appearance"
+        },
+        {
+            "question": "惠",
+            "answers": [
+                "은혜 혜",
+                "혜"
+            ],
+            "comment": "favor, benefit, confer kindness"
+        },
+        {
+            "question": "乎",
+            "answers": [
+                "어조사 호",
+                "호"
+            ],
+            "comment": "interrogative or exclamatory final particle"
+        },
+        {
+            "question": "呼",
+            "answers": [
+                "부를 호",
+                "호"
+            ],
+            "comment": "breathe sigh, exhale; call, shout"
+        },
+        {
+            "question": "好",
+            "answers": [
+                "좋을 호",
+                "호"
+            ],
+            "comment": "good, excellent, fine; well"
+        },
+        {
+            "question": "戶",
+            "answers": [
+                "지게 호",
+                "호"
+            ],
+            "comment": "door; family, household"
+        },
+        {
+            "question": "湖",
+            "answers": [
+                "호수 호",
+                "호"
+            ],
+            "comment": "a lake; Hubei, Hunan; bluish-green"
+        },
+        {
+            "question": "虎",
+            "answers": [
+                "범 호",
+                "호"
+            ],
+            "comment": "tiger; brave, fierce; surname"
+        },
+        {
+            "question": "號",
+            "answers": [
+                "부르짖을 호",
+                "호"
+            ],
+            "comment": "mark, sign; symbol; number"
+        },
+        {
+            "question": "或",
+            "answers": [
+                "혹 혹",
+                "혹"
+            ],
+            "comment": "or, either, else; perhaps, maybe"
+        },
+        {
+            "question": "婚",
+            "answers": [
+                "혼인할 혼",
+                "혼"
+            ],
+            "comment": "get married; marriage, wedding"
+        },
+        {
+            "question": "混",
+            "answers": [
+                "섞을 혼",
+                "혼"
+            ],
+            "comment": "to mix, blend, mingle; to bumble along"
+        },
+        {
+            "question": "紅",
+            "answers": [
+                "붉을 홍",
+                "홍"
+            ],
+            "comment": "red, vermillion; blush, flush"
+        },
+        {
+            "question": "化",
+            "answers": [
+                "될 화",
+                "화"
+            ],
+            "comment": "change, convert, reform; -ize"
+        },
+        {
+            "question": "和",
+            "answers": [
+                "화할 화",
+                "화"
+            ],
+            "comment": "harmony, peace; peaceful, calm"
+        },
+        {
+            "question": "火",
+            "answers": [
+                "불 화",
+                "화"
+            ],
+            "comment": "fire, flame; burn; anger, rage"
+        },
+        {
+            "question": "畫",
+            "answers": [
+                "그림 화",
+                "화"
+            ],
+            "comment": "delineate, painting, picture, drawing; draw"
+        },
+        {
+            "question": "花",
+            "answers": [
+                "꽃 화",
+                "화"
+            ],
+            "comment": "flower; blossoms"
+        },
+        {
+            "question": "華",
+            "answers": [
+                "빛날 화",
+                "화"
+            ],
+            "comment": "flowery; illustrious; Chinese"
+        },
+        {
+            "question": "話",
+            "answers": [
+                "말할 화",
+                "화"
+            ],
+            "comment": "speech, talk, language; dialect"
+        },
+        {
+            "question": "貨",
+            "answers": [
+                "재화 화",
+                "화"
+            ],
+            "comment": "goods, commodities, products"
+        },
+        {
+            "question": "患",
+            "answers": [
+                "근심 환",
+                "환"
+            ],
+            "comment": "suffer, worry about; suffering"
+        },
+        {
+            "question": "歡",
+            "answers": [
+                "기뻐할 환",
+                "환"
+            ],
+            "comment": "happy, pleased, glad; joy; to enjoy"
+        },
+        {
+            "question": "活",
+            "answers": [
+                "살 활",
+                "활"
+            ],
+            "comment": "live, exist, survive; lively"
+        },
+        {
+            "question": "皇",
+            "answers": [
+                "임금 황",
+                "황"
+            ],
+            "comment": "royal, imperial; ruler, superior"
+        },
+        {
+            "question": "黃",
+            "answers": [
+                "누를 황",
+                "황"
+            ],
+            "comment": "yellow; surname"
+        },
+        {
+            "question": "回",
+            "answers": [
+                "돌 회",
+                "회"
+            ],
+            "comment": "return, turn around; a time"
+        },
+        {
+            "question": "會",
+            "answers": [
+                "모일 회",
+                "회"
+            ],
+            "comment": "to assemble, meet together; a meeting; an organization"
+        },
+        {
+            "question": "孝",
+            "answers": [
+                "효도 효",
+                "효"
+            ],
+            "comment": "filial piety, obedience; mourning"
+        },
+        {
+            "question": "效",
+            "answers": [
+                "본받을 효",
+                "효"
+            ],
+            "comment": "result, effect; effectiveness"
+        },
+        {
+            "question": "厚",
+            "answers": [
+                "두터울 후",
+                "후"
+            ],
+            "comment": "thick; substantial; greatly"
+        },
+        {
+            "question": "後",
+            "answers": [
+                "뒤 후",
+                "후"
+            ],
+            "comment": "behind, rear, after; descendents"
+        },
+        {
+            "question": "訓",
+            "answers": [
+                "가르칠 훈",
+                "훈"
+            ],
+            "comment": "teach, instruct; exegesis"
+        },
+        {
+            "question": "休",
+            "answers": [
+                "쉴 휴",
+                "휴"
+            ],
+            "comment": "rest, stop; retire; do not!"
+        },
+        {
+            "question": "凶",
+            "answers": [
+                "흉할 흉",
+                "흉"
+            ],
+            "comment": "culprit; murder; bad, sad"
+        },
+        {
+            "question": "胸",
+            "answers": [
+                "가슴 흉",
+                "흉"
+            ],
+            "comment": "breast, bosom, chest; thorax"
+        },
+        {
+            "question": "黑",
+            "answers": [
+                "검을 흑",
+                "흑"
+            ],
+            "comment": "black; dark; evil, sinister"
+        },
+        {
+            "question": "興",
+            "answers": [
+                "일어날 흥",
+                "흥"
+            ],
+            "comment": "thrive, prosper, flourish"
+        },
+        {
+            "question": "喜",
+            "answers": [
+                "기쁠 희",
+                "희"
+            ],
+            "comment": "like, love, enjoy; joyful thing"
+        },
+        {
+            "question": "希",
+            "answers": [
+                "바랄 희",
+                "희"
+            ],
+            "comment": "rare; hope, expect, strive for"
+        }
+    ]
+}

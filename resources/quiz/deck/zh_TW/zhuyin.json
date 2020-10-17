@@ -1,0 +1,261 @@
+{
+    "description": "Type the Hanyu Pinyin corresponding to the Zhuyin symbol. You may type v in place of ü and e in place of ê.",
+    "deck": [
+        {
+            "question": "ㄅ",
+            "answers": [
+                "b"
+            ]
+        },
+        {
+            "question": "ㄆ",
+            "answers": [
+                "p"
+            ]
+        },
+        {
+            "question": "ㄇ",
+            "answers": [
+                "m"
+            ]
+        },
+        {
+            "question": "ㄈ",
+            "answers": [
+                "f"
+            ]
+        },
+        {
+            "question": "ㄉ",
+            "answers": [
+                "d"
+            ]
+        },
+        {
+            "question": "ㄊ",
+            "answers": [
+                "t"
+            ]
+        },
+        {
+            "question": "ㄋ",
+            "answers": [
+                "n"
+            ]
+        },
+        {
+            "question": "ㄌ",
+            "answers": [
+                "l"
+            ]
+        },
+        {
+            "question": "ㄍ",
+            "answers": [
+                "g"
+            ]
+        },
+        {
+            "question": "ㄎ",
+            "answers": [
+                "k"
+            ]
+        },
+        {
+            "question": "ㄏ",
+            "answers": [
+                "h"
+            ]
+        },
+        {
+            "question": "ㄐ",
+            "answers": [
+                "j"
+            ]
+        },
+        {
+            "question": "ㄑ",
+            "answers": [
+                "q"
+            ]
+        },
+        {
+            "question": "ㄒ",
+            "answers": [
+                "x"
+            ]
+        },
+        {
+            "question": "ㄓ",
+            "answers": [
+                "zh",
+                "zhi"
+            ]
+        },
+        {
+            "question": "ㄔ",
+            "answers": [
+                "ch",
+                "chi"
+            ]
+        },
+        {
+            "question": "ㄕ",
+            "answers": [
+                "sh",
+                "shi"
+            ]
+        },
+        {
+            "question": "ㄖ",
+            "answers": [
+                "r",
+                "ri"
+            ]
+        },
+        {
+            "question": "ㄗ",
+            "answers": [
+                "z",
+                "zi"
+            ]
+        },
+        {
+            "question": "ㄘ",
+            "answers": [
+                "c",
+                "ci"
+            ]
+        },
+        {
+            "question": "ㄙ",
+            "answers": [
+                "s",
+                "si"
+            ]
+        },
+        {
+            "question": "ㄧ",
+            "answers": [
+                "i",
+                "yi"
+            ]
+        },
+        {
+            "question": "ㄨ",
+            "answers": [
+                "u",
+                "wu"
+            ]
+        },
+        {
+            "question": "ㄩ",
+            "answers": [
+                "ü",
+                "yu"
+            ]
+        },
+        {
+            "question": "ㄚ",
+            "answers": [
+                "a"
+            ]
+        },
+        {
+            "question": "ㄛ",
+            "answers": [
+                "o"
+            ]
+        },
+        {
+            "question": "ㄜ",
+            "answers": [
+                "e"
+            ]
+        },
+        {
+            "question": "ㄝ",
+            "answers": [
+                "ê"
+            ]
+        },
+        {
+            "question": "ㄞ",
+            "answers": [
+                "ai"
+            ]
+        },
+        {
+            "question": "ㄟ",
+            "answers": [
+                "ei"
+            ]
+        },
+        {
+            "question": "ㄠ",
+            "answers": [
+                "ao"
+            ]
+        },
+        {
+            "question": "ㄡ",
+            "answers": [
+                "ou"
+            ]
+        },
+        {
+            "question": "ㄢ",
+            "answers": [
+                "an"
+            ]
+        },
+        {
+            "question": "ㄣ",
+            "answers": [
+                "en"
+            ]
+        },
+        {
+            "question": "ㄤ",
+            "answers": [
+                "ang"
+            ]
+        },
+        {
+            "question": "ㄥ",
+            "answers": [
+                "eng"
+            ]
+        },
+        {
+            "question": "ㄦ",
+            "answers": [
+                "er"
+            ]
+        },
+        {
+            "question": "ˊ",
+            "answers": [
+                "2"
+            ]
+        },
+        {
+            "question": "ˇ",
+            "answers": [
+                "3"
+            ]
+        },
+        {
+            "question": "ˋ",
+            "answers": [
+                "4"
+            ]
+        },
+        {
+            "question": "˙",
+            "answers": [
+                "5"
+            ]
+        }
+    ]
+}

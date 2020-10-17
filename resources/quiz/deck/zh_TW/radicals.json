@@ -1,0 +1,1717 @@
+{
+    "description": "Type the ㄓㄨˋ ㄧㄣ or pin1 yin1 for the radical.",
+    "deck": [
+        {
+            "question": "一",
+            "answers": [
+                "yi1",
+                "ㄧ"
+            ],
+            "comment": "one"
+        },
+        {
+            "question": "丨",
+            "answers": [
+                "gun3",
+                "ㄍㄨㄣˇ"
+            ],
+            "comment": "line"
+        },
+        {
+            "question": "丶",
+            "answers": [
+                "zhu3",
+                "ㄓㄨˇ"
+            ],
+            "comment": "dot"
+        },
+        {
+            "question": "丿",
+            "answers": [
+                "pie3",
+                "ㄆㄧㄝˇ"
+            ],
+            "comment": "slash"
+        },
+        {
+            "question": "乙",
+            "answers": [
+                "yi3",
+                "ㄧˇ"
+            ],
+            "comment": "second"
+        },
+        {
+            "question": "亅",
+            "answers": [
+                "jue2",
+                "ㄐㄩㄝˊ"
+            ],
+            "comment": "hook"
+        },
+        {
+            "question": "二",
+            "answers": [
+                "er4",
+                "ㄦˋ"
+            ],
+            "comment": "two"
+        },
+        {
+            "question": "亠",
+            "answers": [
+                "tou2",
+                "ㄊㄡˊ"
+            ],
+            "comment": "lid"
+        },
+        {
+            "question": "人",
+            "answers": [
+                "ren2",
+                "ㄖㄣˊ"
+            ],
+            "comment": "man"
+        },
+        {
+            "question": "儿",
+            "answers": [
+                "ren2",
+                "ㄖㄣˊ"
+            ],
+            "comment": "legs"
+        },
+        {
+            "question": "入",
+            "answers": [
+                "ru4",
+                "ㄖㄨˋ"
+            ],
+            "comment": "enter"
+        },
+        {
+            "question": "八",
+            "answers": [
+                "ba1",
+                "ㄅㄚ"
+            ],
+            "comment": "eight"
+        },
+        {
+            "question": "冂",
+            "answers": [
+                "jiong1",
+                "ㄐㄩㄥ"
+            ],
+            "comment": "wide"
+        },
+        {
+            "question": "冖",
+            "answers": [
+                "mi4",
+                "ㄇㄧˋ"
+            ],
+            "comment": "cloth cover"
+        },
+        {
+            "question": "冫",
+            "answers": [
+                "bing1",
+                "ㄅㄧㄥ"
+            ],
+            "comment": "ice"
+        },
+        {
+            "question": "几",
+            "answers": [
+                "ji1",
+                "ㄐㄧ"
+            ],
+            "comment": "table"
+        },
+        {
+            "question": "凵",
+            "answers": [
+                "kan3",
+                "ㄎㄢˇ"
+            ],
+            "comment": "receptacle"
+        },
+        {
+            "question": "刀",
+            "answers": [
+                "dao1",
+                "ㄉㄠ"
+            ],
+            "comment": "knife"
+        },
+        {
+            "question": "力",
+            "answers": [
+                "li4",
+                "ㄌㄧˋ"
+            ],
+            "comment": "power"
+        },
+        {
+            "question": "勹",
+            "answers": [
+                "bao1",
+                "ㄅㄠ"
+            ],
+            "comment": "wrap"
+        },
+        {
+            "question": "匕",
+            "answers": [
+                "bi3",
+                "ㄅㄧˇ"
+            ],
+            "comment": "spoon"
+        },
+        {
+            "question": "匚",
+            "answers": [
+                "fang1",
+                "ㄈㄤ"
+            ],
+            "comment": "box"
+        },
+        {
+            "question": "匸",
+            "answers": [
+                "xi4",
+                "ㄒㄧˋ"
+            ],
+            "comment": "hiding enclosure"
+        },
+        {
+            "question": "十",
+            "answers": [
+                "shi2",
+                "ㄕˊ"
+            ],
+            "comment": "ten"
+        },
+        {
+            "question": "卜",
+            "answers": [
+                "bu3",
+                "ㄅㄨˇ"
+            ],
+            "comment": "divination"
+        },
+        {
+            "question": "卩",
+            "answers": [
+                "jie2",
+                "ㄐㄧㄝˊ"
+            ],
+            "comment": "seal (device)"
+        },
+        {
+            "question": "厂",
+            "answers": [
+                "han3",
+                "ㄏㄢˇ"
+            ],
+            "comment": "cliff"
+        },
+        {
+            "question": "厶",
+            "answers": [
+                "si1",
+                "ㄙ"
+            ],
+            "comment": "private"
+        },
+        {
+            "question": "又",
+            "answers": [
+                "you4",
+                "ㄧㄡˋ"
+            ],
+            "comment": "again"
+        },
+        {
+            "question": "口",
+            "answers": [
+                "kou3",
+                "ㄎㄡˇ"
+            ],
+            "comment": "mouth"
+        },
+        {
+            "question": "囗",
+            "answers": [
+                "wei2",
+                "ㄨㄟˊ"
+            ],
+            "comment": "enclosure"
+        },
+        {
+            "question": "土",
+            "answers": [
+                "tu3",
+                "ㄊㄨˇ"
+            ],
+            "comment": "earth"
+        },
+        {
+            "question": "士",
+            "answers": [
+                "shi4",
+                "ㄕˋ"
+            ],
+            "comment": "scholar"
+        },
+        {
+            "question": "夂",
+            "answers": [
+                "zhi3",
+                "ㄓˇ"
+            ],
+            "comment": "go"
+        },
+        {
+            "question": "夊",
+            "answers": [
+                "sui1",
+                "ㄙㄨㄟ"
+            ],
+            "comment": "go slowly"
+        },
+        {
+            "question": "夕",
+            "answers": [
+                "xi4",
+                "ㄒㄧˋ"
+            ],
+            "comment": "evening"
+        },
+        {
+            "question": "大",
+            "answers": [
+                "da4",
+                "ㄉㄚˋ"
+            ],
+            "comment": "big"
+        },
+        {
+            "question": "女",
+            "answers": [
+                "nü3",
+                "ㄋㄩˇ"
+            ],
+            "comment": "woman"
+        },
+        {
+            "question": "子",
+            "answers": [
+                "zi3",
+                "ㄗˇ"
+            ],
+            "comment": "child"
+        },
+        {
+            "question": "宀",
+            "answers": [
+                "mian2",
+                "ㄇㄧㄢˊ"
+            ],
+            "comment": "roof"
+        },
+        {
+            "question": "寸",
+            "answers": [
+                "cun4",
+                "ㄘㄨㄣˋ"
+            ],
+            "comment": "inch"
+        },
+        {
+            "question": "小",
+            "answers": [
+                "xiao3",
+                "ㄒㄧㄠˇ"
+            ],
+            "comment": "small"
+        },
+        {
+            "question": "尢",
+            "answers": [
+                "wang1",
+                "ㄨㄤ"
+            ],
+            "comment": "lame"
+        },
+        {
+            "question": "尸",
+            "answers": [
+                "shi1",
+                "ㄕ"
+            ],
+            "comment": "corpse"
+        },
+        {
+            "question": "屮",
+            "answers": [
+                "che4",
+                "ㄔㄜˋ"
+            ],
+            "comment": "sprout"
+        },
+        {
+            "question": "山",
+            "answers": [
+                "shan1",
+                "ㄕㄢ"
+            ],
+            "comment": "mountain"
+        },
+        {
+            "question": "巛",
+            "answers": [
+                "chuan1",
+                "ㄔㄨㄢ"
+            ],
+            "comment": "river"
+        },
+        {
+            "question": "工",
+            "answers": [
+                "gong1",
+                "ㄍㄨㄥ"
+            ],
+            "comment": "work"
+        },
+        {
+            "question": "己",
+            "answers": [
+                "ji3",
+                "ㄐㄧˇ"
+            ],
+            "comment": "oneself"
+        },
+        {
+            "question": "巾",
+            "answers": [
+                "jin1",
+                "ㄐㄧㄣ"
+            ],
+            "comment": "turban"
+        },
+        {
+            "question": "干",
+            "answers": [
+                "gan1",
+                "ㄍㄢ"
+            ],
+            "comment": "dry"
+        },
+        {
+            "question": "幺",
+            "answers": [
+                "yao1",
+                "ㄧㄠ"
+            ],
+            "comment": "short thread"
+        },
+        {
+            "question": "广",
+            "answers": [
+                "yan3",
+                "ㄧㄢˇ"
+            ],
+            "comment": "dotted cliff"
+        },
+        {
+            "question": "廴",
+            "answers": [
+                "yin3",
+                "ㄧㄣˇ"
+            ],
+            "comment": "long stride"
+        },
+        {
+            "question": "廾",
+            "answers": [
+                "gong3",
+                "ㄍㄨㄥˇ"
+            ],
+            "comment": "arch"
+        },
+        {
+            "question": "弋",
+            "answers": [
+                "yi4",
+                "ㄧˋ"
+            ],
+            "comment": "shoot"
+        },
+        {
+            "question": "弓",
+            "answers": [
+                "gong1",
+                "ㄍㄨㄥ"
+            ],
+            "comment": "bow"
+        },
+        {
+            "question": "彐",
+            "answers": [
+                "ji4",
+                "ㄐㄧˋ"
+            ],
+            "comment": "snout"
+        },
+        {
+            "question": "彡",
+            "answers": [
+                "shan1",
+                "ㄕㄢ"
+            ],
+            "comment": "bristle"
+        },
+        {
+            "question": "彳",
+            "answers": [
+                "chi1",
+                "ㄔ"
+            ],
+            "comment": "step"
+        },
+        {
+            "question": "心",
+            "answers": [
+                "xin1",
+                "ㄒㄧㄣ"
+            ],
+            "comment": "heart"
+        },
+        {
+            "question": "戈",
+            "answers": [
+                "ge1",
+                "ㄍㄜ"
+            ],
+            "comment": "halberd"
+        },
+        {
+            "question": "戶",
+            "answers": [
+                "hu4",
+                "ㄏㄨˋ"
+            ],
+            "comment": "door"
+        },
+        {
+            "question": "手",
+            "answers": [
+                "shou3",
+                "ㄕㄡˇ"
+            ],
+            "comment": "hand"
+        },
+        {
+            "question": "支",
+            "answers": [
+                "zhi1",
+                "ㄓ"
+            ],
+            "comment": "branch"
+        },
+        {
+            "question": "攴",
+            "answers": [
+                "pu1",
+                "ㄆㄨ"
+            ],
+            "comment": "rap, tap"
+        },
+        {
+            "question": "文",
+            "answers": [
+                "wen2",
+                "ㄨㄣˊ"
+            ],
+            "comment": "script"
+        },
+        {
+            "question": "斗",
+            "answers": [
+                "dou3",
+                "ㄉㄡˇ"
+            ],
+            "comment": "dipper"
+        },
+        {
+            "question": "斤",
+            "answers": [
+                "jin1",
+                "ㄐㄧㄣ"
+            ],
+            "comment": "axe"
+        },
+        {
+            "question": "方",
+            "answers": [
+                "fang1",
+                "ㄈㄤ"
+            ],
+            "comment": "square"
+        },
+        {
+            "question": "无",
+            "answers": [
+                "wu2",
+                "ㄨˊ"
+            ],
+            "comment": "not"
+        },
+        {
+            "question": "日",
+            "answers": [
+                "ri4",
+                "ㄖˋ"
+            ],
+            "comment": "sun"
+        },
+        {
+            "question": "曰",
+            "answers": [
+                "yue1",
+                "ㄩㄝ"
+            ],
+            "comment": "say"
+        },
+        {
+            "question": "月",
+            "answers": [
+                "yue4",
+                "ㄩㄝˋ"
+            ],
+            "comment": "moon"
+        },
+        {
+            "question": "木",
+            "answers": [
+                "mu4",
+                "ㄇㄨˋ"
+            ],
+            "comment": "tree"
+        },
+        {
+            "question": "欠",
+            "answers": [
+                "qian4",
+                "ㄑㄧㄢˋ"
+            ],
+            "comment": "lack"
+        },
+        {
+            "question": "止",
+            "answers": [
+                "zhi3",
+                "ㄓˇ"
+            ],
+            "comment": "stop"
+        },
+        {
+            "question": "歹",
+            "answers": [
+                "dai3",
+                "ㄉㄞˇ"
+            ],
+            "comment": "death"
+        },
+        {
+            "question": "殳",
+            "answers": [
+                "shu1",
+                "ㄕㄨ"
+            ],
+            "comment": "weapon"
+        },
+        {
+            "question": "毋",
+            "answers": [
+                "wu2",
+                "ㄨˊ"
+            ],
+            "comment": "do not"
+        },
+        {
+            "question": "比",
+            "answers": [
+                "bi3",
+                "ㄅㄧˇ"
+            ],
+            "comment": "compare"
+        },
+        {
+            "question": "毛",
+            "answers": [
+                "mao2",
+                "ㄇㄠˊ"
+            ],
+            "comment": "fur"
+        },
+        {
+            "question": "氏",
+            "answers": [
+                "shi4",
+                "ㄕˋ"
+            ],
+            "comment": "clan"
+        },
+        {
+            "question": "气",
+            "answers": [
+                "qi4",
+                "ㄑㄧˋ"
+            ],
+            "comment": "steam"
+        },
+        {
+            "question": "水",
+            "answers": [
+                "shui3",
+                "ㄕㄨㄟˇ"
+            ],
+            "comment": "water"
+        },
+        {
+            "question": "火",
+            "answers": [
+                "huo3",
+                "ㄏㄨㄛˇ"
+            ],
+            "comment": "fire"
+        },
+        {
+            "question": "爪",
+            "answers": [
+                "zhao3",
+                "ㄓㄠˇ"
+            ],
+            "comment": "claw"
+        },
+        {
+            "question": "父",
+            "answers": [
+                "fu4",
+                "ㄈㄨˋ"
+            ],
+            "comment": "father"
+        },
+        {
+            "question": "爻",
+            "answers": [
+                "yao2",
+                "ㄧㄠˊ"
+            ],
+            "comment": "Trigrams"
+        },
+        {
+            "question": "爿",
+            "answers": [
+                "qiang2",
+                "ㄑㄧㄤˊ"
+            ],
+            "comment": "split wood"
+        },
+        {
+            "question": "片",
+            "answers": [
+                "pian4",
+                "ㄆㄧㄢˋ"
+            ],
+            "comment": "slice"
+        },
+        {
+            "question": "牙",
+            "answers": [
+                "ya2",
+                "ㄧㄚˊ"
+            ],
+            "comment": "fang"
+        },
+        {
+            "question": "牛",
+            "answers": [
+                "niu2",
+                "ㄋㄧㄡˊ"
+            ],
+            "comment": "cow"
+        },
+        {
+            "question": "犬",
+            "answers": [
+                "quan3",
+                "ㄑㄩㄢˇ"
+            ],
+            "comment": "dog"
+        },
+        {
+            "question": "玄",
+            "answers": [
+                "xuan2",
+                "ㄒㄩㄢˊ"
+            ],
+            "comment": "profound"
+        },
+        {
+            "question": "玉",
+            "answers": [
+                "yu4",
+                "ㄩˋ"
+            ],
+            "comment": "jade"
+        },
+        {
+            "question": "瓜",
+            "answers": [
+                "gua1",
+                "ㄍㄨㄚ"
+            ],
+            "comment": "melon"
+        },
+        {
+            "question": "瓦",
+            "answers": [
+                "wa3",
+                "ㄨㄚˇ"
+            ],
+            "comment": "tile"
+        },
+        {
+            "question": "甘",
+            "answers": [
+                "gan1",
+                "ㄍㄢ"
+            ],
+            "comment": "sweet"
+        },
+        {
+            "question": "生",
+            "answers": [
+                "sheng1",
+                "ㄕㄥ"
+            ],
+            "comment": "life"
+        },
+        {
+            "question": "用",
+            "answers": [
+                "yong4",
+                "ㄩㄥˋ"
+            ],
+            "comment": "use"
+        },
+        {
+            "question": "田",
+            "answers": [
+                "tian2",
+                "ㄊㄧㄢˊ"
+            ],
+            "comment": "field"
+        },
+        {
+            "question": "疋",
+            "answers": [
+                "pi3",
+                "ㄆㄧˇ"
+            ],
+            "comment": "bolt of cloth"
+        },
+        {
+            "question": "疒",
+            "answers": [
+                "chuang2",
+                "ㄔㄨㄤˊ"
+            ],
+            "comment": "sickness"
+        },
+        {
+            "question": "癶",
+            "answers": [
+                "bo1",
+                "ㄅㄛ"
+            ],
+            "comment": "footsteps"
+        },
+        {
+            "question": "白",
+            "answers": [
+                "bai2",
+                "ㄅㄞˊ"
+            ],
+            "comment": "white"
+        },
+        {
+            "question": "皮",
+            "answers": [
+                "pi2",
+                "ㄆㄧˊ"
+            ],
+            "comment": "skin"
+        },
+        {
+            "question": "皿",
+            "answers": [
+                "min3",
+                "ㄇㄧㄣˇ"
+            ],
+            "comment": "dish"
+        },
+        {
+            "question": "目",
+            "answers": [
+                "mu4",
+                "ㄇㄨˋ"
+            ],
+            "comment": "eye"
+        },
+        {
+            "question": "矛",
+            "answers": [
+                "mao2",
+                "ㄇㄠˊ"
+            ],
+            "comment": "spear"
+        },
+        {
+            "question": "矢",
+            "answers": [
+                "shi3",
+                "ㄕˇ"
+            ],
+            "comment": "arrow"
+        },
+        {
+            "question": "石",
+            "answers": [
+                "shi2",
+                "ㄕˊ"
+            ],
+            "comment": "stone"
+        },
+        {
+            "question": "示",
+            "answers": [
+                "shi4",
+                "ㄕˋ"
+            ],
+            "comment": "spirit"
+        },
+        {
+            "question": "禸",
+            "answers": [
+                "rou2",
+                "ㄖㄡˊ"
+            ],
+            "comment": "track"
+        },
+        {
+            "question": "禾",
+            "answers": [
+                "he2",
+                "ㄏㄜˊ"
+            ],
+            "comment": "grain"
+        },
+        {
+            "question": "穴",
+            "answers": [
+                "xue4",
+                "ㄒㄩㄝˋ"
+            ],
+            "comment": "cave"
+        },
+        {
+            "question": "立",
+            "answers": [
+                "li4",
+                "ㄌㄧˋ"
+            ],
+            "comment": "stand"
+        },
+        {
+            "question": "竹",
+            "answers": [
+                "zhu2",
+                "ㄓㄨˊ"
+            ],
+            "comment": "bamboo"
+        },
+        {
+            "question": "米",
+            "answers": [
+                "mi3",
+                "ㄇㄧˇ"
+            ],
+            "comment": "rice"
+        },
+        {
+            "question": "糸",
+            "answers": [
+                "mi4",
+                "ㄇㄧˋ"
+            ],
+            "comment": "silk"
+        },
+        {
+            "question": "缶",
+            "answers": [
+                "fou3",
+                "ㄈㄡˇ"
+            ],
+            "comment": "jar"
+        },
+        {
+            "question": "网",
+            "answers": [
+                "wang3",
+                "ㄨㄤˇ"
+            ],
+            "comment": "net"
+        },
+        {
+            "question": "羊",
+            "answers": [
+                "yang2",
+                "ㄧㄤˊ"
+            ],
+            "comment": "sheep"
+        },
+        {
+            "question": "羽",
+            "answers": [
+                "yu3",
+                "ㄩˇ"
+            ],
+            "comment": "feather"
+        },
+        {
+            "question": "老",
+            "answers": [
+                "lao3",
+                "ㄌㄠˇ"
+            ],
+            "comment": "old"
+        },
+        {
+            "question": "而",
+            "answers": [
+                "er2",
+                "ㄦˊ"
+            ],
+            "comment": "and"
+        },
+        {
+            "question": "耒",
+            "answers": [
+                "lei3",
+                "ㄌㄟˇ"
+            ],
+            "comment": "plow"
+        },
+        {
+            "question": "耳",
+            "answers": [
+                "er3",
+                "ㄦˇ"
+            ],
+            "comment": "ear"
+        },
+        {
+            "question": "聿",
+            "answers": [
+                "yu4",
+                "ㄩˋ"
+            ],
+            "comment": "brush"
+        },
+        {
+            "question": "肉",
+            "answers": [
+                "rou4",
+                "ㄖㄡˋ"
+            ],
+            "comment": "meat"
+        },
+        {
+            "question": "臣",
+            "answers": [
+                "chen2",
+                "ㄔㄣˊ"
+            ],
+            "comment": "minister"
+        },
+        {
+            "question": "自",
+            "answers": [
+                "zi4",
+                "ㄗˋ"
+            ],
+            "comment": "self"
+        },
+        {
+            "question": "至",
+            "answers": [
+                "zhi4",
+                "ㄓˋ"
+            ],
+            "comment": "arrive"
+        },
+        {
+            "question": "臼",
+            "answers": [
+                "jiu4",
+                "ㄐㄧㄡˋ"
+            ],
+            "comment": "mortar"
+        },
+        {
+            "question": "舌",
+            "answers": [
+                "she2",
+                "ㄕㄜˊ"
+            ],
+            "comment": "tongue"
+        },
+        {
+            "question": "舛",
+            "answers": [
+                "chuan3",
+                "ㄔㄨㄢˇ"
+            ],
+            "comment": "oppose"
+        },
+        {
+            "question": "舟",
+            "answers": [
+                "zhou1",
+                "ㄓㄡ"
+            ],
+            "comment": "boat"
+        },
+        {
+            "question": "艮",
+            "answers": [
+                "gen4",
+                "ㄍㄣˋ"
+            ],
+            "comment": "stopping"
+        },
+        {
+            "question": "色",
+            "answers": [
+                "se4",
+                "ㄙㄜˋ"
+            ],
+            "comment": "color"
+        },
+        {
+            "question": "艸",
+            "answers": [
+                "cao3",
+                "ㄘㄠˇ"
+            ],
+            "comment": "grass"
+        },
+        {
+            "question": "虍",
+            "answers": [
+                "hu1",
+                "ㄏㄨ"
+            ],
+            "comment": "tiger"
+        },
+        {
+            "question": "虫",
+            "answers": [
+                "hui3",
+                "ㄏㄨㄟˇ"
+            ],
+            "comment": "insect"
+        },
+        {
+            "question": "血",
+            "answers": [
+                "xie3",
+                "ㄒㄧㄝˇ"
+            ],
+            "comment": "blood"
+        },
+        {
+            "question": "行",
+            "answers": [
+                "xing2",
+                "ㄒㄧㄥˊ"
+            ],
+            "comment": "walk enclosure"
+        },
+        {
+            "question": "衣",
+            "answers": [
+                "yi1",
+                "ㄧ"
+            ],
+            "comment": "clothes"
+        },
+        {
+            "question": "襾",
+            "answers": [
+                "ya4",
+                "ㄧㄚˋ"
+            ],
+            "comment": "cover"
+        },
+        {
+            "question": "見",
+            "answers": [
+                "jian4",
+                "ㄐㄧㄢˋ"
+            ],
+            "comment": "see"
+        },
+        {
+            "question": "角",
+            "answers": [
+                "jiao3",
+                "ㄐㄧㄠˇ"
+            ],
+            "comment": "horn"
+        },
+        {
+            "question": "言",
+            "answers": [
+                "yan2",
+                "ㄧㄢˊ"
+            ],
+            "comment": "speech"
+        },
+        {
+            "question": "谷",
+            "answers": [
+                "gu3",
+                "ㄍㄨˇ"
+            ],
+            "comment": "valley"
+        },
+        {
+            "question": "豆",
+            "answers": [
+                "dou4",
+                "ㄉㄡˋ"
+            ],
+            "comment": "bean"
+        },
+        {
+            "question": "豕",
+            "answers": [
+                "shi3",
+                "ㄕˇ"
+            ],
+            "comment": "pig"
+        },
+        {
+            "question": "豸",
+            "answers": [
+                "zhi4",
+                "ㄓˋ"
+            ],
+            "comment": "badger"
+        },
+        {
+            "question": "貝",
+            "answers": [
+                "bei4",
+                "ㄅㄟˋ"
+            ],
+            "comment": "shell"
+        },
+        {
+            "question": "赤",
+            "answers": [
+                "chi4",
+                "ㄔˋ"
+            ],
+            "comment": "red"
+        },
+        {
+            "question": "走",
+            "answers": [
+                "zou3",
+                "ㄗㄡˇ"
+            ],
+            "comment": "run"
+        },
+        {
+            "question": "足",
+            "answers": [
+                "zu2",
+                "ㄗㄨˊ"
+            ],
+            "comment": "foot"
+        },
+        {
+            "question": "身",
+            "answers": [
+                "shen1",
+                "ㄕㄣ"
+            ],
+            "comment": "body"
+        },
+        {
+            "question": "車",
+            "answers": [
+                "che1",
+                "ㄔㄜ"
+            ],
+            "comment": "cart"
+        },
+        {
+            "question": "辛",
+            "answers": [
+                "xin1",
+                "ㄒㄧㄣ"
+            ],
+            "comment": "bitter"
+        },
+        {
+            "question": "辰",
+            "answers": [
+                "chen2",
+                "ㄔㄣˊ"
+            ],
+            "comment": "morning"
+        },
+        {
+            "question": "辵",
+            "answers": [
+                "chuo4",
+                "ㄔㄨㄛˋ"
+            ],
+            "comment": "walk"
+        },
+        {
+            "question": "邑",
+            "answers": [
+                "yi4",
+                "ㄧˋ"
+            ],
+            "comment": "city"
+        },
+        {
+            "question": "酉",
+            "answers": [
+                "you3",
+                "ㄧㄡˇ"
+            ],
+            "comment": "wine"
+        },
+        {
+            "question": "釆",
+            "answers": [
+                "bian4",
+                "ㄅㄧㄢˋ"
+            ],
+            "comment": "distinguish"
+        },
+        {
+            "question": "里",
+            "answers": [
+                "li3",
+                "ㄌㄧˇ"
+            ],
+            "comment": "village"
+        },
+        {
+            "question": "金",
+            "answers": [
+                "jin1",
+                "ㄐㄧㄣ"
+            ],
+            "comment": "gold"
+        },
+        {
+            "question": "長",
+            "answers": [
+                "chang2",
+                "ㄔㄤˊ"
+            ],
+            "comment": "long"
+        },
+        {
+            "question": "門",
+            "answers": [
+                "men2",
+                "ㄇㄣˊ"
+            ],
+            "comment": "gate"
+        },
+        {
+            "question": "阜",
+            "answers": [
+                "fu4",
+                "ㄈㄨˋ"
+            ],
+            "comment": "mound"
+        },
+        {
+            "question": "隶",
+            "answers": [
+                "dai4",
+                "ㄉㄞˋ"
+            ],
+            "comment": "slave"
+        },
+        {
+            "question": "隹",
+            "answers": [
+                "zhui1",
+                "ㄓㄨㄟ"
+            ],
+            "comment": "short-tailed bird"
+        },
+        {
+            "question": "雨",
+            "answers": [
+                "yu3",
+                "ㄩˇ"
+            ],
+            "comment": "rain"
+        },
+        {
+            "question": "青",
+            "answers": [
+                "qing1",
+                "ㄑㄧㄥ"
+            ],
+            "comment": "blue"
+        },
+        {
+            "question": "非",
+            "answers": [
+                "fei1",
+                "ㄈㄟ"
+            ],
+            "comment": "wrong"
+        },
+        {
+            "question": "面",
+            "answers": [
+                "mian4",
+                "ㄇㄧㄢˋ"
+            ],
+            "comment": "face"
+        },
+        {
+            "question": "革",
+            "answers": [
+                "ge2",
+                "ㄍㄜˊ"
+            ],
+            "comment": "leather"
+        },
+        {
+            "question": "韋",
+            "answers": [
+                "wei2",
+                "ㄨㄟˊ"
+            ],
+            "comment": "tanned leather"
+        },
+        {
+            "question": "韭",
+            "answers": [
+                "jiu3",
+                "ㄐㄧㄡˇ"
+            ],
+            "comment": "leek"
+        },
+        {
+            "question": "音",
+            "answers": [
+                "yin1",
+                "ㄧㄣ"
+            ],
+            "comment": "sound"
+        },
+        {
+            "question": "頁",
+            "answers": [
+                "ye4",
+                "ㄧㄝˋ"
+            ],
+            "comment": "leaf"
+        },
+        {
+            "question": "風",
+            "answers": [
+                "feng1",
+                "ㄈㄥ"
+            ],
+            "comment": "wind"
+        },
+        {
+            "question": "飛",
+            "answers": [
+                "fei1",
+                "ㄈㄟ"
+            ],
+            "comment": "fly"
+        },
+        {
+            "question": "食",
+            "answers": [
+                "shi2",
+                "ㄕˊ"
+            ],
+            "comment": "eat"
+        },
+        {
+            "question": "首",
+            "answers": [
+                "shou3",
+                "ㄕㄡˇ"
+            ],
+            "comment": "head"
+        },
+        {
+            "question": "香",
+            "answers": [
+                "xiang1",
+                "ㄒㄧㄤ"
+            ],
+            "comment": "fragrant"
+        },
+        {
+            "question": "馬",
+            "answers": [
+                "ma3",
+                "ㄇㄚˇ"
+            ],
+            "comment": "horse"
+        },
+        {
+            "question": "骨",
+            "answers": [
+                "gu3",
+                "ㄍㄨˇ"
+            ],
+            "comment": "bone"
+        },
+        {
+            "question": "高",
+            "answers": [
+                "gao1",
+                "ㄍㄠ"
+            ],
+            "comment": "tall"
+        },
+        {
+            "question": "髟",
+            "answers": [
+                "biao1",
+                "ㄅㄧㄠ"
+            ],
+            "comment": "hair"
+        },
+        {
+            "question": "鬥",
+            "answers": [
+                "dou4",
+                "ㄉㄡˋ"
+            ],
+            "comment": "fight"
+        },
+        {
+            "question": "鬯",
+            "answers": [
+                "chang4",
+                "ㄔㄤˋ"
+            ],
+            "comment": "sacrificial wine"
+        },
+        {
+            "question": "鬲",
+            "answers": [
+                "li4",
+                "ㄌㄧˋ"
+            ],
+            "comment": "cauldron"
+        },
+        {
+            "question": "鬼",
+            "answers": [
+                "gui3",
+                "ㄍㄨㄟˇ"
+            ],
+            "comment": "ghost"
+        },
+        {
+            "question": "魚",
+            "answers": [
+                "yu2",
+                "ㄩˊ"
+            ],
+            "comment": "fish"
+        },
+        {
+            "question": "鳥",
+            "answers": [
+                "niao3",
+                "ㄋㄧㄠˇ"
+            ],
+            "comment": "bird"
+        },
+        {
+            "question": "鹵",
+            "answers": [
+                "lu3",
+                "ㄌㄨˇ"
+            ],
+            "comment": "salt"
+        },
+        {
+            "question": "鹿",
+            "answers": [
+                "lu4",
+                "ㄌㄨˋ"
+            ],
+            "comment": "deer"
+        },
+        {
+            "question": "麥",
+            "answers": [
+                "mai4",
+                "ㄇㄞˋ"
+            ],
+            "comment": "wheat"
+        },
+        {
+            "question": "麻",
+            "answers": [
+                "ma2",
+                "ㄇㄚˊ"
+            ],
+            "comment": "hemp"
+        },
+        {
+            "question": "黃",
+            "answers": [
+                "huang2",
+                "ㄏㄨㄤˊ"
+            ],
+            "comment": "yellow"
+        },
+        {
+            "question": "黍",
+            "answers": [
+                "shu3",
+                "ㄕㄨˇ"
+            ],
+            "comment": "millet"
+        },
+        {
+            "question": "黑",
+            "answers": [
+                "hei1",
+                "ㄏㄟ"
+            ],
+            "comment": "black"
+        },
+        {
+            "question": "黹",
+            "answers": [
+                "zhi3",
+                "ㄓˇ"
+            ],
+            "comment": "embroidery"
+        },
+        {
+            "question": "黽",
+            "answers": [
+                "min3",
+                "ㄇㄧㄣˇ"
+            ],
+            "comment": "frog"
+        },
+        {
+            "question": "鼎",
+            "answers": [
+                "ding3",
+                "ㄉㄧㄥˇ"
+            ],
+            "comment": "tripod"
+        },
+        {
+            "question": "鼓",
+            "answers": [
+                "gu3",
+                "ㄍㄨˇ"
+            ],
+            "comment": "drum"
+        },
+        {
+            "question": "鼠",
+            "answers": [
+                "shu3",
+                "ㄕㄨˇ"
+            ],
+            "comment": "rat"
+        },
+        {
+            "question": "鼻",
+            "answers": [
+                "bi2",
+                "ㄅㄧˊ"
+            ],
+            "comment": "nose"
+        },
+        {
+            "question": "齊",
+            "answers": [
+                "qi2",
+                "ㄑㄧˊ"
+            ],
+            "comment": "even"
+        },
+        {
+            "question": "齒",
+            "answers": [
+                "chi3",
+                "ㄔˇ"
+            ],
+            "comment": "tooth"
+        },
+        {
+            "question": "龍",
+            "answers": [
+                "long2",
+                "ㄌㄨㄥˊ"
+            ],
+            "comment": "dragon"
+        },
+        {
+            "question": "龜",
+            "answers": [
+                "gui1",
+                "ㄍㄨㄟ"
+            ],
+            "comment": "turtle"
+        },
+        {
+            "question": "龠",
+            "answers": [
+                "yue4",
+                "ㄩㄝˋ"
+            ],
+            "comment": "flute"
+        }
+    ]
+}

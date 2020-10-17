@@ -1,0 +1,1461 @@
+{
+    "description": "Vocabulary from the 入門級 level from the document《華語八千詞》published by the Steering Committee for the Test Of Proficiency-Huayu (SC-TOP).",
+    "deck": [
+        {
+            "question": "姓名",
+            "answers": [
+                "ㄒㄧㄥˋ ㄇㄧㄥˊ",
+                "xing4 ming2"
+            ],
+            "comment": "[N] name and surname; CL:個[ge4]"
+        },
+        {
+            "question": "公園",
+            "answers": [
+                "ㄍㄨㄥ ㄩㄢˊ",
+                "gong1 yuan2"
+            ],
+            "comment": "[N] park (for public recreation); CL:個[ge4],座[zuo4]"
+        },
+        {
+            "question": "國家",
+            "answers": [
+                "ㄍㄨㄛˊ ㄐㄧㄚ",
+                "guo2 jia1"
+            ],
+            "comment": "[N] country; nation; state; CL:個[ge4]"
+        },
+        {
+            "question": "城市",
+            "answers": [
+                "ㄔㄥˊ ㄕˋ",
+                "cheng2 shi4"
+            ],
+            "comment": "[N] city; town; CL:座[zuo4]"
+        },
+        {
+            "question": "街",
+            "answers": [
+                "ㄐㄧㄝ",
+                "jie1"
+            ],
+            "comment": "[N] street; CL:條[tiao2]"
+        },
+        {
+            "question": "電子郵件",
+            "answers": [
+                "ㄉㄧㄢˋ ㄗˇ ㄧㄡˊ ㄐㄧㄢˋ",
+                "dian4 zi3 you2 jian4"
+            ],
+            "comment": "[N] email; CL:封[feng1],份[fen4]"
+        },
+        {
+            "question": "結婚",
+            "answers": [
+                "ㄐㄧㄝˊ ㄏㄨㄣ",
+                "jie2 hun1"
+            ],
+            "comment": "[Vp-sep] to marry; to get married; CL:次[ci4]"
+        },
+        {
+            "question": "小時",
+            "answers": [
+                "ㄒㄧㄠˇ ㄕˊ",
+                "xiao3 shi2"
+            ],
+            "comment": "[N] hour; CL:個[ge4]"
+        },
+        {
+            "question": "點鐘",
+            "answers": [
+                "ㄉㄧㄢˇ ㄓㄨㄥ",
+                "dian3 zhong1"
+            ],
+            "comment": "[M] (indicating time of day) o'clock"
+        },
+        {
+            "question": "分鐘",
+            "answers": [
+                "ㄈㄣ ㄓㄨㄥ",
+                "fen1 zhong1"
+            ],
+            "comment": "[M] minute"
+        },
+        {
+            "question": "夏天",
+            "answers": [
+                "ㄒㄧㄚˋ ㄊㄧㄢ",
+                "xia4 tian1"
+            ],
+            "comment": "[N] summer; CL:個[ge4]"
+        },
+        {
+            "question": "冬天",
+            "answers": [
+                "ㄉㄨㄥ ㄊㄧㄢ",
+                "dong1 tian1"
+            ],
+            "comment": "[N] winter; CL:個[ge4]"
+        },
+        {
+            "question": "秋天",
+            "answers": [
+                "ㄑㄧㄡ ㄊㄧㄢ",
+                "qiu1 tian1"
+            ],
+            "comment": "[N] autumn; CL:個[ge4]"
+        },
+        {
+            "question": "春天",
+            "answers": [
+                "ㄔㄨㄣ ㄊㄧㄢ",
+                "chun1 tian1"
+            ],
+            "comment": "[N] spring (season); CL:個[ge4]"
+        },
+        {
+            "question": "年輕",
+            "answers": [
+                "ㄋㄧㄢˊ ㄑㄧㄥ",
+                "nian2 qing1"
+            ],
+            "comment": "[Vs] young"
+        },
+        {
+            "question": "老",
+            "answers": [
+                "ㄌㄠˇ",
+                "lao3"
+            ],
+            "comment": "[Vs] prefix used before the surname of a person or a numeral indicating the order of birth of the children in a family or to indicate affection or familiarity; old (of people); venerable (person); experienced; of long standing; always; all the time; of the past; very; outdated; (of meat etc) tough"
+        },
+        {
+            "question": "男生",
+            "answers": [
+                "ㄋㄢˊ ㄕㄥ",
+                "nan2 sheng1"
+            ],
+            "comment": "[N] schoolboy; male student; boy; guy (young adult male)"
+        },
+        {
+            "question": "女生",
+            "answers": [
+                "ㄋㄩˇ ㄕㄥ",
+                "nü3 sheng1"
+            ],
+            "comment": "[N] schoolgirl; female student; girl"
+        },
+        {
+            "question": "小孩",
+            "answers": [
+                "ㄒㄧㄠˇ ㄏㄞˊ",
+                "xiao3 hai2"
+            ],
+            "comment": "[N] child; CL:個[ge4]"
+        },
+        {
+            "question": "家人",
+            "answers": [
+                "ㄐㄧㄚ ㄖㄣˊ",
+                "jia1 ren2"
+            ],
+            "comment": "[N] household; (one's) family"
+        },
+        {
+            "question": "緊張",
+            "answers": [
+                "ㄐㄧㄣˇ ㄓㄤ",
+                "jin3 zhang1"
+            ],
+            "comment": "[Vs] nervous; keyed up; intense; tense; strained; in short supply; scarce; CL:陣[zhen4]"
+        },
+        {
+            "question": "可愛",
+            "answers": [
+                "ㄎㄜˇ ㄞˋ",
+                "ke3 ai4"
+            ],
+            "comment": "[Vs] adorable; cute; lovely"
+        },
+        {
+            "question": "胖",
+            "answers": [
+                "ㄆㄤˋ",
+                "ㄆㄢˊ",
+                "pang4",
+                "pan2"
+            ],
+            "comment": "[Vs] healthy; at ease; fat; plump"
+        },
+        {
+            "question": "矮",
+            "answers": [
+                "ㄞˇ",
+                "ai3"
+            ],
+            "comment": "[Vs] low; short (in length)"
+        },
+        {
+            "question": "瘦",
+            "answers": [
+                "ㄕㄡˋ",
+                "shou4"
+            ],
+            "comment": "[Vs] thin; to lose weight; (of clothing) tight; (of meat) lean; (of land) unproductive"
+        },
+        {
+            "question": "千",
+            "answers": [
+                "ㄑㄧㄢ",
+                "qian1"
+            ],
+            "comment": "[N] thousand; see 鞦韆[qiu1 qian1]"
+        },
+        {
+            "question": "萬",
+            "answers": [
+                "ㄨㄢˋ",
+                "wan4"
+            ],
+            "comment": "[N] see 万俟[Mo4 qi2]; surname Wan; ten thousand; a great number"
+        },
+        {
+            "question": "在",
+            "answers": [
+                "ㄗㄞˋ",
+                "zai4"
+            ],
+            "comment": "[Adv] (located) at; (to be) in; to exist; in the middle of doing sth; (indicating an action in progress)"
+        },
+        {
+            "question": "辦公室",
+            "answers": [
+                "ㄅㄢˋ ㄍㄨㄥ ㄕˋ",
+                "ban4 gong1 shi4"
+            ],
+            "comment": "[N] office; business premises; bureau; CL:間[jian1]"
+        },
+        {
+            "question": "工廠",
+            "answers": [
+                "ㄍㄨㄥ ㄔㄤˇ",
+                "gong1 chang3"
+            ],
+            "comment": "[N] factory; CL:家[jia1],座[zuo4]"
+        },
+        {
+            "question": "工人",
+            "answers": [
+                "ㄍㄨㄥ ㄖㄣˊ",
+                "gong1 ren2"
+            ],
+            "comment": "[N] worker; CL:個[ge4],名[ming2]"
+        },
+        {
+            "question": "護士",
+            "answers": [
+                "ㄏㄨˋ ㄕˋ",
+                "hu4 shi4"
+            ],
+            "comment": "[N] nurse; CL:個[ge4]"
+        },
+        {
+            "question": "司機",
+            "answers": [
+                "ㄙ ㄐㄧ",
+                "si1 ji1"
+            ],
+            "comment": "[N] chauffeur; driver; CL:個[ge4]"
+        },
+        {
+            "question": "老闆",
+            "answers": [
+                "ㄌㄠˇ ㄅㄢˇ",
+                "lao3 ban3"
+            ],
+            "comment": "[N] variant of 老闆[lao3 ban3]; Robam (brand); boss; business proprietor; CL:個[ge4]"
+        },
+        {
+            "question": "同事",
+            "answers": [
+                "ㄊㄨㄥˊ ㄕˋ",
+                "tong2 shi4"
+            ],
+            "comment": "[N] colleague; co-worker; CL:個[ge4],位[wei4]"
+        },
+        {
+            "question": "上班",
+            "answers": [
+                "ㄕㄤˋ ㄅㄢ",
+                "shang4 ban1"
+            ],
+            "comment": "[V-sep] to go to work; to be on duty; to start work; to go to the office"
+        },
+        {
+            "question": "小學",
+            "answers": [
+                "ㄒㄧㄠˇ ㄒㄩㄝˊ",
+                "xiao3 xue2"
+            ],
+            "comment": "[N] elementary school; primary school; CL:個[ge4]"
+        },
+        {
+            "question": "上學",
+            "answers": [
+                "ㄕㄤˋ ㄒㄩㄝˊ",
+                "shang4 xue2"
+            ],
+            "comment": "[V-sep] to go to school; to attend school"
+        },
+        {
+            "question": "作業",
+            "answers": [
+                "ㄗㄨㄛˋ ㄧㄝˋ",
+                "zuo4 ye4"
+            ],
+            "comment": "[N] school assignment; homework; work; task; operation; CL:個[ge4]; to operate"
+        },
+        {
+            "question": "功課",
+            "answers": [
+                "ㄍㄨㄥ ㄎㄜˋ",
+                "gong1 ke4"
+            ],
+            "comment": "[N] homework; assignment; task; classwork; lesson; study; CL:門[men2]"
+        },
+        {
+            "question": "請假",
+            "answers": [
+                "ㄑㄧㄥˇ ㄐㄧㄚˋ",
+                "qing3 jia4"
+            ],
+            "comment": "[V-sep] to request leave of absence"
+        },
+        {
+            "question": "教室",
+            "answers": [
+                "ㄐㄧㄠˋ ㄕˋ",
+                "jiao4 shi4"
+            ],
+            "comment": "[N] classroom; CL:間[jian1]"
+        },
+        {
+            "question": "洗手間",
+            "answers": [
+                "ㄒㄧˇ ㄕㄡˇ ㄐㄧㄢ",
+                "xi3 shou3 jian1"
+            ],
+            "comment": "[N] toilet; lavatory; washroom"
+        },
+        {
+            "question": "語言",
+            "answers": [
+                "ㄩˇ ㄧㄢˊ",
+                "yu3 yan2"
+            ],
+            "comment": "[N] language; CL:門[men2],種[zhong3]"
+        },
+        {
+            "question": "科學",
+            "answers": [
+                "ㄎㄜ ㄒㄩㄝˊ",
+                "ke1 xue2"
+            ],
+            "comment": "[N] science; scientific knowledge; scientific; rational; CL:門[men2],個[ge4],種[zhong3]"
+        },
+        {
+            "question": "華語",
+            "answers": [
+                "ㄏㄨㄚˊ ㄩˇ",
+                "hua2 yu3"
+            ],
+            "comment": "[N] Chinese language"
+        },
+        {
+            "question": "黑板",
+            "answers": [
+                "ㄏㄟ ㄅㄢˇ",
+                "hei1 ban3"
+            ],
+            "comment": "[N] blackboard; CL:塊[kuai4],個[ge4]"
+        },
+        {
+            "question": "課本",
+            "answers": [
+                "ㄎㄜˋ ㄅㄣˇ",
+                "ke4 ben3"
+            ],
+            "comment": "[N] textbook; CL:本[ben3]"
+        },
+        {
+            "question": "句子",
+            "answers": [
+                "ㄐㄩˋ ㄗ˙",
+                "ju4 zi5"
+            ],
+            "comment": "[N] sentence; CL:個[ge4]"
+        },
+        {
+            "question": "注意",
+            "answers": [
+                "ㄓㄨˋ ㄧˋ",
+                "zhu4 yi4"
+            ],
+            "comment": "[Vst] to take note of; to pay attention to"
+        },
+        {
+            "question": "讀書",
+            "answers": [
+                "ㄉㄨˊ ㄕㄨ",
+                "du2 shu1"
+            ],
+            "comment": "[V-sep] to read a book; to study; to attend school"
+        },
+        {
+            "question": "回答",
+            "answers": [
+                "ㄏㄨㄟˊ ㄉㄚˊ",
+                "hui2 da2"
+            ],
+            "comment": "[V] to reply; to answer; the answer; CL:個[ge4]"
+        },
+        {
+            "question": "休息",
+            "answers": [
+                "ㄒㄧㄡ ㄒㄧˊ",
+                "xiu1 xi2"
+            ],
+            "comment": "[Vi] rest; to rest"
+        },
+        {
+            "question": "決定",
+            "answers": [
+                "ㄐㄩㄝˊ ㄉㄧㄥˋ",
+                "jue2 ding4"
+            ],
+            "comment": "[N] to decide (to do something); to resolve; decision; CL:個[ge4],項[xiang4]; certainly"
+        },
+        {
+            "question": "圖片",
+            "answers": [
+                "ㄊㄨˊ ㄆㄧㄢˋ",
+                "tu2 pian4"
+            ],
+            "comment": "[N] image; picture; photograph; CL:張[zhang1]"
+        },
+        {
+            "question": "畫",
+            "answers": [
+                "ㄏㄨㄚˋ",
+                "hua4"
+            ],
+            "comment": "[N] to draw; picture; painting; CL:幅[fu2],張[zhang1]; classifier for paintings etc; variant of 劃[hua4]"
+        },
+        {
+            "question": "記得",
+            "answers": [
+                "ㄐㄧˋ ㄉㄜ˙",
+                "ji4 de5"
+            ],
+            "comment": "[Vst] to remember"
+        },
+        {
+            "question": "房間",
+            "answers": [
+                "ㄈㄤˊ ㄐㄧㄢ",
+                "fang2 jian1"
+            ],
+            "comment": "[N] room; CL:間[jian1],個[ge4]"
+        },
+        {
+            "question": "廚房",
+            "answers": [
+                "ㄔㄨˊ ㄈㄤˊ",
+                "chu2 fang2"
+            ],
+            "comment": "[N] kitchen; CL:間[jian1]"
+        },
+        {
+            "question": "窗戶",
+            "answers": [
+                "ㄔㄨㄤ ㄏㄨ˙",
+                "chuang1 hu5"
+            ],
+            "comment": "[N] window; CL:個[ge4],扇[shan4]"
+        },
+        {
+            "question": "樓",
+            "answers": [
+                "ㄌㄡˊ",
+                "lou2"
+            ],
+            "comment": "[M] surname Lou; house with more than 1 story; storied building; floor; CL:層[ceng2],座[zuo4],棟[dong4]"
+        },
+        {
+            "question": "樓上",
+            "answers": [
+                "ㄌㄡˊ ㄕㄤˋ",
+                "lou2 shang4"
+            ],
+            "comment": "[N] upstairs"
+        },
+        {
+            "question": "樓下",
+            "answers": [
+                "ㄌㄡˊ ㄒㄧㄚˋ",
+                "lou2 xia4"
+            ],
+            "comment": "[N] downstairs"
+        },
+        {
+            "question": "電梯",
+            "answers": [
+                "ㄉㄧㄢˋ ㄊㄧ",
+                "dian4 ti1"
+            ],
+            "comment": "[N] elevator; escalator; CL:臺[tai2],部[bu4]"
+        },
+        {
+            "question": "家具",
+            "answers": [
+                "ㄐㄧㄚ ㄐㄩˋ",
+                "jia1 ju4"
+            ],
+            "comment": "[N] furniture; CL:件[jian4],套[tao4]"
+        },
+        {
+            "question": "椅子",
+            "answers": [
+                "ㄧˇ ㄗ˙",
+                "yi3 zi5"
+            ],
+            "comment": "[N] chair; CL:把[ba3],套[tao4]"
+        },
+        {
+            "question": "桌",
+            "answers": [
+                "ㄓㄨㄛ",
+                "zhuo1"
+            ],
+            "comment": "[N] table; desk; classifier for tables of guests at a banquet etc; old variant of 桌[zhuo1]"
+        },
+        {
+            "question": "沙發",
+            "answers": [
+                "ㄕㄚ ㄈㄚ",
+                "sha1 fa1"
+            ],
+            "comment": "[N] sofa (loanword); CL:條[tiao2],張[zhang1]; (Internet slang) the first reply or replier to a forum post"
+        },
+        {
+            "question": "床",
+            "answers": [
+                "ㄔㄨㄤˊ",
+                "chuang2"
+            ],
+            "comment": "[N] bed; couch; classifier for beds; CL:張[zhang1]; variant of 床[chuang2]"
+        },
+        {
+            "question": "關",
+            "answers": [
+                "ㄍㄨㄢ",
+                "guan1"
+            ],
+            "comment": "[V] surname Guan; mountain pass; to close; to shut; to turn off; to concern; to involve"
+        },
+        {
+            "question": "冷氣",
+            "answers": [
+                "ㄌㄥˇ ㄑㄧˋ",
+                "leng3 qi4"
+            ],
+            "comment": "[N] air conditioning (Tw)"
+        },
+        {
+            "question": "安靜",
+            "answers": [
+                "ㄢ ㄐㄧㄥˋ",
+                "an1 jing4"
+            ],
+            "comment": "[Vs] quiet; peaceful; calm"
+        },
+        {
+            "question": "不錯",
+            "answers": [
+                "ㄅㄨˊ ㄘㄨㄛˋ",
+                "bu2 cuo4"
+            ],
+            "comment": "[Vs] correct; right; not bad; pretty good"
+        },
+        {
+            "question": "海邊",
+            "answers": [
+                "ㄏㄞˇ ㄅㄧㄢ",
+                "hai3 bian1"
+            ],
+            "comment": "[N] coast; seaside; seashore; beach"
+        },
+        {
+            "question": "湖",
+            "answers": [
+                "ㄏㄨˊ",
+                "hu2"
+            ],
+            "comment": "[N] lake; CL:個[ge4],片[pian4]"
+        },
+        {
+            "question": "馬",
+            "answers": [
+                "ㄇㄚˇ",
+                "ma3"
+            ],
+            "comment": "[N] surname Ma; abbr. for Malaysia 馬來西亞[Ma3 lai2 xi1 ya4]; horse; CL:匹[pi3]; horse or cavalry piece in Chinese chess; knight in Western chess"
+        },
+        {
+            "question": "鳥",
+            "answers": [
+                "ㄋㄧㄠˇ",
+                "ㄉㄧㄠˇ",
+                "niao3",
+                "diao3"
+            ],
+            "comment": "[N] variant of 屌[diao3]; penis; bird; CL:隻[zhi1],群[qun2]; (dialect) to pay attention to; (intensifier) damned; goddam"
+        },
+        {
+            "question": "貓",
+            "answers": [
+                "ㄇㄠ",
+                "mao1"
+            ],
+            "comment": "[N] cat; CL:隻[zhi1]; (dialect) to hide oneself; (coll.) modem"
+        },
+        {
+            "question": "雞",
+            "answers": [
+                "ㄐㄧ",
+                "ji1"
+            ],
+            "comment": "[N] fowl; chicken; CL:隻[zhi1]; (slang) prostitute"
+        },
+        {
+            "question": "太陽",
+            "answers": [
+                "ㄊㄞˋ ㄧㄤˊ",
+                "tai4 yang2"
+            ],
+            "comment": "[N] sun; CL:個[ge4]; abbr. for 太陽穴[tai4 yang2 xue2]"
+        },
+        {
+            "question": "下雨",
+            "answers": [
+                "ㄒㄧㄚˋ ㄩˇ",
+                "xia4 yu3"
+            ],
+            "comment": "[V-sep] to rain"
+        },
+        {
+            "question": "下雪",
+            "answers": [
+                "ㄒㄧㄚˋ ㄒㄩㄝˇ",
+                "xia4 xue3"
+            ],
+            "comment": "[V-sep] to snow"
+        },
+        {
+            "question": "新年",
+            "answers": [
+                "ㄒㄧㄣ ㄋㄧㄢˊ",
+                "xin1 nian2"
+            ],
+            "comment": "[N] New Year; CL:個[ge4]"
+        },
+        {
+            "question": "游泳",
+            "answers": [
+                "ㄧㄡˊ ㄩㄥˇ",
+                "you2 yong3"
+            ],
+            "comment": "[V-sep] swimming; to swim"
+        },
+        {
+            "question": "踢",
+            "answers": [
+                "ㄊㄧ",
+                "ti1"
+            ],
+            "comment": "[V] to kick; to play (e.g. soccer); (slang) butch (in a lesbian relationship)"
+        },
+        {
+            "question": "足球",
+            "answers": [
+                "ㄗㄨˊ ㄑㄧㄡˊ",
+                "zu2 qiu2"
+            ],
+            "comment": "[N] soccer ball; a football; CL:個[ge4]; soccer; football"
+        },
+        {
+            "question": "籃球",
+            "answers": [
+                "ㄌㄢˊ ㄑㄧㄡˊ",
+                "lan2 qiu2"
+            ],
+            "comment": "[N] basketball; CL:個[ge4],隻[zhi1]"
+        },
+        {
+            "question": "網球",
+            "answers": [
+                "ㄨㄤˇ ㄑㄧㄡˊ",
+                "wang3 qiu2"
+            ],
+            "comment": "[N] tennis; tennis ball; CL:個[ge4]"
+        },
+        {
+            "question": "棒球",
+            "answers": [
+                "ㄅㄤˋ ㄑㄧㄡˊ",
+                "bang4 qiu2"
+            ],
+            "comment": "[N] baseball; CL:個[ge4],隻[zhi1]"
+        },
+        {
+            "question": "比賽",
+            "answers": [
+                "ㄅㄧˇ ㄙㄞˋ",
+                "bi3 sai4"
+            ],
+            "comment": "[Vi] competition (sports etc); match; CL:場[chang3],次[ci4]; to compete"
+        },
+        {
+            "question": "比賽",
+            "answers": [
+                "ㄅㄧˇ ㄙㄞˋ",
+                "bi3 sai4"
+            ],
+            "comment": "[N] competition (sports etc); match; CL:場[chang3],次[ci4]; to compete"
+        },
+        {
+            "question": "騎",
+            "answers": [
+                "ㄑㄧˊ",
+                "ㄐㄧˋ",
+                "qi2",
+                "ji4"
+            ],
+            "comment": "[V] (Taiwan) saddle horse; mounted soldier; to ride (an animal or bike); to sit astride; classifier for saddle-horses"
+        },
+        {
+            "question": "腳踏車",
+            "answers": [
+                "ㄐㄧㄠˇ ㄊㄚˋ ㄔㄜ",
+                "jiao3 ta4 che1"
+            ],
+            "comment": "[N] bicycle; bike (Tw); CL:輛[liang4]"
+        },
+        {
+            "question": "跑步",
+            "answers": [
+                "ㄆㄠˇ ㄅㄨˋ",
+                "pao3 bu4"
+            ],
+            "comment": "[Vi] to run; to jog; (military) to march at the double"
+        },
+        {
+            "question": "電影院",
+            "answers": [
+                "ㄉㄧㄢˋ ㄧㄥˇ ㄩㄢˋ",
+                "dian4 ying3 yuan4"
+            ],
+            "comment": "[N] cinema; movie theater; CL:家[jia1],座[zuo4]"
+        },
+        {
+            "question": "表演",
+            "answers": [
+                "ㄅㄧㄠˇ ㄧㄢˇ",
+                "biao3 yan3"
+            ],
+            "comment": "[N] play; show; performance; exhibition; to perform; to act; to demonstrate; CL:場[chang3]"
+        },
+        {
+            "question": "上網",
+            "answers": [
+                "ㄕㄤˋ ㄨㄤˇ",
+                "shang4 wang3"
+            ],
+            "comment": "[V-sep] to go online; to connect to the Internet; (of a document etc) to be uploaded to the Internet; (tennis, volleyball etc) to move in close to the net"
+        },
+        {
+            "question": "輸",
+            "answers": [
+                "ㄕㄨ",
+                "shu1"
+            ],
+            "comment": "[Vp] to lose; to transport; to donate; to enter (a password)"
+        },
+        {
+            "question": "贏",
+            "answers": [
+                "ㄧㄥˊ",
+                "ying2"
+            ],
+            "comment": "[Vp] to beat; to win; to profit"
+        },
+        {
+            "question": "有時候",
+            "answers": [
+                "ㄧㄡˇ ㄕˊ ㄏㄡˋ",
+                "you3 shi2 hou4"
+            ],
+            "comment": "[Adv] sometimes"
+        },
+        {
+            "question": "久",
+            "answers": [
+                "ㄐㄧㄡˇ",
+                "jiu3"
+            ],
+            "comment": "[Vs-pred] (long) time; (long) duration of time"
+        },
+        {
+            "question": "報紙",
+            "answers": [
+                "ㄅㄠˋ ㄓˇ",
+                "bao4 zhi3"
+            ],
+            "comment": "[N] newspaper; newsprint; CL:份[fen4],期[qi1],張[zhang1]"
+        },
+        {
+            "question": "不客氣",
+            "answers": [
+                "ㄅㄨˊ ㄎㄜˋ ㄑㄧˋ",
+                "bu2 ke4 qi4"
+            ],
+            "comment": "you're welcome; don't mention it; impolite; rude; blunt"
+        },
+        {
+            "question": "禮物",
+            "answers": [
+                "ㄌㄧˇ ㄨˋ",
+                "li3 wu4"
+            ],
+            "comment": "[N] gift; present; CL:件[jian4],個[ge4],份[fen4]"
+        },
+        {
+            "question": "歡迎",
+            "answers": [
+                "ㄏㄨㄢ ㄧㄥˊ",
+                "huan1 ying2"
+            ],
+            "comment": "[Vst] to welcome; welcome"
+        },
+        {
+            "question": "晚會",
+            "answers": [
+                "ㄨㄢˇ ㄏㄨㄟˋ",
+                "wan3 hui4"
+            ],
+            "comment": "[N] evening party; CL:個[ge4]"
+        },
+        {
+            "question": "信封",
+            "answers": [
+                "ㄒㄧㄣˋ ㄈㄥ",
+                "xin4 feng1"
+            ],
+            "comment": "[N] envelope; CL:個[ge4]"
+        },
+        {
+            "question": "寄",
+            "answers": [
+                "ㄐㄧˋ",
+                "ji4"
+            ],
+            "comment": "[V] to send; to mail; to entrust; to depend on; to attach oneself to; to live (in a house); to lodge; foster (son etc)"
+        },
+        {
+            "question": "接",
+            "answers": [
+                "ㄐㄧㄝ",
+                "jie1"
+            ],
+            "comment": "[V] to receive; to answer (the phone); to meet or welcome sb; to connect; to catch; to join; to extend; to take one's turn on duty; to take over for sb"
+        },
+        {
+            "question": "郵局",
+            "answers": [
+                "ㄧㄡˊ ㄐㄩˊ",
+                "you2 ju2"
+            ],
+            "comment": "[N] post office; CL:家[jia1],個[ge4]"
+        },
+        {
+            "question": "銀行",
+            "answers": [
+                "ㄧㄣˊ ㄏㄤˊ",
+                "yin2 hang2"
+            ],
+            "comment": "[N] bank; CL:家[jia1],個[ge4]"
+        },
+        {
+            "question": "警察",
+            "answers": [
+                "ㄐㄧㄥˇ ㄔㄚˊ",
+                "jing3 cha2"
+            ],
+            "comment": "[N] police; police officer; CL:個[ge4]"
+        },
+        {
+            "question": "壞",
+            "answers": [
+                "ㄏㄨㄞˋ",
+                "huai4"
+            ],
+            "comment": "[Vp] bad; spoiled; broken; to break down; (suffix) to the utmost"
+        },
+        {
+            "question": "幫忙",
+            "answers": [
+                "ㄅㄤ ㄇㄤˊ",
+                "bang1 mang2"
+            ],
+            "comment": "[V-sep] to help; to lend a hand; to do a favor; to do a good turn"
+        },
+        {
+            "question": "計程車",
+            "answers": [
+                "ㄐㄧˋ ㄔㄥˊ ㄔㄜ",
+                "ji4 cheng2 che1"
+            ],
+            "comment": "[N] taxi; cab (Tw)"
+        },
+        {
+            "question": "車站",
+            "answers": [
+                "ㄔㄜ ㄓㄢˋ",
+                "che1 zhan4"
+            ],
+            "comment": "[N] rail station; bus stop; CL:處[chu4],個[ge4]"
+        },
+        {
+            "question": "火車",
+            "answers": [
+                "ㄏㄨㄛˇ ㄔㄜ",
+                "huo3 che1"
+            ],
+            "comment": "[N] train; CL:列[lie4],節[jie2],班[ban1],趟[tang4]"
+        },
+        {
+            "question": "飛機",
+            "answers": [
+                "ㄈㄟ ㄐㄧ",
+                "fei1 ji1"
+            ],
+            "comment": "[N] airplane; CL:架[jia4]"
+        },
+        {
+            "question": "飛機場",
+            "answers": [
+                "ㄈㄟ ㄐㄧ ㄔㄤˇ",
+                "fei1 ji1 chang3"
+            ],
+            "comment": "[N] airport; (slang) flat chest; CL:處[chu4]"
+        },
+        {
+            "question": "馬路",
+            "answers": [
+                "ㄇㄚˇ ㄌㄨˋ",
+                "ma3 lu4"
+            ],
+            "comment": "[N] street; road; CL:條[tiao2]"
+        },
+        {
+            "question": "十字路口",
+            "answers": [
+                "ㄕˊ ㄗˋ ㄌㄨˋ ㄎㄡˇ",
+                "shi2 zi4 lu4 kou3"
+            ],
+            "comment": "[N] crossroads; intersection"
+        },
+        {
+            "question": "對面",
+            "answers": [
+                "ㄉㄨㄟˋ ㄇㄧㄢˋ",
+                "dui4 mian4"
+            ],
+            "comment": "[N] (sitting) opposite; across (the street); directly in front; to be face to face"
+        },
+        {
+            "question": "裡面",
+            "answers": [
+                "ㄌㄧˇ ㄇㄧㄢˋ",
+                "li3 mian4"
+            ],
+            "comment": "[N] inside; interior; also pr. [li3 mian5]"
+        },
+        {
+            "question": "旅行",
+            "answers": [
+                "ㄌㄩˇ ㄒㄧㄥˊ",
+                "lü3 xing2"
+            ],
+            "comment": "[Vi] to travel; journey; trip; CL:趟[tang4],次[ci4],個[ge4]"
+        },
+        {
+            "question": "飯店",
+            "answers": [
+                "ㄈㄢˋ ㄉㄧㄢˋ",
+                "fan4 dian4"
+            ],
+            "comment": "[N] restaurant; hotel; CL:家[jia1],個[ge4]"
+        },
+        {
+            "question": "旅館",
+            "answers": [
+                "ㄌㄩˇ ㄍㄨㄢˇ",
+                "lü3 guan3"
+            ],
+            "comment": "[N] hotel; CL:家[jia1]"
+        },
+        {
+            "question": "參觀",
+            "answers": [
+                "ㄘㄢ ㄍㄨㄢ",
+                "can1 guan1"
+            ],
+            "comment": "[V] to look around; to tour; to visit"
+        },
+        {
+            "question": "地圖",
+            "answers": [
+                "ㄉㄧˋ ㄊㄨˊ",
+                "di4 tu2"
+            ],
+            "comment": "[N] map; CL:張[zhang1],本[ben3]"
+        },
+        {
+            "question": "照相機",
+            "answers": [
+                "ㄓㄠˋ ㄒㄧㄤˋ ㄐㄧ",
+                "zhao4 xiang4 ji1"
+            ],
+            "comment": "[N] camera; CL:個[ge4],架[jia4],部[bu4],台[tai2],隻[zhi1]"
+        },
+        {
+            "question": "照相",
+            "answers": [
+                "ㄓㄠˋ ㄒㄧㄤˋ",
+                "zhao4 xiang4"
+            ],
+            "comment": "[V-sep] to take a photograph"
+        },
+        {
+            "question": "風景",
+            "answers": [
+                "ㄈㄥ ㄐㄧㄥˇ",
+                "feng1 jing3"
+            ],
+            "comment": "[N] scenery; landscape; CL:個[ge4]"
+        },
+        {
+            "question": "頭",
+            "answers": [
+                "ㄊㄡˊ",
+                "ㄊㄡ˙",
+                "tou2",
+                "tou5"
+            ],
+            "comment": "[N] head; hair style; the top; end; beginning or end; a stub; remnant; chief; boss; side; aspect; first; leading; classifier for pigs or livestock; CL:個[ge4]; suffix for nouns"
+        },
+        {
+            "question": "頭髮",
+            "answers": [
+                "ㄊㄡˊ ㄈㄚˇ",
+                "tou2 fa3"
+            ],
+            "comment": "[N] hair (on the head)"
+        },
+        {
+            "question": "耳朵",
+            "answers": [
+                "ㄦˇ ㄉㄨㄛ˙",
+                "er3 duo5"
+            ],
+            "comment": "[N] ear; CL:隻[zhi1],個[ge4],對[dui4]; handle (on a cup)"
+        },
+        {
+            "question": "手指",
+            "answers": [
+                "ㄕㄡˇ ㄓˇ",
+                "shou3 zhi3"
+            ],
+            "comment": "[N] finger; CL:個[ge4],隻[zhi1]"
+        },
+        {
+            "question": "肚子",
+            "answers": [
+                "ㄉㄨˇ ㄗ˙",
+                "ㄉㄨˋ ㄗ˙",
+                "du3 zi5",
+                "du4 zi5"
+            ],
+            "comment": "[N] belly; abdomen; stomach; CL:個[ge4]"
+        },
+        {
+            "question": "健康",
+            "answers": [
+                "ㄐㄧㄢˋ ㄎㄤ",
+                "jian4 kang1"
+            ],
+            "comment": "[Vs] health; healthy"
+        },
+        {
+            "question": "感冒",
+            "answers": [
+                "ㄍㄢˇ ㄇㄠˋ",
+                "gan3 mao4"
+            ],
+            "comment": "[Vp] to catch cold; (common) cold; CL:場[chang2],次[ci4]; (coll.) to be interested in (often used in the negative); (Tw) to detest; can't stand"
+        },
+        {
+            "question": "生病",
+            "answers": [
+                "ㄕㄥ ㄅㄧㄥˋ",
+                "sheng1 bing4"
+            ],
+            "comment": "[Vp-sep] to fall ill"
+        },
+        {
+            "question": "受傷",
+            "answers": [
+                "ㄕㄡˋ ㄕㄤ",
+                "shou4 shang1"
+            ],
+            "comment": "[Vp-sep] to sustain injuries; wounded (in an accident etc); harmed"
+        },
+        {
+            "question": "餓",
+            "answers": [
+                "ㄜˋ",
+                "e4"
+            ],
+            "comment": "[Vs] to be hungry; hungry; to starve (sb)"
+        },
+        {
+            "question": "渴",
+            "answers": [
+                "ㄎㄜˇ",
+                "ㄏㄜˊ",
+                "ke3",
+                "he2"
+            ],
+            "comment": "[Vs] thirsty"
+        },
+        {
+            "question": "舒服",
+            "answers": [
+                "ㄕㄨ ㄈㄨˊ",
+                "shu1 fu2"
+            ],
+            "comment": "[Vs] comfortable; feeling well"
+        },
+        {
+            "question": "眼鏡",
+            "answers": [
+                "ㄧㄢˇ ㄐㄧㄥˋ",
+                "yan3 jing4"
+            ],
+            "comment": "[N] spectacles; eyeglasses; CL:副[fu4]"
+        },
+        {
+            "question": "痛",
+            "answers": [
+                "ㄊㄨㄥˋ",
+                "tong4"
+            ],
+            "comment": "[Vs] ache; pain; sorrow; deeply; thoroughly"
+        },
+        {
+            "question": "希望",
+            "answers": [
+                "ㄒㄧ ㄨㄤˋ",
+                "xi1 wang4"
+            ],
+            "comment": "[Vst] to wish for; to desire; hope; CL:個[ge4]"
+        },
+        {
+            "question": "商店",
+            "answers": [
+                "ㄕㄤ ㄉㄧㄢˋ",
+                "shang1 dian4"
+            ],
+            "comment": "[N] store; shop; CL:家[jia1],個[ge4]"
+        },
+        {
+            "question": "店",
+            "answers": [
+                "ㄉㄧㄢˋ",
+                "dian4"
+            ],
+            "comment": "[N] inn; shop; store; CL:家[jia1]"
+        },
+        {
+            "question": "重要",
+            "answers": [
+                "ㄓㄨㄥˋ ㄧㄠˋ",
+                "zhong4 yao4"
+            ],
+            "comment": "[Vs] important; significant; major"
+        },
+        {
+            "question": "公斤",
+            "answers": [
+                "ㄍㄨㄥ ㄐㄧㄣ",
+                "gong1 jin1"
+            ],
+            "comment": "[M] kilogram (kg)"
+        },
+        {
+            "question": "顏色",
+            "answers": [
+                "ㄧㄢˊ ㄙㄜˋ",
+                "yan2 se4"
+            ],
+            "comment": "[N] color; countenance; appearance; facial expression; pigment; dyestuff"
+        },
+        {
+            "question": "黃色",
+            "answers": [
+                "ㄏㄨㄤˊ ㄙㄜˋ",
+                "huang2 se4"
+            ],
+            "comment": "[N] yellow (color); pornographic"
+        },
+        {
+            "question": "白色",
+            "answers": [
+                "ㄅㄞˊ ㄙㄜˋ",
+                "bai2 se4"
+            ],
+            "comment": "[N] white; fig. reactionary; anti-communist"
+        },
+        {
+            "question": "襪子",
+            "answers": [
+                "ㄨㄚˋ ㄗ˙",
+                "wa4 zi5"
+            ],
+            "comment": "[N] socks; stockings; CL:隻[zhi1],對[dui4],雙[shuang1]"
+        },
+        {
+            "question": "裙子",
+            "answers": [
+                "ㄑㄩㄣˊ ㄗ˙",
+                "qun2 zi5"
+            ],
+            "comment": "[N] skirt; CL:條[tiao2]"
+        },
+        {
+            "question": "短",
+            "answers": [
+                "ㄉㄨㄢˇ",
+                "duan3"
+            ],
+            "comment": "[Vs] short; brief; to lack; weak point; fault"
+        },
+        {
+            "question": "小心",
+            "answers": [
+                "ㄒㄧㄠˇ ㄒㄧㄣ",
+                "xiao3 xin1"
+            ],
+            "comment": "[Vs] to be careful; to take care"
+        },
+        {
+            "question": "牛奶",
+            "answers": [
+                "ㄋㄧㄡˊ ㄋㄞˇ",
+                "niu2 nai3"
+            ],
+            "comment": "[N] cow's milk; CL:瓶[ping2],杯[bei1]"
+        },
+        {
+            "question": "蛋",
+            "answers": [
+                "ㄉㄢˋ",
+                "dan4"
+            ],
+            "comment": "[N] variant of 蜑[Dan4]; egg; CL:個[ge4],打[da2]; oval-shaped thing"
+        },
+        {
+            "question": "餃子",
+            "answers": [
+                "ㄐㄧㄠˇ ㄗ˙",
+                "jiao3 zi5"
+            ],
+            "comment": "[N] dumpling; pot-sticker; CL:個[ge4],隻[zhi1]"
+        },
+        {
+            "question": "麵",
+            "answers": [
+                "ㄇㄧㄢˋ",
+                "mian4"
+            ],
+            "comment": "[N] face; side; surface; aspect; top; classifier for flat surfaces such as drums, mirrors, flags etc; variant of 麵[mian4]; flour; noodles; (of food) soft (not crunchy); (slang) (of a person) ineffectual; spineless"
+        },
+        {
+            "question": "湯",
+            "answers": [
+                "ㄊㄤ",
+                "ㄕㄤ",
+                "tang1",
+                "shang1"
+            ],
+            "comment": "[N] surname Tang; rushing current; soup; hot or boiling water; decoction of medicinal herbs; water in which sth has been boiled"
+        },
+        {
+            "question": "包子",
+            "answers": [
+                "ㄅㄠ ㄗ˙",
+                "bao1 zi5"
+            ],
+            "comment": "[N] steamed stuffed bun; CL:個[ge4]"
+        },
+        {
+            "question": "蛋糕",
+            "answers": [
+                "ㄉㄢˋ ㄍㄠ",
+                "dan4 gao1"
+            ],
+            "comment": "[N] cake; CL:塊[kuai4],個[ge4]"
+        },
+        {
+            "question": "麵包",
+            "answers": [
+                "ㄇㄧㄢˋ ㄅㄠ",
+                "mian4 bao1"
+            ],
+            "comment": "[N] bread; CL:片[pian4],袋[dai4],塊[kuai4]"
+        },
+        {
+            "question": "水果",
+            "answers": [
+                "ㄕㄨㄟˇ ㄍㄨㄛˇ",
+                "shui3 guo3"
+            ],
+            "comment": "[N] fruit; CL:個[ge4]"
+        },
+        {
+            "question": "香蕉",
+            "answers": [
+                "ㄒㄧㄤ ㄐㄧㄠ",
+                "xiang1 jiao1"
+            ],
+            "comment": "[N] banana; CL:枝[zhi1],根[gen1],個[ge4],把[ba3]"
+        },
+        {
+            "question": "食物",
+            "answers": [
+                "ㄕˊ ㄨˋ",
+                "shi2 wu4"
+            ],
+            "comment": "[N] food; CL:種[zhong3]"
+        },
+        {
+            "question": "飲料",
+            "answers": [
+                "ㄧㄣˇ ㄌㄧㄠˋ",
+                "yin3 liao4"
+            ],
+            "comment": "[N] drink; beverage"
+        },
+        {
+            "question": "果汁",
+            "answers": [
+                "ㄍㄨㄛˇ ㄓ",
+                "guo3 zhi1"
+            ],
+            "comment": "[N] fruit juice"
+        },
+        {
+            "question": "杯子",
+            "answers": [
+                "ㄅㄟ ㄗ˙",
+                "bei1 zi5"
+            ],
+            "comment": "[N] cup; glass; CL:個[ge4],隻[zhi1]"
+        },
+        {
+            "question": "甜",
+            "answers": [
+                "ㄊㄧㄢˊ",
+                "tian2"
+            ],
+            "comment": "[Vs] sweet"
+        },
+        {
+            "question": "菜單",
+            "answers": [
+                "ㄘㄞˋ ㄉㄢ",
+                "cai4 dan1"
+            ],
+            "comment": "[N] menu; CL:份[fen4],張[zhang1]"
+        },
+        {
+            "question": "巧克力",
+            "answers": [
+                "ㄑㄧㄠˇ ㄎㄜˋ ㄌㄧˋ",
+                "qiao3 ke4 li4"
+            ],
+            "comment": "[N] chocolate (loanword); CL:塊[kuai4]"
+        },
+        {
+            "question": "碗",
+            "answers": [
+                "ㄨㄢˇ",
+                "wan3"
+            ],
+            "comment": "[N] variant of 碗[wan3]; variant of 碗[wan3]; variant of 碗[wan3]; bowl; cup; CL:隻[zhi1],個[ge4]"
+        },
+        {
+            "question": "盤子",
+            "answers": [
+                "ㄆㄢˊ ㄗ˙",
+                "pan2 zi5"
+            ],
+            "comment": "[N] tray; plate; dish; CL:個[ge4]"
+        },
+        {
+            "question": "片",
+            "answers": [
+                "ㄆㄧㄢˋ",
+                "pian4"
+            ],
+            "comment": "[M] disk; sheet; thin piece; flake; a slice; film; TV play; to slice; to carve thin; partial; incomplete; one-sided; classifier for slices, tablets, tract of land, area of water; classifier for CDs, movies, DVDs etc; used with numeral 一[yi1]: classifier for scenario, scene, feeling, atmosphere, sound etc"
+        },
+        {
+            "question": "一半",
+            "answers": [
+                "ㄧˊ ㄅㄢˋ",
+                "yi2 ban4"
+            ],
+            "comment": "[Det] half"
+        },
+        {
+            "question": "過",
+            "answers": [
+                "ㄍㄨㄛˋ",
+                "ㄍㄨㄛ",
+                "guo4",
+                "guo1"
+            ],
+            "comment": "[V] surname Guo; to cross; to go over; to pass (time); to celebrate (a holiday); to live; to get along; excessively; too-; (experienced action marker)"
+        },
+        {
+            "question": "一定",
+            "answers": [
+                "ㄧˊ ㄉㄧㄥˋ",
+                "yi2 ding4"
+            ],
+            "comment": "[Adv] surely; certainly; necessarily; fixed; a certain (extent etc); given; particular; must"
+        }
+    ]
+}

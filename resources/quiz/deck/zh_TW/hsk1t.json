@@ -1,0 +1,1315 @@
+{
+    "description": "Type the reading for vocabulary words in the HSK 1 word list.",
+    "deck": [
+        {
+            "question": "愛",
+            "answers": [
+                "ㄞˋ",
+                "ai4"
+            ],
+            "comment": "to love, affection, to be fond of, to like"
+        },
+        {
+            "question": "八",
+            "answers": [
+                "ㄅㄚ",
+                "ba1"
+            ],
+            "comment": "eight, 8"
+        },
+        {
+            "question": "爸爸",
+            "answers": [
+                "ㄅㄚˋ ㄅㄚ˙",
+                "ba4 ba5"
+            ],
+            "comment": "(informal) father, CL:個,位"
+        },
+        {
+            "question": "杯子",
+            "answers": [
+                "ㄅㄟ ㄗ˙",
+                "bei1 zi5"
+            ],
+            "comment": "cup, glass, CL:個,支,枝"
+        },
+        {
+            "question": "北京",
+            "answers": [
+                "ㄅㄟˇ ㄐㄧㄥ",
+                "bei3 jing1"
+            ],
+            "comment": "Beijing, capital of People's Republic of China, Peking, PRC government"
+        },
+        {
+            "question": "本",
+            "answers": [
+                "ㄅㄣˇ",
+                "ben3"
+            ],
+            "comment": "roots or stems of plants, origin, source, this, the current, root, foundation, basis, classifier for books, periodicals, files etc, originally"
+        },
+        {
+            "question": "不客氣",
+            "answers": [
+                "ㄅㄨˊ ㄎㄜˋ ㄑㄧˋ",
+                "bu2 ke4 qi4"
+            ],
+            "comment": "you're welcome, impolite, rude, blunt, don't mention it"
+        },
+        {
+            "question": "不",
+            "answers": [
+                "ㄅㄨˋ",
+                "ㄈㄡ",
+                "ㄈㄨ",
+                "bu4",
+                "fou1",
+                "fu1"
+            ],
+            "comment": "(negative prefix), not, no"
+        },
+        {
+            "question": "菜",
+            "answers": [
+                "ㄘㄞˋ",
+                "cai4"
+            ],
+            "comment": "dish (type of food), vegetables, vegetable, cuisine, CL:盤,道"
+        },
+        {
+            "question": "茶",
+            "answers": [
+                "ㄔㄚˊ",
+                "cha2"
+            ],
+            "comment": "tea, tea plant, CL:杯,壺"
+        },
+        {
+            "question": "吃",
+            "answers": [
+                "ㄔ",
+                "ㄐㄧˊ",
+                "chi1",
+                "ji2"
+            ],
+            "comment": "to eat, to consume, to eat at (a cafeteria etc), to eradicate, to destroy, to absorb, to suffer"
+        },
+        {
+            "question": "計程車",
+            "answers": [
+                "ㄐㄧˋ ㄔㄥˊ ㄔㄜ",
+                "ji4 cheng2 che1"
+            ],
+            "comment": "(Tw) taxi, cab"
+        },
+        {
+            "question": "打電話",
+            "answers": [
+                "ㄉㄚˇ ㄉㄧㄢˋ ㄏㄨㄚˋ",
+                "da3 dian4 hua4"
+            ],
+            "comment": "to make a telephone call"
+        },
+        {
+            "question": "大",
+            "answers": [
+                "ㄉㄚˋ",
+                "ㄉㄞˋ",
+                "da4",
+                "dai4"
+            ],
+            "comment": "big, huge, large, major, great, wide, deep, oldest, eldest"
+        },
+        {
+            "question": "的",
+            "answers": [
+                "ㄉㄧˋ",
+                "ㄉㄧˊ",
+                "ㄉㄜ˙",
+                "ㄉㄧ",
+                "di4",
+                "di2",
+                "de5",
+                "di1"
+            ],
+            "comment": "of, ~'s (possessive particle), (used after an attribute), (used to form a nominal expression), (used at the end of a declarative sentence for emphasis)"
+        },
+        {
+            "question": "點",
+            "answers": [
+                "ㄉㄧㄢˇ",
+                "dian3"
+            ],
+            "comment": "point, dot, drop, speck, o'clock, point (in space or time), to draw a dot, to check on a list, to choose, to order (food in a restaurant), to touch briefly, to hint, to light, to ignite, to pour a liquid drop by drop, (old) one fifth of a two-hour watch 更, dot stroke in Chinese characters, classifier for items"
+        },
+        {
+            "question": "電腦",
+            "answers": [
+                "ㄉㄧㄢˋ ㄋㄠˇ",
+                "dian4 nao3"
+            ],
+            "comment": "computer, CL:臺"
+        },
+        {
+            "question": "電視",
+            "answers": [
+                "ㄉㄧㄢˋ ㄕˋ",
+                "dian4 shi4"
+            ],
+            "comment": "television, TV, CL:臺,個"
+        },
+        {
+            "question": "電影",
+            "answers": [
+                "ㄉㄧㄢˋ ㄧㄥˇ",
+                "dian4 ying3"
+            ],
+            "comment": "movie, film, CL:部,片,幕,場"
+        },
+        {
+            "question": "東西",
+            "answers": [
+                "ㄉㄨㄥ ㄒㄧ",
+                "ㄉㄨㄥ ㄒㄧ˙",
+                "dong1 xi1",
+                "dong1 xi5"
+            ],
+            "comment": "thing, stuff, person, CL:個,件"
+        },
+        {
+            "question": "都",
+            "answers": [
+                "ㄉㄨ",
+                "ㄉㄡ",
+                "du1",
+                "dou1"
+            ],
+            "comment": "all, both, entirely, (used for emphasis) even, already, (not) at all"
+        },
+        {
+            "question": "讀",
+            "answers": [
+                "ㄉㄨˊ",
+                "ㄉㄡˋ",
+                "du2",
+                "dou4"
+            ],
+            "comment": "to read, to study, reading of word (i.e. pronunciation), similar to 拼音"
+        },
+        {
+            "question": "對不起",
+            "answers": [
+                "ㄉㄨㄟˋ ㄅㄨˋ ㄑㄧˇ",
+                "dui4 bu4 qi3"
+            ],
+            "comment": "unworthy, to let down, I'm sorry, excuse me, pardon me, if you please, sorry? (please repeat)"
+        },
+        {
+            "question": "多",
+            "answers": [
+                "ㄉㄨㄛ",
+                "duo1"
+            ],
+            "comment": "many, much, a lot of, numerous, more, in excess, how (to what extent), multi-, Taiwan pr.  when it means \"how\""
+        },
+        {
+            "question": "多少",
+            "answers": [
+                "ㄉㄨㄛ ㄕㄠˇ",
+                "ㄉㄨㄛ ㄕㄠ˙",
+                "duo1 shao3",
+                "duo1 shao5"
+            ],
+            "comment": "how much, how many, which (number), as much as"
+        },
+        {
+            "question": "兒子",
+            "answers": [
+                "ㄦˊ ㄗ˙",
+                "er2 zi5"
+            ],
+            "comment": "son"
+        },
+        {
+            "question": "二",
+            "answers": [
+                "ㄦˋ",
+                "er4"
+            ],
+            "comment": "two, 2, stupid (Beijing dialect)"
+        },
+        {
+            "question": "飯館",
+            "answers": [
+                "ㄈㄢˋ ㄍㄨㄢˇ",
+                "fan4 guan3"
+            ],
+            "comment": "restaurant, CL:家"
+        },
+        {
+            "question": "飛機",
+            "answers": [
+                "ㄈㄟ ㄐㄧ",
+                "fei1 ji1"
+            ],
+            "comment": "airplane, CL:架"
+        },
+        {
+            "question": "分鐘",
+            "answers": [
+                "ㄈㄣ ㄓㄨㄥ",
+                "fen1 zhong1"
+            ],
+            "comment": "minute"
+        },
+        {
+            "question": "高興",
+            "answers": [
+                "ㄍㄠ ㄒㄧㄥˋ",
+                "gao1 xing4"
+            ],
+            "comment": "happy, glad, willing (to do sth), in a cheerful mood"
+        },
+        {
+            "question": "個",
+            "answers": [
+                "ㄍㄜˋ",
+                "ㄍㄜˇ",
+                "ㄍㄜ˙",
+                "ge4",
+                "ge3",
+                "ge5"
+            ],
+            "comment": "variant of 個"
+        },
+        {
+            "question": "工作",
+            "answers": [
+                "ㄍㄨㄥ ㄗㄨㄛˋ",
+                "gong1 zuo4"
+            ],
+            "comment": "to work, (of a machine) to operate, job, work, task, CL:個,份,項"
+        },
+        {
+            "question": "狗",
+            "answers": [
+                "ㄍㄡˇ",
+                "gou3"
+            ],
+            "comment": "dog, CL:隻,條"
+        },
+        {
+            "question": "漢語",
+            "answers": [
+                "ㄏㄢˋ ㄩˇ",
+                "han4 yu3"
+            ],
+            "comment": "Chinese language, CL:門"
+        },
+        {
+            "question": "好",
+            "answers": [
+                "ㄏㄠˇ",
+                "ㄏㄠˋ",
+                "hao3",
+                "hao4"
+            ],
+            "comment": "good, well, proper, good to, easy to, very, so, (suffix indicating completion or readiness)"
+        },
+        {
+            "question": "喝",
+            "answers": [
+                "ㄏㄜ",
+                "ㄏㄜˋ",
+                "he1",
+                "he4"
+            ],
+            "comment": "to drink, My goodness!"
+        },
+        {
+            "question": "和",
+            "answers": [
+                "ㄏㄜˊ",
+                "ㄏㄜˋ",
+                "ㄏㄨㄛˋ",
+                "ㄏㄢˋ",
+                "ㄏㄨㄛ˙",
+                "ㄏㄨˊ",
+                "he2",
+                "he4",
+                "huo4",
+                "han4",
+                "huo5",
+                "hu2"
+            ],
+            "comment": "and, together with, with, sum, union, peace, harmony, Japanese related, Taiwan pr. "
+        },
+        {
+            "question": "很",
+            "answers": [
+                "ㄏㄣˇ",
+                "hen3"
+            ],
+            "comment": "(adverb of degree), quite, very, awfully"
+        },
+        {
+            "question": "後面",
+            "answers": [
+                "ㄏㄡˋ ㄇㄧㄢˋ",
+                "hou4 mian4"
+            ],
+            "comment": "rear, back, behind, later, afterwards"
+        },
+        {
+            "question": "回",
+            "answers": [
+                "ㄏㄨㄟˊ",
+                "hui2"
+            ],
+            "comment": "to curve, to return, to revolve"
+        },
+        {
+            "question": "會",
+            "answers": [
+                "ㄏㄨㄟˋ",
+                "ㄎㄨㄞˋ",
+                "ㄍㄨㄟˋ",
+                "ㄏㄨㄟˇ",
+                "hui4",
+                "kuai4",
+                "gui4",
+                "hui3"
+            ],
+            "comment": "can, be possible, be able to, will, be likely to, be sure to, to assemble, to meet, to gather, to see, union, group, association, CL:個, a moment (Taiwan pr. for this sense is )"
+        },
+        {
+            "question": "火車站",
+            "answers": [
+                "ㄏㄨㄛˇ ㄔㄜ ㄓㄢˋ",
+                "huo3 che1 zhan4"
+            ],
+            "comment": "train station"
+        },
+        {
+            "question": "幾",
+            "answers": [
+                "ㄐㄧˇ",
+                "ㄐㄧ",
+                "ji3",
+                "ji1"
+            ],
+            "comment": "how much, how many, several, a few"
+        },
+        {
+            "question": "家",
+            "answers": [
+                "ㄐㄧㄚ",
+                "ㄍㄨ",
+                "ㄐㄧㄝ˙",
+                "jia1",
+                "gu1",
+                "jie5"
+            ],
+            "comment": "home, family, classifier for families or businesses, refers to the philosophical schools of pre-Han China, noun suffix for specialists in some activity such as musician or revolutionary, corresponds to English -ist, -er, -ary or -ian, CL:個"
+        },
+        {
+            "question": "叫",
+            "answers": [
+                "ㄐㄧㄠˋ",
+                "jiao4"
+            ],
+            "comment": "to shout, to call, to order, to ask, to be called, by (indicates agent in the passive mood)"
+        },
+        {
+            "question": "今天",
+            "answers": [
+                "ㄐㄧㄣ ㄊㄧㄢ",
+                "jin1 tian1"
+            ],
+            "comment": "today, at the present, now"
+        },
+        {
+            "question": "九",
+            "answers": [
+                "ㄐㄧㄡˇ",
+                "jiu3"
+            ],
+            "comment": "nine, 9"
+        },
+        {
+            "question": "開",
+            "answers": [
+                "ㄎㄞ",
+                "kai1"
+            ],
+            "comment": "to open, to start, to turn on, to boil, to write out (a medical prescription), to operate (vehicle), abbr. for 開爾文 degrees Kelvin"
+        },
+        {
+            "question": "看",
+            "answers": [
+                "ㄎㄢˋ",
+                "ㄎㄢ",
+                "kan4",
+                "kan1"
+            ],
+            "comment": "to see, to look at, to read, to watch, to consider, to regard as, to view as, to treat as, to judge, (after repeated verb) to give it a try, depending on (how you're judging), to visit, to call on, to treat (an illness), to look after, Watch out! (for a danger)"
+        },
+        {
+            "question": "看見",
+            "answers": [
+                "ㄎㄢˋ ㄐㄧㄢˋ",
+                "kan4 jian4"
+            ],
+            "comment": "to see, to catch sight of"
+        },
+        {
+            "question": "塊",
+            "answers": [
+                "ㄎㄨㄞˋ",
+                "kuai4"
+            ],
+            "comment": "lump (of earth), chunk, piece, classifier for pieces of cloth, cake, soap etc, colloquial word for yuan (or other unit of currency such as Hong Kong or US dollar etc), usually as 塊錢"
+        },
+        {
+            "question": "來",
+            "answers": [
+                "ㄌㄞˊ",
+                "lai2"
+            ],
+            "comment": "to come, to arrive, to come round, ever since, next"
+        },
+        {
+            "question": "老師",
+            "answers": [
+                "ㄌㄠˇ ㄕ",
+                "lao3 shi1"
+            ],
+            "comment": "teacher, CL:個,位"
+        },
+        {
+            "question": "了",
+            "answers": [
+                "ㄌㄧㄠˇ",
+                "ㄌㄜ˙",
+                "liao3",
+                "le5"
+            ],
+            "comment": "(modal particle intensifying preceding clause), (completed action marker)"
+        },
+        {
+            "question": "冷",
+            "answers": [
+                "ㄌㄥˇ",
+                "leng3"
+            ],
+            "comment": "cold"
+        },
+        {
+            "question": "裡",
+            "answers": [
+                "ㄌㄧˇ",
+                "li3"
+            ],
+            "comment": "li (Chinese mile), 500 meters (modern), home, hometown, village, neighborhood, administrative unit"
+        },
+        {
+            "question": "零",
+            "answers": [
+                "ㄌㄧㄥˊ",
+                "ling2"
+            ],
+            "comment": "zero, nought, zero sign, fractional, fragmentary, odd (of numbers), (placed between two numbers to indicate a smaller quantity followed by a larger one), fraction, (in mathematics) remainder (after division), extra, to wither and fall, to wither"
+        },
+        {
+            "question": "六",
+            "answers": [
+                "ㄌㄧㄡˋ",
+                "ㄌㄨˋ",
+                "liu4",
+                "lu4"
+            ],
+            "comment": "six, 6"
+        },
+        {
+            "question": "媽媽",
+            "answers": [
+                "ㄇㄚ ㄇㄚ˙",
+                "ma1 ma5"
+            ],
+            "comment": "mama, mommy, mother, CL:個,位"
+        },
+        {
+            "question": "嗎",
+            "answers": [
+                "ㄇㄚ˙",
+                "ㄇㄚˊ",
+                "ㄇㄚˇ",
+                "ma5",
+                "ma2",
+                "ma3"
+            ],
+            "comment": "(question tag)"
+        },
+        {
+            "question": "買",
+            "answers": [
+                "ㄇㄞˇ",
+                "mai3"
+            ],
+            "comment": "to buy, to purchase"
+        },
+        {
+            "question": "貓",
+            "answers": [
+                "ㄇㄠ",
+                "ㄇㄠˊ",
+                "mao1",
+                "mao2"
+            ],
+            "comment": "cat, CL:隻"
+        },
+        {
+            "question": "沒",
+            "answers": [
+                "ㄇㄛˋ",
+                "ㄇㄟˊ",
+                "mo4",
+                "mei2"
+            ],
+            "comment": "(negative prefix for verbs), have not, not"
+        },
+        {
+            "question": "沒關係",
+            "answers": [
+                "ㄇㄟˊ ㄍㄨㄢ ㄒㄧ˙",
+                "mei2 guan1 xi5"
+            ],
+            "comment": "it doesn't matter"
+        },
+        {
+            "question": "米飯",
+            "answers": [
+                "ㄇㄧˇ ㄈㄢˋ",
+                "mi3 fan4"
+            ],
+            "comment": "(cooked) rice"
+        },
+        {
+            "question": "明天",
+            "answers": [
+                "ㄇㄧㄥˊ ㄊㄧㄢ",
+                "ming2 tian1"
+            ],
+            "comment": "tomorrow"
+        },
+        {
+            "question": "名字",
+            "answers": [
+                "ㄇㄧㄥˊ ㄗˋ",
+                "ㄇㄧㄥˊ ㄗ˙",
+                "ming2 zi4",
+                "ming2 zi5"
+            ],
+            "comment": "name (of a person or thing), CL:個"
+        },
+        {
+            "question": "哪",
+            "answers": [
+                "ㄋㄚˇ",
+                "ㄋㄚ˙",
+                "ㄋㄨㄛˊ",
+                "ㄋㄟˇ",
+                "ㄋㄞˇ",
+                "na3",
+                "na5",
+                "nuo2",
+                "nei3",
+                "nai3"
+            ],
+            "comment": "how, which"
+        },
+        {
+            "question": "那",
+            "answers": [
+                "ㄋㄚˋ",
+                "ㄋㄚˇ",
+                "ㄋㄚ",
+                "ㄋㄨㄛˊ",
+                "ㄋㄟˋ",
+                "ㄋㄟˇ",
+                "na4",
+                "na3",
+                "na1",
+                "nuo2",
+                "nei4",
+                "nei3"
+            ],
+            "comment": "that, those, then (in that case), commonly pr.  before a classifier, esp. in Beijing"
+        },
+        {
+            "question": "呢",
+            "answers": [
+                "ㄋㄧˊ",
+                "ㄋㄜ˙",
+                "ni2",
+                "ne5"
+            ],
+            "comment": "particle indicating that a previously asked question is to be applied to the preceding word (\"What about ...?\", \"And ...?\"), particle for inquiring about location (\"Where is ...?\"), particle signaling a pause, to emphasize the preceding words and allow the listener time to take them on board (\"ok?\", \"are you with me?\"), (at the end of a declarative sentence) particle indicating continuation of a state or action, particle indicating strong affirmation"
+        },
+        {
+            "question": "能",
+            "answers": [
+                "ㄋㄥˊ",
+                "neng2"
+            ],
+            "comment": "to be able to, to be capable of, ability, capability, able, capable, can possibly, (usually used in the negative) to have the possibility of"
+        },
+        {
+            "question": "你",
+            "answers": [
+                "ㄋㄧˇ",
+                "ni3"
+            ],
+            "comment": "you (informal, as opposed to courteous 您)"
+        },
+        {
+            "question": "年",
+            "answers": [
+                "ㄋㄧㄢˊ",
+                "nian2"
+            ],
+            "comment": "year, CL:個"
+        },
+        {
+            "question": "女兒",
+            "answers": [
+                "ㄋㄩˇ ㄦˊ",
+                "nü3 er2"
+            ],
+            "comment": "daughter"
+        },
+        {
+            "question": "朋友",
+            "answers": [
+                "ㄆㄥˊ ㄧㄡˇ",
+                "peng2 you3"
+            ],
+            "comment": "friend, CL:個,位"
+        },
+        {
+            "question": "漂亮",
+            "answers": [
+                "ㄆㄧㄠˋ ㄌㄧㄤˋ",
+                "piao4 liang4"
+            ],
+            "comment": "pretty, beautiful"
+        },
+        {
+            "question": "蘋果",
+            "answers": [
+                "ㄆㄧㄥˊ ㄍㄨㄛˇ",
+                "ping2 guo3"
+            ],
+            "comment": "apple, CL:個,顆"
+        },
+        {
+            "question": "七",
+            "answers": [
+                "ㄑㄧ",
+                "qi1"
+            ],
+            "comment": "seven, 7"
+        },
+        {
+            "question": "錢",
+            "answers": [
+                "ㄑㄧㄢˊ",
+                "qian2"
+            ],
+            "comment": "coin, money, CL:筆"
+        },
+        {
+            "question": "前面",
+            "answers": [
+                "ㄑㄧㄢˊ ㄇㄧㄢˋ",
+                "qian2 mian4"
+            ],
+            "comment": "ahead, in front, preceding, above"
+        },
+        {
+            "question": "請",
+            "answers": [
+                "ㄑㄧㄥˇ",
+                "ㄐㄧㄥˋ",
+                "qing3",
+                "jing4"
+            ],
+            "comment": "to ask, to invite, please (do sth), to treat (to a meal etc), to request"
+        },
+        {
+            "question": "去",
+            "answers": [
+                "ㄑㄩˋ",
+                "qu4"
+            ],
+            "comment": "to go, to go to (a place), to cause to go or send (sb), to remove, to get rid of, (when used either before or after a verb) to go in order to do sth, to be apart from in space or time, (after a verb of motion indicates movement away from the speaker), (used after certain verbs to indicate detachment or separation), (of a time or an event etc) just passed or elapsed"
+        },
+        {
+            "question": "熱",
+            "answers": [
+                "ㄖㄜˋ",
+                "re4"
+            ],
+            "comment": "to warm up, to heat up, hot (of weather), heat, fervent"
+        },
+        {
+            "question": "人",
+            "answers": [
+                "ㄖㄣˊ",
+                "ren2"
+            ],
+            "comment": "man, person, people, CL:個,位"
+        },
+        {
+            "question": "認識",
+            "answers": [
+                "ㄖㄣˋ ㄕˋ",
+                "ren4 shi4"
+            ],
+            "comment": "to know, to recognize, to be familiar with, to get acquainted with sb, knowledge, understanding, awareness, cognition"
+        },
+        {
+            "question": "日",
+            "answers": [
+                "ㄖˋ",
+                "ㄇㄧˋ",
+                "ri4",
+                "mi4"
+            ],
+            "comment": "sun, day, date, day of the month, abbr. for 日本 Japan"
+        },
+        {
+            "question": "三",
+            "answers": [
+                "ㄙㄢ",
+                "san1"
+            ],
+            "comment": "three, 3"
+        },
+        {
+            "question": "商店",
+            "answers": [
+                "ㄕㄤ ㄉㄧㄢˋ",
+                "shang1 dian4"
+            ],
+            "comment": "store, shop, CL:家,個"
+        },
+        {
+            "question": "上",
+            "answers": [
+                "ㄕㄤˋ",
+                "ㄕㄤˇ",
+                "shang4",
+                "shang3"
+            ],
+            "comment": "on top, upon, above, upper, previous, first (of multiple parts), to climb, to get onto, to go up, to attend (class or university)"
+        },
+        {
+            "question": "上午",
+            "answers": [
+                "ㄕㄤˋ ㄨˇ",
+                "shang4 wu3"
+            ],
+            "comment": "morning, CL:個"
+        },
+        {
+            "question": "少",
+            "answers": [
+                "ㄕㄠˇ",
+                "ㄕㄠˋ",
+                "shao3",
+                "shao4"
+            ],
+            "comment": "few, little, lack"
+        },
+        {
+            "question": "誰",
+            "answers": [
+                "ㄕㄟˊ",
+                "shei2"
+            ],
+            "comment": "who, also pr. "
+        },
+        {
+            "question": "什麼",
+            "answers": [
+                "ㄕㄣˊ ㄇㄜ˙",
+                "shen2 me5"
+            ],
+            "comment": "what?, who?, something, anything"
+        },
+        {
+            "question": "十",
+            "answers": [
+                "ㄕˊ",
+                "shi2"
+            ],
+            "comment": "ten, 10"
+        },
+        {
+            "question": "時候",
+            "answers": [
+                "ㄕˊ ㄏㄡˋ",
+                "shi2 hou4"
+            ],
+            "comment": "time, length of time, moment, period"
+        },
+        {
+            "question": "是",
+            "answers": [
+                "ㄕˋ",
+                "shi4"
+            ],
+            "comment": "is, are, am, yes, to be"
+        },
+        {
+            "question": "書",
+            "answers": [
+                "ㄕㄨ",
+                "shu1"
+            ],
+            "comment": "book, letter, CL:本,冊,部, see also 書經 Book of History"
+        },
+        {
+            "question": "水",
+            "answers": [
+                "ㄕㄨㄟˇ",
+                "shui3"
+            ],
+            "comment": "water, river, liquid, beverage, additional charges or income, (of clothes) classifier for number of washes"
+        },
+        {
+            "question": "水果",
+            "answers": [
+                "ㄕㄨㄟˇ ㄍㄨㄛˇ",
+                "shui3 guo3"
+            ],
+            "comment": "fruit, CL:個"
+        },
+        {
+            "question": "睡覺",
+            "answers": [
+                "ㄕㄨㄟˋ ㄐㄧㄠˋ",
+                "ㄕㄨㄟˋ ㄐㄩㄝˊ",
+                "shui4 jiao4",
+                "shui4 jue2"
+            ],
+            "comment": "to go to bed, to sleep"
+        },
+        {
+            "question": "說話",
+            "answers": [
+                "ㄕㄨㄛ ㄏㄨㄚˋ",
+                "shuo1 hua4"
+            ],
+            "comment": "to speak, to say, to talk, to gossip, to tell stories, talk, word"
+        },
+        {
+            "question": "四",
+            "answers": [
+                "ㄙˋ",
+                "si4"
+            ],
+            "comment": "four, 4"
+        },
+        {
+            "question": "歲",
+            "answers": [
+                "ㄙㄨㄟˋ",
+                "sui4"
+            ],
+            "comment": "classifier for years (of age), year, year (of crop harvests)"
+        },
+        {
+            "question": "他",
+            "answers": [
+                "ㄊㄚ",
+                "ta1"
+            ],
+            "comment": "he or him, (used for either sex when the sex is unknown or unimportant), (used before sb's name for emphasis), (used as a meaningless mock object), other, another"
+        },
+        {
+            "question": "她",
+            "answers": [
+                "ㄊㄚ",
+                "ta1"
+            ],
+            "comment": "she"
+        },
+        {
+            "question": "太",
+            "answers": [
+                "ㄊㄞˋ",
+                "tai4"
+            ],
+            "comment": "highest, greatest, too (much), very, extremely"
+        },
+        {
+            "question": "天氣",
+            "answers": [
+                "ㄊㄧㄢ ㄑㄧˋ",
+                "tian1 qi4"
+            ],
+            "comment": "weather"
+        },
+        {
+            "question": "聽",
+            "answers": [
+                "ㄊㄧㄥ",
+                "ㄊㄧㄥˋ",
+                "ting1",
+                "ting4"
+            ],
+            "comment": "to listen, to hear, to obey, a can (loanword from English \"tin\"), classifier for canned beverages"
+        },
+        {
+            "question": "同學",
+            "answers": [
+                "ㄊㄨㄥˊ ㄒㄩㄝˊ",
+                "tong2 xue2"
+            ],
+            "comment": "to study at the same school, fellow student, classmate, CL:位,個"
+        },
+        {
+            "question": "喂",
+            "answers": [
+                "ㄨㄟˋ",
+                "ㄨㄟˊ",
+                "wei4",
+                "wei2"
+            ],
+            "comment": "to feed"
+        },
+        {
+            "question": "我",
+            "answers": [
+                "ㄨㄛˇ",
+                "wo3"
+            ],
+            "comment": "I, me, my"
+        },
+        {
+            "question": "我們",
+            "answers": [
+                "ㄨㄛˇ ㄇㄣ˙",
+                "wo3 men5"
+            ],
+            "comment": "we, us, ourselves, our"
+        },
+        {
+            "question": "五",
+            "answers": [
+                "ㄨˇ",
+                "wu3"
+            ],
+            "comment": "five, 5"
+        },
+        {
+            "question": "喜歡",
+            "answers": [
+                "ㄒㄧˇ ㄏㄨㄢ",
+                "xi3 huan1"
+            ],
+            "comment": "to like, to be fond of"
+        },
+        {
+            "question": "下",
+            "answers": [
+                "ㄒㄧㄚˋ",
+                "xia4"
+            ],
+            "comment": "down, downwards, below, lower, later, next (week etc), second (of two parts), to decline, to go down"
+        },
+        {
+            "question": "下午",
+            "answers": [
+                "ㄒㄧㄚˋ ㄨˇ",
+                "xia4 wu3"
+            ],
+            "comment": "afternoon, CL:個, p.m."
+        },
+        {
+            "question": "下雨",
+            "answers": [
+                "ㄒㄧㄚˋ ㄩˇ",
+                "xia4 yu3"
+            ],
+            "comment": "to rain, rainy"
+        },
+        {
+            "question": "先生",
+            "answers": [
+                "ㄒㄧㄢ ㄕㄥ˙",
+                "ㄒㄧㄢ ㄕㄥ",
+                "xian1 sheng5",
+                "xian1 sheng1"
+            ],
+            "comment": "teacher, husband, doctor (topolect), CL:位"
+        },
+        {
+            "question": "現在",
+            "answers": [
+                "ㄒㄧㄢˋ ㄗㄞˋ",
+                "xian4 zai4"
+            ],
+            "comment": "now, at present, at the moment, modern, current, nowadays"
+        },
+        {
+            "question": "想",
+            "answers": [
+                "ㄒㄧㄤˇ",
+                "xiang3"
+            ],
+            "comment": "to think, to believe, to suppose, to wish, to want, to miss"
+        },
+        {
+            "question": "小",
+            "answers": [
+                "ㄒㄧㄠˇ",
+                "xiao3"
+            ],
+            "comment": "small, tiny, few, young"
+        },
+        {
+            "question": "小姐",
+            "answers": [
+                "ㄒㄧㄠˇ ㄐㄧㄝˇ",
+                "xiao3 jie3"
+            ],
+            "comment": "young lady, miss, (slang) prostitute, CL:個,位"
+        },
+        {
+            "question": "些",
+            "answers": [
+                "ㄒㄧㄝ",
+                "xie1"
+            ],
+            "comment": "some, few, several, measure word indicating a small amount or small number (greater than 1)"
+        },
+        {
+            "question": "寫",
+            "answers": [
+                "ㄒㄧㄝˇ",
+                "ㄒㄧㄝˋ",
+                "xie3",
+                "xie4"
+            ],
+            "comment": "to write"
+        },
+        {
+            "question": "謝謝",
+            "answers": [
+                "ㄒㄧㄝˋ ㄒㄧㄝ˙",
+                "xie4 xie5"
+            ],
+            "comment": "to thank, thanks"
+        },
+        {
+            "question": "星期",
+            "answers": [
+                "ㄒㄧㄥ ㄑㄧˊ",
+                "xing1 qi2"
+            ],
+            "comment": "week, CL:個, day of the week, Sunday"
+        },
+        {
+            "question": "學生",
+            "answers": [
+                "ㄒㄩㄝˊ ㄕㄥ",
+                "xue2 sheng1"
+            ],
+            "comment": "student, schoolchild"
+        },
+        {
+            "question": "學習",
+            "answers": [
+                "ㄒㄩㄝˊ ㄒㄧˊ",
+                "xue2 xi2"
+            ],
+            "comment": "to learn, to study"
+        },
+        {
+            "question": "學校",
+            "answers": [
+                "ㄒㄩㄝˊ ㄒㄧㄠˋ",
+                "xue2 xiao4"
+            ],
+            "comment": "school, CL:所"
+        },
+        {
+            "question": "一",
+            "answers": [
+                "ㄧ",
+                "yi1"
+            ],
+            "comment": "one, 1, single, a (article), as soon as, entire, whole, all, throughout, \"one\" radical in Chinese characters (Kangxi radical 1)"
+        },
+        {
+            "question": "衣服",
+            "answers": [
+                "ㄧ ㄈㄨˊ",
+                "yi1 fu2"
+            ],
+            "comment": "clothes, CL:件,套"
+        },
+        {
+            "question": "醫生",
+            "answers": [
+                "ㄧ ㄕㄥ",
+                "yi1 sheng1"
+            ],
+            "comment": "doctor, CL:個,位,名"
+        },
+        {
+            "question": "醫院",
+            "answers": [
+                "ㄧ ㄩㄢˋ",
+                "yi1 yuan4"
+            ],
+            "comment": "hospital, CL:所,家,座"
+        },
+        {
+            "question": "椅子",
+            "answers": [
+                "ㄧˇ ㄗ˙",
+                "yi3 zi5"
+            ],
+            "comment": "chair, CL:把,套"
+        },
+        {
+            "question": "有",
+            "answers": [
+                "ㄧㄡˇ",
+                "ㄧㄡˋ",
+                "you3",
+                "you4"
+            ],
+            "comment": "to have, there is, there are, to exist, to be"
+        },
+        {
+            "question": "月",
+            "answers": [
+                "ㄩㄝˋ",
+                "yue4"
+            ],
+            "comment": "moon, month, CL:個,輪"
+        },
+        {
+            "question": "在",
+            "answers": [
+                "ㄗㄞˋ",
+                "zai4"
+            ],
+            "comment": "(located) at, (to be) in, to exist, in the middle of doing sth, (indicating an action in progress)"
+        },
+        {
+            "question": "再見",
+            "answers": [
+                "ㄗㄞˋ ㄐㄧㄢˋ",
+                "zai4 jian4"
+            ],
+            "comment": "goodbye, see you again later"
+        },
+        {
+            "question": "怎麼",
+            "answers": [
+                "ㄗㄣˇ ㄇㄜ˙",
+                "zen3 me5"
+            ],
+            "comment": "variant of 怎麼"
+        },
+        {
+            "question": "怎麼樣",
+            "answers": [
+                "ㄗㄣˇ ㄇㄜ˙ ㄧㄤˋ",
+                "zen3 me5 yang4"
+            ],
+            "comment": "how?, how about?, how was it?, how are things?"
+        },
+        {
+            "question": "這",
+            "answers": [
+                "ㄓㄜˋ",
+                "ㄓㄟˋ",
+                "zhe4",
+                "zhei4"
+            ],
+            "comment": "this, these, (commonly pr.  before a classifier, esp. in Beijing)"
+        },
+        {
+            "question": "中國",
+            "answers": [
+                "ㄓㄨㄥ ㄍㄨㄛˊ",
+                "zhong1 guo2"
+            ],
+            "comment": "China, Middle Kingdom"
+        },
+        {
+            "question": "中午",
+            "answers": [
+                "ㄓㄨㄥ ㄨˇ",
+                "zhong1 wu3"
+            ],
+            "comment": "noon, midday, CL:個"
+        },
+        {
+            "question": "住",
+            "answers": [
+                "ㄓㄨˋ",
+                "zhu4"
+            ],
+            "comment": "to live, to dwell, to stay, to reside, to stop, (suffix indicating firmness, steadiness, or coming to a halt)"
+        },
+        {
+            "question": "桌子",
+            "answers": [
+                "ㄓㄨㄛ ㄗ˙",
+                "zhuo1 zi5"
+            ],
+            "comment": "table, desk, CL:張,套"
+        },
+        {
+            "question": "字",
+            "answers": [
+                "ㄗˋ",
+                "zi4"
+            ],
+            "comment": "letter, symbol, character, word, CL:個, courtesy or style name traditionally given to males aged 20 in dynastic China"
+        },
+        {
+            "question": "昨天",
+            "answers": [
+                "ㄗㄨㄛˊ ㄊㄧㄢ",
+                "zuo2 tian1"
+            ],
+            "comment": "yesterday"
+        },
+        {
+            "question": "坐",
+            "answers": [
+                "ㄗㄨㄛˋ",
+                "zuo4"
+            ],
+            "comment": "to sit, to take a seat, to take (a bus, airplane etc), to bear fruit, variant of 座"
+        },
+        {
+            "question": "做",
+            "answers": [
+                "ㄗㄨㄛˋ",
+                "zuo4"
+            ],
+            "comment": "to do, to make, to produce, to write, to compose, to act as, to engage in, to hold (a party), to be, to become, to function (in some capacity), to serve as, to be used for, to form (a bond or relationship), to pretend, to feign, to act a part, to put on appearance"
+        }
+    ]
+}

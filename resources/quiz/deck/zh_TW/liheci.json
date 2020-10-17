@@ -1,0 +1,1675 @@
+{
+    "description": "Separable verbs from the document《華語八千詞》published by the Steering Committee for the Test Of Proficiency-Huayu (SC-TOP).",
+    "deck": [
+        {
+            "question": "上課",
+            "answers": [
+                "ㄕㄤˋ ㄎㄜˋ",
+                "shang4 ke4"
+            ],
+            "comment": "[V-sep] to go to class; to attend class; to go to teach a class"
+        },
+        {
+            "question": "開車",
+            "answers": [
+                "ㄎㄞ ㄔㄜ",
+                "kai1 che1"
+            ],
+            "comment": "[V-sep] to drive a car"
+        },
+        {
+            "question": "下課",
+            "answers": [
+                "ㄒㄧㄚˋ ㄎㄜˋ",
+                "xia4 ke4"
+            ],
+            "comment": "[V-sep] to finish class; to get out of class"
+        },
+        {
+            "question": "說話",
+            "answers": [
+                "ㄕㄨㄛ ㄏㄨㄚˋ",
+                "shuo1 hua4"
+            ],
+            "comment": "[V-sep] to speak; to say; to talk; to gossip; to tell stories; talk; word"
+        },
+        {
+            "question": "考試",
+            "answers": [
+                "ㄎㄠˇ ㄕˋ",
+                "kao3 shi4"
+            ],
+            "comment": "[V-sep] to take an exam; exam; CL:次[ci4]"
+        },
+        {
+            "question": "洗澡",
+            "answers": [
+                "ㄒㄧˇ ㄗㄠˇ",
+                "xi3 zao3"
+            ],
+            "comment": "[V-sep] to bathe; to take a shower"
+        },
+        {
+            "question": "睡覺",
+            "answers": [
+                "ㄕㄨㄟˋ ㄐㄧㄠˋ",
+                "ㄕㄨㄟˋ ㄐㄩㄝˊ",
+                "shui4 jiao4",
+                "shui4 jue2"
+            ],
+            "comment": "[V-sep] to go to bed; to sleep"
+        },
+        {
+            "question": "走路",
+            "answers": [
+                "ㄗㄡˇ ㄌㄨˋ",
+                "zou3 lu4"
+            ],
+            "comment": "[V-sep] to walk; to go on foot"
+        },
+        {
+            "question": "唱歌",
+            "answers": [
+                "ㄔㄤˋ ㄍㄜ",
+                "chang4 ge1"
+            ],
+            "comment": "[V-sep] to sing a song"
+        },
+        {
+            "question": "結婚",
+            "answers": [
+                "ㄐㄧㄝˊ ㄏㄨㄣ",
+                "jie2 hun1"
+            ],
+            "comment": "[Vp-sep] to marry; to get married; CL:次[ci4]"
+        },
+        {
+            "question": "上班",
+            "answers": [
+                "ㄕㄤˋ ㄅㄢ",
+                "shang4 ban1"
+            ],
+            "comment": "[V-sep] to go to work; to be on duty; to start work; to go to the office"
+        },
+        {
+            "question": "上學",
+            "answers": [
+                "ㄕㄤˋ ㄒㄩㄝˊ",
+                "shang4 xue2"
+            ],
+            "comment": "[V-sep] to go to school; to attend school"
+        },
+        {
+            "question": "請假",
+            "answers": [
+                "ㄑㄧㄥˇ ㄐㄧㄚˋ",
+                "qing3 jia4"
+            ],
+            "comment": "[V-sep] to request leave of absence"
+        },
+        {
+            "question": "讀書",
+            "answers": [
+                "ㄉㄨˊ ㄕㄨ",
+                "du2 shu1"
+            ],
+            "comment": "[V-sep] to read a book; to study; to attend school"
+        },
+        {
+            "question": "下雨",
+            "answers": [
+                "ㄒㄧㄚˋ ㄩˇ",
+                "xia4 yu3"
+            ],
+            "comment": "[V-sep] to rain"
+        },
+        {
+            "question": "下雪",
+            "answers": [
+                "ㄒㄧㄚˋ ㄒㄩㄝˇ",
+                "xia4 xue3"
+            ],
+            "comment": "[V-sep] to snow"
+        },
+        {
+            "question": "游泳",
+            "answers": [
+                "ㄧㄡˊ ㄩㄥˇ",
+                "you2 yong3"
+            ],
+            "comment": "[V-sep] swimming; to swim"
+        },
+        {
+            "question": "上網",
+            "answers": [
+                "ㄕㄤˋ ㄨㄤˇ",
+                "shang4 wang3"
+            ],
+            "comment": "[V-sep] to go online; to connect to the Internet; (of a document etc) to be uploaded to the Internet; (tennis, volleyball etc) to move in close to the net"
+        },
+        {
+            "question": "幫忙",
+            "answers": [
+                "ㄅㄤ ㄇㄤˊ",
+                "bang1 mang2"
+            ],
+            "comment": "[V-sep] to help; to lend a hand; to do a favor; to do a good turn"
+        },
+        {
+            "question": "照相",
+            "answers": [
+                "ㄓㄠˋ ㄒㄧㄤˋ",
+                "zhao4 xiang4"
+            ],
+            "comment": "[V-sep] to take a photograph"
+        },
+        {
+            "question": "生病",
+            "answers": [
+                "ㄕㄥ ㄅㄧㄥˋ",
+                "sheng1 bing4"
+            ],
+            "comment": "[Vp-sep] to fall ill"
+        },
+        {
+            "question": "受傷",
+            "answers": [
+                "ㄕㄡˋ ㄕㄤ",
+                "shou4 shang1"
+            ],
+            "comment": "[Vp-sep] to sustain injuries; wounded (in an accident etc); harmed"
+        },
+        {
+            "question": "生氣",
+            "answers": [
+                "ㄕㄥ ㄑㄧˋ",
+                "sheng1 qi4"
+            ],
+            "comment": "[Vs-sep] to get angry; to take offense; angry; vitality; liveliness"
+        },
+        {
+            "question": "傷心",
+            "answers": [
+                "ㄕㄤ ㄒㄧㄣ",
+                "shang1 xin1"
+            ],
+            "comment": "[Vs-sep] to grieve; to be broken-hearted; to feel deeply hurt"
+        },
+        {
+            "question": "教書",
+            "answers": [
+                "ㄐㄧㄠ ㄕㄨ",
+                "jiao1 shu1"
+            ],
+            "comment": "[V-sep] to teach (in a school)"
+        },
+        {
+            "question": "開會",
+            "answers": [
+                "ㄎㄞ ㄏㄨㄟˋ",
+                "kai1 hui4"
+            ],
+            "comment": "[V-sep] to hold a meeting; to attend a meeting"
+        },
+        {
+            "question": "下班",
+            "answers": [
+                "ㄒㄧㄚˋ ㄅㄢ",
+                "xia4 ban1"
+            ],
+            "comment": "[V-sep] to finish work; to get off work"
+        },
+        {
+            "question": "放假",
+            "answers": [
+                "ㄈㄤˋ ㄐㄧㄚˋ",
+                "fang4 jia4"
+            ],
+            "comment": "[V-sep] to have a holiday or vacation"
+        },
+        {
+            "question": "畢業",
+            "answers": [
+                "ㄅㄧˋ ㄧㄝˋ",
+                "bi4 ye4"
+            ],
+            "comment": "[Vp-sep] graduation; to graduate; to finish school"
+        },
+        {
+            "question": "講話",
+            "answers": [
+                "ㄐㄧㄤˇ ㄏㄨㄚˋ",
+                "jiang3 hua4"
+            ],
+            "comment": "[V-sep] a speech; to speak; to talk; to address; CL:個[ge4]"
+        },
+        {
+            "question": "散步",
+            "answers": [
+                "ㄙㄢˋ ㄅㄨˋ",
+                "san4 bu4"
+            ],
+            "comment": "[V-sep] to take a walk; to go for a walk"
+        },
+        {
+            "question": "聊天",
+            "answers": [
+                "ㄌㄧㄠˊ ㄊㄧㄢ",
+                "liao2 tian1"
+            ],
+            "comment": "[V-sep] to chat; to gossip"
+        },
+        {
+            "question": "跳舞",
+            "answers": [
+                "ㄊㄧㄠˋ ㄨˇ",
+                "tiao4 wu3"
+            ],
+            "comment": "[V-sep] to dance"
+        },
+        {
+            "question": "請客",
+            "answers": [
+                "ㄑㄧㄥˇ ㄎㄜˋ",
+                "qing3 ke4"
+            ],
+            "comment": "[V-sep] to give a dinner party; to entertain guests; to invite to dinner"
+        },
+        {
+            "question": "見面",
+            "answers": [
+                "ㄐㄧㄢˋ ㄇㄧㄢˋ",
+                "jian4 mian4"
+            ],
+            "comment": "[V-sep] to meet; to see each other; CL:次[ci4]"
+        },
+        {
+            "question": "發燒",
+            "answers": [
+                "ㄈㄚ ㄕㄠ",
+                "fa1 shao1"
+            ],
+            "comment": "[Vp-sep] to have a high temperature (from illness); to have a fever"
+        },
+        {
+            "question": "看病",
+            "answers": [
+                "ㄎㄢˋ ㄅㄧㄥˋ",
+                "kan4 bing4"
+            ],
+            "comment": "[V-sep] to visit a doctor; to see a patient"
+        },
+        {
+            "question": "掛號",
+            "answers": [
+                "ㄍㄨㄚˋ ㄏㄠˋ",
+                "gua4 hao4"
+            ],
+            "comment": "[V-sep] to register (at a hospital etc); to send by registered mail"
+        },
+        {
+            "question": "救命",
+            "answers": [
+                "ㄐㄧㄡˋ ㄇㄧㄥˋ",
+                "jiu4 ming4"
+            ],
+            "comment": "[V-sep] to save sb's life; (interj.) Help!; Save me!"
+        },
+        {
+            "question": "排隊",
+            "answers": [
+                "ㄆㄞˊ ㄉㄨㄟˋ",
+                "pai2 dui4"
+            ],
+            "comment": "[V-sep] to line up"
+        },
+        {
+            "question": "點菜",
+            "answers": [
+                "ㄉㄧㄢˇ ㄘㄞˋ",
+                "dian3 cai4"
+            ],
+            "comment": "[V-sep] to order dishes (in a restaurant)"
+        },
+        {
+            "question": "搬家",
+            "answers": [
+                "ㄅㄢ ㄐㄧㄚ",
+                "ban1 jia1"
+            ],
+            "comment": "[V-sep] to move house; removal"
+        },
+        {
+            "question": "報名",
+            "answers": [
+                "ㄅㄠˋ ㄇㄧㄥˊ",
+                "bao4 ming2"
+            ],
+            "comment": "[V-sep] to sign up; to enter one's name; to apply; to register; to enroll; to enlist"
+        },
+        {
+            "question": "吵架",
+            "answers": [
+                "ㄔㄠˇ ㄐㄧㄚˋ",
+                "chao3 jia4"
+            ],
+            "comment": "[V-sep] to quarrel; to have a row; quarrel; CL:頓[dun4]"
+        },
+        {
+            "question": "出差",
+            "answers": [
+                "ㄔㄨ ㄔㄞ",
+                "chu1 chai1"
+            ],
+            "comment": "[V-sep] to go on an official or business trip"
+        },
+        {
+            "question": "出門",
+            "answers": [
+                "ㄔㄨ ㄇㄣˊ",
+                "chu1 men2"
+            ],
+            "comment": "[V-sep] to go out; to leave home; to go on a journey; away from home; (of a woman) to get married"
+        },
+        {
+            "question": "打工",
+            "answers": [
+                "ㄉㄚˇ ㄍㄨㄥ",
+                "da3 gong1"
+            ],
+            "comment": "[V-sep] to work a temporary or casual job; (of students) to have a job outside of class time, or during vacation"
+        },
+        {
+            "question": "打架",
+            "answers": [
+                "ㄉㄚˇ ㄐㄧㄚˋ",
+                "da3 jia4"
+            ],
+            "comment": "[V-sep] to fight; to scuffle; to come to blows; CL:場[chang2]"
+        },
+        {
+            "question": "打仗",
+            "answers": [
+                "ㄉㄚˇ ㄓㄤˋ",
+                "da3 zhang4"
+            ],
+            "comment": "[V-sep] to fight a battle; to go to war"
+        },
+        {
+            "question": "打折",
+            "answers": [
+                "ㄉㄚˇ ㄓㄜˊ",
+                "da3 zhe2"
+            ],
+            "comment": "[V-sep] to give a discount"
+        },
+        {
+            "question": "道歉",
+            "answers": [
+                "ㄉㄠˋ ㄑㄧㄢˋ",
+                "dao4 qian4"
+            ],
+            "comment": "[V-sep] to apologize"
+        },
+        {
+            "question": "發財",
+            "answers": [
+                "ㄈㄚ ㄘㄞˊ",
+                "fa1 cai2"
+            ],
+            "comment": "[Vp-sep] to get rich"
+        },
+        {
+            "question": "放心",
+            "answers": [
+                "ㄈㄤˋ ㄒㄧㄣ",
+                "fang4 xin1"
+            ],
+            "comment": "[Vs-sep] to feel relieved; to feel reassured; to be at ease"
+        },
+        {
+            "question": "逛街",
+            "answers": [
+                "ㄍㄨㄤˋ ㄐㄧㄝ",
+                "guang4 jie1"
+            ],
+            "comment": "[V-sep] to take a walk; to window-shop; to stroll down the street"
+        },
+        {
+            "question": "滑雪",
+            "answers": [
+                "ㄏㄨㄚˊ ㄒㄩㄝˇ",
+                "hua2 xue3"
+            ],
+            "comment": "[V-sep] to ski; skiing"
+        },
+        {
+            "question": "舉手",
+            "answers": [
+                "ㄐㄩˇ ㄕㄡˇ",
+                "ju3 shou3"
+            ],
+            "comment": "[V-sep] to raise a hand; to put up one's hand (as signal)"
+        },
+        {
+            "question": "開花",
+            "answers": [
+                "ㄎㄞ ㄏㄨㄚ",
+                "kai1 hua1"
+            ],
+            "comment": "[Vp-sep] to bloom; to blossom; to flower; fig. to burst open; to feel happy or elated; new development grows out"
+        },
+        {
+            "question": "開玩笑",
+            "answers": [
+                "ㄎㄞ ㄨㄢˊ ㄒㄧㄠˋ",
+                "kai1 wan2 xiao4"
+            ],
+            "comment": "[V-sep] to play a joke; to make fun of; to joke"
+        },
+        {
+            "question": "拉肚子",
+            "answers": [
+                "ㄌㄚ ㄉㄨˋ ㄗ˙",
+                "la1 du4 zi5"
+            ],
+            "comment": "[V-sep] (coll.) to have diarrhea"
+        },
+        {
+            "question": "離婚",
+            "answers": [
+                "ㄌㄧˊ ㄏㄨㄣ",
+                "li2 hun1"
+            ],
+            "comment": "[Vp-sep] to divorce; divorced from (one's spouse)"
+        },
+        {
+            "question": "流汗",
+            "answers": [
+                "ㄌㄧㄡˊ ㄏㄢˋ",
+                "liu2 han4"
+            ],
+            "comment": "[V-sep] to sweat"
+        },
+        {
+            "question": "流血",
+            "answers": [
+                "ㄌㄧㄡˊ ㄒㄧㄝˇ",
+                "liu2 xie3"
+            ],
+            "comment": "[V-sep] to bleed; to shed blood"
+        },
+        {
+            "question": "錄音",
+            "answers": [
+                "ㄌㄨˋ ㄧㄣ",
+                "lu4 yin1"
+            ],
+            "comment": "[V-sep] to record (sound); sound recording; CL:個[ge4]"
+        },
+        {
+            "question": "露營",
+            "answers": [
+                "ㄌㄨˋ ㄧㄥˊ",
+                "lu4 ying2"
+            ],
+            "comment": "[V-sep] to camp out; camping"
+        },
+        {
+            "question": "迷路",
+            "answers": [
+                "ㄇㄧˊ ㄌㄨˋ",
+                "mi2 lu4"
+            ],
+            "comment": "[Vp-sep] to lose the way; lost; labyrinth; labyrinthus vestibularis (of the inner ear)"
+        },
+        {
+            "question": "念書",
+            "answers": [
+                "ㄋㄧㄢˋ ㄕㄨ",
+                "nian4 shu1"
+            ],
+            "comment": "[V-sep] to read; to study"
+        },
+        {
+            "question": "簽名",
+            "answers": [
+                "ㄑㄧㄢ ㄇㄧㄥˊ",
+                "qian1 ming2"
+            ],
+            "comment": "[V-sep] to sign (one's name with a pen etc); to autograph; signature"
+        },
+        {
+            "question": "省錢",
+            "answers": [
+                "ㄕㄥˇ ㄑㄧㄢˊ",
+                "sheng3 qian2"
+            ],
+            "comment": "[Vs-sep] to save money"
+        },
+        {
+            "question": "刷牙",
+            "answers": [
+                "ㄕㄨㄚ ㄧㄚˊ",
+                "shua1 ya2"
+            ],
+            "comment": "[V-sep] to brush one's teeth"
+        },
+        {
+            "question": "談話",
+            "answers": [
+                "ㄊㄢˊ ㄏㄨㄚˋ",
+                "tan2 hua4"
+            ],
+            "comment": "[V-sep] talk; conversation; CL:次[ci4]"
+        },
+        {
+            "question": "握手",
+            "answers": [
+                "ㄨㄛˋ ㄕㄡˇ",
+                "wo4 shou3"
+            ],
+            "comment": "[V-sep] to shake hands"
+        },
+        {
+            "question": "吸毒",
+            "answers": [
+                "ㄒㄧ ㄉㄨˊ",
+                "xi1 du2"
+            ],
+            "comment": "[V-sep] to take drugs"
+        },
+        {
+            "question": "找錢",
+            "answers": [
+                "ㄓㄠˇ ㄑㄧㄢˊ",
+                "zhao3 qian2"
+            ],
+            "comment": "[V-sep] to give change"
+        },
+        {
+            "question": "做夢",
+            "answers": [
+                "ㄗㄨㄛˋ ㄇㄥˋ",
+                "zuo4 meng4"
+            ],
+            "comment": "[V-sep] to dream; to have a dream; fig. illusion; fantasy; pipe dream"
+        },
+        {
+            "question": "拜年",
+            "answers": [
+                "ㄅㄞˋ ㄋㄧㄢˊ",
+                "bai4 nian2"
+            ],
+            "comment": "[V-sep] to pay a New Year call; to wish sb a Happy New Year"
+        },
+        {
+            "question": "報仇",
+            "answers": [
+                "ㄅㄠˋ ㄔㄡˊ",
+                "bao4 chou2"
+            ],
+            "comment": "[V-sep] to take revenge; to avenge"
+        },
+        {
+            "question": "報警",
+            "answers": [
+                "ㄅㄠˋ ㄐㄧㄥˇ",
+                "bao4 jing3"
+            ],
+            "comment": "[V-sep] to sound an alarm; to report sth to the police"
+        },
+        {
+            "question": "補課",
+            "answers": [
+                "ㄅㄨˇ ㄎㄜˋ",
+                "bu3 ke4"
+            ],
+            "comment": "[V-sep] to make up missed lesson; to reschedule a class"
+        },
+        {
+            "question": "補習",
+            "answers": [
+                "ㄅㄨˇ ㄒㄧˊ",
+                "bu3 xi2"
+            ],
+            "comment": "[V-sep] to take extra lessons in a cram school or with a private tutor"
+        },
+        {
+            "question": "出事",
+            "answers": [
+                "ㄔㄨ ㄕˋ",
+                "chu1 shi4"
+            ],
+            "comment": "[Vp-sep] to have an accident; to meet with a mishap"
+        },
+        {
+            "question": "打招呼",
+            "answers": [
+                "ㄉㄚˇ ㄓㄠ ㄏㄨ",
+                "da3 zhao1 hu1"
+            ],
+            "comment": "[V-sep] to greet sb by word or action; to give prior notice"
+        },
+        {
+            "question": "打針",
+            "answers": [
+                "ㄉㄚˇ ㄓㄣ",
+                "da3 zhen1"
+            ],
+            "comment": "[V-sep] to give or have an injection"
+        },
+        {
+            "question": "打字",
+            "answers": [
+                "ㄉㄚˇ ㄗˋ",
+                "da3 zi4"
+            ],
+            "comment": "[V-sep] to type"
+        },
+        {
+            "question": "貸款",
+            "answers": [
+                "ㄉㄞˋ ㄎㄨㄢˇ",
+                "dai4 kuan3"
+            ],
+            "comment": "[V-sep] a loan; CL:筆[bi3]; to provide a loan (e.g. bank); to raise a loan (from e.g. a bank)"
+        },
+        {
+            "question": "得分",
+            "answers": [
+                "ㄉㄜˊ ㄈㄣ",
+                "de2 fen1"
+            ],
+            "comment": "[Vs-sep] to score"
+        },
+        {
+            "question": "得獎",
+            "answers": [
+                "ㄉㄜˊ ㄐㄧㄤˇ",
+                "de2 jiang3"
+            ],
+            "comment": "[V-sep] to win a prize"
+        },
+        {
+            "question": "登山",
+            "answers": [
+                "ㄉㄥ ㄕㄢ",
+                "deng1 shan1"
+            ],
+            "comment": "[V-sep] to climb a mountain; climbing; mountaineering"
+        },
+        {
+            "question": "點頭",
+            "answers": [
+                "ㄉㄧㄢˇ ㄊㄡˊ",
+                "dian3 tou2"
+            ],
+            "comment": "[V-sep] to nod"
+        },
+        {
+            "question": "訂婚",
+            "answers": [
+                "ㄉㄧㄥˋ ㄏㄨㄣ",
+                "ding4 hun1"
+            ],
+            "comment": "[V-sep] to get engaged"
+        },
+        {
+            "question": "訂位",
+            "answers": [
+                "ㄉㄧㄥˋ ㄨㄟˋ",
+                "ding4 wei4"
+            ],
+            "comment": "[V-sep] to reserve a seat; to book a table; reservation"
+        },
+        {
+            "question": "丟臉",
+            "answers": [
+                "ㄉㄧㄡ ㄌㄧㄢˇ",
+                "diu1 lian3"
+            ],
+            "comment": "[Vs-sep] to lose face; humiliation"
+        },
+        {
+            "question": "發言",
+            "answers": [
+                "ㄈㄚ ㄧㄢˊ",
+                "fa1 yan2"
+            ],
+            "comment": "[V-sep] to make a speech; statement; utterance; CL:個[ge4]"
+        },
+        {
+            "question": "犯錯",
+            "answers": [
+                "ㄈㄢˋ ㄘㄨㄛˋ",
+                "fan4 cuo4"
+            ],
+            "comment": "[V-sep] to err; to make a mistake; to do the wrong thing"
+        },
+        {
+            "question": "犯法",
+            "answers": [
+                "ㄈㄢˋ ㄈㄚˇ",
+                "fan4 fa3"
+            ],
+            "comment": "[V-sep] to break the law"
+        },
+        {
+            "question": "犯罪",
+            "answers": [
+                "ㄈㄢˋ ㄗㄨㄟˋ",
+                "fan4 zui4"
+            ],
+            "comment": "[V-sep] to commit a crime; crime; offense"
+        },
+        {
+            "question": "放學",
+            "answers": [
+                "ㄈㄤˋ ㄒㄩㄝˊ",
+                "fang4 xue2"
+            ],
+            "comment": "[Vp-sep] to dismiss students at the end of the school day"
+        },
+        {
+            "question": "過節",
+            "answers": [
+                "ㄍㄨㄛˋ ㄐㄧㄝˊ",
+                "guo4 jie2"
+            ],
+            "comment": "[V-sep] to celebrate a festival; after the celebrations (i.e. once the festival is over)"
+        },
+        {
+            "question": "回電",
+            "answers": [
+                "ㄏㄨㄟˊ ㄉㄧㄢˋ",
+                "hui2 dian4"
+            ],
+            "comment": "[V-sep] to reply to a telegram; to wire back"
+        },
+        {
+            "question": "回頭",
+            "answers": [
+                "ㄏㄨㄟˊ ㄊㄡˊ",
+                "hui2 tou2"
+            ],
+            "comment": "[V-sep] to turn round; to turn one's head; later; by and by"
+        },
+        {
+            "question": "回信",
+            "answers": [
+                "ㄏㄨㄟˊ ㄒㄧㄣˋ",
+                "hui2 xin4"
+            ],
+            "comment": "[V-sep] to reply; to write back; letter written in reply; CL:封[feng1]"
+        },
+        {
+            "question": "匯款",
+            "answers": [
+                "ㄏㄨㄟˋ ㄎㄨㄢˇ",
+                "hui4 kuan3"
+            ],
+            "comment": "[V-sep] to remit money; remittance"
+        },
+        {
+            "question": "加班",
+            "answers": [
+                "ㄐㄧㄚ ㄅㄢ",
+                "jia1 ban1"
+            ],
+            "comment": "[V-sep] to work overtime"
+        },
+        {
+            "question": "加工",
+            "answers": [
+                "ㄐㄧㄚ ㄍㄨㄥ",
+                "jia1 gong1"
+            ],
+            "comment": "[V-sep] to process; processing; working (of machinery)"
+        },
+        {
+            "question": "降價",
+            "answers": [
+                "ㄐㄧㄤˋ ㄐㄧㄚˋ",
+                "jiang4 jia4"
+            ],
+            "comment": "[Vp-sep] to cut the price; to drive down the price; to get cheaper"
+        },
+        {
+            "question": "結果",
+            "answers": [
+                "ㄐㄧㄝˊ ㄍㄨㄛˇ",
+                "jie2 guo3"
+            ],
+            "comment": "[Vp-sep] to bear fruit; CL:個[ge4]; outcome; result; conclusion; in the end; as a result; to kill; to dispatch"
+        },
+        {
+            "question": "敬酒",
+            "answers": [
+                "ㄐㄧㄥˋ ㄐㄧㄡˇ",
+                "jing4 jiu3"
+            ],
+            "comment": "[V-sep] to toast; to propose a toast"
+        },
+        {
+            "question": "敬禮",
+            "answers": [
+                "ㄐㄧㄥˋ ㄌㄧˇ",
+                "jing4 li3"
+            ],
+            "comment": "[V-sep] to salute; salute"
+        },
+        {
+            "question": "捐款",
+            "answers": [
+                "ㄐㄩㄢ ㄎㄨㄢˇ",
+                "juan1 kuan3"
+            ],
+            "comment": "[V-sep] to donate money; to contribute funds; donation; contribution (of money)"
+        },
+        {
+            "question": "開刀",
+            "answers": [
+                "ㄎㄞ ㄉㄠ",
+                "kai1 dao1"
+            ],
+            "comment": "[V-sep] (of a surgeon) to perform an operation; (of a patient) to have an operation; to decapitate; to behead; to single out as a point of attack"
+        },
+        {
+            "question": "開戶",
+            "answers": [
+                "ㄎㄞ ㄏㄨˋ",
+                "kai1 hu4"
+            ],
+            "comment": "[V-sep] to open an account (bank etc)"
+        },
+        {
+            "question": "開課",
+            "answers": [
+                "ㄎㄞ ㄎㄜˋ",
+                "kai1 ke4"
+            ],
+            "comment": "[V-sep] school begins; give a course; teach a subject"
+        },
+        {
+            "question": "買單",
+            "answers": [
+                "ㄇㄞˇ ㄉㄢ",
+                "mai3 dan1"
+            ],
+            "comment": "[V-sep] to pay the restaurant bill"
+        },
+        {
+            "question": "簽約",
+            "answers": [
+                "ㄑㄧㄢ ㄩㄝ",
+                "qian1 yue1"
+            ],
+            "comment": "[V-sep] to sign a contract or agreement"
+        },
+        {
+            "question": "簽字",
+            "answers": [
+                "ㄑㄧㄢ ㄗˋ",
+                "qian1 zi4"
+            ],
+            "comment": "[V-sep] to sign (one's name); signature"
+        },
+        {
+            "question": "求婚",
+            "answers": [
+                "ㄑㄧㄡˊ ㄏㄨㄣ",
+                "qiu2 hun1"
+            ],
+            "comment": "[V-sep] to propose marriage"
+        },
+        {
+            "question": "殺價",
+            "answers": [
+                "ㄕㄚ ㄐㄧㄚˋ",
+                "sha1 jia4"
+            ],
+            "comment": "[V-sep] to beat down the price; to haggle; to slash one's prices"
+        },
+        {
+            "question": "上台",
+            "answers": [
+                "ㄕㄤˋ ㄊㄞˊ",
+                "shang4 tai2"
+            ],
+            "comment": "[V-sep] to rise to power (in politics); to go on stage (in the theater)"
+        },
+        {
+            "question": "刷卡",
+            "answers": [
+                "ㄕㄨㄚ ㄎㄚˇ",
+                "shua1 ka3"
+            ],
+            "comment": "[V-sep] to use a credit card (or swipe card, smart card etc)"
+        },
+        {
+            "question": "算帳",
+            "answers": [
+                "ㄙㄨㄢˋ ㄓㄤˋ",
+                "suan4 zhang4"
+            ],
+            "comment": "[V-sep] to reckon (accounting); to balance an account; fig. to settle an account; to get one's revenge"
+        },
+        {
+            "question": "抬頭",
+            "answers": [
+                "ㄊㄞˊ ㄊㄡˊ",
+                "tai2 tou2"
+            ],
+            "comment": "[V-sep] to raise one's head; to gain ground; account name, or space for writing the name on checks, bills etc"
+        },
+        {
+            "question": "探親",
+            "answers": [
+                "ㄊㄢˋ ㄑㄧㄣ",
+                "tan4 qin1"
+            ],
+            "comment": "[V-sep] to go home to visit one's family"
+        },
+        {
+            "question": "通信",
+            "answers": [
+                "ㄊㄨㄥ ㄒㄧㄣˋ",
+                "tong1 xin4"
+            ],
+            "comment": "[V-sep] to correspond (by letter etc); to communicate; communication"
+        },
+        {
+            "question": "投票",
+            "answers": [
+                "ㄊㄡˊ ㄆㄧㄠˋ",
+                "tou2 piao4"
+            ],
+            "comment": "[V-sep] to vote; vote"
+        },
+        {
+            "question": "彎腰",
+            "answers": [
+                "ㄨㄢ ㄧㄠ",
+                "wan1 yao1"
+            ],
+            "comment": "[V-sep] to stoop"
+        },
+        {
+            "question": "吸菸",
+            "answers": [
+                "ㄒㄧ ㄧㄢ",
+                "xi1 yan1"
+            ],
+            "comment": "[V-sep] to smoke"
+        },
+        {
+            "question": "下棋",
+            "answers": [
+                "ㄒㄧㄚˋ ㄑㄧˊ",
+                "xia4 qi2"
+            ],
+            "comment": "[V-sep] to play chess"
+        },
+        {
+            "question": "相親",
+            "answers": [
+                "ㄒㄧㄤ ㄑㄧㄣ",
+                "ㄒㄧㄤˋ ㄑㄧㄣ",
+                "xiang1 qin1",
+                "xiang4 qin1"
+            ],
+            "comment": "[V-sep] blind date; arranged interview to evaluate a proposed marriage partner (Taiwan pr. [xiang4 qin1]); to be deeply attached to each other"
+        },
+        {
+            "question": "休假",
+            "answers": [
+                "ㄒㄧㄡ ㄐㄧㄚˋ",
+                "xiu1 jia4"
+            ],
+            "comment": "[V-sep] to take a vacation; to go on holiday"
+        },
+        {
+            "question": "許願",
+            "answers": [
+                "ㄒㄩˇ ㄩㄢˋ",
+                "xu3 yuan4"
+            ],
+            "comment": "[V-sep] to make a wish; to make a vow; to promise a reward"
+        },
+        {
+            "question": "搖頭",
+            "answers": [
+                "ㄧㄠˊ ㄊㄡˊ",
+                "yao2 tou2"
+            ],
+            "comment": "[V-sep] to shake one's head"
+        },
+        {
+            "question": "用力",
+            "answers": [
+                "ㄩㄥˋ ㄌㄧˋ",
+                "yong4 li4"
+            ],
+            "comment": "[Vs-sep] to exert oneself physically"
+        },
+        {
+            "question": "用心",
+            "answers": [
+                "ㄩㄥˋ ㄒㄧㄣ",
+                "yong4 xin1"
+            ],
+            "comment": "[Vs-sep] motive; intention; to be diligent or attentive; careful"
+        },
+        {
+            "question": "造句",
+            "answers": [
+                "ㄗㄠˋ ㄐㄩˋ",
+                "zao4 ju4"
+            ],
+            "comment": "[V-sep] sentence-making"
+        },
+        {
+            "question": "漲價",
+            "answers": [
+                "ㄓㄤˇ ㄐㄧㄚˋ",
+                "zhang3 jia4"
+            ],
+            "comment": "[Vp-sep] to appreciate (in value); to increase in price"
+        },
+        {
+            "question": "招手",
+            "answers": [
+                "ㄓㄠ ㄕㄡˇ",
+                "zhao1 shou3"
+            ],
+            "comment": "[V-sep] to wave; to beckon"
+        },
+        {
+            "question": "中毒",
+            "answers": [
+                "ㄓㄨㄥˋ ㄉㄨˊ",
+                "zhong4 du2"
+            ],
+            "comment": "[Vp-sep] to be poisoned; poisoning"
+        },
+        {
+            "question": "住院",
+            "answers": [
+                "ㄓㄨˋ ㄩㄢˋ",
+                "zhu4 yuan4"
+            ],
+            "comment": "[V-sep] to be in hospital; to be hospitalized"
+        },
+        {
+            "question": "註冊",
+            "answers": [
+                "ㄓㄨˋ ㄘㄜˋ",
+                "zhu4 ce4"
+            ],
+            "comment": "[V-sep] to register; to enroll"
+        },
+        {
+            "question": "頒獎",
+            "answers": [
+                "ㄅㄢ ㄐㄧㄤˇ",
+                "ban1 jiang3"
+            ],
+            "comment": "[V-sep] to confer an award"
+        },
+        {
+            "question": "辦案",
+            "answers": [
+                "ㄅㄢˋ ㄢˋ",
+                "ban4 an4"
+            ],
+            "comment": "[V-sep] to handle a case"
+        },
+        {
+            "question": "報案",
+            "answers": [
+                "ㄅㄠˋ ㄢˋ",
+                "bao4 an4"
+            ],
+            "comment": "[V-sep] to report a case to the authorities"
+        },
+        {
+            "question": "報關",
+            "answers": [
+                "ㄅㄠˋ ㄍㄨㄢ",
+                "bao4 guan1"
+            ],
+            "comment": "[V-sep] to declare at customs"
+        },
+        {
+            "question": "避孕",
+            "answers": [
+                "ㄅㄧˋ ㄩㄣˋ",
+                "bi4 yun4"
+            ],
+            "comment": "[V-sep] contraception"
+        },
+        {
+            "question": "插嘴",
+            "answers": [
+                "ㄔㄚ ㄗㄨㄟˇ",
+                "cha1 zui3"
+            ],
+            "comment": "[V-sep] to interrupt (sb talking); to butt in; to cut into a conversation"
+        },
+        {
+            "question": "抽樣",
+            "answers": [
+                "ㄔㄡ ㄧㄤˋ",
+                "chou1 yang4"
+            ],
+            "comment": "[V-sep] sample; sampling"
+        },
+        {
+            "question": "出錯",
+            "answers": [
+                "ㄔㄨ ㄘㄨㄛˋ",
+                "chu1 cuo4"
+            ],
+            "comment": "[Vp-sep] to make a mistake; error"
+        },
+        {
+            "question": "出力",
+            "answers": [
+                "ㄔㄨ ㄌㄧˋ",
+                "chu1 li4"
+            ],
+            "comment": "[V-sep] to exert oneself"
+        },
+        {
+            "question": "創業",
+            "answers": [
+                "ㄔㄨㄤˋ ㄧㄝˋ",
+                "chuang4 ye4"
+            ],
+            "comment": "[V-sep] to begin an undertaking; to start a major task; to initiate; to venture; venture; entrepreneurship"
+        },
+        {
+            "question": "吹牛",
+            "answers": [
+                "ㄔㄨㄟ ㄋㄧㄡˊ",
+                "chui1 niu2"
+            ],
+            "comment": "[V-sep] to talk big; to shoot off one's mouth; to chat (dialect)"
+        },
+        {
+            "question": "打賭",
+            "answers": [
+                "ㄉㄚˇ ㄉㄨˇ",
+                "da3 du3"
+            ],
+            "comment": "[V-sep] to bet; to make a bet; a wager"
+        },
+        {
+            "question": "打獵",
+            "answers": [
+                "ㄉㄚˇ ㄌㄧㄝˋ",
+                "da3 lie4"
+            ],
+            "comment": "[V-sep] to go hunting"
+        },
+        {
+            "question": "打牌",
+            "answers": [
+                "ㄉㄚˇ ㄆㄞˊ",
+                "da3 pai2"
+            ],
+            "comment": "[V-sep] to play mahjong or cards"
+        },
+        {
+            "question": "代課",
+            "answers": [
+                "ㄉㄞˋ ㄎㄜˋ",
+                "dai4 ke4"
+            ],
+            "comment": "[V-sep] to teach as substitute for absent teacher"
+        },
+        {
+            "question": "當兵",
+            "answers": [
+                "ㄉㄤ ㄅㄧㄥ",
+                "dang1 bing1"
+            ],
+            "comment": "[V-sep] to serve in the army; to be a soldier"
+        },
+        {
+            "question": "釣魚",
+            "answers": [
+                "ㄉㄧㄠˋ ㄩˊ",
+                "diao4 yu2"
+            ],
+            "comment": "[V-sep] to fish (with line and hook); to dupe"
+        },
+        {
+            "question": "墮胎",
+            "answers": [
+                "ㄉㄨㄛˋ ㄊㄞ",
+                "duo4 tai1"
+            ],
+            "comment": "[V-sep] to induce an abortion; induced abortion"
+        },
+        {
+            "question": "發誓",
+            "answers": [
+                "ㄈㄚ ㄕˋ",
+                "fa1 shi4"
+            ],
+            "comment": "[V-sep] to vow; to pledge; to swear"
+        },
+        {
+            "question": "翻身",
+            "answers": [
+                "ㄈㄢ ㄕㄣ",
+                "fan1 shen1"
+            ],
+            "comment": "[V-sep] to turn over (when lying); (fig.) to free oneself; to emancipate oneself; to bring about a change of one's fortunes"
+        },
+        {
+            "question": "犯規",
+            "answers": [
+                "ㄈㄢˋ ㄍㄨㄟ",
+                "fan4 gui1"
+            ],
+            "comment": "[V-sep] to break the rules; an illegality; a foul"
+        },
+        {
+            "question": "分級",
+            "answers": [
+                "ㄈㄣ ㄐㄧˊ",
+                "fen1 ji2"
+            ],
+            "comment": "[V-sep] to rank; to grade; to classify; rank; grade; classification"
+        },
+        {
+            "question": "分家",
+            "answers": [
+                "ㄈㄣ ㄐㄧㄚ",
+                "fen1 jia1"
+            ],
+            "comment": "[V-sep] to separate and live apart; division of a large family into smaller groups"
+        },
+        {
+            "question": "服刑",
+            "answers": [
+                "ㄈㄨˊ ㄒㄧㄥˊ",
+                "fu2 xing2"
+            ],
+            "comment": "[V-sep] to serve a prison sentence"
+        },
+        {
+            "question": "付款",
+            "answers": [
+                "ㄈㄨˋ ㄎㄨㄢˇ",
+                "fu4 kuan3"
+            ],
+            "comment": "[V-sep] to pay a sum of money; payment"
+        },
+        {
+            "question": "蓋章",
+            "answers": [
+                "ㄍㄞˋ ㄓㄤ",
+                "gai4 zhang1"
+            ],
+            "comment": "[V-sep] to affix a seal; to stamp (a document); to sign off on sth"
+        },
+        {
+            "question": "告狀",
+            "answers": [
+                "ㄍㄠˋ ㄓㄨㄤˋ",
+                "gao4 zhuang4"
+            ],
+            "comment": "[V-sep] to tell on sb; to complain (to a teacher, a superior etc); to bring a lawsuit"
+        },
+        {
+            "question": "估價",
+            "answers": [
+                "ㄍㄨ ㄐㄧㄚˋ",
+                "gu1 jia4"
+            ],
+            "comment": "[V-sep] to value; to appraise; to be valued at; estimate; valuation"
+        },
+        {
+            "question": "過關",
+            "answers": [
+                "ㄍㄨㄛˋ ㄍㄨㄢ",
+                "guo4 guan1"
+            ],
+            "comment": "[V-sep] to cross a barrier; to get through (an ordeal); to pass (a test); to reach (a standard)"
+        },
+        {
+            "question": "加薪",
+            "answers": [
+                "ㄐㄧㄚ ㄒㄧㄣ",
+                "jia1 xin1"
+            ],
+            "comment": "[V-sep] to raise salary"
+        },
+        {
+            "question": "交貨",
+            "answers": [
+                "ㄐㄧㄠ ㄏㄨㄛˋ",
+                "jiao1 huo4"
+            ],
+            "comment": "[V-sep] to deliver goods"
+        },
+        {
+            "question": "解約",
+            "answers": [
+                "ㄐㄧㄝˇ ㄩㄝ",
+                "jie3 yue1"
+            ],
+            "comment": "[Vp-sep] to terminate an agreement; to cancel a contract"
+        },
+        {
+            "question": "舉例",
+            "answers": [
+                "ㄐㄩˇ ㄌㄧˋ",
+                "ju3 li4"
+            ],
+            "comment": "[V-sep] to give an example"
+        },
+        {
+            "question": "聚餐",
+            "answers": [
+                "ㄐㄩˋ ㄘㄢ",
+                "ju4 can1"
+            ],
+            "comment": "[V-sep] communal meal; formal dinner of club or group"
+        },
+        {
+            "question": "開口",
+            "answers": [
+                "ㄎㄞ ㄎㄡˇ",
+                "kai1 kou3"
+            ],
+            "comment": "[V-sep] to open one's mouth; to start to talk"
+        },
+        {
+            "question": "開路",
+            "answers": [
+                "ㄎㄞ ㄌㄨˋ",
+                "kai1 lu4"
+            ],
+            "comment": "[V-sep] to open up a path; to make one's way through; to construct a road; (electricity) open circuit"
+        },
+        {
+            "question": "拉票",
+            "answers": [
+                "ㄌㄚ ㄆㄧㄠˋ",
+                "la1 piao4"
+            ],
+            "comment": "[V-sep] to campaign for votes; to ask voters for support"
+        },
+        {
+            "question": "連線",
+            "answers": [
+                "ㄌㄧㄢˊ ㄒㄧㄢˋ",
+                "lian2 xian4"
+            ],
+            "comment": "[V-sep] electrical lead; connecting line; (Tw) to connect (to a network, device etc); to go online; connection; (congressional) caucus"
+        },
+        {
+            "question": "溜冰",
+            "answers": [
+                "ㄌㄧㄡ ㄅㄧㄥ",
+                "liu1 bing1"
+            ],
+            "comment": "[V-sep] ice skating"
+        },
+        {
+            "question": "錄影",
+            "answers": [
+                "ㄌㄨˋ ㄧㄥˇ",
+                "lu4 ying3"
+            ],
+            "comment": "[V-sep] to videotape; to videorecord"
+        },
+        {
+            "question": "命名",
+            "answers": [
+                "ㄇㄧㄥˋ ㄇㄧㄥˊ",
+                "ming4 ming2"
+            ],
+            "comment": "[V-sep] to give a name to; to dub; to christen; to designate; named after; naming"
+        },
+        {
+            "question": "納稅",
+            "answers": [
+                "ㄋㄚˋ ㄕㄨㄟˋ",
+                "na4 shui4"
+            ],
+            "comment": "[V-sep] to pay taxes"
+        },
+        {
+            "question": "拍照",
+            "answers": [
+                "ㄆㄞ ㄓㄠˋ",
+                "pai1 zhao4"
+            ],
+            "comment": "[V-sep] to take a picture"
+        },
+        {
+            "question": "配音",
+            "answers": [
+                "ㄆㄟˋ ㄧㄣ",
+                "pei4 yin1"
+            ],
+            "comment": "[V-sep] dubbing (filmmaking)"
+        },
+        {
+            "question": "噴漆",
+            "answers": [
+                "ㄆㄣ ㄑㄧ",
+                "pen1 qi1"
+            ],
+            "comment": "[V-sep] to spray paint or lacquer; lacquer"
+        },
+        {
+            "question": "破案",
+            "answers": [
+                "ㄆㄛˋ ㄢˋ",
+                "po4 an4"
+            ],
+            "comment": "[V-sep] to solve a case; shabby old table"
+        },
+        {
+            "question": "破例",
+            "answers": [
+                "ㄆㄛˋ ㄌㄧˋ",
+                "po4 li4"
+            ],
+            "comment": "[Vp-sep] to make an exception"
+        },
+        {
+            "question": "翹課",
+            "answers": [
+                "ㄑㄧㄠˋ ㄎㄜˋ",
+                "qiao4 ke4"
+            ],
+            "comment": "[V-sep] to skip school; to cut class"
+        },
+        {
+            "question": "撒謊",
+            "answers": [
+                "ㄙㄚ ㄏㄨㄤˇ",
+                "sa1 huang3"
+            ],
+            "comment": "[V-sep] to tell lies"
+        },
+        {
+            "question": "剎車",
+            "answers": [
+                "ㄕㄚ ㄔㄜ",
+                "sha1 che1"
+            ],
+            "comment": "[V-sep] to brake (when driving); to stop; to switch off; to check (bad habits); a brake"
+        },
+        {
+            "question": "燒香",
+            "answers": [
+                "ㄕㄠ ㄒㄧㄤ",
+                "shao1 xiang1"
+            ],
+            "comment": "[V-sep] to burn incense"
+        },
+        {
+            "question": "生火",
+            "answers": [
+                "ㄕㄥ ㄏㄨㄛˇ",
+                "sheng1 huo3"
+            ],
+            "comment": "[V-sep] to make a fire; to light a fire"
+        },
+        {
+            "question": "施肥",
+            "answers": [
+                "ㄕ ㄈㄟˊ",
+                "shi1 fei2"
+            ],
+            "comment": "[V-sep] to spread manure; to apply fertilizer"
+        },
+        {
+            "question": "收費",
+            "answers": [
+                "ㄕㄡ ㄈㄟˋ",
+                "shou1 fei4"
+            ],
+            "comment": "[V-sep] to charge a fee"
+        },
+        {
+            "question": "受訓",
+            "answers": [
+                "ㄕㄡˋ ㄒㄩㄣˋ",
+                "shou4 xun4"
+            ],
+            "comment": "[V-sep] to receive training"
+        },
+        {
+            "question": "授課",
+            "answers": [
+                "ㄕㄡˋ ㄎㄜˋ",
+                "shou4 ke4"
+            ],
+            "comment": "[V-sep] to teach; to give lessons"
+        },
+        {
+            "question": "輸血",
+            "answers": [
+                "ㄕㄨ ㄒㄧㄝˇ",
+                "shu1 xie3"
+            ],
+            "comment": "[V-sep] to transfuse blood; to give aid and support"
+        },
+        {
+            "question": "說謊",
+            "answers": [
+                "ㄕㄨㄛ ㄏㄨㄤˇ",
+                "shuo1 huang3"
+            ],
+            "comment": "[V-sep] to lie; to tell an untruth"
+        },
+        {
+            "question": "算命",
+            "answers": [
+                "ㄙㄨㄢˋ ㄇㄧㄥˋ",
+                "suan4 ming4"
+            ],
+            "comment": "[V-sep] fortune-telling; to tell fortune"
+        },
+        {
+            "question": "探病",
+            "answers": [
+                "ㄊㄢˋ ㄅㄧㄥˋ",
+                "tan4 bing4"
+            ],
+            "comment": "[V-sep] to visit a sick person or patient"
+        },
+        {
+            "question": "逃稅",
+            "answers": [
+                "ㄊㄠˊ ㄕㄨㄟˋ",
+                "tao2 shui4"
+            ],
+            "comment": "[V-sep] to evade a tax"
+        },
+        {
+            "question": "違約",
+            "answers": [
+                "ㄨㄟˊ ㄩㄝ",
+                "wei2 yue1"
+            ],
+            "comment": "[V-sep] to break a promise; to violate an agreement; to default (on a loan or contract)"
+        },
+        {
+            "question": "下水",
+            "answers": [
+                "ㄒㄧㄚˋ ㄕㄨㄟ˙",
+                "ㄒㄧㄚˋ ㄕㄨㄟˇ",
+                "xia4 shui5",
+                "xia4 shui3"
+            ],
+            "comment": "[V-sep] downstream; to go into the water; to put into water; to launch (a ship); fig. to fall into bad ways; to lead astray; to go to pot; offal; viscera; tripe"
+        },
+        {
+            "question": "獻身",
+            "answers": [
+                "ㄒㄧㄢˋ ㄕㄣ",
+                "xian4 shen1"
+            ],
+            "comment": "[V-sep] to commit one's energy to; to devote oneself to; to sacrifice one's life for; (coll.) (of a woman) to give one's virginity to"
+        },
+        {
+            "question": "消毒",
+            "answers": [
+                "ㄒㄧㄠ ㄉㄨˊ",
+                "xiao1 du2"
+            ],
+            "comment": "[V-sep] to disinfect; to sterilize"
+        },
+        {
+            "question": "值班",
+            "answers": [
+                "ㄓˊ ㄅㄢ",
+                "zhi2 ban1"
+            ],
+            "comment": "[V-sep] to work a shift; on duty"
+        },
+        {
+            "question": "轉帳",
+            "answers": [
+                "ㄓㄨㄢˇ ㄓㄤˋ",
+                "zhuan3 zhang4"
+            ],
+            "comment": "[V-sep] "
+        },
+        {
+            "question": "縱火",
+            "answers": [
+                "ㄗㄨㄥˋ ㄏㄨㄛˇ",
+                "zong4 huo3"
+            ],
+            "comment": "[V-sep] to set on fire; to commit arson"
+        },
+        {
+            "question": "作證",
+            "answers": [
+                "ㄗㄨㄛˋ ㄓㄥˋ",
+                "zuo4 zheng4"
+            ],
+            "comment": "[V-sep] to bear witness; to testify"
+        },
+        {
+            "question": "坐牢",
+            "answers": [
+                "ㄗㄨㄛˋ ㄌㄠˊ",
+                "zuo4 lao2"
+            ],
+            "comment": "[V-sep] to be imprisoned"
+        }
+    ]
+}
