@@ -6,7 +6,7 @@ from discord.ext.commands import CommandNotFound, Context
 
 from lin_utils.auth import token
 from lin_utils.clientwide import GREEN, SAD, client
-from lin_utils.examples import example_search
+from lin_utils.examples.run import example_search
 from lin_utils.help import help_embed
 from lin_utils.quiz.leaderboard import (get_leaderboard_embed, join_taisho, leave_taisho,
                                         update_taisho_scorers)
