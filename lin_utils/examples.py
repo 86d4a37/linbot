@@ -1,13 +1,14 @@
 import re
 import time
+from asyncio import TimeoutError, wait_for
 from typing import Pattern
-from aiosqlite import connect, Connection
-from asyncio import wait_for, TimeoutError
+
+from aiosqlite import Connection, connect
 from discord import Embed
 from discord.ext.commands import Context
 from pkg_resources import resource_filename
 
-from lin_utils.clientwide import GREEN, RED, YELLOW, SAD
+from lin_utils.clientwide import GREEN, RED, SAD, YELLOW
 
 DB_PATH = resource_filename('resources.examples', 'examples_concat.db')
 
@@ -21,13 +22,13 @@ def compile_regex(pattern: str) -> Pattern:
     RE = re.compile(pattern, re.IGNORECASE | re.MULTILINE | re.UNICODE)
     return RE
 
-    'We will abide by their decision.\n我們願意遵從他們的決定。'
 
 async def select_sentences(db: Connection):
     async with db.execute(
             r'SELECT * FROM sentences WHERE RE(sentence) ORDER BY RANDOM() LIMIT 100') as c:
         results = await c.fetchall()
         return results
+
 
 async def example_search(ctx: Context, pattern: str) -> None:
     if pattern is None:
