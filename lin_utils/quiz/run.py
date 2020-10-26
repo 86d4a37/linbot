@@ -64,10 +64,6 @@ async def run_quiz(client: Bot, ctx: Context, deck_name: Union[str, None] = None
             title='List of quizzes',
             description=f'Type `{prefixes[0]}q [quiz name] [optional max score]` to play.\n'
         )
-        for _lang in sorted(deck_dict.keys()):
-            embed.add_field(name=f'{LANG_EMOJIS[_lang]} {LANG_NAMES[_lang]}',
-                            value=f'```\n{", ".join(sorted(deck_dict[_lang]))}```',
-                            inline=False)
         if ctx.channel.id in review:
             embed.add_field(
                 name=f':memo:  Review of {review[ctx.channel.id][0]} '
@@ -75,12 +71,16 @@ async def run_quiz(client: Bot, ctx: Context, deck_name: Union[str, None] = None
                      f'question{"s" * (len(review[ctx.channel.id][1]) != 1)})',
                 value='```review```',
                 inline=False)
+        for _lang in sorted(deck_dict.keys(), key=lambda x: LANG_NAMES[x]):
+            embed.add_field(name=f'{LANG_EMOJIS[_lang]} {LANG_NAMES[_lang]}',
+                            value=f'```\n{", ".join(sorted(deck_dict[_lang]))}```',
+                            inline=False)
         await ctx.send(embed=embed)
         return
     elif deck_name is None or deck_name not in deck_set:
         embed = discord.Embed(
             color=GREEN,
-            title='Information',
+            title='Quiz operation',
             description=f'Type `{prefixes[0]}q [quiz name] [optional max score]` to play.\n'
                         f'Type `{prefixes[0]}q list` to see the list of valid quizzes.')
         await ctx.send(embed=embed)
