@@ -123,7 +123,7 @@ def join_taisho(guild: discord.Guild, member: discord.Member) -> None:
         else:
             participant_guilds[guild_id].append(member_id)
     with open(TS_PATH, 'w') as f:
-        json.dump(participant_guilds, f)
+        json.dump(participant_guilds, f, indent=4)
 
 
 def leave_taisho(guild: discord.Guild, member: discord.Member) -> None:
@@ -138,4 +138,4 @@ def leave_taisho(guild: discord.Guild, member: discord.Member) -> None:
     else:
         participant_guilds[guild_id].remove(member_id)
     with open(TS_PATH, 'w') as f:
-        json.dump(participant_guilds, f)
+        json.dump(participant_guilds, f, indent=4)
