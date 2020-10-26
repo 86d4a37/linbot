@@ -6,6 +6,7 @@ from discord.ext.commands import CommandNotFound, Context
 
 from lin_utils.auth import token
 from lin_utils.clientwide import GREEN, SAD, client
+from lin_utils.examples import example_search
 from lin_utils.help import help_embed
 from lin_utils.quiz.leaderboard import (get_leaderboard_embed, join_taisho, leave_taisho,
                                         update_taisho_scorers)
@@ -24,6 +25,11 @@ async def on_command_error(ctx: Context, error: Exception):
 @client.command(aliases=['h'])
 async def help(ctx: Context) -> None:
     await ctx.send(embed=help_embed)
+
+
+@client.command()
+async def x(ctx: Context, *, txt: Union[str, None] = None) -> None:
+    await example_search(ctx=ctx, pattern=txt)
 
 
 @client.command()
@@ -63,7 +69,7 @@ async def q(ctx: Context, *, txt: Union[str, None]) -> None:
 
 @client.command()
 async def optin(ctx: Context, *, txt: Union[str, None]) -> None:
-    if txt is not None:
+    if txt is not None or ctx.guild is None:
         await ctx.message.add_reaction(SAD)
     else:
         join_taisho(ctx.guild, ctx.message.author)
@@ -73,7 +79,7 @@ async def optin(ctx: Context, *, txt: Union[str, None]) -> None:
 
 @client.command()
 async def optout(ctx: Context, *, txt: Union[str, None]) -> None:
-    if txt is not None:
+    if txt is not None or ctx.guild is None:
         await ctx.message.add_reaction(SAD)
     else:
         leave_taisho(ctx.guild, ctx.message.author)
