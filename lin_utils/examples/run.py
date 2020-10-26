@@ -1,6 +1,6 @@
 import re
 import time
-from typing import Any, List, Pattern, Union
+from typing import Any, List, Pattern
 
 from aiosqlite import Connection, connect
 from discord import Embed
